@@ -1,0 +1,4 @@
+{
+  "_extends": "controlledTerm.schema.json",
+  "_type": "https://openminds.ebrains.eu/controlledTerms/DatasetType"
+}
