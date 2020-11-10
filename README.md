@@ -3,10 +3,10 @@
 The openMINDS_controlledTerms repository is part of the open Metadata 
 Initiative for Neuroscience Data Structures (openMINDS). It contains the 
 schema templates as well as the corresponding terminologies (JSON-LDs) for all 
-terms that are defined and maintained via the EBRAINS Curation service 
-(EBRAINS terminology) and / or related ontologies.
+terms that are defined and maintained via the EBRAINS Curation service and / or 
+related ontologies.
 
-For more information on openMINDS please go to the main repository:  
+For more information on openMINDS in general, please go to the main repository:  
 https://github.com/HumanBrainProject/openMINDS
 
 ## v1.0 (schema-templates)
@@ -23,5 +23,5 @@ terms.
 ## v1.0-terminologies
 The controlled terminologies are stored as JSON-LDs, conceptually grouped 
 according to the corresponding schema-type. For simplicity the name of the 
-term defined in each JSON-LD is used as filename and as identifier (cf. 
+term defined in each JSON-LD is reused in the filename and identifier (cf. 
 [female.jsonld](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0-terminologies/biologicalSex/female.jsonld)).
