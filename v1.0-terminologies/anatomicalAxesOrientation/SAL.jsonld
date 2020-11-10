@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/SAL",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
+  "name": "SAL",
+  "definition": "X, Y, Z axes are oriented towards superior, anterior and left, respectively.",
+  "description": "",
+  "relatedOntology": "",
+}
+

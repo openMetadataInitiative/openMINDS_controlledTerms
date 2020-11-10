@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/LAI",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
+  "name": "LAI",
+  "definition": "X, Y, Z axes are oriented towards left, anterior and inferior, respectively.",
+  "description": "",
+  "relatedOntology": "",
+}
+

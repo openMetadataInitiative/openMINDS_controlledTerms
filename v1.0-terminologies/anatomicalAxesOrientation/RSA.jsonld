@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/RSA",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
+  "name": "RSA",
+  "definition": "X, Y, Z axes are oriented towards right, superior and anterior, respectively.",
+  "description": "",
+  "relatedOntology": "",
+}
+
