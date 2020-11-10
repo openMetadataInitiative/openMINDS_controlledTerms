@@ -1,0 +1,25 @@
+{
+  "description": "Schema to define controlled terms which can be linked to ontology terms.",
+  "required": [
+    "name"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "_instruction": "Controlled term originating from a defined terminology."
+    },
+    "definition": {
+	  "type": "string",
+	  "_instruction": "Enter one sentence for defining this term."
+	},
+    "description": {
+	  "type": "string",
+	  "_instruction": "Enter a short text describing this term."
+	},
+    "relatedOntology": {
+      "type": "string",
+      "_instruction": "Enter a identifier (IRI) to related ontological term.",
+      "format": "iri"
+    }
+  }
+}
