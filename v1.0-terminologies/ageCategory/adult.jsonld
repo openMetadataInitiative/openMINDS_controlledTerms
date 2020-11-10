@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/adult",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "name": "adult",
+  "definition": "",
+  "description": "",
+  "relatedOntology": "",
+}
+

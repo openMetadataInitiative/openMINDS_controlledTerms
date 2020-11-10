@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/juvenile",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "name": "juvenile",
+  "definition": "",
+  "description": "",
+  "relatedOntology": "",
+}
+

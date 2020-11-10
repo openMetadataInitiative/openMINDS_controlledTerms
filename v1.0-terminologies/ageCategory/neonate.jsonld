@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/neonate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "name": "neonate",
+  "definition": "",
+  "description": "",
+  "relatedOntology": "",
+}
+
