@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/anatomicalApproach",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
+  "name": "anatomical approach",
+  "definition": "",
+  "description": "",
+  "relatedOntology": "",
+}

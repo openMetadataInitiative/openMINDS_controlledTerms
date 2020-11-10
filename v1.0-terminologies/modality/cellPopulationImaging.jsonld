@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/cellPopulationImaging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
+  "name": "cell population imaging",
+  "definition": "",
+  "description": "",
+  "relatedOntology": "",
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/epigenomics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
+  "name": "epigenomics",
+  "definition": "",
+  "description": "",
+  "relatedOntology": "",
+}
