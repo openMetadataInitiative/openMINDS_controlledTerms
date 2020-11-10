@@ -6,7 +6,7 @@ schema templates as well as the corresponding terminologies (JSON-LDs) for all
 terms that are defined and maintained via the EBRAINS Curation service 
 (EBRAINS terminology) and / or related ontologies.
 
-For more information on openMINDS please go to the main repository:  
+For more information on openMINDS in general, please go to the main repository:  
 https://github.com/HumanBrainProject/openMINDS
 
 ## v1.0 (schema-templates)
