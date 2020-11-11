@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/fileBundleGrouping/behavioralTask",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "name": "behavioral task",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

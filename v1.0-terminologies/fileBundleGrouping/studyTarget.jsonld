@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/fileBundleGrouping/studyTarget",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "name": "study target",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

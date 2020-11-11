@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/fileBundleGrouping/technique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "name": "technique",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/fileBundleGrouping/subject",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "name": "subject",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
