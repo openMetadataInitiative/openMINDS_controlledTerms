@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/productAvailibility/restrictedAccess",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAvailibility",
   "name": "restricted access",
-  "definition": null,
+  "definition": "With 'restricted access' selected, metadata are released, but data remain on an access restricted server.",
   "description": null,
   "ontologyIdentifier": null
 }

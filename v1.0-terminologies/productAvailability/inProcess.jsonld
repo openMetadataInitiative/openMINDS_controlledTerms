@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/productAvailibility/inProcess",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAvailibility",
   "name": "in process",
-  "definition": null,
+  "definition": "With 'in process' selected, data and metadata remain unavailable for the public.",
   "description": null,
   "ontologyIdentifier": null
 }
