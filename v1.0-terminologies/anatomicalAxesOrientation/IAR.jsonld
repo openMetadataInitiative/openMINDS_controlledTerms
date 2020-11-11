@@ -4,6 +4,6 @@
   "name": "IAR",
   "definition": "X, Y, Z axes are oriented towards inferior, anterior and right, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

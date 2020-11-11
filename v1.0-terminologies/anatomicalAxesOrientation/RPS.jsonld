@@ -4,6 +4,6 @@
   "name": "RPS",
   "definition": "X, Y, Z axes are oriented towards right, posterior and superior, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

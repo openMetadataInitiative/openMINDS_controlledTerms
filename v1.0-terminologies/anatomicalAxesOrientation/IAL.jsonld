@@ -4,6 +4,6 @@
   "name": "IAL",
   "definition": "X, Y, Z axes are oriented towards inferior, anterior and left, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

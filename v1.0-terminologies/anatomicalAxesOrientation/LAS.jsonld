@@ -4,6 +4,6 @@
   "name": "LAS",
   "definition": "X, Y, Z axes are oriented towards left, anterior and superior, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

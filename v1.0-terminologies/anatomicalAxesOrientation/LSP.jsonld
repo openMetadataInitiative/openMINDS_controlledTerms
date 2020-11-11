@@ -4,6 +4,6 @@
   "name": "LSP",
   "definition": "X, Y, Z axes are oriented towards left, superior and posterior, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

@@ -4,6 +4,6 @@
   "name": "PLI",
   "definition": "X, Y, Z axes are oriented towards posterior, left and inferior, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

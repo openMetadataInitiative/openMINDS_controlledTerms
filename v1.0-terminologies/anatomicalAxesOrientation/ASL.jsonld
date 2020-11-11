@@ -4,6 +4,6 @@
   "name": "ASL",
   "definition": "X, Y, Z axes are oriented towards anterior, superior and left, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

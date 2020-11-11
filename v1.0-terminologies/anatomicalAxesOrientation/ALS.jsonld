@@ -4,6 +4,6 @@
   "name": "ALS",
   "definition": "X, Y, Z axes are oriented towards anterior, left and superior, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

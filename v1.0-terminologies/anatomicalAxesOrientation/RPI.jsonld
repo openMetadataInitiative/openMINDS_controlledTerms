@@ -4,6 +4,6 @@
   "name": "RPI",
   "definition": "X, Y, Z axes are oriented towards right, posterior and inferior, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

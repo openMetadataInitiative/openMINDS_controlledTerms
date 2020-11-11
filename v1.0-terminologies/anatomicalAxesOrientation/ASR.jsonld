@@ -4,6 +4,6 @@
   "name": "ASR",
   "definition": "X, Y, Z axes are oriented towards anterior, superior and right, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

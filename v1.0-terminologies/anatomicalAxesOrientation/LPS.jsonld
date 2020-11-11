@@ -4,6 +4,6 @@
   "name": "LPS",
   "definition": "X, Y, Z axes are oriented towards left, posterior and superior, respectively.",
   "description": "",
-  "relatedOntology": "",
+  "ontologyIdentifier": "",
 }
 

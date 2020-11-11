@@ -16,7 +16,7 @@
 	  "type": "string",
 	  "_instruction": "Enter a short text describing this term."
 	},
-    "relatedOntology": {
+    "ontologyIdentifier": {
       "type": "string",
       "_instruction": "Enter a identifier (IRI) to related ontological term.",
       "format": "iri"
