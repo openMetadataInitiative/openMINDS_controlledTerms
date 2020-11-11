@@ -3,7 +3,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
   "name": "IAR",
   "definition": "X, Y, Z axes are oriented towards inferior, anterior and right, respectively.",
-  "description": "",
-  "ontologyIdentifier": "",
+  "description": null,
+  "ontologyIdentifier": null
 }
 

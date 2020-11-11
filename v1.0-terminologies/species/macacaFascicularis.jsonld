@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/species/macacaFascicularis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
   "name": "Macaca fascicularis",
-  "definition": "The species *Macaca fascicularis* (crab-eating macaque) 
-  belongs to the family of *cercopithecidae* (old world monkeys).",
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9541",
+  "definition": "The species *Macaca fascicularis* (crab-eating macaque) belongs to the family of *cercopithecidae* (old world monkeys).",
+  "description": null,
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9541"
 }

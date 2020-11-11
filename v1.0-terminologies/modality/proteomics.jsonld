@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/modality/proteomics",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
   "name": "proteomics",
-  "definition": "",
-  "description": "",
-  "ontologyIdentifier": "",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
 }

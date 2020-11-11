@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/productAvailibility/controlledAccess",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAvailibility",
+  "name": "controlled access",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/productAvailibility/restrictedAccess",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAvailibility",
+  "name": "restricted access",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
