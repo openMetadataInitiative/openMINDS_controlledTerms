@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/datasetType/simulatedData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DatasetType",
+  "name": "simulated data",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
