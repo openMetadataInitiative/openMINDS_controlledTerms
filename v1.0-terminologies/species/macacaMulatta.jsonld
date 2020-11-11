@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/species/macacaMulatta",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "name": "Macaca mulatta",
+  "definition": "The species *Macaca mulatta* (rhesus macaque) belongs to the 
+  family of *cercopithecidae* (old world monkeys).",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9544",
+}

@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/species/homoSapiens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "name": "Homo sapiens",
+  "definition": "The species *Homo sapiens* (humans) belongs to the family of 
+  *hominidae* (great apes).",
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+}
