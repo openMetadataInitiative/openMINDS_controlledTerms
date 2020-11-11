@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/laterality/right",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Laterality",
+  "name": "right",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
