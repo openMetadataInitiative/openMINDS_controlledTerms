@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/ethicsAssessment/notRequired",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
+  "name": "not required",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

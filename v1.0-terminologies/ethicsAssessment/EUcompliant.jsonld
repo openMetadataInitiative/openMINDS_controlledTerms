@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/ethicsAssessment/EUcompliant",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
+  "name": "EU compliant",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
