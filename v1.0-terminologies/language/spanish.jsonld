@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/language/spanish",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
+  "name": "Spanish",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

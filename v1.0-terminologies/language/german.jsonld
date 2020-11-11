@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/language/german",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
+  "name": "German",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

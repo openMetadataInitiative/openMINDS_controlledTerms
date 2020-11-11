@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/language/french",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
+  "name": "French",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
