@@ -27,5 +27,12 @@ according to the corresponding schema-type. For simplicity the name of the
 term defined in each JSON-LD is reused in the filename and identifier (cf. 
 [female.jsonld](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0-terminologies/biologicalSex/female.jsonld)).
 
+## How to contribute
+When contributing to this repository, please first discuss the change you wish to make via issue before making a change. 
+
+For providing feedback or for change requests to specific schema-templates or terminologies please name the corresponding file name in the issue title and describe your concern / request in a comment.
+
+You can also contribute directly by making a Pull Request (PR). Please name at least one member of the openMINDS development team to review your PR. To facilitate the review process describe shortly the purpose of your PR and what is affected by it. If your PR is accepted it will be merged by the assigned reviewer.
+
 ## License
 This work is licensed under the MIT License.
