@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingDevice/mobile",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
+  "name": "mobile",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

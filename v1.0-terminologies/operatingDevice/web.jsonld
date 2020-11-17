@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingDevice/web",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
+  "name": "web",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

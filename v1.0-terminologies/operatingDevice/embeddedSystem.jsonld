@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingDevice/embeddedSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
+  "name": "embedded system",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
