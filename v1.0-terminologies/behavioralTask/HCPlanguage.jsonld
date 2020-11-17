@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/behavioralTask/HCPlanguage",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BehavioralTask",
+  "name": "HCP language",
+  "definition": "The HCP language is a language processing task paradigm included in the Human Connectome Project.",
+  "description": "The HCP language task was developed by Binder and colleagues (Binder et al. 2011) and uses the E-prime scripts provided by these investigators. The task consists of two runs that each interleave 4 blocks of a story task and 4 blocks of a math task. The lengths of the blocks vary (average of approximately 30 seconds), but the task was designed so that the math task blocks match the length of the story task blocks, with some additional math trials at the end of the task to complete the 3.8 minute run as needed. The story blocks present participants with brief auditory stories (5-9 sentences) adapted from Aesop’s fables, followed by a 2-alternative forced-choice question that asks participants about the topic of the story. The example provided in the original Binder paper (p. 1466) is “For example, after a story about an eagle that saves a man who had done him a favor, participants were asked, “Was that about revenge or reciprocity?” The math task also presents trials auditorially and requires subjects to complete addition and subtraction problems. The trials present subjects with a series of arithmetic operations (e.g., “fourteen plus twelve”), followed by “equals” and then two choices (e.g., “twenty-nine or twenty-six”). Participants push a button to select either the first or the second answer. The math task is adaptive to try to maintain a similar level of difficulty across participants. For more details on the task, please see (Binder et al. 2011).",
+  "ontologyIdentifier": null
+}
+
