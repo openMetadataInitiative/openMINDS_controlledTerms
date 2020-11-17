@@ -10,12 +10,12 @@ For more information on openMINDS in general, please go to the main repository:
 https://github.com/HumanBrainProject/openMINDS
 
 ## v1.0 (schema-templates)
-Except for the schema-type (`_type`), the schema-template is identical across 
-all controlled terms (cf. 
+Except for the schema-template-property (`"_type"`), the schema-template is identical across 
+all controlled terms (cf. the "abstract" schema-template used for all controlled terms:
 [controlledTerm.schema.tpl.json](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0/controlledTerm.schema.tpl.json)).
 
-The schema-type is unique for each terminology it controlles and extends the 
-generic controlledTerm.schema.tpl.json (cf., e.g., 
+The schema-template-property `"_type"` is unique for each terminology it controlles and extends the 
+generic controlledTerm.schema.tpl.json (cf., e.g., `"_type": "https://openminds.ebrains.eu/controlledTerms/BiologicalSex"` in
 [biologicalSex.schema.tpl.json](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0/biologicalSex.schema.tpl.json)). 
 This differentiation facilitates the identification of conceptually related 
 terms.
