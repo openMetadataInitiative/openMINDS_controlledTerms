@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/statisticalModel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "statistical model",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

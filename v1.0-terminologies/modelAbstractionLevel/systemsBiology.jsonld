@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/systemsBiology",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "systems biology",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

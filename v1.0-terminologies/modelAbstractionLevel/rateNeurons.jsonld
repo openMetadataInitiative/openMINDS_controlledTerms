@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/rateNeurons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "rate neurons",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

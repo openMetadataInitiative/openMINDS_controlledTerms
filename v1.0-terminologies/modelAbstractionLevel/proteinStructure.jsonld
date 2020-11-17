@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/proteinStructure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "protein structure",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

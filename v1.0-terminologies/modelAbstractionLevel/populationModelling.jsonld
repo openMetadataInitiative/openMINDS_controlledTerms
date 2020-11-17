@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modelAbstractionLevel/populationModelling",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "name": "population modelling",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
