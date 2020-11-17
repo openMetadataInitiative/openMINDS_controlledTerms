@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/fileUsageRole/preview",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
+  "name": "preview",
+  "definition": "A preview is a representative image or short movie used to peak interest for a product.",
+  "description": null,
+  "ontologyIdentifier": null
+}
+
