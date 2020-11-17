@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/repositoryHost/CSCS",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/RepositoryHost",
+  "name": "CSCS",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
