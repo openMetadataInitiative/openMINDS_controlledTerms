@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/studyTargetType/disease",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StudyTargetType",
+  "name": "disease",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
