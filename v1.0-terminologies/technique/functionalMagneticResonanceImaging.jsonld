@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/functionalMagneticResonanceImaging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "name": "functional magnetic resonance imaging",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

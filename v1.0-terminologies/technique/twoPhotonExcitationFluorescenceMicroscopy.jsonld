@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/twoPhotonExcitationFluorescenceMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "name": "two-photon excitation fluorescence microscopy",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
