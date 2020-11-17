@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/contributionType/dataManagment",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "name": "data managment",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
