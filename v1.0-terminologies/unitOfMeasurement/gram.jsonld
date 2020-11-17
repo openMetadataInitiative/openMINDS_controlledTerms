@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/gram",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "gram",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

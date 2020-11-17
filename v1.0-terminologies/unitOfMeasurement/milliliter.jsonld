@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/milliliter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "milliliter",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/millimeter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "millimeter",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/centimeter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "centimeter",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

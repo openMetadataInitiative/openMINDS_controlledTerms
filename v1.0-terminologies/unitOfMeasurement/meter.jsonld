@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/unitOfMeasurement/meter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "name": "meter",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
