@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/genotype/Fmr1KO",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Genotype",
+  "name": "Fmr1 KO",
+  "definition": "The Fmr1 KO (knockout) is a mouse genotype.",
+  "description": null,
+  "ontologyIdentifier": null
+}
+

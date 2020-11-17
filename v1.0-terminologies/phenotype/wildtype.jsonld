@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/phenotype/wildtype",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Phenotype",
+  "name": "wildtype",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
