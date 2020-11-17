@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/library",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
+  "name": "library",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

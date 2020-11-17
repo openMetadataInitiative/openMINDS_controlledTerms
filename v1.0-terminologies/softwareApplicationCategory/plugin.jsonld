@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/plugin",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
+  "name": "plugin",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
