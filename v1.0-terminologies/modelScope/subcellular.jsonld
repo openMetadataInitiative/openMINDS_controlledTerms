@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modelScope/subcellular",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
+  "name": "subcellular",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

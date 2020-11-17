@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/modelScope/network",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
+  "name": "network",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
