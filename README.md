@@ -25,3 +25,6 @@ The controlled terminologies are stored as JSON-LDs, conceptually grouped
 according to the corresponding schema-type. For simplicity the name of the 
 term defined in each JSON-LD is reused in the filename and identifier (cf. 
 [female.jsonld](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0-terminologies/biologicalSex/female.jsonld)).
+
+## License
+This work is licensed under the MIT License.
