@@ -10,6 +10,8 @@ For more information on openMINDS in general and the processing pipelines for th
 https://github.com/HumanBrainProject/openMINDS
 
 ## v1.0 (schema-templates)
+The controlledTerms schemas are JSON-schema inspired schema-templates with a few custom template-properties (prefixed with `"_"`) which allow us to simplify their readability and increase their reusability.
+
 Except for the schema-template-property (`"_type"`), the schema-template is identical across 
 all controlled terms (cf. the "abstract" schema-template used for all controlled terms:
 [controlledTerm.schema.tpl.json](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0/controlledTerm.schema.tpl.json)).
