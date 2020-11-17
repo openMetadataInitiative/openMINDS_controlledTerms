@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/tissueSampleType/biopsySample",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
+  "name": "biopsy sample",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
