@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/studyTargetType/gene",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StudyTargetType",
-  "name": "gene",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

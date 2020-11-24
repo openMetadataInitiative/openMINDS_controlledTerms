@@ -17,9 +17,9 @@
 	  "_instruction": "Enter a short text describing this term."
 	},
     "ontologyIdentifier": {
+      "format": "iri",
       "type": "string",
-      "_instruction": "Enter a identifier (IRI) to related ontological term.",
-      "format": "iri"
+      "_instruction": "Enter a identifier (IRI) to related ontological term."
     }
   }
 }

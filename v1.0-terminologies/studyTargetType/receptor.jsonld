@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/studyTargetType/receptor",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StudyTargetType",
-  "name": "receptor",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

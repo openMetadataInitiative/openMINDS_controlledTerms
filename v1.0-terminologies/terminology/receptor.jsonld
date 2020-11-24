@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/receptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "name": "receptor",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

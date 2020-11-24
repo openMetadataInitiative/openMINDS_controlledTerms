@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/studyTargetType/neuronalSignal",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StudyTargetType",
-  "name": "neuronal signal",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

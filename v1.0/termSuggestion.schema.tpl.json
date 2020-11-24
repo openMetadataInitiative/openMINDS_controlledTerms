@@ -1,0 +1,15 @@
+{
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_type": "https://openminds.ebrains.eu/controlledTerms/TermSuggestion"
+  "required": [
+    "relatedTerminology"
+  ],
+  "properties": {
+    "relatedTerminology": {
+      "_instruction": "Add the terminology in which the suggested term should be integrated in.",
+      "_linkedTypes": [
+        "https://openminds.ebrains.eu/controlledTerms/Terminology"
+      ]
+    }
+  }
+}

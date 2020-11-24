@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/studyTargetType/neuron",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StudyTargetType",
-  "name": "neuron",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-
