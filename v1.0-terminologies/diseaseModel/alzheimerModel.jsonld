@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/alzheimerModel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "name": "Model of Alzheimer's disease",
+  "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Alzheimer's disease.",
+  "description": "Alzheimer's disease is a tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid. OntologyIdentifier of the disease: http://purl.obolibrary.org/obo/DOID_10652. An Alzheimer's disease model is e.g. the APPPS1 mouse model or the double-transgenic mouse line Tg(ArcSwe) (Arctic (E693G) and Swedish (KM670/6701NL) amyloid-b precursor protein (AβPP)), which develop amyloid-beta (Aβ) deposits in the brain that resemble Alzheimer’s disease neuropathology.",
+  "ontologyIdentifier": null
+}
