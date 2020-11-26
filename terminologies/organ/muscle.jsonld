@@ -1,0 +1,9 @@
+
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/organ/muscle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Organ",
+  "name": "muscle",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001630"
+}
