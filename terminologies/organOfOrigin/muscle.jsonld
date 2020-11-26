@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/organOfOrigin/muscle",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganOfOrigin",
-  "name": "muscle",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001630"
-}
-
