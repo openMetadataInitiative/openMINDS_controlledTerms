@@ -18,7 +18,7 @@
     "ontologyIdentifier": {
       "type": "string",
       "format": "iri",
-      "_instruction": "Enter a identifier (IRI) to related ontological term."
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the related ontological term."
     }
   }
 }
