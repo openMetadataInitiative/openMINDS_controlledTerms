@@ -1,6 +1,6 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/productAvailibility/freeAccess",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAvailibility",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/productAccessibility/freeAccess",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
   "name": "free access",
   "definition": "With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.",
   "description": null,

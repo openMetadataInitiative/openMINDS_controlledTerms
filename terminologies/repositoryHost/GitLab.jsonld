@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/repositoryHost/GitLab",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/RepositoryHost",
-  "name": "GitLab",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

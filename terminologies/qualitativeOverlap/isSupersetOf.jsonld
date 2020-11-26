@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/qualitativeOverlap/isSupersetOf",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap",
+  "name": "is superset of",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

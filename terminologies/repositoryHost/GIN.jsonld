@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/repositoryHost/GIN",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/RepositoryHost",
-  "name": "GIN",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

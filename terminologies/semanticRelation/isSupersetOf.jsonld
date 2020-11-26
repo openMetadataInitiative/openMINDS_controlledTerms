@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/semanticRelation/isSupersetOf",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/SemanticRelation",
-  "name": "is superset of",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

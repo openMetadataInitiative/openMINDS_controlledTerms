@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/qualitativeOverlap/isIdenticalTo",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap",
+  "name": "is identical to",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

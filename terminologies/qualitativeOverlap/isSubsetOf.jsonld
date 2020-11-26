@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/qualitativeOverlap/isSubsetOf",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap",
+  "name": "is subset of",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+
