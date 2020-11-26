@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/pathology/healthy",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Pathology",
-  "name": "healthy",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-
