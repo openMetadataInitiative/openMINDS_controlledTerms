@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/TDEClearningTechnique",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"TDE clearning technique",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

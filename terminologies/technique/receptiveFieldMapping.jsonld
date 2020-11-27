@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/receptiveFieldMapping",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"receptive field mapping",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

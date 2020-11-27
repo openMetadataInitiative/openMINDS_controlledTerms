@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/semanticAnchoring",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"semantic anchoring",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

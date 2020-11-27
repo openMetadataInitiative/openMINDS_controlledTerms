@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/NisslStaining",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"Nissl staining",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

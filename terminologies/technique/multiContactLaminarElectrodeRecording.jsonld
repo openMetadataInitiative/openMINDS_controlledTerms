@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/multiContactLaminarElectrodeRecording",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"multi-contact laminar electrode recording",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/voltageClamp",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"voltage clamp",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

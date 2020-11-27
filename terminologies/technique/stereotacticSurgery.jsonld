@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/stereotacticSurgery",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"stereotactic surgery",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

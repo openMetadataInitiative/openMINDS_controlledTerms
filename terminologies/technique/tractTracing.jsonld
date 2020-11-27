@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/tractTracing",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"tract tracing",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}

@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/wholeCellPatchClampRecording",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"whole-cell patch clamp recording",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}
