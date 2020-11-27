@@ -1,7 +1,7 @@
 {
- "@id":"https://openminds.ebrains.eu/controlledTerms/technique/extracellularElectrophysiology",
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/cellAttachedPatchClampRecording",
  "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
- "name":"extracellular electrophysiology",
+ "name":"cell-attached patch clamp recording",
  "definition": null,
  "description": null,
  "ontologyIdentifier": null

@@ -1,7 +1,7 @@
 {
- "@id":"https://openminds.ebrains.eu/controlledTerms/technique/extracellularElectrophysiology",
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/geneKnockIn",
  "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
- "name":"extracellular electrophysiology",
+ "name":"gene knock-in",
  "definition": null,
  "description": null,
  "ontologyIdentifier": null

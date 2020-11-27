@@ -1,7 +1,7 @@
 {
- "@id":"https://openminds.ebrains.eu/controlledTerms/technique/extracellularElectrophysiology",
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/anatomicalSegmentationTechnique",
  "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
- "name":"extracellular electrophysiology",
+ "name":"anatomical segmentation technique",
  "definition": null,
  "description": null,
  "ontologyIdentifier": null

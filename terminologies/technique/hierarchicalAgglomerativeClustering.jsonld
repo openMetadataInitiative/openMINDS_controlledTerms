@@ -1,0 +1,8 @@
+{
+ "@id":"https://openminds.ebrains.eu/controlledTerms/technique/hierarchicalAgglomerativeClustering",
+ "@type":"https://openminds.ebrains.eu/controlledTerms/Technique",
+ "name":"hierarchical agglomerative clustering",
+ "definition": null,
+ "description": null,
+ "ontologyIdentifier": null
+}
