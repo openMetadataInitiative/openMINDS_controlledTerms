@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/metaDataModelType/metadataModelGraphDatabases",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/metaDataModelType/graphDatabaseModel",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MetaDataModelType",
-  "name": "metadata model for graph databases",
+  "name": "graph database model",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
