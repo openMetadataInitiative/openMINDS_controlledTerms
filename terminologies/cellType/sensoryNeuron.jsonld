@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/sensoryNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "name": "sensory neuron",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
