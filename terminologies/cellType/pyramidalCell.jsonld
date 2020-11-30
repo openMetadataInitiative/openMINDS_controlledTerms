@@ -1,4 +1,4 @@
-  {
+{
   "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/pyramidalCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "name": "pyramidal cell",
