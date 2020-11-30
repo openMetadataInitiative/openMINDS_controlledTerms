@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/striatalInterneuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "name": "striatal interneuron",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
