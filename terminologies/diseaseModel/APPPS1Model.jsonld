@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/APPPS1Model",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
-  "name": "APP/PS1 mouse model",
-  "definition": "The APP/PS1 mouse model is a trangenic mouse line typically used to study Alzheimer's disease, amyloid plaque formation and aging.",
-  "description": "The transgenic mouse line has mutations for the amyloid precursor protein (APP) and presenilin 1 (PSEN1)(e.g. a chimeric mouse/human amyloid precursor protein (Mo/HuAPP695swe) and a mutant human presenilin 1 (PS1-dE9), respectively). They are used as disease model for Alzheimer's disease, but also generally for amyloid plaque formation and aging.",
-  "ontologyIdentifier": null
-}
