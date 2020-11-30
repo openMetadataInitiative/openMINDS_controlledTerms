@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/autismSpectrumDisorder",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "name": "autism sprectrum disorder",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/DOID_0060041"
+}
