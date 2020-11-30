@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/preparationType/inVivo",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "name": "in vivo",
-  "definition": "Indicates that a feature was described in intact tissue.",
+  "definition": null,
   "description": null,
-  "ontologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao897115057"
+  "ontologyIdentifier": null
 }
