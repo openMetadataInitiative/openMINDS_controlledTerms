@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/preparationType/inVitro",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "name": "in vitro",
-  "definition": null,
+  "definition": "Something happening outside the body in artificial conditions, often in a test tube.",
   "description": null,
   "ontologyIdentifier": null
 }
