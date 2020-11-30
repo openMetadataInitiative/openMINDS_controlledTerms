@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/strain/spragueDawley",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "name": "Sprague Dawley",
+  "definition": "Sprague Dawley is an outbred breed of albino rat.",
+  "description": null,
+  "ontologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_214"
+}
