@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/preparationType/inSilico",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "name": "in silico",
-  "definition": null,
+  "definition": "Conducted or produced by means of computer modelling or simulation.",
   "description": null,
   "ontologyIdentifier": null
 }
