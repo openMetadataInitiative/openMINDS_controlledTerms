@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/strain/BALB_c.jsonld",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
   "name": "BALB/c",
-  "definition": "One of the most widely used inbred mouse strains, short for Bagg’s albino.",
+  "definition": "BALB/c is an inbred breed of albino mouse, short for Bagg’s albino.",
   "description": null,
   "ontologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_206"
 }
