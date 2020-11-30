@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/strain/wistar",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
   "name": "Wistar",
-  "definition": "One of the most widely used outbred rat stock.",
+  "definition": "Wistar is an outbred breed of albino rat.",
   "description": null,
   "ontologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_320"
 }
