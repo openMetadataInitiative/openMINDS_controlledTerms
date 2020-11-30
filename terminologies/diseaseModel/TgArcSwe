@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/TgArcSwe",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
-  "name": "tg-ArcSwe mouse model",
-  "definition": "The tg-ArcSwe mouse model is a trangenic mouse line typically used to study Alzheimer's disease, amyloid plaque formation and aging.",
-  "description": "The double-transgenic mouse line carries both the Arctic and Swedish mutation in the amyloid precursor protein (APP). They are used as disease model for Alzheimer's disease, but also generally for amyloid plaque formation and aging.",
-  "ontologyIdentifier": null
-}
