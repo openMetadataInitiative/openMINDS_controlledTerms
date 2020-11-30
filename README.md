@@ -8,7 +8,7 @@ related ontologies.
 
 For more information on openMINDS in general please go to the main repository: https://github.com/HumanBrainProject/openMINDS
 
-## v1.0 (schema-templates)
+## schemas
 The controlledTerms v1.0 schemas are JSON-schema inspired schema-templates with a few custom template-properties (prefixed with `"_"`) which allow us to simplify their readability and increase their reusability.
 
 Except for the schema-template-property (`"_type"`), the schema-template is identical across 
@@ -21,7 +21,7 @@ generic controlledTerm.schema.tpl.json (cf., e.g., `"_type": "https://openminds.
 This differentiation facilitates the identification of conceptually related 
 terms (cf. v1.0-terminologies).
 
-## v1.0-terminologies
+## terminologies
 The controlled terminologies are stored as JSON-LDs, conceptually grouped 
 according to the corresponding schema-type. For simplicity the name of the 
 term defined in each JSON-LD is reused in the filename and identifier (cf. 
