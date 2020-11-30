@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/strain/C57BL_6N",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "name": "C57BL/6N",
+  "definition": "One of the most widely used inbred mouse strains coming from the National Institutes of Health.",
+  "description": null,
+  "ontologyIdentifier": null
+}
