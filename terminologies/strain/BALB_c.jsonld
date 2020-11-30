@@ -4,5 +4,5 @@
   "name": "BALB/c",
   "definition": "One of the most widely used inbred mouse strains, short for Bagg’s albino.",
   "description": null,
-  "ontologyIdentifier": "	http://uri.neuinfo.org/nif/nifstd/birnlex_206"
+  "ontologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_206"
 }
