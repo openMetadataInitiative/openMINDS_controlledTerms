@@ -2,7 +2,7 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/preparationType/inVivo",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "name": "in vivo",
-  "definition": null,
+  "definition": "Something happening or existing inside a living body.",
   "description": null,
   "ontologyIdentifier": null
 }
