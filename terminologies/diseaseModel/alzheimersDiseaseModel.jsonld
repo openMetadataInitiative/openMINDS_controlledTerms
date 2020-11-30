@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/alzheimerModel",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/alzheimersDiseaseModel",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
   "name": "Model of Alzheimer's disease",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Alzheimer's disease.",
