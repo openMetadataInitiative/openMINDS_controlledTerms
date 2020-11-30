@@ -3,6 +3,6 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
   "name": "Model of Alzheimer's disease",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Alzheimer's disease.",
-  "description": "An animal or cell type model for Alzheimer’s disease display all or some pathological processes that are observed in the actual disease in humans or animals. Such processes could be the presence of neurofibrillary tangles or amyloid-beta plaques.",
+  "description": "An animal or cell type model for Alzheimer’s disease display all or some pathological processes that are observed in the actual disease in humans or animals, such as the formation of neurofibrillary tangles or amyloid-beta plaques.",
   "ontologyIdentifier": null
 }
