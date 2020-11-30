@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/fragileXmodel",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/fragileXsyndromeModel",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
   "name": "Model of fragile X syndrome",
   "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal fragile X syndrome.",
