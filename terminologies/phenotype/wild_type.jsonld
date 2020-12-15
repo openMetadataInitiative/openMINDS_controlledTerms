@@ -1,5 +1,5 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/phenotype/wild_type",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/phenotype/wildType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Phenotype",
   "name": "wild type",
   "definition": null,
