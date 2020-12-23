@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeatureCategory/development",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory",
+  "name": "development",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q638608"
+}

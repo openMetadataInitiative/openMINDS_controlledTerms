@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/parallelProgramming",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "name": "parallelProgramming",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q232661"
+}

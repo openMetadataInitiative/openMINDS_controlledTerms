@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/desktopEnvironment",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "name": "desktopEnvironment",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q56155"
+}

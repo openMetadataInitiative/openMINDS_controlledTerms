@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/vectorImageDataTypes",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "name": "vectorImageDataTypes",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q170130"
+}
