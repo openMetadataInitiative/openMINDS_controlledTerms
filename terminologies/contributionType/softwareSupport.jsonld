@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/contributionType/support",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/contributionType/softwareSupport",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
-  "name": "support",
+  "name": "softwareSupport",
   "definition": null,
   "description": "Contributing by providing support to users of the product.",
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q366580"
