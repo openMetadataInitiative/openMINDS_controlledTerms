@@ -1,3 +1,7 @@
+<a href="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/openMINDS_terms_logo.png">
+    <img src="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/openMINDS_terms_logo.png" alt="openMINDS controlledTerms logo" title="openMINDS controlledTerms" align="right" height="70" />
+</a>
+
 # openMINDS_controlledTerms
 
 The openMINDS_controlledTerms repository is part of the **open** **M**etadata **I**nitiative for **N**euroscience **D**ata **S**tructures (openMINDS). It contains the schema-templates as well as corresponding terminologies (as JSON-LDs) for all terms that are defined and maintained centrally in this repository. Where applicable, the defined terms are connected to a matching ontological term. Schemas of openMINDS_core as well as openMINDS_SANDS reference to these controlled terms.
@@ -25,3 +29,5 @@ Please check our [contribution document](./CONTRIBUTING.md).
 
 ## License
 This work is licensed under the MIT License.
+
+**Logo:** The openMINDS logo was created by U. Schlegel, based on an original sketch by C. Hagen Blixhavn and feedback by L. Zehl.
