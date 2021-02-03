@@ -2,7 +2,7 @@
   "_type": "https://openminds.ebrains.eu/controlledTerms/TermSuggestion",
   "_extends": "controlledTerm.schema.tpl.json",
   "required": [
-    "relatedTerminology"
+    "terminology"
   ],
   "properties": {
     "terminology": {
