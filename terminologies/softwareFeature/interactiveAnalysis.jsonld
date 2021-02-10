@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/interactiveAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "interactiveAnalysis",
+  "name": "Interactive Analysis",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
 }
+

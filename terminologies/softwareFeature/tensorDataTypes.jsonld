@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/tensorDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "tensorDataTypes",
+  "name": "Tensor Data Types",
   "definition": null,
   "description": null,
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q188524"
 }
+

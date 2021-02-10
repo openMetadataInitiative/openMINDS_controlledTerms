@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/module",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
-  "name": "module",
+  "name": "Module",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

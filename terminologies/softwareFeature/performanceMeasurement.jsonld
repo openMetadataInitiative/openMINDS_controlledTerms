@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/performanceMeasurement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "performanceMeasurement",
+  "name": "Performance Measurement",
   "definition": null,
   "description": null,
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q1771949"
 }
+

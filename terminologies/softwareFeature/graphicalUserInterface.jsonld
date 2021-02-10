@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/graphicalUserInterface",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "graphicalUserInterface",
+  "name": "Graphical User Interface",
   "definition": null,
   "description": null,
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q782543"
 }
+

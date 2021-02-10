@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/dataProcessing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "dataProcessing",
+  "name": "Data Processing",
   "definition": null,
   "description": null,
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q6661985"
 }
+

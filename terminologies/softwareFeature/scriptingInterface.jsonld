@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/scriptingInterface",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "scriptingInterface",
+  "name": "Scripting Interface",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
 }
+

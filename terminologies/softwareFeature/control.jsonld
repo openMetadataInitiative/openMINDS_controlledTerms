@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/control",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "control",
+  "name": "Control",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q29017603"
 }
+

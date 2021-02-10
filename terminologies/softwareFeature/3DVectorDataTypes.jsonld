@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/3DVectorDataTypes",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "3DVectorDataTypes",
+  "name": "3D Vector Data Types",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
 }
+

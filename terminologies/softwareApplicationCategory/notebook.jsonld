@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/notebook",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
-  "name": "notebook",
+  "name": "Notebook",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

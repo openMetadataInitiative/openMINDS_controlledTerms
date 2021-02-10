@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/presentationVisualisation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "presentationVisualisation",
+  "name": "Presentation Visualisation",
   "definition": null,
   "description": null,
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q451553"
 }
+

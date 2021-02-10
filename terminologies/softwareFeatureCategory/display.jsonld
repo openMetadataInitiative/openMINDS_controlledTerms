@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeatureCategory/display",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory",
-  "name": "display",
+  "name": "Display",
   "definition": null,
   "description": null,
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q327065"
 }
+

@@ -1,8 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/dataAcquisition",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
-  "name": "dataAcquisition",
+  "name": "Data Acquisition",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
 }
+
