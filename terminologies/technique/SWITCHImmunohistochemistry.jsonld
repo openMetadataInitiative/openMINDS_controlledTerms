@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/SWITCHImmunohistochemistry",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "name": "SWITCH immunohistochemistry",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
