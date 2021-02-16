@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/technique/highDensityElectroencephalography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "high density electroencephalography",
+  "name": "high-density electroencephalography",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

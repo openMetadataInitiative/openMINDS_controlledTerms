@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/technique/interSubjectAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "inter subject analysis",
+  "name": "inter-subject analysis",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

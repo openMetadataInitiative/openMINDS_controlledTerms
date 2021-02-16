@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/technique/intraSubjectAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "intra subject analysis",
+  "name": "intra-subject analysis",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

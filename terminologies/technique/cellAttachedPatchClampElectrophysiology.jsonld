@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/technique/cellAttachedPatchClampElectrophysiology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "cell attached patch clamp electrophysiology",
+  "name": "cell-attached patch clamp electrophysiology",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
