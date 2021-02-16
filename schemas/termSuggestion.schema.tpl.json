@@ -3,7 +3,7 @@
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "studyTarget"
-  ]
+  ],
   "required": [
     "relatedTerminology"
   ],
