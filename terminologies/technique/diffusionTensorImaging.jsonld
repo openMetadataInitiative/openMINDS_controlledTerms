@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/extracellularElectrophysiology",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/diffusionTensorImaging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "extracellular electrophysiology",
+  "name": "diffusion tensor imaging",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

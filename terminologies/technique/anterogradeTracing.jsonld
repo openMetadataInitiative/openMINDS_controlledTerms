@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/extracellularElectrophysiology",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/anterogradeTracing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "extracellular electrophysiology",
+  "name": "anterograde tracing",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

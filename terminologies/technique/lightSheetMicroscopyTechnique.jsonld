@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/extracellularElectrophysiology",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/lightSheetMicroscopyTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "extracellular electrophysiology",
+  "name": "light sheet microscopy technique",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

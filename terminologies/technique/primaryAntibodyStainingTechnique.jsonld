@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/extracellularElectrophysiology",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/primaryAntibodyStainingTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "extracellular electrophysiology",
+  "name": "primary antibody staining technique",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
