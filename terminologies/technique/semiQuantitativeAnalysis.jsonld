@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/technique/semiQuantitativeAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "semi quantitative analysis",
+  "name": "semi-quantitative analysis",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
