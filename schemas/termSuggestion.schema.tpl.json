@@ -5,7 +5,7 @@
     "studyTarget"
   ],
   "required": [
-    "relatedTerminology"
+    "terminology"
   ],
   "properties": {
     "terminology": {
