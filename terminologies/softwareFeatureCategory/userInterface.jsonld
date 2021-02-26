@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeatureCategory/userInterface",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory",
-  "name": "User Interface",
+  "name": "user interface",
   "definition": null,
   "description": null,
   "ontologyIdentifier": "https://www.wikidata.org/wiki/Q47146"

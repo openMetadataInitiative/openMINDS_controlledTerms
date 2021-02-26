@@ -1,7 +1,7 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeatureCategory/3DScientificData",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory",
-  "name": "3D Scientific Data",
+  "name": "3D scientific data",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

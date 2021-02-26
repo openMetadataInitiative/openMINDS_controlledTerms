@@ -1,9 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/module",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
-  "name": "Module",
+  "name": "module",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q11883090"
 }
 

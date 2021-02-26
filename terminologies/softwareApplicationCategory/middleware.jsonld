@@ -1,9 +1,9 @@
 {
   "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/middleware",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
-  "name": "Middleware",
+  "name": "middleware",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q146768"
 }
 
