@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingDevice/highPerformanceComputer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
+  "name": "high-performance computer",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q121117"
+}
+

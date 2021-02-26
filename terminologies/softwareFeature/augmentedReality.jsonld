@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/augmentedReality",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "name": "augmented reality",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q254183"
+}
+

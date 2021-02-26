@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeatureCategory/2DImageData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory",
+  "name": "2D image data",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

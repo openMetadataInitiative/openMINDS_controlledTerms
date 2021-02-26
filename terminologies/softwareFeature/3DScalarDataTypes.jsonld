@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/3DScalarDataTypes",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "name": "3D scalar data types",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

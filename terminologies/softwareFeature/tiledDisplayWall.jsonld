@@ -1,0 +1,9 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeature/tiledDisplayWall",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "name": "tiled display wall",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
+

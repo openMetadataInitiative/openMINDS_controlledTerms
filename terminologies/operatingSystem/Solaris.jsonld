@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingSystem/Solaris",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
+  "name": "Solaris",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q14646"
+}
