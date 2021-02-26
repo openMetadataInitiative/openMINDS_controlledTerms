@@ -4,15 +4,16 @@
   "_categories": [
     "studyTarget"
   ],
-  "required": [
-    "terminology"
-  ],
   "properties": {
-    "terminology": {
-      "_instruction": "Add the terminology in which the suggested term should be integrated in.",
+    "addExistingTerminology": {
+      "_instruction": "Add an existing terminology in which the suggested term should be integrated in.",
       "_linkedTypes": [
         "https://openminds.ebrains.eu/controlledTerms/Terminology"
       ]
+    },
+    "suggestNewTerminology": {
+      "type": "string",
+      "_instruction": "Propose a name for a new terminology in which the suggested term should be integrated in."
     }
   }
 }
