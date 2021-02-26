@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/ageCategory",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/behavioralTask",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "age category",
+  "name": "behavioral task",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

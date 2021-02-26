@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/ageCategory",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/typeOfUncertainty",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "age category",
+  "name": "type of uncertainty",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

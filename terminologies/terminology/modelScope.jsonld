@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/ageCategory",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/modelScope",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "age category",
+  "name": "model scope",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
