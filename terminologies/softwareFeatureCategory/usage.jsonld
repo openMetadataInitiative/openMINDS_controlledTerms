@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeatureCategory/usage",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory",
-  "name": "usage",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-
