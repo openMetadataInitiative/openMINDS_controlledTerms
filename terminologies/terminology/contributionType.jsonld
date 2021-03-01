@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/disease",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/contributionType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "disease",
+  "name": "contribution type",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

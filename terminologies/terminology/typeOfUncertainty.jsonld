@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/disease",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/typeOfUncertainty",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "disease",
+  "name": "type of uncertainty",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/disease",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/qualitativeOverlap",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "disease",
+  "name": "qualitative overlap",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

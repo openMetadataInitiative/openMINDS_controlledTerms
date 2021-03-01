@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/disease",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/softwareApplicationCategory",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "disease",
+  "name": "software application category",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null

@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/disease",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/fileBundleGrouping",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "disease",
+  "name": "file bundle grouping",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
