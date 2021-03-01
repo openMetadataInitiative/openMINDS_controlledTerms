@@ -1,8 +1,8 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/metaDataModelType/commonDataElements",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/metaDataModelType/commonDataElement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MetaDataModelType",
-  "name": "common data elements",
-  "definition": "Common Data Element (CDE) define standardized key terms or concepts for describing clinical research or studies in order to enhance data quality and cross validations or visualizations.",
+  "name": "common data element",
+  "definition": "A Common Data Element (CDE) defines standardized key terms or concepts for describing clinical research or studies in order to enhance data quality and cross validations or visualizations.",
   "description": null,
   "ontologyIdentifier": null
 }
