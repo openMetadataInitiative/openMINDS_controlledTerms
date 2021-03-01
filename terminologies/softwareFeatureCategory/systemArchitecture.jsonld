@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareFeatureCategory/systemArchitecture",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeatureCategory",
-  "name": "system architecture",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q477538"
-}
-
