@@ -4,6 +4,6 @@
   "name": "adult",
   "definition": null,
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000113"
 }
 
