@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/metaDataModelType/commonDataElements",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/MetaDataModelType",
-  "name": "common data elements",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
