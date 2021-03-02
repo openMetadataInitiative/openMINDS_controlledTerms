@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/youngAdult",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
-  "name": "young adult",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
