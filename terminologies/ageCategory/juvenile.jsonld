@@ -2,8 +2,8 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/juvenile",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
   "name": "juvenile",
-  "definition": null,
+  "definition": "'Juvenile' categorizes the life cycle stage of an animal or human that starts with the independence of the nest and/or caregivers and ends with sexual maturity.",
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034919 "
 }
 

@@ -2,8 +2,8 @@
   "@id": "https://openminds.ebrains.eu/controlledTerms/ageCategory/neonate",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
   "name": "neonate",
-  "definition": null,
+  "definition": "'Neonate' categorizes the life cycle stage of an animal or human that immediately follows birth.",
   "description": null,
-  "ontologyIdentifier": null
+  "ontologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007221"
 }
 
