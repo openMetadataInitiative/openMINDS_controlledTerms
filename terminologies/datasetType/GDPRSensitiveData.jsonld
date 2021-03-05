@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/datasetType/derivedAggregatedData",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/datasetType/GDPRSensitiveData",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DatasetType",
-  "name": "derived aggregated data",
+  "name": "GDPR sensitive data",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
