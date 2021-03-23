@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/structuralMagneticResonanceImaging",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "structural magnetic resonance imaging",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-
