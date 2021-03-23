@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/whiskerStimulationTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "name": "whisker stimulation technique",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}

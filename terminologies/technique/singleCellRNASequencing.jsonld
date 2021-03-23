@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/singleCellRNASequencing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "name": "single cell RNA sequencing",
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": null
+}
