@@ -1,7 +1,7 @@
 {
-  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/3DPolarizedLightImageProcessing",
+  "@id": "https://openminds.ebrains.eu/controlledTerms/technique/CLARITY_TDE",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "name": "3D polarized light image processing",
+  "name": "CLARITY/TDE",
   "definition": null,
   "description": null,
   "ontologyIdentifier": null
