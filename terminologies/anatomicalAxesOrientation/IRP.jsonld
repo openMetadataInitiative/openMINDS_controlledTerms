@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/IRP",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
-  "name": "IRP",
-  "definition": "X, Y, Z axes are oriented towards inferior, right and posterior, respectively.",
-  "description": null,
-  "ontologyIdentifier": null
-}
-

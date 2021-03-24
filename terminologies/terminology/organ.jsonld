@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/organ",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "organ",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

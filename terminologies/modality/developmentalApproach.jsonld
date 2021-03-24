@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/developmentalApproach",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "developmental approach",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

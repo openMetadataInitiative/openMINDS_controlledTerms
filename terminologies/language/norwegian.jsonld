@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/language/norwegian",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
-  "name": "Norwegian",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

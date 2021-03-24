@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/PRI",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
-  "name": "PRI",
-  "definition": "X, Y, Z axes are oriented towards posterior, right and inferior, respectively.",
-  "description": null,
-  "ontologyIdentifier": null
-}
-

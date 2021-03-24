@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingDevice/desktop",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
-  "name": "desktop",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q56155"
-}
-

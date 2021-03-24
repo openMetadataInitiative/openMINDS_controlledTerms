@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/datasetType/GDPRSensitiveData",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DatasetType",
-  "name": "GDPR sensitive data",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

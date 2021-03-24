@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/preparationType/inSitu",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
-  "name": "in situ",
-  "definition": "Something happening or being examined in the original place instead of being moved to another place",
-  "description": null,
-  "ontologyIdentifier": null
-}

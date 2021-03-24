@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/datasetType/rawData",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DatasetType",
-  "name": "raw data",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

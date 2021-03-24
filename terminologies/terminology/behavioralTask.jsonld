@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/behavioralTask",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "behavioral task",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

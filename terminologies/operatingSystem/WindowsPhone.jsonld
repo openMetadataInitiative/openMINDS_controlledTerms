@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingSystem/WindowsPhone",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
-  "name": "Windows Phone",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q4885200"
-}

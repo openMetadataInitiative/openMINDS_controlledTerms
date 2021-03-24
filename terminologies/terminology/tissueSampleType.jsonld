@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/tissueSampleType",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "tissue sample type",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

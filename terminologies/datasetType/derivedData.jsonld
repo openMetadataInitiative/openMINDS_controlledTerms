@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/datasetType/derivedData",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DatasetType",
-  "name": "derived data",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

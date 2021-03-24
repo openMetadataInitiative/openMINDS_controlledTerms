@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/softwareApplicationCategory/application",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
-  "name": "application",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q166142"
-}
-

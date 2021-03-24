@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/typeOfUncertainty/standardError",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty",
-  "name": "standard error",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

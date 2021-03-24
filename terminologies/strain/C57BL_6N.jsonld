@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/strain/C57BL_6N",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
-  "name": "C57BL/6N",
-  "definition": "The C57BL/6N strain is an inbred mouse breed from the National Institutes of Health.",
-  "description": null,
-  "ontologyIdentifier": null
-}

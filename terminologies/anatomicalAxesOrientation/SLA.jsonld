@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/SLA",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
-  "name": "SLA",
-  "definition": "X, Y, Z axes are oriented towards superior, left and anterior, respectively.",
-  "description": null,
-  "ontologyIdentifier": null
-}
-

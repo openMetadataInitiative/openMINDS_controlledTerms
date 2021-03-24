@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/productAccessibility/controlledAccess",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
-  "name": "controlled access",
-  "definition": "With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.",
-  "description": null,
-  "ontologyIdentifier": null
-}
-

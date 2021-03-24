@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/tissueSampleType/tissueSlice",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "name": "tissue slice",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}
-

@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/handedness",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "handedness",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

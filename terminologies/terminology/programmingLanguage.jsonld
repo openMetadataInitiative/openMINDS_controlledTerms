@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/programmingLanguage",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "programming language",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

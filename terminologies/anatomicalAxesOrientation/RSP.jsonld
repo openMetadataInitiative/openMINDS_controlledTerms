@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/RSP",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
-  "name": "RSP",
-  "definition": "X, Y, Z axes are oriented towards right, superior and posterior, respectively.",
-  "description": null,
-  "ontologyIdentifier": null
-}
-

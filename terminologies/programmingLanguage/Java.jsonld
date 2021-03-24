@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/programmingLanguage/Java",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
-  "name": "Java",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q251"
-}
-

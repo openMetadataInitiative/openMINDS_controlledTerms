@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/RIP",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
-  "name": "RIP",
-  "definition": "X, Y, Z axes are oriented towards right, inferior and posterior, respectively.",
-  "description": null,
-  "ontologyIdentifier": null
-}
-

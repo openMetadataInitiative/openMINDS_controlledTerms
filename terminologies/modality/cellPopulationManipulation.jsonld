@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/cellPopulationManipulation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "cell population manipulation",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

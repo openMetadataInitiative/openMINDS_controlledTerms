@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/operatingDevice/server",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
-  "name": "server",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q64729893"
-}
-

@@ -1,9 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/anatomicalAxesOrientation/SPL",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
-  "name": "SPL",
-  "definition": "X, Y, Z axes are oriented towards superior, posterior and left, respectively.",
-  "description": null,
-  "ontologyIdentifier": null
-}
-

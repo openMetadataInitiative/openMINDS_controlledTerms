@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/datasetType/experimentalData",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DatasetType",
-  "name": "experimental data",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

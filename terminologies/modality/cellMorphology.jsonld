@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/cellMorphology",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "cell morphology",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

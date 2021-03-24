@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/technique",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "technique",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

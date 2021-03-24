@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/typeOfUncertainty",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "type of uncertainty",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

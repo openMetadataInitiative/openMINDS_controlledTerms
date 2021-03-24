@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/disease/williamsBeurenSyndromeModel",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
-  "name": "Model of Williams-Beuren syndrome",
-  "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Williams-Beuren syndrome.",
-  "description": null,
-  "ontologyIdentifier": null
-}

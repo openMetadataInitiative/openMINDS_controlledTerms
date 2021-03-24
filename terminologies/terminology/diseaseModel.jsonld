@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/diseaseModel",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "disease model",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

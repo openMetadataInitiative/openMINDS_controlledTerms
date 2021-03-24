@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/ethicsAssessment",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "ethics assessment",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

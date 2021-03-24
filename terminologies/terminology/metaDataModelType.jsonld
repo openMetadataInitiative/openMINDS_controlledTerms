@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/terminology/metaDataModelType",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "name": "(meta)data model type",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

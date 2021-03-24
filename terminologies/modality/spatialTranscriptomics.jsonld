@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/spatialTranscriptomics",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "spatial transcriptomics",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

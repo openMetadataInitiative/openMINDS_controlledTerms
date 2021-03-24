@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/language/italian",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
-  "name": "Italian",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

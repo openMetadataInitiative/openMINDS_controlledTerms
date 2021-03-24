@@ -1,9 +1,0 @@
-  
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/genotype/wildtype",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Genotype",
-  "name": "wildtype",
-  "definition": "An attribute describing sequence with the genotype found in nature and/or standard laboratory stock.",
-  "description": null,
-  "ontologyIdentifier": "http://purl.obolibrary.org/obo/SO_0000817"
-}

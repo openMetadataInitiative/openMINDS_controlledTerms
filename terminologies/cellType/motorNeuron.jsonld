@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/motorNeuron",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "motor neuron",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

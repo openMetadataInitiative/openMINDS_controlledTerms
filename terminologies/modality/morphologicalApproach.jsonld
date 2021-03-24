@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/morphologicalApproach",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "morphological approach",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

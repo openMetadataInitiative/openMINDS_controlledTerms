@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/interneuron",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "interneuron",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

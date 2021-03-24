@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/cellType/spinalInterneuron",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "name": "spinal interneuron",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

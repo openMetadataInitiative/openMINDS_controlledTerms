@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/language/greek",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
-  "name": "Greek",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

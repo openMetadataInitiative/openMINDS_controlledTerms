@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/modality/cellPopulationCharacterization",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Modality",
-  "name": "cell population characterization",
-  "definition": null,
-  "description": null,
-  "ontologyIdentifier": null
-}

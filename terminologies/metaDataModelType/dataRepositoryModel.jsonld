@@ -1,8 +1,0 @@
-{
-  "@id": "https://openminds.ebrains.eu/controlledTerms/metaDataModelType/dataRepositoryModel",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/MetaDataModelType",
-  "name": "data repository model",
-  "definition": "A data repository model defines the file and folder naming and structure as well as partially the file content (metadata definitions) and preferred format.",
-  "description": null,
-  "ontologyIdentifier": null
-}
