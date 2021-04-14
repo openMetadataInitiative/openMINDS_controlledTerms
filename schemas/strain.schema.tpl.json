@@ -3,5 +3,11 @@
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "studyTarget"
-  ]
+  ],
+  "properties": {
+    "identifier": {
+      "type": "string",
+      "_instruction": "Enter other database identifiers for the given strain that are supported by the members of the Alliance of Genome Resources (https://www.alliancegenome.org/)."
+    }
+  }
 }
