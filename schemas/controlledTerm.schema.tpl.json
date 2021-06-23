@@ -11,16 +11,39 @@
       "type": "string",
       "_instruction": "Enter a short text describing this term."
     },
-    "name": {
-      "type": "string",
-      "_instruction": "Controlled term originating from a defined terminology."
-    },
-    "ontologyIdentifier": {
+    "interlexIdentifier": {
       "type": "string",
       "_formats": [
         "iri"
       ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the related ontological term."
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project."
+    },
+    "knowledgeSpaceLink": {
+      "type": "string",
+      "_formats": [
+        "iri"
+      ],
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace."
+    },
+    "name": {
+      "type": "string",
+      "_instruction": "Controlled term originating from a defined terminology."
+    },
+    "preferredOntologyIdentifier": {
+      "type": "string",
+      "_formats": [
+        "iri"
+      ],
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term."
+    },
+    "synonym": {
+      "type": "array",
+      "minItems": 1, 
+      "uniqueItems": true,
+      "_instruction": "Enter one or several synonyms (inlcuding abbreviations) for this controlled term.",
+      "items": {
+        "type": "string"
+      }
     }
   }
 }
