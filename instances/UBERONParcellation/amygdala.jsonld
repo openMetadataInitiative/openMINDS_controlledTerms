@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Subcortical brain region lying anterior to the hippocampal formation in the temporal lobe and anterior to the temporal horn of the lateral ventricle in some species. It is usually subdivided into several groups. Functionally, it is not considered a unitary structure (MM).",
+  "description": "'Amygdala' is a basal ganglion and cerebral hemisphere gray matter. It is part of the limbic system and temporal lobe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "amygdala",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001876",
+  "synonym": null
+}

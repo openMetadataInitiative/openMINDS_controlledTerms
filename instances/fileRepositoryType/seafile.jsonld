@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/seafile",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
+  "definition": "Seafile is an open source file sync&share solution designed for high reliability, performance and productivity.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Seafile repository",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

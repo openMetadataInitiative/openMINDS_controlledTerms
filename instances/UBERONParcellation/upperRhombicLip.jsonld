@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/upperRhombicLip",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Anterior-most region of dorsal hindbrain within rhombomere 1, adjacent the midbrain-hindbrain boundary.",
+  "description": "'Upper rhombic lip' is a regional part of brain. It is part of the rhombomere 1 and rhombic lip.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "upper rhombic lip",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009841",
+  "synonym": null
+}

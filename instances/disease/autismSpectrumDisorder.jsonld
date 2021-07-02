@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/autismSpectrumDisorder",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "autism sprectrum disorder",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_0060041",
+  "synonym": null
+}

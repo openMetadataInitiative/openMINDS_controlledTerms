@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mushroomBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Prominent lobed neuropils found in annelids and all arthropods except crustaceans. They are thought to be involved in olfactory associative learning and memory[MESH] Mushroom body neuropils are divided into calyces, pedunculus, and its subsequent lobes. In Drosophila these are the alpha, beta, and gamma lobes.",
+  "description": "'Mushroom body' is a material entity and anatomical entity. It is part of the brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "mushroom body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001058",
+  "synonym": null
+}

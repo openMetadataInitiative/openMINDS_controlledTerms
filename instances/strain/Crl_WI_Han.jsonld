@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/Crl_WI_Han",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'Crl:WI(Han)' (synonyms: 'Wistar Han IGS rat'; 'Crl:WI(Glx/BRL/Han)IGSBR') is an outbred strain of the species 'Rattus norvegicus' with an 'albino' coat color.",
+  "description": null,
+  "identifier": [
+    "RGDID:2308816",
+    "RRID:RGD_2308816"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Crl:WI(Han)",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

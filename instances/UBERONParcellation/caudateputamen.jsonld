@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/caudateputamen",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Regional part of telencephalon in some species, e.g., rodent, equivalent to the dorsal striatum (caudate nucleus and putamen). Unlike the dorsal striatum of primates, for example, the caudoputamen is not split into separate nuclei by the fibers of the internal capsule. Rather, the internal capsule splits into fiber bundles which course through the structure.",
+  "description": "'Caudate-putamen' is a central nervous system cell part cluster. It is part of the dorsal striatum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "caudate-putamen",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005383",
+  "synonym": null
+}

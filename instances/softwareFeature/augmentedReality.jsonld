@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/augmentedReality",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "augmented reality",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q254183",
+  "synonym": null
+}

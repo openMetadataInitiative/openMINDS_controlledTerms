@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleAperture",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "One of:  the 4th ventricle median or lateral apertures.",
+  "description": "'Fourth ventricle aperture' is part of the fourth ventricle.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fourth ventricle aperture",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004668",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalFormation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Hippocampus (proper) plus dentate gyrus and subiculum[definition derived from NIF comments and ontology alignment].",
+  "description": "'Hippocampal formation' is a regional part of brain. It is part of the cerebral cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hippocampal formation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002421",
+  "synonym": null
+}

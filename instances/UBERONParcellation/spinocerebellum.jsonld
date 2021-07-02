@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinocerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A phylogenetic subdivision of the cerebellum, the intermediate part, which regulates body and limb movements. It receives proprioception input from the dorsal columns of the spinal cord (including the spinocerebellar tract) and the trigeminal nerve, as well as from visual and auditory systems. It sends fibres to deep cerebellar nuclei which in turn project to both the cerebral cortex and the brain stem, thus providing modulation of descending motor systems.",
+  "description": "'Spinocerebellum' is a regional part of brain. It is part of the cerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spinocerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014643",
+  "synonym": null
+}

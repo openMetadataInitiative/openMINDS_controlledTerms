@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLS",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards posterior, left and superior, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "PLS",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

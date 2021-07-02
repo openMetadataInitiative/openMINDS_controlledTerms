@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/shell",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Shell",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q14663",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVermisLobuleX",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Cerebellum vermis lobule X' is a cerebellum vermis lobule. It is part of the flocculonodular lobe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellum vermis lobule X",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004083",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryGland",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The pituitary gland is an endocrine gland that secretes hormones that regulate many other glands [GO]. An endocrine gland located ventral to the diencephalon and derived from mixed neuroectodermal and non neuroectodermal origin [ZFIN].",
+  "description": "'Pituitary gland' is a gland of diencephalon and neuroendocrine gland.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pituitary gland",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000007",
+  "synonym": null
+}

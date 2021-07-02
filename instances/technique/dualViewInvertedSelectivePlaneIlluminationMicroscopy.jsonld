@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/dualViewInvertedSelectivePlaneIlluminationMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dual-view inverted selective plane illumination microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

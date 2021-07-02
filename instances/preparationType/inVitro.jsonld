@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/preparationType/inVitro",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
+  "definition": "Something happening outside the body in artificial conditions, often in a test tube.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "in vitro",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

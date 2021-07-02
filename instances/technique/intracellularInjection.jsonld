@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/intracellularInjection",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intracellular injection",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

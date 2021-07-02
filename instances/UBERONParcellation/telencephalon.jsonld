@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/telencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of the forebrain consisting of paired olfactory bulbs and cerebral hemispheres.",
+  "description": "'Telencephalon' is a regional part of brain. It is part of the forebrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "telencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001893",
+  "synonym": null
+}

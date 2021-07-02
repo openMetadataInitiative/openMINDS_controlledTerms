@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/language/swedish",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Swedish",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

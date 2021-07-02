@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sublentiformNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Sublentiform nucleus' is a nucleus of midbrain tectum and pretectal nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sublentiform nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002578",
+  "synonym": null
+}

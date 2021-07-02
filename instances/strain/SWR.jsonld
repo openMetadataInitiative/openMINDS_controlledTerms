@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/SWR",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'SWR' (synonyms: 'SW'; 'Swiss'; 'Swiss-R'; 'Swiss-8') is a strain family of the species 'Mus musculus'.",
+  "description": null,
+  "identifier": [
+    "MGI:2159803"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "SWR",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

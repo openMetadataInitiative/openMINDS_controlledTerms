@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfPons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of dorsal longitudinal fasciculus located within the pons.",
+  "description": "'Dorsal longitudinal fasciculus of pons' is a fasciculus of brain. It is part of the pons and dorsal longitudinal fasciculus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsal longitudinal fasciculus of pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002793",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/facialMotorNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nucleus located in the pontine tegmentum containing motor neurons that innervate the muscles of the face. Some neurons that project to the cerebellum have also been identified in some species.",
+  "description": "'Facial motor nucleus' is a facial nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "facial motor nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003011",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subcommissuralOrgan",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The subcommissural organ is a circumventricular organ consisting of ependymal cells which secrete SCO-spondin[WP,partially vetted].",
+  "description": "'Subcommissural organ' is a secretory circumventricular organ. It is part of the midbrain tectum and Reissner's fiber.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subcommissural organ",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002139",
+  "synonym": null
+}

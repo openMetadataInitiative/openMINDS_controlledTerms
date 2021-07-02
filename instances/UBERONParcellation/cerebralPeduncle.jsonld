@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralPeduncle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Synonym for macrodissected adult human tegmentum (Vicq d'Azyr, 1784; Swanson, 2000); pp. 555-556. Later used thus by for example His (1893b, p. 178), Herrick (1915, p. 160), Strong & Elwyn (1943, p. 17), Carpenter (1976, p. 367), Williams & Warwick (1980, p. 935).",
+  "description": "'Cerebral peduncle' is a peduncle of neuraxis and white matter of midbrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebral peduncle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002623",
+  "synonym": null
+}

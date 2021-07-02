@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hilusOfDentateGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Layer of the dentate gyrus lying deep to the granule cell layer, within the opening of the C or V formed by the granule cell layer characterized by loosely packed polymorphic cells.",
+  "description": "'Hilus of dentate gyrus' is a cerebral hemisphere gray matter. It is part of the dentate gyrus of hippocampal formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hilus of dentate gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002136",
+  "synonym": null
+}

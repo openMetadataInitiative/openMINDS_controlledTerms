@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Anterior part of the diencephalon that lies between the dorsal thalamus, hypothalamus, and tegmentum of the mesencephalon, including subthalamic nucleus, zona incerta, the fields of Forel, and the nucleus of ansa lenticularis[GO, modified].",
+  "description": "'Ventral thalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001900",
+  "synonym": null
+}

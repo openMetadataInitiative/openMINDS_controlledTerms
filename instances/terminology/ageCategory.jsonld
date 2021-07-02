@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/ageCategory",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "The age category describes a specific spatiotemporal part of the life cycle of an organism.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "age category",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000105",
+  "synonym": null
+}

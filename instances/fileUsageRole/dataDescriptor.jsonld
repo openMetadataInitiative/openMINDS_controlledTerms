@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileUsageRole/dataDescriptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
+  "definition": "A 'data descriptor' describes the provenance, the structure, the applied quality assessment, and possible (re)usage of the data. It should not present hypotheses tests, new interpretations, new methods or in-depth analyses.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "data descriptor",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

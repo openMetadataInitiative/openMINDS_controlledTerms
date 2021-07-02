@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/handedness/mixedHandedness",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Handedness",
+  "definition": "Handedness where the organism exhibits dominance in the use of right or left hand or foot differently in the performance of different tasks that require one (dominant) hand or foot.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "mixed handedness",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

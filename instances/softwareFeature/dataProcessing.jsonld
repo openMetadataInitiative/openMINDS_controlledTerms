@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/softwareFeature/dataProcessing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareFeature",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "data processing",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q6661985",
+  "synonym": null
+}

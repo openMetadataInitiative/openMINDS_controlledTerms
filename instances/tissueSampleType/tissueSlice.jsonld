@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/tissueSlice",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "tissue slice",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

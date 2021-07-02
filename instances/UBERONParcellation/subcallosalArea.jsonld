@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subcallosalArea",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The subcallosal area (parolfactory area of Broca, area parolfactoria) is a small triangular field on the medial surface of the hemisphere in front of the subcallosal gyrus, from which it is separated by the posterior parolfactory sulcus; it is continuous below with the olfactory trigone, and above and in front with the cingulate gyrus; it is limited anteriorly by the anterior parolfactory sulcus. [WP,unvetted].",
+  "description": "'Subcallosal area' is a gray matter of telencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subcallosal area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003020",
+  "synonym": null
+}

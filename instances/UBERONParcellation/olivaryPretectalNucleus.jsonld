@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olivaryPretectalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Small distinct nucleus in the pretectum of mammals involved in the pupillary light reflect. In rats, it is an olive shaped (anterior) nucleus lying ventral to the brachium of the superior colliculus (Paxinos, The rat nervous system, 2nd ed, 1995, pg. 862). Physiologically, it is identified by neurons sensitive to luminance changes.",
+  "description": "'Olivary pretectal nucleus' is a nucleus of midbrain tectum and pretectal nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "olivary pretectal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002565",
+  "synonym": null
+}

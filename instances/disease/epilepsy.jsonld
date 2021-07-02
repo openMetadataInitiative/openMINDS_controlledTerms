@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/epilepsy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "Epilepsy describes a group of central nervous system disorders characterized by recurrent unprovoked seizures.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "epilepsy",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_1826",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intermediateHypothalamicRegion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The portion of the hypothalamus located generally internal to the region of the infundibulum.",
+  "description": "'Intermediate hypothalamic region' is a regional part of brain. It is part of the hypothalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intermediate hypothalamic region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002555",
+  "synonym": null
+}

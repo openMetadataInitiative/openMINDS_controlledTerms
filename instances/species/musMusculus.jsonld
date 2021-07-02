@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/musMusculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Mus musculus* (house mouse) belongs to the family of *muridae* (murids).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107134",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NCBITaxon:10090#mouse",
+  "name": "Mus musculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_10090",
+  "synonym": [
+    "house mouse",
+    "mouse"
+  ]
+}

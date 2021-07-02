@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfBodyOfCaudateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Striosomal part of body of caudate nucleus' is a striosomal part of caudate nucleus. It is part of the body of caudate nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "striosomal part of body of caudate nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027244",
+  "synonym": null
+}

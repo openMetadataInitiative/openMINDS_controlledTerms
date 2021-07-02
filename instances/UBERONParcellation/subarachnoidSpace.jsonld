@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSpace",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The space between the arachnoid and pia mater.",
+  "description": "'Subarachnoid space' is an anatomical entity. It is part of the brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subarachnoid space",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000315",
+  "synonym": null
+}

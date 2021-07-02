@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/geneKnockout",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "gene knockout",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

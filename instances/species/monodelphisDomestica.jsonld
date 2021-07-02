@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/monodelphisDomestica",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Monodelphis domestica* (gray short-tailed opossum) belongs to the family of *didelphidae* (American possums).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Monodelphis domestica",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_13616",
+  "synonym": [
+    "gray short-tailed opossum"
+  ]
+}

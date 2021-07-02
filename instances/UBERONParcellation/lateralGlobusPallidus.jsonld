@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGlobusPallidus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The more lateral of the two segments of the globus pallidus, abutting the putamen.",
+  "description": "'Lateral globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral globus pallidus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002476",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/handedness/ambilevousHandedness",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Handedness",
+  "definition": "Handedness where the organism exhibits equally poor dexterity in the use of right or left hand or foot in the performance of tasks that require one (dominant) hand or foot.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ambilevous Handedness",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

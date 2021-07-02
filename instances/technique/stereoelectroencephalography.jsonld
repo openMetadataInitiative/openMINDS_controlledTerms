@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/stereoelectroencephalography",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "stereoelectroencephalography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/septalNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Collection of nerve cells in the medial forebrain lying generally in front of the anterior commissure (Maryann Martone).",
+  "description": "'Septal nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the septum of telencephalon and basal forebrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "septal nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002663",
+  "synonym": null
+}

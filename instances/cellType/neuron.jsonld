@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/neuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "A 'neuron' is a basic cellular unit of nervous tissue which can receive, conduct, and transmit electrical impulses.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107497",
+  "knowledgeSpaceLink": null,
+  "name": "neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "neurone",
+    "nerve cell"
+  ]
+}

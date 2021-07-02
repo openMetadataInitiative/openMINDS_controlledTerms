@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paleodentateOfDentateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Paleodentate of dentate nucleus' is a gray matter of hindbrain. It is part of the dentate nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "paleodentate of dentate nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006743",
+  "synonym": null
+}

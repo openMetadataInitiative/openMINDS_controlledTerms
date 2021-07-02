@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralParabrachialNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The lateral parabrachial nucleus induces thirst by stimulating the median preoptic nucleus. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [WP,unvetted].",
+  "description": "'Lateral parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral parabrachial nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003007",
+  "synonym": null
+}

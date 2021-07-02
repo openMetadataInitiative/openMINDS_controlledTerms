@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/epiduralElectrocorticography",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "epidural electrocorticography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

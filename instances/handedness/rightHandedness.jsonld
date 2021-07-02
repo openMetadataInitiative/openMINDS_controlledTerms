@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/handedness/rightHandedness",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Handedness",
+  "definition": "Handedness where the organism preferentially uses the right hand or foot for tasks requiring the use of a single hand or foot.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "right handedness",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

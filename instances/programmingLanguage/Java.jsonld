@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/Java",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Java",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q251",
+  "synonym": null
+}

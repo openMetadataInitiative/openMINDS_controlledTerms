@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/Crl_LIS",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'Crl:LIS' (synonyms: 'Lister Hooded rat') is an outbred strain of the species 'Rattus norvegicus'.",
+  "description": null,
+  "identifier": [
+    "RGDID:2312466",
+    "RRID:RGD_2312466"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Crl:LIS",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

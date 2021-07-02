@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalNucleusOfLateralLemniscus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Dorsal nucleus of lateral lemniscus' is a nucleus of lateral lemniscus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsal nucleus of lateral lemniscus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003006",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfMidbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of medial lemniscus located within the midbrain.",
+  "description": "'Medial lemniscus of midbrain' is a nervous system lemniscus. It is part of the midbrain tegmentum, cerebral peduncle and medial lemniscus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial lemniscus of midbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002658",
+  "synonym": null
+}

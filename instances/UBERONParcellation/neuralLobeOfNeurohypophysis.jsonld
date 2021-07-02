@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/neuralLobeOfNeurohypophysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The posterior pituitary (or neurohypophysis) comprises the posterior lobe of the pituitary gland and is part of the endocrine system. Despite its name, the posterior pituitary gland is not a gland, per se; rather, it is largely a collection of axonal projections from the hypothalamus that terminate behind the anterior pituitary gland. [WP,unvetted].",
+  "description": "'Neural lobe of neurohypophysis' is a regional part of brain. It is part of the neurohypophysis.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "neural lobe of neurohypophysis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003217",
+  "synonym": null
+}

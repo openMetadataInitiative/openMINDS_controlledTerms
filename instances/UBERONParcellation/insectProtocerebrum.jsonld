@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insectProtocerebrum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The most anterior of the segmental subdivisions of the insect CNS; thought to represent the first pre-oral segment of the brain. The protocerebrum comprises many discrete neuropil regions including the central body complex and mushroom bodies.",
+  "description": "'Insect protocerebrum' is a segmental subdivision of nervous system. It is part of the insect supraesophageal ganglion.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "insect protocerebrum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_6003627",
+  "synonym": null
+}

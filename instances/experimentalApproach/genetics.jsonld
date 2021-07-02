@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/genetics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Experimental approach that measures or manipulates some aspect of the genetic material of an organism.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "genetics",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

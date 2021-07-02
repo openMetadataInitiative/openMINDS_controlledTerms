@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/T-SQL",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "T-SQL",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q1411245",
+  "synonym": null
+}

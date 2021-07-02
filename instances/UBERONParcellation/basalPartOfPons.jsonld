@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Ventral subdivision of the pons which consists of the massive pontine pertuberance on pontine ventral surface.",
+  "description": "'Basal part of pons' is a regional part of brain. It is part of the pons.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "basal part of pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002567",
+  "synonym": null
+}

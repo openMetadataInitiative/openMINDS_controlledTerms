@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticalAmygdaloidNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Three layered structure that is located in the caudal aspect of the amygdala bordering the periamygdaloid cortex laterally.",
+  "description": "'Cortical amygdaloid nucleus' is a telencephalic nucleus. It is part of the corticomedial nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cortical amygdaloid nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002891",
+  "synonym": null
+}

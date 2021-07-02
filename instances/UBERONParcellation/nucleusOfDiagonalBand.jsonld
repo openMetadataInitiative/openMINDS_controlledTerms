@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfDiagonalBand",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala.",
+  "description": "'Nucleus of diagonal band' is a telencephalic nucleus. It is part of the medial septal complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nucleus of diagonal band",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001879",
+  "synonym": null
+}

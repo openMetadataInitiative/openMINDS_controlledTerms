@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/sulcusLimitansOfFourthVentricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "In the floor of the fourth ventricle, the sulcus limitans separates the cranial nerve motor nuclei (medial) from the sensory nuclei (lateral). In the superior part of the rhomboid fossa, it corresponds with the lateral limit of the fossa and presents a bluish-gray area, the locus ceruleus (which owes its color to an underlying patch of deeply pigmented nerve cells, termed the substantia ferruginea). [WP].",
+  "description": "'Sulcus limitans of fourth ventricle' is an anatomical entity. It is part of the fourth ventricle.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "sulcus limitans of fourth ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009573",
+  "synonym": null
+}

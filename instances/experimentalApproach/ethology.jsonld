@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/ethology",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Any experimental approach focused on natural unmanipulated human or animal behavior and social organization from a biological, life history, and often evolutionary perspective.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ethology",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739388",
+  "synonym": null
+}

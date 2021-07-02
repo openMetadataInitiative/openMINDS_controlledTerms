@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/mustelaPutoriusFuro",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Mustela putorius furo* (domestic ferret) belongs to the family of *mustelidae* (mustelids).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104165",
+  "knowledgeSpaceLink": null,
+  "name": "Mustela putorius furo",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9669",
+  "synonym": [
+    "domestic ferret",
+    "black ferret",
+    "ferret",
+    "Mustela furo"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dentateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The largest and most lateral of the deep cerebellum nuclei; it receives axons of Purkinje cells in the lateral cerebellar hemisphere (neocerebellum) and receives its afferents from the premotor cortex and the supplementary motor cortex through the pontocerebellar system, and its efferents project through the superior cerebellar peduncle and is a major source of its fibers.",
+  "description": "'Dentate nucleus' is a nucleus of cerebellar nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dentate nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002132",
+  "synonym": null
+}

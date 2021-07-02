@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/forebrainmidbrainBoundary",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "An anatomical boundary that adjacent_to a forebrain and adjacent_to a midbrain.",
+  "description": "'Forebrain-midbrain boundary' is part of the brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "forebrain-midbrain boundary",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005075",
+  "synonym": null
+}

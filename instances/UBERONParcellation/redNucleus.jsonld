@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/redNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Large round nucleus located in the midbrain tegmentum, consisting of a magnocellular and parvicellular portion in most species studied.",
+  "description": "'Red nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "red nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001947",
+  "synonym": null
+}

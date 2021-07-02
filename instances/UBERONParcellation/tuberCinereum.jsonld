@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of hypothalamus consisting of hollow eminence of gray matter situated between the mammilary bodies and the optic chiasm visible on the basal surface of the brain (adapted from Wikipedia).",
+  "description": "'Tuber cinereum' is a regional part of brain. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "tuber cinereum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002620",
+  "synonym": null
+}

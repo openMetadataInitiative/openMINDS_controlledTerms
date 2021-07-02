@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/retrorubralAreaOfMidbrainReticularNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The term retrorubral area of the midbrain reticular nucleus refers to a region of the rat brain caudal and dorsal to the ventral tegmental area. It is one of three parts of the midbrain reticular nucleus; the other two are the magnocellular part of the midbrain reticular nucleus and the parvicellular part of the midbrain reticular nucleus (Swanson-2004). BrainInfo distinguishes between the Retrorubral area of the midbrain reticular formation and the retrorubral nucleus.",
+  "description": "'Retrorubral area of midbrain reticular nucleus' is a regional part of brain. It is part of the nucleus of midbrain reticular formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "retrorubral area of midbrain reticular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011172",
+  "synonym": null
+}

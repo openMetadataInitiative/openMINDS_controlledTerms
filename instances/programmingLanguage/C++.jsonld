@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/programmingLanguage/C++",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "C++",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q2407",
+  "synonym": null
+}

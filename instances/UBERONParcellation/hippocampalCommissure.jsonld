@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampalCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The triangular subcallosal plate of commissural fibers resulting from the converging of the right and left fornix bundles which exchange numerous fibers and which curve back in the contralateral fornix to end in the hippocampus of the opposite side.",
+  "description": "'Hippocampal commissure' is a dorsal telencephalic commissure. It is part of the cerebral hemisphere white matter.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hippocampal commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000908",
+  "synonym": null
+}

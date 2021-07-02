@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusAccumbens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A region of the brain consisting of a collection of neurons located in the forebrain ventral to the caudate and putamen. (caudoputamen in rodent) and continuous with these structures. There is no distinct boundary between the nucleus accumbens and the caudate/putamen, but in rodents, it can be identified by its lack of traversing fiber bundles in comparison to the dorsal striatum. Its principle neuron is the medium spiny neuron. Together with the neostriatum (caudate nucleus and putamen), the nucleus accumbens forms the striatum.",
+  "description": "'Nucleus accumbens' is a telencephalic nucleus. It is part of the limbic system, cerebral hemisphere and ventral striatum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nucleus accumbens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001882",
+  "synonym": null
+}

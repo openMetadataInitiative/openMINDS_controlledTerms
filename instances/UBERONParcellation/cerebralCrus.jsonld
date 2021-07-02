@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The cerebral crus is the anterior portion of the cerebral peduncle which contains the motor tracts, the plural of which is cerebral crura. In some older texts, it is used as a synonym for the entire cerebral peduncle, not just the anterior portion of it. [WP,unvetted].",
+  "description": "'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebral crus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002631",
+  "synonym": null
+}

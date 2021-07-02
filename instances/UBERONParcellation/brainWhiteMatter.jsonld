@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainWhiteMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The regions of the brain that are largely or entirely composed of myelinated nerve cell axons and contain few or no neural cell bodies or dendrites.",
+  "description": "'Brain white matter' is a white matter. It is part of the brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "brain white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003544",
+  "synonym": null
+}

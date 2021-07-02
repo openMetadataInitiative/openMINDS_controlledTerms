@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/coreOfNucleusAccumbens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Core of nucleus accumbens' is a regional part of brain. It is part of the nucleus accumbens.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "core of nucleus accumbens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012170",
+  "synonym": null
+}

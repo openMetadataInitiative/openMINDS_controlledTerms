@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pontineTegmentum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Dorsal portion of the pons, containing cranial nervee nuclei, ascending and descending tracts and reticular nuclei. It is continuous with the reticular formation of the medulla (Carpenter, A Core Text of Neuroanatomy, 3rd ed, 1985, pg 133).",
+  "description": "'Pontine tegmentum' is part of the pons.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pontine tegmentum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003023",
+  "synonym": null
+}

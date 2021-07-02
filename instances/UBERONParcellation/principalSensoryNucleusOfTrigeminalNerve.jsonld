@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/principalSensoryNucleusOfTrigeminalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The principal sensory nucleus (or chief sensory nucleus of V) is a group of second order neurons which have cell bodies in the dorsal Pons. It receives information about discriminative sensation and light touch of the face as well as conscious proprioception of the jaw via first order neurons of CN V. Most of the sensory information crosses the midline and travels to the contralateral ventral posteriomedial (VPM) of the thalamus via the Ventral Trigeminothalamic Tract, but information of the oral cavity travels to the ipsilateral Ventral Posteriomedial (VPM) of the thalamus via the Dorsal Trigeminothalamic Tract. [WP,unvetted].",
+  "description": "'Principal sensory nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "principal sensory nucleus of trigeminal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002597",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Regional part of substantia nigra consisting of loosely packed cells, generally located ventral and lateral to the pars compacta. Many cells in this region use GABA as a neurotransmitter (MM).",
+  "description": "'Substantia nigra pars reticulata' is part of the substantia nigra.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "substantia nigra pars reticulata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001966",
+  "synonym": null
+}

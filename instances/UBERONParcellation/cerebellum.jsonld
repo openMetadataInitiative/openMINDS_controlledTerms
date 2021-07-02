@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of the metencephalon that lies in the posterior cranial fossa behind the brain stem. It is concerned with the coordination of movement[MESH]. A large dorsally projecting part of the brain concerned especially with the coordination of muscles and the maintenance of bodily equilibrium, situated between the brain stem and the back of the cerebrum , and formed in humans of two lateral lobes and a median lobe[BTO]. Brain structure derived from the anterior hindbrain, and perhaps including posterior midbrain. The cerebellum plays a role in somatic motor function, the control of muscle tone, and balance[ZFA].",
+  "description": "'Cerebellum' is a regional part of brain. It is part of the metencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002037",
+  "synonym": null
+}

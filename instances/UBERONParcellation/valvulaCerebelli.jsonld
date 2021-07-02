@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/valvulaCerebelli",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Brain structure which is caudally attached to the rostral medulla oblongata and extends into the tectal ventricle. The valvula cerebelli consists of a granular and a molecular layer along with aggregations of large Purkinje and eurydendroid cells and is uniquely present in ray-finned fishes. From Neuroanatomy of the Zebrafish Brain.",
+  "description": "'Valvula cerebelli' is a regional part of brain. It is part of the cerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "valvula cerebelli",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_2000603",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/islandOfCalleja",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "One of the seven small groups of granule cells in the polymorph layer of the olfactory tubercle and one large group, the insula magna, which lies along the border between septum, nucleus accumbens and nucleus of the diagonal band.",
+  "description": "'Island of Calleja' is a telencephalic nucleus. It is part of the cerebral hemisphere.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "island of Calleja",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001881",
+  "synonym": null
+}

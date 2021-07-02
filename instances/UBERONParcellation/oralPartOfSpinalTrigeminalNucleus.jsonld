@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfSpinalTrigeminalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Oral part of spinal trigeminal nucleus' is a gray matter of hindbrain. It is part of the spinal nucleus of trigeminal nerve.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "oral part of spinal trigeminal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002591",
+  "synonym": null
+}

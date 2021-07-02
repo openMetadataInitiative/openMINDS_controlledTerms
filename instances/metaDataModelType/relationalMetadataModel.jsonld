@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/metaDataModelType/relationalMetadataModel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MetaDataModelType",
+  "definition": "A relational metadata model defines a set of tabular metadata schemas (including their relations) as architectural base of a relational database for describing the products represented in that database.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "relational metadata model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

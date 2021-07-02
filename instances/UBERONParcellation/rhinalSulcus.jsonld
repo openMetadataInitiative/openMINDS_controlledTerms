@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rhinalSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "In the human brain, the rhinencephalon appears as a longitudinal elevation, with a corresponding internal furrow, on the under surface of the hemisphere close to the lamina terminalis; it is separated from the lateral surface of the hemisphere by a furrow, the external rhinal fissure (or rhinal sulcus), and is continuous behind with that part of the hemisphere, which will ultimately form the anterior end of the temporal lobe. [WP,unvetted].",
+  "description": "'Rhinal sulcus' is a sulcus of brain. It is part of the cerebral cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "rhinal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002683",
+  "synonym": null
+}

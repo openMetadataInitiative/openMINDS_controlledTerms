@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/collectionOfBasalGanglia",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum.",
+  "description": "'Collection of basal ganglia' is an aggregate regional part of brain. It is part of the cerebral subcortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "collection of basal ganglia",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010011",
+  "synonym": null
+}

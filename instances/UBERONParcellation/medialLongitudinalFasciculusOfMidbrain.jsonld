@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfMidbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Medial longitudinal fasciculus of midbrain' is a medial longitudinal fasciculus. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial longitudinal fasciculus of midbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002660",
+  "synonym": null
+}

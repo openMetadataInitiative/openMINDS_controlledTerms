@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/qualitativeOverlap/isSubsetOf",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap",
+  "definition": "A set/object (A) is a subset of another set/object (B) if (A) and (B) are not equal, but all elements/incidents of (A) are also elements/incidents of (B).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "is subset of",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

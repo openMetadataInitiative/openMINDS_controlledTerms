@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusEpithelium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Fourth ventricle choroid plexus epithelium' is a choroid plexus epithelium. It is part of the choroid plexus of fourth ventricle.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fourth ventricle choroid plexus epithelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004276",
+  "synonym": null
+}

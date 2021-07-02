@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorSalivatoryNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nucleus containing parasympathetic neurons giving rise to the parasympathetic division of the facial nerve, innervating the salivary glands (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 703).",
+  "description": "'Superior salivatory nucleus' is a cranial nerve nucleus, salivatory nucleus and nucleus of medulla oblongata. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "superior salivatory nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002149",
+  "synonym": null
+}

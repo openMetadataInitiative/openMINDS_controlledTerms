@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventricularSystemOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Ventricular system of brain' is an anatomical system. It is part of the brain and ventricular system of central nervous system.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventricular system of brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005282",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/marketing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "marketing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

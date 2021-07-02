@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/metaDataModelType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "(meta)data model type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

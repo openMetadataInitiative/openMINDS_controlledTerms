@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vestibularNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nuclear complex containing the vestibular nuclei.",
+  "description": "'Vestibular nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "vestibular nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002673",
+  "synonym": null
+}

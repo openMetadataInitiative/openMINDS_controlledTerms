@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "model abstraction level",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

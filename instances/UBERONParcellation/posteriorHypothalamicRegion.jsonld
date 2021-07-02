@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorHypothalamicRegion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The part of the hypothalamus posterior to the middle region consisting of several nuclei including the medial mamillary nucleus, lateral mamillary nucleus, and posterior hypothalamic nucleus (posterior hypothalamic area). The posterior hypothalamic area is concerned with control of sympathetic responses and is sensitive to conditions of decreasing temperature and controls the mechanisms for the conservation and increased production of heat.",
+  "description": "'Posterior hypothalamic region' is a regional part of brain. It is part of the hypothalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "posterior hypothalamic region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002770",
+  "synonym": null
+}

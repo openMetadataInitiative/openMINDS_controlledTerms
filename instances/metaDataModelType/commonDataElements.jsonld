@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/metaDataModelType/commonDataElements",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MetaDataModelType",
+  "definition": "Common Data Elements (CDEs) define standardized key terms or concepts for diseases in form of a data dictionary that can be used in both relational and graph metadata models.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "common data elements",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

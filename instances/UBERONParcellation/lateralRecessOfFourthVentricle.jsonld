@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralRecessOfFourthVentricle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The lateral recess is a projection of the fourth ventricle which extends into the inferior cerebellar peduncle of the brainstem. The lateral aperture, an opening in each extremity of the lateral recess, provides a conduit for cerebrospinal fluid to flow from the brain's ventricular system into the subarachnoid space.",
+  "description": "'Lateral recess of fourth ventricle' is an anatomical entity. It is part of the fourth ventricle.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral recess of fourth ventricle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007656",
+  "synonym": null
+}

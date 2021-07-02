@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basolateralAmygdaloidNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A set of amygdalar nuclei comprising the lateral nucleus (LA), the basal nucleus (BA), and the accessory basal nuclei (ABN). These nuclei are bordered laterally by the external capsule and medially by the central amygdalar nucleus as well as the amygdalohippocampal area. This definition refers to the rat Basolateral nuclear complex.",
+  "description": "'Basolateral amygdaloid nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "basolateral amygdaloid nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006107",
+  "synonym": null
+}

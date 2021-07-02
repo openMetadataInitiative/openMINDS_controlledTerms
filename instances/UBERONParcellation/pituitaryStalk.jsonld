@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pituitaryStalk",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The apical portion of the tubular structure extending from the hypothalamus to the posterior lobe of the pituitary gland.",
+  "description": "'Pituitary stalk' is a regional part of brain. It is part of the neurohypophysis and neurohypophysis.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pituitary stalk",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002434",
+  "synonym": null
+}

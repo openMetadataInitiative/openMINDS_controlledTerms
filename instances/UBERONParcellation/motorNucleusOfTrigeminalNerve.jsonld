@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/motorNucleusOfTrigeminalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nucleus located in the pontine tegmentum containing cells that give rise to motor innervation of the jaw through the trigeminal nerve. It receives both crossed and uncrossed fibers from the cerebral cortex (Heimer, L. The Human Brain and Spinal Cord, 2nd ed., 1996, pg 248).",
+  "description": "'Motor nucleus of trigeminal nerve' is a trigeminal nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "motor nucleus of trigeminal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002633",
+  "synonym": null
+}

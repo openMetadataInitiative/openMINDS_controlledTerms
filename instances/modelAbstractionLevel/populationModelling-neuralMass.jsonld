@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralMass",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "definition": "Modelling neural populations using the approximation of neural masses",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "population modelling: neural mass",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

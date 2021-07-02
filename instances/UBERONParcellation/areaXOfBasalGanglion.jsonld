@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfBasalGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A nucleus in the basal ganglion of songbirds.",
+  "description": "'Area X of basal ganglion' is a nucleus of brain. It is part of the basal ganglion.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "area X of basal ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035807",
+  "synonym": null
+}

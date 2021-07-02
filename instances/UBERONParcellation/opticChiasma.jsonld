@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/opticChiasma",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A decussation of the diencephalon where the fibers of the optic nerve cross.",
+  "description": "'Optic chiasma' is a decussation of diencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "optic chiasma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000959",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/ethicsAssessment/notRequired",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
+  "definition": "An ethics assessment is 'not required' when no ethics approval was needed to conduct the study.",
+  "description": "An ethics assessment is 'not required' when no ethics approval was needed to conduct the study. This is typically true for all simulated and invertebrate data (except cephalopods).",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "not required",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

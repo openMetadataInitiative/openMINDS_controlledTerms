@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalDecussation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Ventral tegmental decussation' is a neural decussation. It is part of the ventral tegmental area.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral tegmental decussation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002615",
+  "synonym": null
+}

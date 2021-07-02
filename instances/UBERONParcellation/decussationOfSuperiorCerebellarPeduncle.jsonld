@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/decussationOfSuperiorCerebellarPeduncle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Regional part of superior cerebellar peduncle located in the caudal midbrain, at the level of the inferior colliculus, consisting of a large bundle of fibers crossing the midline. It contains fibers projecting from the deep cerebellar nucleus to the midbrain and thalamus through the superior cerebellar peduncle (MM). The decussation of superior cerebellar peduncle is the portion of the superior cerebellar peduncle which crosses into the midbrain. [WP,unvetted].",
+  "description": "'Decussation of superior cerebellar peduncle' is a neural decussation. It is part of the midbrain tegmentum and superior cerebellar peduncle.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "decussation of superior cerebellar peduncle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002588",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "definition": "Modelling neural networks in which the action potentials of individual neurons are represented",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spiking neurons",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

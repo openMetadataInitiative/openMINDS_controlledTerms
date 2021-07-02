@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarPlate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The embryonic pseudostratified epithelium of the fourth cerebellar ventricle that eventually forms the vermis and ventral neuroepithelium.",
+  "description": "'Cerebellar plate' is part of the cerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellar plate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004008",
+  "synonym": null
+}

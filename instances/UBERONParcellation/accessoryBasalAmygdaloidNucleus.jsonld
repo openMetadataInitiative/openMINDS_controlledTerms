@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Accessory basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "accessory basal amygdaloid nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002885",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cingulumOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The white matter fiber bundle that projects from the cingulate gyrus to the entorhinal cortex in the brain.",
+  "description": "'Cingulum of brain' is a tract of brain. It is part of the brain white matter.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cingulum of brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003961",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/chemogenetics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Any experimental approach focused on using genetically encoded chemically sensitive proteins in combination with a specific agonist delivered systemically in order to manipulate the behavior of populations of cells.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "chemogenetics",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

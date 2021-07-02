@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/adenohypophysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The glandular, anterior lobe of the pituitary gland. The anterior pituitary regulates several physiological processes including stress, growth, and reproduction[WP]. The anterior lobe of the hypophysis (pituitary gland). This lobe contains cells that produce prolactin, growth hormone, thyroid-stimulating hormone, follicle-stimulating hormone and proopiomelanocortin[ZFA].",
+  "description": "'Adenohypophysis' is part of the pituitary gland.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "adenohypophysis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002196",
+  "synonym": null
+}

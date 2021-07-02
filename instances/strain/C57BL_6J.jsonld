@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/C57BL_6J",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'C57BL/6J' (synonyms: 'B6', 'B6J', 'Black 6', 'C57 Black') is an inbred strain of the species 'Mus musculus'.",
+  "description": null,
+  "identifier": [
+    "MGI:3028467",
+    "JAX:000664"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "C57BL/6J",
+  "preferredOntologyIdentifier": "https://scicrunch.org/resources/Organisms/search?q=IMSR_JAX%3A000664&l=IMSR_JAX%3A000664",
+  "synonym": null
+}

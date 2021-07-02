@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorParietalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Component of the parietal lobe. The inferior parietal cortex label includes the inferior parietal gyrus and the angular gyrus and lies inferior to the superior parietal gyrus. The rostral and caudal boundaries were the supramarginal gyrus and the parieto-occipital incisure respectively. The medial and lateral boundaries were the superior parietal gyrus and the middle temporal gyrus respectively (Christine Fennema-Notestine).",
+  "description": "'Inferior parietal cortex' is part of the parietal lobe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "inferior parietal cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006088",
+  "synonym": null
+}

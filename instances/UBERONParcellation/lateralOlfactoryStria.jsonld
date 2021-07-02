@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralOlfactoryStria",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "White matter tract that contains projections from the olfactory bulb to the olfactory cortex (Maryann Martone).",
+  "description": "'Lateral olfactory stria' is an olfactory tract linking bulb to ipsilateral dorsal telencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral olfactory stria",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001888",
+  "synonym": null
+}

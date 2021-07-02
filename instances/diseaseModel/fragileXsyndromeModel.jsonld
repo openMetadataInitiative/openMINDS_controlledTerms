@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/fragileXsyndromeModel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal fragile X syndrome.",
+  "description": "An animal or cell type model for fragile X syndrome display all or some pathological processes that are observed in the actual disease in humans or animals, such as the general loss of FMR1 gene function.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Model of fragile X syndrome",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

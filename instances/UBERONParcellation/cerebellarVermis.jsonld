@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarVermis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A subregion of the cerebellar cortex, consisting of the most medial zone of the cerebellar cortex, stradding the midline. May be continuous with the lateral cerebellar hemispheres in some areas of the cerebellum, e.g., dorsally, or separated by deeper fissures in others (e.g., ventrally).",
+  "description": "'Cerebellar vermis' is a regional part of cerebellar cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellar vermis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004720",
+  "synonym": null
+}

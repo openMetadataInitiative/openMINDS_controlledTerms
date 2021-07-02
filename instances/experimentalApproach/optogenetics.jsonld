@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/optogenetics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Any experimental approach focused on using genetically encoded light-sensitive proteins in combination with targeted delivery of light in order to manipulate the behavior of populations of cells.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "optogenetics",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-continuous",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "definition": "Systems biology modelling using concentrations",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "systems biology: continuous",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

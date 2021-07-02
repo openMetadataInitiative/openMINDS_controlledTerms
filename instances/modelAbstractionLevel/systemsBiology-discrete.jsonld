@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel",
+  "definition": "Systems biology modelling using representations of individual particles",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "systems biology: discrete",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

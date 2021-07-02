@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medianEminenceOfNeurohypophysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Elevation on the ventral surface of the brain located at the zone of attachment between the hypothalamic floor and the hypophysis (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg. 446).",
+  "description": "'Median eminence of neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the neurohypophysis.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "median eminence of neurohypophysis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002197",
+  "synonym": null
+}

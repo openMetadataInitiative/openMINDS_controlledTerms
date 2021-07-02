@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfAnteriorCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Nucleus of anterior commissure' is a telencephalic nucleus. It is part of the septal nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nucleus of anterior commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002933",
+  "synonym": null
+}

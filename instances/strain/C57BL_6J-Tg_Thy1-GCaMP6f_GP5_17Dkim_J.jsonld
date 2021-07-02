@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/C57BL_6J-Tg_Thy1-GCaMP6f_GP5_17Dkim_J",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'C57BL/6J-Tg(Thy1-GCaMP6f)GP5.17Dkim/J' is a transgenic, coisogenic, mutant strain of the species 'Mus musculus'.",
+  "description": null,
+  "identifier": [
+    "MGI:5563556",
+    "JAX:025393"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "C57BL/6J-Tg(Thy1-GCaMP6f)GP5.17Dkim/J",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

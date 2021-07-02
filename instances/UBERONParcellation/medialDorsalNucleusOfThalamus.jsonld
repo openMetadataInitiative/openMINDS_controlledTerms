@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialDorsalNucleusOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The medial dorsal nucleus (or dorsomedial nucleus of thalamus) is a large nucleus in the thalamus. It receives inputs from the Pre-Frontal Cortex and the Limbic System and in turn relays them to the Pre-Frontal Association Cortex. As a result, it plays a crucial role in attention, planning, organization, abstract thinking, multi-tasking and active memory. The connections of the medial dorsal nucleus have even been used to delineate the prefrontal cortex of the G\u00f6ttingen minipig brain. By stereology the number of brain cells in the region has been estimated to around 6.43 million neurons in the adult human brain and 36.3 million glial cells, and with the newborn having quite different numbers:  around 11.2 million neurons and 10.6 million glial cells. Lesions of the medial dorsal nucleus have been associated with Wernicke's encephalopathy [WP,unvetted].",
+  "description": "'Medial dorsal nucleus of thalamus' is a nucleus of dorsal thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial dorsal nucleus of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002739",
+  "synonym": null
+}

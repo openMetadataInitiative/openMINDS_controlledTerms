@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midlineNuclearGroup",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The midline nuclear group (or midline thalamic nuclei) a region of the thalamus consisting of the following nuclei:  paraventricular nucleus of thalamus (nucleus paraventricularis thalami) - not to be confused with paraventricular nucleus of hypothalamus paratenial nucleus (nucleus parataenialis) reuniens nucleus (nucleus reuniens) rhomboidal nucleus (nucleus commissuralis rhomboidalis) subfascicular nucleus (nucleus subfascicularis) [WP,unvetted].",
+  "description": "'Midline nuclear group' is a nucleus of dorsal thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "midline nuclear group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002705",
+  "synonym": null
+}

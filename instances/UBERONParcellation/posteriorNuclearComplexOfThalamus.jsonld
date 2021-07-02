@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorNuclearComplexOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of thalamus comprising ill defined cellular groups in the caudal thalamus at the meso-diencephalic junction. It is not a homogeneous structure but consists of several distinct cellular groups, including the suprageniculate and limitans nuclei, the magnocellular division of the medial geniculate body, portions of the pulvinar nucleus and an area of mixed cell types intercalated between the ventroposterior nucleus and the nucleus lateral posterior (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 97).",
+  "description": "'Posterior nuclear complex of thalamus' is a nuclear complex of neuraxis and gray matter of diencephalon. It is part of the dorsal thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "posterior nuclear complex of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002709",
+  "synonym": null
+}

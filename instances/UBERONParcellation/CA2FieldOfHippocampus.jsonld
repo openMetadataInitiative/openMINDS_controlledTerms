@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA2FieldOfHippocampus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of hippocampus proper bounded by areas CA3 and CA1, characterized by a narrow layer of large pyramidal cells, similar in size to CA3 pyramidal cells, but which lack the mossy fiber input from the dentate gyrus (adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 460).",
+  "description": "'CA2 field of hippocampus' is a hippocampal field.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "CA2 field of hippocampus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003882",
+  "synonym": null
+}

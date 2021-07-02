@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/matrixCompartmentOfPutamen",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Matrix compartment of putamen' is a matrix compartment. It is part of the putamen.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matrix compartment of putamen",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0029002",
+  "synonym": null
+}

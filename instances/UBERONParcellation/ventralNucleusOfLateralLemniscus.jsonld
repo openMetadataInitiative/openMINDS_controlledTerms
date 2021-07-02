@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfLateralLemniscus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The lateral lemniscus is a tract of axons in the brainstem that carries information about sound from the cochlear nucleus to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain. Three distinct, primarily inhibitory, cellular groups are located interspersed within these fibers, and are thus named the nuclei of the lateral lemniscus. [WP,unvetted].",
+  "description": "'Ventral nucleus of lateral lemniscus' is a brainstem nucleus, nucleus of lateral lemniscus and hindbrain nucleus. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral nucleus of lateral lemniscus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002604",
+  "synonym": null
+}

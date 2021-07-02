@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralHemisphereWhiteMatter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "White matter that is part of a cerebral hemisphere.",
+  "description": "'Cerebral hemisphere white matter' is a white matter of telencephalon. It is part of the cerebral hemisphere.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebral hemisphere white matter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002437",
+  "synonym": null
+}

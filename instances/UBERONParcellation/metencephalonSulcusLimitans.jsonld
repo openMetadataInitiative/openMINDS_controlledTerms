@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/metencephalonSulcusLimitans",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A sulcus limitans of neural tube that is part of a future metencephalon.",
+  "description": "'Metencephalon sulcus limitans' is part of the future metencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "metencephalon sulcus limitans",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009577",
+  "synonym": null
+}

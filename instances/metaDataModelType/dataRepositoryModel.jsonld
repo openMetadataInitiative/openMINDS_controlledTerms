@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/metaDataModelType/dataRepositoryModel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MetaDataModelType",
+  "definition": "A data repository model defines the file and folder naming and structure as well as partially the file content (metadata definitions) and preferred format.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "data repository model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

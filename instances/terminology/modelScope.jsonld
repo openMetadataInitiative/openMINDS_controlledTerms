@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/modelScope",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "model scope",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/rattusNorvegicus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Rattus norvegicus* (brown rat) belongs to the family of *muridae* (murids).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109658",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NCBITaxon:10116#rat",
+  "name": "Rattus norvegicus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+  "synonym": [
+    "brown rat",
+    "Norway rat",
+    "rat"
+  ]
+}

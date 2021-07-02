@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/interneuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "An 'interneuron' is neuron that cannot be classified as sensory receptor or motor neuron.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "interneuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

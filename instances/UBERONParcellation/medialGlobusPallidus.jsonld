@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialGlobusPallidus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The more medial segment of the globus pallidus.",
+  "description": "'Medial globus pallidus' is a cerebral hemisphere gray matter. It is part of the globus pallidus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial globus pallidus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002477",
+  "synonym": null
+}

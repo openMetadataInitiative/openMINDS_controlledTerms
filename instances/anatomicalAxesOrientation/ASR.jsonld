@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASR",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards anterior, superior and right, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ASR",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

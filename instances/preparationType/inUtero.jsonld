@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/preparationType/inUtero",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
+  "definition": "Something happening in, within, or while inside the uterus.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "in utero",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

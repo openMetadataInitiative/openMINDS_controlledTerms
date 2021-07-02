@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileUsageRole/screenshot",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
+  "definition": "A screenshot is an image of the content displayed on the screen of a computer or mobile device.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "screenshot",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

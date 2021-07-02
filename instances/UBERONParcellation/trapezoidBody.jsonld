@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trapezoidBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Bundles of axons traversing the pontine tegmentum oriented in the mediolateral direction. These fibers are related to the auditory pathway. Nuclei are embedded within these fibers.",
+  "description": "'Trapezoid body' is a white matter of pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "trapezoid body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002932",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA3FieldOfHippocampus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of hippocampus proper bounded by the hilus of the dentate gyrus and area CA2, characterized by large pyramidal cells and a dense projection from dentate gyrus granule cell mossy fibers.",
+  "description": "'CA3 field of hippocampus' is a hippocampal field.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "CA3 field of hippocampus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003883",
+  "synonym": null
+}

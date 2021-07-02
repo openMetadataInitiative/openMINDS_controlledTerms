@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parasubiculum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A transitional zone between the presubiculum and the entorhinal area in the mouse (Paxinos-2001), the rat (Swanson-1998) and the primate (Zilles-1990). Defined on the basis of cytoarchitecture, it is more similar to the presubiculum than to the entorhinal area (Zilles-1990). (from Brain Info).",
+  "description": "'Parasubiculum' is a regional part of brain. It is part of the hippocampal formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "parasubiculum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004683",
+  "synonym": null
+}

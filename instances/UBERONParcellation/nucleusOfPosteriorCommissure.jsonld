@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfPosteriorCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nucleus of posterior commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002711",
+  "synonym": null
+}

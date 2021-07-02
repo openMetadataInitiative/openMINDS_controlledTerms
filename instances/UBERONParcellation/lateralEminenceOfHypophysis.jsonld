@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralEminenceOfHypophysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Lateral eminence of hypophysis' is part of the pituitary gland.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral eminence of hypophysis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027109",
+  "synonym": null
+}

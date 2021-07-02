@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/cellBiology",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Any experimental approach focused on structure, function, multiplication, pathology, and life history of biological cells.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cell biology",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739391",
+  "synonym": null
+}

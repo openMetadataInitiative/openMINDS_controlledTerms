@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/modelScope/subcellular-molecular",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
+  "definition": "A model of the structure or behaviour of molecules",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subcellular: molecular",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

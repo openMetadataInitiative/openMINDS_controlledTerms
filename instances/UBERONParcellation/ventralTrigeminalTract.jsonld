@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTrigeminalTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The Anterior trigeminothalamic tract (or ventral trigeminothalamic tract) serves as pain, temperature, and light touch pathway from the face, head and neck. It receives input from trigeminal nerve, facial nerve, glossopharyngeal nerve and vagus nerve. It receives discriminative tactile and pressure input from the contralateral principal sensory nucleus of CN V, which terminates in the ventral posteromedial nucleus of the thalamus. It then ascends to the contralateral sensory cortex via three neurons .",
+  "description": "'Ventral trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral trigeminal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002549",
+  "synonym": null
+}

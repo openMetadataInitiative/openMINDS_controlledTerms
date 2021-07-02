@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The intralaminar nucleus is a nucleus of the thalamus that contains the following nuclei:  central lateral centromedian (or 'central medial') paracentral parafascicular. Some sources also include a 'central dorsal' nucleus. [WP,unvetted].",
+  "description": "'Intralaminar nuclear group' is a nucleus of dorsal thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intralaminar nuclear group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002733",
+  "synonym": null
+}

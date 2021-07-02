@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfFornix",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of fornix adjacent to the crura where they join together at the midline underneath the corpus callosum.",
+  "description": "'Body of fornix' is a central nervous system cell part cluster. It is part of the fornix of brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "body of fornix",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004680",
+  "synonym": null
+}

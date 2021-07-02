@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nuclei in the ventral part of the thalamus, involved in modulating activity of dorsal thalamic nuclei.",
+  "description": "'Ventral nuclear group' is a nucleus of dorsal thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral nuclear group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002776",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfHindbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A white matter that is part of the hindbrain.",
+  "description": "'White matter of hindbrain' is a brain white matter. It is part of the hindbrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "white matter of hindbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019258",
+  "synonym": null
+}

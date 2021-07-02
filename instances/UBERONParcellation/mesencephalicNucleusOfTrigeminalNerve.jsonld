@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mesencephalicNucleusOfTrigeminalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Elongated nucleus located in the midbrain tegmentum that receives proprioceptive input from both teh extraocular and the masticatory muscles. Contrary to the general rule, the cell bodies that give rise to these sensory fibers are located within the mesencephalic nucleus rather than in a peripheral ganglion. Some of the sensory fibers in the mesencephalic root give off collaterals to the trigeminal motor nucleus, thereby providing the anatomic basis for the monosynaptic jaw reflex. (Heimer, L. The Human Brain and Spinal Cord, 2nd ed. 1996, page 248).",
+  "description": "'Mesencephalic nucleus of trigeminal nerve' is a trigeminal sensory nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "mesencephalic nucleus of trigeminal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001718",
+  "synonym": null
+}

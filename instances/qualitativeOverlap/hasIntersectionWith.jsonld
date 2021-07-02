@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/qualitativeOverlap/partiallyOverlapsWith",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/QualitativeOverlap",
+  "definition": "Two sets/objects (A and B) partially overlap when some elements/incidents are part of both original objects (A and B).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "partially overlaps with",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

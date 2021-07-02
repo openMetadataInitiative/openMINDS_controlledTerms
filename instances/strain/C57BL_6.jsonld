@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/C57BL_6",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'C57BL/6' (synonyms: 'B6', 'Black 6', 'C57BL/6-Mx1<sup>s1</sup>') is a strain family of the species 'Mus musculus'.",
+  "description": null,
+  "identifier": [
+    "MGI:2159769"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "C57BL/6",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

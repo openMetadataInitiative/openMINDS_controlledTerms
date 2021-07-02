@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralStriatum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A composite structure of the telencephalon that is defined in the striatopallidal system by connectivity and neurochemical staining. It includes the nucleus accumbens, the most ventral portions of the caudate nucleus and the putamen, the rostrolateral portion of the anterior perforated substance, the islands of Calleja and a rostral subcommissural portion of substantia innominata. The boundary between the ventral striatum and dorsal striatum is indistinct in sections stained for Nissl substance (Heimer-1995; adapted from Brain Info).",
+  "description": "'Ventral striatum' is a gray matter of telencephalon. It is part of the striatum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral striatum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005403",
+  "synonym": null
+}

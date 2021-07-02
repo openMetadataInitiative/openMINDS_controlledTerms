@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/internalMedullaryLaminaOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Predominantly white regional part of thalamus consisting of a Y shaped bundle of fibers that runs the anterior-posterior length of thalamus and divides the thalamus into roughly three regions (MM:  2006-10-26).",
+  "description": "'Internal medullary lamina of thalamus' is a medullary lamina of thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "internal medullary lamina of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002762",
+  "synonym": null
+}

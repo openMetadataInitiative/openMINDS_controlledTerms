@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOpticNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A nerve root that extends_fibers_into a nerve connecting eye with brain.",
+  "description": "'Root of optic nerve' is a root of cranial nerve.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "root of optic nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009906",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralSubcortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The layer located below the cerebral cortex that includes the forebrain, midbrain and hindbrain.",
+  "description": "'Cerebral subcortex' is part of the brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebral subcortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000454",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pinealBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A midline, cone like structure located in the dorso-caudal roof of the 3rd ventricle, attached by peduncles to the habenular and posterior commissures. The stalk contains nerve fibers, blood vessels, connective tissue and parenchymal cells (Paxinos, The Rat Central Nervous System, 2nd ed, pg 399).",
+  "description": "'Pineal body' is a gland of diencephalon and secretory circumventricular organ. It is part of the pineal complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pineal body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001905",
+  "synonym": null
+}

@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BiologicalSex",
+  "definition": "Biological sex with both male and female reproductive organs.",
+  "description": "A hermaphrodite is an animal or plant that can produce gametes (reproductive cells) of both, male and female sexes. In sexually dimorphic organisms, hermaphroditism may occur because of variations in the genetic code. The term *hermaphrodite* is considered to be misleading, stigmatizing, and scientifically specious in reference to humans. For this reason, in humans the term *intersex* is typically used.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104963",
+  "knowledgeSpaceLink": null,
+  "name": "hermaphrodite",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PATO_0001340",
+  "synonym": [
+    "intersex"
+  ]
+}

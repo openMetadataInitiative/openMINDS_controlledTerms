@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialLemniscusOfPons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of medial lemniscus located within the pons.",
+  "description": "'Medial lemniscus of pons' is a nervous system lemniscus. It is part of the medial lemniscus and pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial lemniscus of pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002958",
+  "synonym": null
+}

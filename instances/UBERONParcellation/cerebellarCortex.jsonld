@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The superficial gray matter of the cerebellum. It consists of three main layers, the molecular layer, the Purkinje cell layer and the granule cell layer.",
+  "description": "'Cerebellar cortex' is a gray matter of hindbrain. It is part of the cerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellar cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002129",
+  "synonym": null
+}

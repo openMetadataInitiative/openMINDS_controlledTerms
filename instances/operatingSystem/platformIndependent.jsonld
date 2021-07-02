@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/operatingSystem/platformIndependent",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "platform independent",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q174666",
+  "synonym": null
+}

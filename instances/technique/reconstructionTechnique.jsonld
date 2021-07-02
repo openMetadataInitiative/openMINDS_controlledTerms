@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/reconstructionTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'reconstruction technique' is able to re-build, re-assemble, re-create, or re-imagine something by applying (often mathematical) principles to physical evidence.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "reconstruction technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

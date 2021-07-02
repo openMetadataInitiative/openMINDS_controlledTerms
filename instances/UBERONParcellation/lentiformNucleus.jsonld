@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lentiformNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The lentiform nucleus or lenticular nucleus comprises the putamen and the globus pallidus within the basal ganglia. It is a large, cone-shaped mass of gray matter just lateral to the internal capsule. [WP,unvetted].",
+  "description": "'Lentiform nucleus' is a telencephalic nucleus. It is part of the ventral striatum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lentiform nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002263",
+  "synonym": null
+}

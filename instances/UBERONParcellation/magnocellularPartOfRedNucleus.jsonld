@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The magnocellular red nucleus (RNm) is located in the rostral midbrain and is involved in motor coordination. Together with the parvocellular red nucleus, it makes up the red nucleus.",
+  "description": "'Magnocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "magnocellular part of red nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002936",
+  "synonym": null
+}

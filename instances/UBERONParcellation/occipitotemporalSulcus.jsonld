@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/occipitotemporalSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Occipitotemporal sulcus' is a subarachnoid sulcus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "occipitotemporal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002693",
+  "synonym": null
+}

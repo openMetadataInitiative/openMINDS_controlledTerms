@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/productAccessibility/underEmbargo",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
+  "definition": "With 'under embargo' selected, metadata are released, but data remain unavailable for the public until the embargo is lifted.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "under embargo",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

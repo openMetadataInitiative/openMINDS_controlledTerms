@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA1FieldOfHippocampus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of hippocampus proper bounded by CA2 and the subiculum, characterized by pyramidal neurons that receive projections from pyramidal neurons of CA3 via the Schaffer collaterals.",
+  "description": "'CA1 field of hippocampus' is a hippocampal field.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "CA1 field of hippocampus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003881",
+  "synonym": null
+}

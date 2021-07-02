@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileBundleGrouping/behavioralTask",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "behavioral task",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

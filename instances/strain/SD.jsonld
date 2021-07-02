@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/SD",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'SD' (synonyms: 'Sprague-Dawley rat') is an outbred strain of the species 'Rattus norvegicus' with an 'albino' coat color.",
+  "description": null,
+  "identifier": [
+    "RGDID:70508",
+    "RRID:RGD_70508"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "SD",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

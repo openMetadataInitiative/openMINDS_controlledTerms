@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/3DPolarizedLightImaging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'3D polarized light imaging' (synonym: 3D-PLI) is a 3D reconstruction process of high-resoluted image data originating from polorized light microscopy.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "3D polarized light imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaInnominata",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A predominantly gray matter structure of the basal telencephalon defined on the basis of Nissl stain. Caudal to the anterior commissure it lies deep to the globus pallidus and dorsal to the amygdala. Rostral to the anterior commissure it lies deep to the striatum. The more rostral portion contains the basal forebrain nucleus ( Anthoney-1994 ). In the late twentieth century the region containing the substantia innominata was resegmented on the basis of neurochemistry and connectivity to constitute the striatopallidal system ( Heimer-1995 ). In this scheme the caudal portion of substantia innominata is located largely in the ventral pallidum and the rostral portion in the ventral striatum. (from Brain Info).",
+  "description": "'Substantia innominata' is a telencephalic nucleus. It is part of the ventral pallidum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "substantia innominata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003017",
+  "synonym": null
+}

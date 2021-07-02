@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfTailOfCaudateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Matrix compartment located in the tail of the caudate nucleus.",
+  "description": "'Matrix part of tail of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the tail of caudate nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matrix part of tail of caudate nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027246",
+  "synonym": null
+}

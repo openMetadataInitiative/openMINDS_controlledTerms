@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularOculomotorNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nucleus that is part of the oculomotor nerve complex consisting of preganglionic parasympathetic neurons situated close to the midline at the level of the superior colliculus (Heimer, the Human Brain and Spinal Cord, 1994, pg 244).",
+  "description": "'Parvocellular oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "parvocellular oculomotor nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002141",
+  "synonym": null
+}

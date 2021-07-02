@@ -1,0 +1,8 @@
+{
+  "@id": "https://openminds.ebrains.eu/instances/disease/autismSpectrumDIsorderModel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "name": "Model of autism spectrum disorder",
+  "definition": "An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal autism sprectrum disorder.",
+  "description": null,
+  "ontologyIdentifier": null
+}

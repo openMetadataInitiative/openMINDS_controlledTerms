@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralTegmentalArea",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Unpaired midbrain region situated in the ventromedial portion of the reticular formation. The VTA is medial to the substantia nigra and ventral to the red nucleus, and extends caudally from the posterior hypothalamus in the diencephalon. The VTA contains dopamine neurons that project to various limbic and cortical areas and is a critical component of the brain's reward circuitry.",
+  "description": "'Ventral tegmental area' is a regional part of brain. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral tegmental area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002691",
+  "synonym": null
+}

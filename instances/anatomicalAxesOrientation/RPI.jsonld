@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPI",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards right, posterior and inferior, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "RPI",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

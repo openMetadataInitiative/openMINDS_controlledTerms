@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/LEW_Ztm",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'LEW/Ztm' (synonyms: 'Lewis Ztm substrain rat') is an inbred strain of the species 'Rattus norvegicus'.",
+  "description": null,
+  "identifier": [
+    "RGDID:737930",
+    "RRID:RGD_737930"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "LEW/Ztm",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

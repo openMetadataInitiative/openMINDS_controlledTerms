@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A bundle of myelinated nerve fibers passing transversely through the lamina terminalis and connecting symmetrical parts of the two cerebral hemispheres; it consists of a smaller anterior part (pars anterior commissurae anterioris) and a larger posterior part (pars posterior commissurae anterioris).",
+  "description": "'Anterior commissure' is an intercerebral commissure and ventral commissure.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anterior commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000935",
+  "synonym": null
+}

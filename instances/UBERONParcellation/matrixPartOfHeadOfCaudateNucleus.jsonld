@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/matrixPartOfHeadOfCaudateNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Matrix compartment located in the head of the caudate nucleus.",
+  "description": "'Matrix part of head of caudate nucleus' is a matrix compartment of caudate nucleus. It is part of the head of caudate nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matrix part of head of caudate nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027245",
+  "synonym": null
+}

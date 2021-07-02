@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/postcommissuralFornixOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The posterior fibers of the fornix, which continue through the hypothalamus to the mammillary bodies; then to the anterior nuclei of thalamus, which project to the cingulate cortex.",
+  "description": "'Postcommissural fornix of brain' is a tract of diencephalon. It is part of the fornix of brain and lateral hypothalamic area.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "postcommissural fornix of brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003016",
+  "synonym": null
+}

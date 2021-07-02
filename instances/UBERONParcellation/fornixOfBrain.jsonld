@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fornixOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A C-shaped bundle of fibres (axons) in the brain, and carries signals from the hippocampus to the mammillary bodies and septal nuclei. It is typically divided into the columns (crus), body, commissure and the pre-commissural and post-commissural fornix (MM).",
+  "description": "'Fornix of brain' is a tract of brain. It is part of the hippocampal formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fornix of brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000052",
+  "synonym": null
+}

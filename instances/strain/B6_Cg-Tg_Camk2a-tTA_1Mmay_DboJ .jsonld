@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/B6_Cg-Tg_Camk2a-tTA_1Mmay_DboJ",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'B6.Cg-Tg(Camk2a-tTA)1Mmay/DboJ' (synonyms: 'B6.CBA-Tg(Camk2a-tTA)1Mmay/DboJ') is a transgenic, congenic, mutant strain of the species 'Mus musculus'.",
+  "description": null,
+  "identifier": [
+    "MGI:3719444",
+    "JAX:007004"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "B6.Cg-Tg(Camk2a-tTA)1Mmay/DboJ",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

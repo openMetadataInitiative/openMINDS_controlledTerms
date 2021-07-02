@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/futureMetencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A developing anatomical structure that has the potential to develop into a metencephalon.",
+  "description": "'Future metencephalon' is part of the hindbrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "future metencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010092",
+  "synonym": null
+}

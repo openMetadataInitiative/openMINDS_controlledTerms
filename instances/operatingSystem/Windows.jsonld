@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/operatingSystem/Windows",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Windows",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q1406",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/gitHub",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
+  "definition": "A GitHub repository offers version control and source code management functionalities of Git, plus some GitHub features (e.g., access control, bug tracking, feature requests, task management, continous integration, and wikis).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "GitHub repository",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

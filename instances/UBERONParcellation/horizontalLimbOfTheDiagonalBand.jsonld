@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/horizontalLimbOfTheDiagonalBand",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Horizontal limb of the diagonal band' is a subdivision of diagonal band.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "horizontal limb of the diagonal band",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006123",
+  "synonym": null
+}

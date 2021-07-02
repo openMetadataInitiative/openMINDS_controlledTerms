@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The part of the central nervous system lying between the medulla oblongata and the midbrain, ventral to the cerebellum.",
+  "description": "'Pons' is a regional part of brain. It is part of the metencephalon and brainstem.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000988",
+  "synonym": null
+}

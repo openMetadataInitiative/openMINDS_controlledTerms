@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumVasculature",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A vasculature that is part of a cerebellum.",
+  "description": "'Cerebellum vasculature' is a vasculature of central nervous system. It is part of the cerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellum vasculature",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006694",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/semanticDataType/simulatedData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SemanticDataType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "simulated data",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

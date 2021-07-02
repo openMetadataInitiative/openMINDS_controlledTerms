@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/meninxOfHindbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Meninx of hindbrain' is a brain meninx. It is part of the hindbrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "meninx of hindbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003291",
+  "synonym": null
+}

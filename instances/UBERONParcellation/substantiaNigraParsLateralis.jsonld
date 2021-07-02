@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsLateralis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Substantia nigra pars lateralis' is a regional part of brain. It is part of the substantia nigra.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "substantia nigra pars lateralis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002995",
+  "synonym": null
+}

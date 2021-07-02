@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medullaOblongata",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Organ component of neuraxis that has as its parts the medullary reticular formation, inferior olivary complex and cochlear nuclear complex, among other structures[FMA]. The medulla oblongata lies directly above the spinal cord and controls vital autonomic functions such as digestion, breathing and the control of heart rate[GO].",
+  "description": "'Medulla oblongata' is part of the brainstem and myelencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medulla oblongata",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001896",
+  "synonym": null
+}

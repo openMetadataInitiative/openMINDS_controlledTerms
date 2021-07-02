@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/temporalLobe",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Lower lateral part of the cerebral hemisphere. (MSH).",
+  "description": "'Temporal lobe' is a lobe of cerebral hemisphere.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "temporal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001871",
+  "synonym": null
+}

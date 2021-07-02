@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Copmonent of the parietal lobe. The rostral and caudal boundaries of the superior parietal cortex were the precentral gyrus and lateral occipital cortex respectively. The medial and lateral boundaries were the precuneus and/or cuneus cortex and the infererior parietal cortex respectively (Christine Fennema-Notestine).",
+  "description": "'Superior parietal cortex' is part of the parietal lobe and neocortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "superior parietal cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006094",
+  "synonym": null
+}

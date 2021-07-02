@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/calcarineSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The calcarine fissure is an anatomical landmark located at the caudal end of the medial surface of the brain. [WP,unvetted].",
+  "description": "'Calcarine sulcus' is a sulcus of brain. It is part of the cerebral cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "calcarine sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002586",
+  "synonym": null
+}

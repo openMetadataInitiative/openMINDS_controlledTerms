@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/regionalPartOfCerebellarCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Regional part of cerebellar cortex' is a regional part of brain. It is part of the cerebellar cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "regional part of cerebellar cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002749",
+  "synonym": null
+}

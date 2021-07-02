@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ammonsHorn",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A part of the brain consisting of a three layered cortex located in the forebrain bordering the medial surface of the lateral ventricle. The term hippocampus is often used synonymously with hippocampal formation which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subiculum.",
+  "description": "'Ammon's horn' is a regional part of brain. It is part of the limbic system, hippocampal formation and limbic lobe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Ammon's horn",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001954",
+  "synonym": null
+}

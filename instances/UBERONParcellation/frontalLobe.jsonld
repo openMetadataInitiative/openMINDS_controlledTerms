@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/frontalLobe",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Frontal lobe is the anterior-most of five lobes of the cerebral hemisphere. It is bounded by the central sulcus on its posterior border and by the longitudinal cerebral fissure on its medial border.",
+  "description": "'Frontal lobe' is a lobe of cerebral hemisphere.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "frontal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016525",
+  "synonym": null
+}

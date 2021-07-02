@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOlivaryComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Largest nucleus situated in the olivary body, part of the medulla oblongata. It is closely associated with the cerebellum, but its specific function is voluntary body movements.",
+  "description": "'Inferior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the olivary body.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "inferior olivary complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002127",
+  "synonym": null
+}

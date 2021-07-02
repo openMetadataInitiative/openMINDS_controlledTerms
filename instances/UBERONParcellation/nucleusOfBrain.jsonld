@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A neural nucleus that is part of the brain.",
+  "description": "'Nucleus of brain' is a neural nucleus. It is part of the brain gray matter.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nucleus of brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002308",
+  "synonym": null
+}

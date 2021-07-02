@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/middleCerebellarPeduncle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Regional part of medullary white matter (according to Neuronames) primarily found at the level of the pons, consisting of a very large bundle of fibers originating in the pontine nuclei projecting to the cerebellum (MM).",
+  "description": "'Middle cerebellar peduncle' is a cerebellar peduncle and white matter of pons. It is part of the basal part of pons.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "middle cerebellar peduncle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002152",
+  "synonym": null
+}

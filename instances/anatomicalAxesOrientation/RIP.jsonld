@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIP",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation",
+  "definition": "X, Y, Z axes are oriented towards right, inferior and posterior, respectively.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "RIP",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

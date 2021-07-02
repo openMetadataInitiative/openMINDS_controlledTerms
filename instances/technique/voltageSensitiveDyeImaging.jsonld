@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/voltageSensitiveDyeImaging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Voltage sensitive dye imaging' is an experimental technique to measure neuronal population activity from in vivo brains or live brain slices by transducing changes in the cell membrane potential into changes of fluorescence emmission by an employed exogenous chemical agent.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "voltage sensitive dye imaging",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

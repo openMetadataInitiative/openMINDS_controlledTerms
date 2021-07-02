@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorNuclearGroup",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Mostly gray regional part of anterior thalamic region, consisting of the anterior medial, anterior dorsal and anterior lateral thalamic nuclei in primates. In rodents, it consists of anterior medial and anterior ventral divisions, with several subdivisions of each, according to Paxinos (MM:  2006-10-26).",
+  "description": "'Anterior nuclear group' is a nucleus of dorsal thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anterior nuclear group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002788",
+  "synonym": null
+}

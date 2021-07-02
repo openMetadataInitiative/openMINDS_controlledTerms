@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampusAlveus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Regional part of fornix consisting of a thin layer of white matter on the surface of the hippocampal formation, bordering the wall of the lateral ventricle and composed of white, myelinated fibers. The alveus arises from cell bodies in the subiculum and hippocampus, and eventually merges with the fimbria of the hippocampus. The fimbria goes on to become the fornix (MM:  2006-10-26).",
+  "description": "'Hippocampus alveus' is a central nervous system cell part cluster and central nervous system white matter layer. It is part of the hippocampal formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hippocampus alveus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007639",
+  "synonym": null
+}

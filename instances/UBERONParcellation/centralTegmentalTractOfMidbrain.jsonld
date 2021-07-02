@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfMidbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Central tegmental tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and central tegmental tract.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "central tegmental tract of midbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002585",
+  "synonym": null
+}

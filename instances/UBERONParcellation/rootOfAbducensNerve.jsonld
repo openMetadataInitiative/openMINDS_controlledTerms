@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfAbducensNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nerve fibers arising from motor neurons in the abducens nucleus that are contained within the pontine tegmentum.",
+  "description": "'Root of abducens nerve' is a root of cranial nerve. It is part of the medulla oblongata.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "root of abducens nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002786",
+  "synonym": null
+}

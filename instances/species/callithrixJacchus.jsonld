@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/callithrixJacchus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Callithrix jacchus* (common marmoset) belongs to the family of *callitrichidae* (new world monkeys).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Callithrix jacchus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9483",
+  "synonym": [
+    "Callithrix jacchus jacchus",
+    "common marmoset",
+    "white-tufted-ear marmoset",
+    "white ear-tufted marmoset"
+  ]
+}

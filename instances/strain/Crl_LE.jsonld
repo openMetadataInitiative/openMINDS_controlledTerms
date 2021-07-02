@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/Crl_LE",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'Crl:LE' (synonyms: 'Long-Evans rat'; 'Crl:(LE)BR'; 'Long-Evans Hooded rat'; 'LE Hooded rat') is an outbred strain of the species 'Rattus norvegicus' with white coat color.",
+  "description": null,
+  "identifier": [
+    "RGDID:2308852",
+    "RRID:RGD_2308852"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Crl:LE",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

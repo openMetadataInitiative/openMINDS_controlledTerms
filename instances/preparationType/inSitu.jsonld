@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/preparationType/inSitu",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
+  "definition": "Something happening or being examined in the original place instead of being moved to another place",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "in situ",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

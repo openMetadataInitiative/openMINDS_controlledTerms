@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/striosomalPartOfPutamen",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Striosomal part of putamen' is a striosome. It is part of the putamen.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "striosomal part of putamen",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0029005",
+  "synonym": null
+}

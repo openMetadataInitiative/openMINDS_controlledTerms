@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigra",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Predominantly gray matter midbrain structure lying dorsal to the crus cerebri and ventral to the midbrain tegmentum. It is divided into a dorsal, cellularly compact region known as the pars compacta and a more ventrally located, containing more loosely packed cells, the pars reticulata. The most lateral region of the reticulata is identified as the pars lateralis (MM).",
+  "description": "'Substantia nigra' is a midbrain nucleus. It is part of the basal ganglion.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "substantia nigra",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002038",
+  "synonym": null
+}

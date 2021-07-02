@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorOlivaryComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A a collection of brainstem nuclei that functions in multiple aspects of hearing and is an important component of the ascending and descending auditory pathways of the auditory system.",
+  "description": "'Superior olivary complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "superior olivary complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002128",
+  "synonym": null
+}

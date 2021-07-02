@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusMolecularLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The molecular layer of the dentate gyrus that is bounded by the pial surface superficially and the dentate gyrus granule cell layer deep. It is divided into 2 or more sublayers.",
+  "description": "'Dentate gyrus molecular layer' is a layer of dentate gyrus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dentate gyrus molecular layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004679",
+  "synonym": null
+}

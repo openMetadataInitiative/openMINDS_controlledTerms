@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rostralMigratoryStream",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Unique telencephalic subventricular zones that extend from the lateral ventricles into the olfactory bulbs. Newly produced GABAergic interneurons migrate along the RMS and settle in the bulb.",
+  "description": "'Rostral migratory stream' is a regional part of brain. It is part of the telencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "rostral migratory stream",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008881",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paravermisPartsOfTheCerebellarCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Paravermis parts of the cerebellar cortex' is a regional part of cerebellar cortex. It is part of the cerebellum intermediate zone.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "paravermis parts of the cerebellar cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025677",
+  "synonym": null
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/LEW_Crl",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'LEW/Crl' (synonyms: 'Lewis rat', 'MDC-01-40', 'LEW/CrlBR') is an inbred strain of the species 'Rattus norvegicus'.",
+  "description": "This strain was originally developed by Dr. Lewis from a Wistar stock in the early 1950s. Since 1970, the source of the strain are the Charles River Laboratories.",
+  "identifier": [
+    "RGDID:737932",
+    "RRID:RGD_737932"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "LEW/Crl",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrainCorticalIntermediateZone",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Hindbrain cortical intermediate zone' is a cortical intermediate zone. It is part of the hindbrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hindbrain cortical intermediate zone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034994",
+  "synonym": null
+}

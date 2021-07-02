@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/uncinateFasciculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Pathway arising from the fastigial nucleus to the vestibular nuclei, reticular formation, motor neurons of brainstem and cervical spinal cord (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 261).",
+  "description": "'Uncinate fasciculus' is a fasciculus of brain. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "uncinate fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003044",
+  "synonym": null
+}

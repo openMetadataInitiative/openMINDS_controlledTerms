@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/wholeCellPatchClamp",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Whole cell patch clamp' is a patch clamp technique where the pipette is sealed onto a cell membrane applying enough suction to rupture the membrane patch in order to provide access from the interior of the pipette to the intracellular space of the cell.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "whole cell patch clamp",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

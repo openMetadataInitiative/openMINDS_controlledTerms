@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/failed",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "definition": "An action that failed to complete",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "failed",
+  "preferredOntologyIdentifier": "https://schema.org/FailedActionStatus",
+  "synonym": null
+}

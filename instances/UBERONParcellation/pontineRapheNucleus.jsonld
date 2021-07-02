@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pontineRapheNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The pontine raphe nucleus is one of the raphe nuclei. It is located in the pontine tegmentum. [WP,unvetted].",
+  "description": "'Pontine raphe nucleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum and raphe nuclei.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pontine raphe nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002047",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryMedullaryLaminaOfGlobusPallidus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Thin bundle of myelinated axons that divides the medial pallidal segment into outer and inner portions (Carpenter, Core Text of Neuroanatomy, 3rd ed., 1985, pg. 303).",
+  "description": "'Accessory medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the medial globus pallidus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "accessory medullary lamina of globus pallidus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002763",
+  "synonym": null
+}

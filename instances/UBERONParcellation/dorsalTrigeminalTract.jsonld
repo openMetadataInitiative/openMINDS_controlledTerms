@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalTrigeminalTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The dorsal trigeminal tract (dorsal trigeminothalamic tract, or lemniscus) is a tract which receives signals from Meissner's corpuscles and Pacinian corpuscles. this tract arises from Principal trigeminal nucleus and terminates in the VPM nucleus of the thalamus. [WP,unvetted].",
+  "description": "'Dorsal trigeminal tract' is a trigeminothalamic tract and tract of brain. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsal trigeminal tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002797",
+  "synonym": null
+}

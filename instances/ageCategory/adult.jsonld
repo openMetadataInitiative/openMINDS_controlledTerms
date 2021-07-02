@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/ageCategory/adult",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "definition": "'Adult' categorizes the life cycle stage of an animal or human that reached sexual maturity.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729043",
+  "knowledgeSpaceLink": null,
+  "name": "adult",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000113",
+  "synonym": [
+    "adult stage",
+    "post-juvenile adult",
+    "post-juvenile adult stage"
+  ]
+}

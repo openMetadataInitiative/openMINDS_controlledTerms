@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/danioRerio",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Danio rerio* (zebrafish) belongs to the family of *cyprinidae* (cyprinids, freshwater fish).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0783580",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NCBITaxon:7955#danio-rerio",
+  "name": "Danio rerio",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+  "synonym": [
+    "zebrafish",
+    "zebra fish",
+    "zebra danio",
+    "leopard danio",
+    "Danio frankei",
+    "Cyprinus rerio",
+    "Danio rerio frankei",
+    "Brachydanio rerio frankei",
+    "Brachydanio rerio"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/precommissuralFornixOfForebrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of fornix extending from the body that curves ventrally rostral to the crossing of the anterior commissure ending in the septal nuclei.",
+  "description": "'Precommissural fornix of forebrain' is a tract of brain. It is part of the fornix of brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "precommissural fornix of forebrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014539",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/active",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "definition": "An in-progress action",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "active",
+  "preferredOntologyIdentifier": "https://schema.org/ActiveActionStatus",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paraterminalGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The paraterminal gyrus (subcallosal gyrus, peduncle of the corpus callosum) is a narrow lamina on the medial surface of the hemisphere in front of the lamina terminalis, behind the parolfactory area, and below the rostrum of the corpus callosum. It is continuous around the genu of the corpus callosum with the supracallosal gyrus. [WP,unvetted].",
+  "description": "'Paraterminal gyrus' is a supracallosal gyrus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "paraterminal gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002603",
+  "synonym": null
+}

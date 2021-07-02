@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trochlearNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nucleus in the midbrain at the level of the inferior colliculus near the midline, containing the motor neurons giving rise to the trochlear nerve, innervating the contralateral superior oblique extraocular muscle of the eye (Brodal, Neurological Anatomy, 3rd ed, 1981, pg. 533).",
+  "description": "'Trochlear nucleus' is a cranial nerve nucleus, brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "trochlear nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002722",
+  "synonym": null
+}

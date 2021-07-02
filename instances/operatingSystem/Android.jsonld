@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/operatingSystem/Android",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Android",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q94",
+  "synonym": null
+}

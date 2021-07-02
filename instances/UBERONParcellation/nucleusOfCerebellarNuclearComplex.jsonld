@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfCerebellarNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Four accumulations of gray substance embedded in the white substance of the cerebellum, comprising the nucleus dentatus, nucleus emboliformis, nucleus globosus, and nucleus fastigii.",
+  "description": "'Nucleus of cerebellar nuclear complex' is a hindbrain nucleus. It is part of the cerebellar nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nucleus of cerebellar nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008995",
+  "synonym": null
+}

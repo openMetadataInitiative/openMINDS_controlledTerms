@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/compositePartSpanningMultipleBaseRegionalPartsOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Composite part spanning multiple base regional parts of brain' is an anatomical entity. It is part of the brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "composite part spanning multiple base regional parts of brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022776",
+  "synonym": null
+}

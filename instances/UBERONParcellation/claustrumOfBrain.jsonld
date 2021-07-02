@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/claustrumOfBrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "One of the four basal ganglia in each cerebral hemisphere that consists of a thin lamina of gray matter between the lentiform nucleus and the insula[BTO]. The claustrum, which is suspected to be present in all mammals, is a fairly thin (fraction of 1 mm to multiple mms) vertical curved sheet of subcortical gray matter oriented sagittally between the white matter tracts of the external capsule and extreme capsule. The claustrum is lateral to the putamen and medial to the insular cortex and is considered by some sources to be part of the basal ganglia. There are lateral and medial tracts connecting to many cortices and perhaps to the hippocampus, the amygdala, and the caudate nucleus (connections with subcortical centers are a matter of debate)[WP].",
+  "description": "'Claustrum of brain' is a basal ganglion and cerebral hemisphere gray matter. It is part of the pallium and basal nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "claustrum of brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002023",
+  "synonym": null
+}

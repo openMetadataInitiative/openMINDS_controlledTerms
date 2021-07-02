@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/alzheimersDisease",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Alzheimer's disease",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_10652",
+  "synonym": null
+}

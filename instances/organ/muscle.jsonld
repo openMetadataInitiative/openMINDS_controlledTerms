@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/organ/muscle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Organ",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "muscle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001630",
+  "synonym": null
+}

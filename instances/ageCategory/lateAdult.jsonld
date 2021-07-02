@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/ageCategory/lateAdult",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "definition": "'Late adult' categorizes the life cycle stage of an animal or human that follows the prime adult stage.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725713",
+  "knowledgeSpaceLink": null,
+  "name": "late adult",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007222",
+  "synonym": [
+    "late adult stage",
+    "geriatric stage",
+    "geriatric",
+    "elderly stage",
+    "elderly"
+  ]
+}

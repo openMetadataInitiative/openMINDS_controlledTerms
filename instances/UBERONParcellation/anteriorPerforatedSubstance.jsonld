@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorPerforatedSubstance",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Regional part of telencephalon lying on the basal surface and bounded by the olfactory trigone rostrally, the diagonal band medially and caudally and the prepiriform cortex laterally. It is characterized by many perforations caused by small blood vessels entering the gray matter (Meyer et al., J. Comp. Neurol 284:  405, 1989).",
+  "description": "'Anterior perforated substance' is a regional part of brain. It is part of the telencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anterior perforated substance",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018141",
+  "synonym": null
+}

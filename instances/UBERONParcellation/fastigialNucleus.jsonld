@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fastigialNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The most medial of the cerebellar nuclei; it receives its afferent input from Purkinje cells of the flocculonodular lobe and the vermis, and most of its efferent connections travel via the inferior cerebellar peduncle to the vestibular nuclei and to the medullary reticular formation.",
+  "description": "'Fastigial nucleus' is a nucleus of cerebellar nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fastigial nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002153",
+  "synonym": null
+}

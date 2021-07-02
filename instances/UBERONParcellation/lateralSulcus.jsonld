@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A sulcus that divides the frontal lobe and parietal lobe above from the temporal lobe below. It is in both hemispheres of the brain but is longer in the left hemisphere. The lateral sulcus is one of the earliest-developing sulci of the human brain. It first appears around the fourteenth gestational week[WP,modified].",
+  "description": "'Lateral sulcus' is a subarachnoid sulcus. It is part of the cerebral cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002721",
+  "synonym": null
+}

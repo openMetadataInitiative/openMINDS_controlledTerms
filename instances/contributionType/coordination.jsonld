@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/contributionType/coordination",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ContributionType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "coordination",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

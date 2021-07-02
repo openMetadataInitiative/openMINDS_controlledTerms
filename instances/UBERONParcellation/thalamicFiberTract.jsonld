@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/thalamicFiberTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Thalamic fiber tract' is a tract of diencephalon. It is part of the dorsal plus ventral thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "thalamic fiber tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025261",
+  "synonym": null
+}

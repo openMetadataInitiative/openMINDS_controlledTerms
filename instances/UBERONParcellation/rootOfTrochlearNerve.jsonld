@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfTrochlearNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Root of trochlear nerve' is a root of cranial nerve. It is part of the brainstem.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "root of trochlear nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002618",
+  "synonym": null
+}

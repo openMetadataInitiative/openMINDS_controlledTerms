@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/collateralSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The collateral fissure (or sulcus) is on the tentorial surface of the hemisphere and extends from near the occipital pole to within a short distance of the temporal pole. Behind, it lies below and lateral to the calcarine fissure, from which it is separated by the lingual gyrus; in front, it is situated between the hippocampal gyrus and the anterior part of the fusiform gyrus. [WP,unvetted].",
+  "description": "'Collateral sulcus' is a subarachnoid sulcus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "collateral sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002716",
+  "synonym": null
+}

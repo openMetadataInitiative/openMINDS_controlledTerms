@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/asserted",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "asserted",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

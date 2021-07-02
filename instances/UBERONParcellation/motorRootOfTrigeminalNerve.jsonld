@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Motor root of trigeminal nerve' is a trigeminal nerve root.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "motor root of trigeminal nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002796",
+  "synonym": null
+}

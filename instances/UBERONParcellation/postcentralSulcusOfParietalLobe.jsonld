@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/postcentralSulcusOfParietalLobe",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The postcentral sulcus of the parietal lobe lies parallel to, and behind, the central sulcus in the human brain. (A sulcus is one of the prominent grooves on the surface of the brain. ) The postcentral sulcus divides the postcentral gyrus from the remainder of the parietal lobe. [WP,unvetted].",
+  "description": "'Postcentral sulcus of parietal lobe' is a sulcus of parietal lobe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "postcentral sulcus of parietal lobe",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002915",
+  "synonym": null
+}

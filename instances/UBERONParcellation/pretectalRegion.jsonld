@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pretectalRegion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nuclear complex between dorsal thalamus and optic tectum whose nuclei receive afferents primarily from the retina and the optic tectum and are involved in modulating motor behavior in response to visual input.",
+  "description": "'Pretectal region' is a brain gray matter and nuclear complex of neuraxis.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pretectal region",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001944",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "White matter tract that contains projections from the olfactory bulb to other parts of the brain.",
+  "description": "'Olfactory tract' is a tract of brain. It is part of the white matter of telencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "olfactory tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002265",
+  "synonym": null
+}

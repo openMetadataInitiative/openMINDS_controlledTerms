@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/organ/brain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Organ",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "brain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000955",
+  "synonym": null
+}

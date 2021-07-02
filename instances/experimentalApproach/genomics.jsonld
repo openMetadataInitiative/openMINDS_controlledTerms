@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/genomics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Any experimental approach focused on structure, function, evolution, and mapping of genomes, the entiretiy of the genetic material of a single organism.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "genomics",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741204",
+  "synonym": null
+}

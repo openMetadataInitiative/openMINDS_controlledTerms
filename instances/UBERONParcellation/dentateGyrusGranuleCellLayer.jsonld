@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dentateGyrusGranuleCellLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Granule cell layer is also called the DG principal cell layer. This one of the three layers of dentate gyrus that lies deep to the molecular layer and is made of densely packed layer that is four to eight granule cells thick.",
+  "description": "'Dentate gyrus granule cell layer' is a layer of dentate gyrus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dentate gyrus granule cell layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005381",
+  "synonym": null
+}

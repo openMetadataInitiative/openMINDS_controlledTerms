@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/williamsBeurenSyndrome",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Williams-Beuren syndrome",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_1928",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialMedullaryLaminaOfGlobusPallidus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Thin sheet of white matter dividing the external and internal segments of the globus pallidus in primates.",
+  "description": "'Medial medullary lamina of globus pallidus' is a white matter lamina of cerebral hemisphere. It is part of the globus pallidus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial medullary lamina of globus pallidus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002727",
+  "synonym": null
+}

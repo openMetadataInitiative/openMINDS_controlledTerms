@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rhombicLip",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The posterior section of the developing metencephalon recognized transiently within the vertebrate embryo; the rhombic lip extends posteriorly from the roof of the fourth ventricle to dorsal neuroepithelial cell and can be divided into eight structural units based on rhombomeres 1-8 (r1-r8), recognized at early stages of hindbrain development; producing granule cells and five brainstem nuclei, the rhombic lip plays an important role in developing a complex cerebellar neural system.",
+  "description": "'Rhombic lip' is part of the future metencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "rhombic lip",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006215",
+  "synonym": null
+}

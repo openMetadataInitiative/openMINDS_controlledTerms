@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parahippocampalGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Component of the temporal lobe on the mesial surface, posterior to the entorhinal cortex. The rostral and caudal boundaries are the posterior end of the netorhinal cortex and the caudal portion of the hippocampus, respectively. The medial boudnary is designated as the medial aspect off the temporal lobe and the lateral boundary is the collateral sulcus (Christine Fennema-Notestine).",
+  "description": "'Parahippocampal gyrus' is a gyrus. It is part of the limbic system, temporal lobe and limbic lobe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "parahippocampal gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002973",
+  "synonym": null
+}

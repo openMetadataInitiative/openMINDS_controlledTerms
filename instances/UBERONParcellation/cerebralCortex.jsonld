@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The thin layer of gray matter on the surface of the cerebral hemisphere that develops from the telencephalon. It consists of the neocortex (6 layered cortex or isocortex), the hippocampal formation and the olfactory cortex.",
+  "description": "'Cerebral cortex' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the pallium and cerebral hemisphere gray matter.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebral cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000956",
+  "synonym": null
+}

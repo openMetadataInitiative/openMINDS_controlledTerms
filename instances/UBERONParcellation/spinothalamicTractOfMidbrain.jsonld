@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfMidbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Spinothalamic tract of midbrain' is a tract of brain. It is part of the midbrain tegmentum and spinothalamic tract.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spinothalamic tract of midbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002609",
+  "synonym": null
+}

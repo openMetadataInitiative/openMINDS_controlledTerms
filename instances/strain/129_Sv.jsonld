@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/strain/129_Sv",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Strain",
+  "definition": "'129/Sv' is an inbred strain of the species 'Mus musculus'.",
+  "description": null,
+  "identifier": [
+    "MGI:2161069",
+    "JAX:000094"
+  ],
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "129/Sv",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

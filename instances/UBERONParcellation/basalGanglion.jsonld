@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalGanglion",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "An individual member of a collection of basal ganglia. Basal ganglia are subcortical masses of gray matter in the forebrain and midbrain that are richly interconnected and so viewed as a functional system. The nuclei usually included are the caudate nucleus (caudoputamen in rodents), putamen, globus pallidus, substantia nigra (pars compacta and pars reticulata) and the subthalamic nucleus. Some also include the nucleus accumbens and ventral pallidum[NIF,modified].",
+  "description": "'Basal ganglion' is a brain gray matter and nuclear complex of neuraxis. It is part of the collection of basal ganglia.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "basal ganglion",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002420",
+  "synonym": null
+}

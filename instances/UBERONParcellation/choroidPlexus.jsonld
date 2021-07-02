@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A network formed by blood vessels and the tela choroidea which secretes CSF into the ventricular spaces.",
+  "description": "'Choroid plexus' is a brain ventricle/choroid plexus and vasculature of central nervous system. It is part of the brain ventricle and tela choroidea.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "choroid plexus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001886",
+  "synonym": null
+}

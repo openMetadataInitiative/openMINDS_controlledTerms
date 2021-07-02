@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/presubiculum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A modified six-layered cortex between the subiculum and the main part of the parahippocampal gyrus.",
+  "description": "'Presubiculum' is part of the hippocampal formation and parahippocampal gyrus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "presubiculum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001953",
+  "synonym": null
+}

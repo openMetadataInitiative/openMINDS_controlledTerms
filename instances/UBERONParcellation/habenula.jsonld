@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/habenula",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A segment of the epithalamus that has as its parts the habenular nuclei and the habenular commissure[FMA,modified].",
+  "description": "'Habenula' is a regional part of brain. It is part of the epithalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "habenula",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001904",
+  "synonym": null
+}

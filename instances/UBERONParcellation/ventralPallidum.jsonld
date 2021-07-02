@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPallidum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of the globus pallidus, consisting of the more medial of the two segments. In some species, e.g., primates, it is separated from the lateral segment by the fibers of the medial medullary lamina (MM).",
+  "description": "'Ventral pallidum' is a cerebral hemisphere gray matter and pallidum. It is part of the globus pallidus and basal forebrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral pallidum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002778",
+  "synonym": null
+}

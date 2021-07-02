@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/epithalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Most dorsal part of the thalamus, comprising the pineal gland and habenular nuclei in most vertebrates. In a few vertebrates, it also includes the parietal eye. (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed, 2005, pg. 345-346.",
+  "description": "'Epithalamus' is a regional part of brain. It is part of the dorsal plus ventral thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "epithalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001899",
+  "synonym": null
+}

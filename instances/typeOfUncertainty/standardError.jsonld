@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "standard error",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

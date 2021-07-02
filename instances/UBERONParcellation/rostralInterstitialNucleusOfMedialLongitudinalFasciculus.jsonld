@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rostralInterstitialNucleusOfMedialLongitudinalFasciculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The rostral interstitial nucleus of medial longitudinal fasciculus (riMLF) is a portion of the medial longitudinal fasciculus which controls vertical gaze. They project to the vestibular nuclei. [WP,unvetted].",
+  "description": "'Rostral interstitial nucleus of medial longitudinal fasciculus' is a brainstem nucleus, nucleus of midbrain tegmentum and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "rostral interstitial nucleus of medial longitudinal fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002717",
+  "synonym": null
+}

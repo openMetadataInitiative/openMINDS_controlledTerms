@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTegmentum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Ventral part of the midbrain, separated from the hindbrain by the isthmus[ISBN: 0471888893]. Subdivision of the midbrain lying anterior to the tectum and posterior to the substantia nigra and cerebral peduncle[FMA] The part of the midbrain extending from the substantia nigra to the cerebral aqueduct in a horizontal section of the midbrain. It forms the floor of the midbrain that surrounds the cerebral aqueduct[WP].",
+  "description": "'Midbrain tegmentum' is a regional part of brain. It is part of the midbrain and brainstem.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "midbrain tegmentum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001943",
+  "synonym": null
+}

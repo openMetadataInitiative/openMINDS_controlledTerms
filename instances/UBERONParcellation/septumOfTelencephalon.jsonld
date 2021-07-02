@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/septumOfTelencephalon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Gray matter structure located on the midline of the forebrain consisting of the septum pellucidum (in some species) and the septal nuclei (Heimer, 1996).",
+  "description": "'Septum of telencephalon' is a cerebral hemisphere gray matter.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "septum of telencephalon",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000446",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hindbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The most posterior of the three principal regions of the brain. In mammals and birds the hindbrain is divided into a rostral metencephalon and a caudal myelencephalon. In zebrafish, with the exception of the cerebellum, the ventral remainder of the metencephalon can be separated only arbitrarily from the more caudal myelencephalic portion of the medulla oblongata (From:  Neuroanatomy of the Zebrafish Brain)[ZFA]. Organ component of neuraxis that has as its parts the pons, cerebellum and medulla oblongata[FMA].",
+  "description": "'Hindbrain' is a regional part of brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "hindbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002028",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorColliculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of the midbrain tecturm consisting of paired bodies that sit caudal to the thalamus and surround the pineal gland in the mesencephalon of vertebrate brains. It comprises the rostral aspect of the midbrain, posterior to the periaqueductal gray and adjacent superior the inferior colliculus. The inferior and superior colliculi are known collectively as the corpora quadrigemina (Latin, quadruplet bodies). It consists of several identified cellular layers and also comprises the brachium of the superior colliculus and commissure of supeior colliculus from Wikipedia.org and Neuronames (MM).",
+  "description": "'Superior colliculus' is a regional part of brain and visual processing part of nervous system. It is part of the corpora quadrigemina.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "superior colliculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001945",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/whiteMatterOfTheCerebellarCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "White matter that lies deep to the granular cell layer of the cerebellar cortex. It contains afferents to the cerebellar cortex and axons that run between the cerebellar cortex and the deep cerebellar nuclei.",
+  "description": "'White matter of the cerebellar cortex' is a white matter of metencephalon. It is part of the cerebellar cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "white matter of the cerebellar cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0024045",
+  "synonym": null
+}

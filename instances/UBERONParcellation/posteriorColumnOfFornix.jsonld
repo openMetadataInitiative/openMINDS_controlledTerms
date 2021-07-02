@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorColumnOfFornix",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of fornix adjacent to the fimbria comprising flattened bands of fibers that extend from the fimbria, running underneath the corpus callosum.",
+  "description": "'Posterior column of fornix' is a neuron projection bundle and central nervous system cell part cluster. It is part of the fornix of brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "posterior column of fornix",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006115",
+  "synonym": null
+}

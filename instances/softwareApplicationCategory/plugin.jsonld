@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/softwareApplicationCategory/plugin",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SoftwareApplicationCategory",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "plugin",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q184148",
+  "synonym": null
+}

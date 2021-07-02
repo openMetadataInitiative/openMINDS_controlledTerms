@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/striaTerminalis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "White matter structure in the brain consisting of fibers running along the lateral margin of the ventricular surface of the thalamus. The stria terminalis covers the thalamostriate vein, marking a line of separation between the thalamus and the caudate nucleus as seen upon gross dissection of the ventricles of the brain, viewed from the superior aspect. The stria terminalis extends from the region of the interventricular foramen to the temporal horn of the lateral ventricle, carrying fibers from the amygdala to the septal, hypothalamic, and thalamic areas of the brain. It also carries fibers projecting from these areas back to the amygdala. (Wikipedia: Stria_terminalis).",
+  "description": "'Stria terminalis' is a cerebral hemisphere white matter and stria of telencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "stria terminalis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003029",
+  "synonym": null
+}

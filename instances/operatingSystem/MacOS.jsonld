@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/operatingSystem/MacOS",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingSystem",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "MacOS",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q43627",
+  "synonym": null
+}

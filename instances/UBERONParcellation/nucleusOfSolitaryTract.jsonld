@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/nucleusOfSolitaryTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A neural nucleus that is part of the solitary tract nuclear complex. The solitary tract and nucleus are structures in the brainstem that carry and receive visceral sensation and taste from the facial (VII), glossopharyngeal (IX) and vagus (X) cranial nerves. [WP,unvetted].",
+  "description": "'Nucleus of solitary tract' is a nucleus of medulla oblongata and vagus nerve nucleus. It is part of the solitary tract nuclear complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nucleus of solitary tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009050",
+  "synonym": null
+}

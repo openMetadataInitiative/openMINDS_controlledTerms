@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileUsageRole/preview",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
+  "definition": "A preview is a representative image or short movie used to peak interest for a product.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "preview",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

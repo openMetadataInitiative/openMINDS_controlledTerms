@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/insula",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Gray matter of the insular region of the neocortex. In gyrencephalic animals, it is part of the insular lobe and lies in the depths of the lateral fissure and covered by portions of the frontal, parietal and temporal lobes. It includes Brodmann areas 13-16.",
+  "description": "'Insula' is a cerebral hemisphere gray matter. It is part of the cerebral cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "insula",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002022",
+  "synonym": null
+}

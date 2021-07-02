@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulbGranuleCellLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The granule cell layer contains multiple small round neurons that lack axons. Long dendritic processes of the neurons reach the more superficial layers and inhibit mitral cells and tufted cells. Small distal processes make contacts with the exiting mitral cell axons.",
+  "description": "'Olfactory bulb granule cell layer' is an olfactory bulb layer.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "olfactory bulb granule cell layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005378",
+  "synonym": null
+}

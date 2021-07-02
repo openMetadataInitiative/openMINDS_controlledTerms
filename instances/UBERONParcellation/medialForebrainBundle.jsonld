@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialForebrainBundle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The Medial forebrain bundle (MFB), is a complex bundle of axons coming from the basal olfactory regions, the periamygdaloid region, and the septal nuclei, and passing to the lateral hypothalamus, with some carrying on into the tegmentum. It contains both ascending and descending fibers. It also represents a part of the mesolimbic pathway, carrying information between the ventral tegmentum and the nucleus accumbens. It is commonly accepted that the MFB is a part of the reward system, involved in the integration of reward and pleasure. Electrical stimulation of the medial forebrain bundle is believed to cause sensations of pleasure. This hypothesis is based upon intracranial self-stimulation (ICSS) studies. Animals will work for MFB ICSS, and humans report that MFB ICSS is intensely pleasurable. This is most likely because the medial forebrain bundle carries information from the ventral tegmental area (VTA) to the nucleus accumbens (nAcc or Acb). The nAcc is a recognized reward center, and activation of the pathway from the VTA to the nAcc is believed to be rewarding, which is why it is sometimes referred to as the hedonic highway. [WP,unvetted].",
+  "description": "'Medial forebrain bundle' is a fasciculus of brain. It is part of the hypothalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial forebrain bundle",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001910",
+  "synonym": null
+}

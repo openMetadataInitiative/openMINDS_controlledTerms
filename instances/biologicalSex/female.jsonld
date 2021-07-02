@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/biologicalSex/female",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BiologicalSex",
+  "definition": "Biological sex that produces egg cells (ova).",
+  "description": "A female organism typically has the capacity to produce relatively large, usually immobile gametes (reproductive cells), called egg cells (or ova). In the process of fertilization, an egg cell (ovum) fuses with a smaller, usually mobile male gametes, called sperm cells (or spermatozoa).",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104150",
+  "knowledgeSpaceLink": null,
+  "name": "female",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PATO_0000383",
+  "synonym": null
+}

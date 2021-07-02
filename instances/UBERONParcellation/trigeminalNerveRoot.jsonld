@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/trigeminalNerveRoot",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A nerve root that extends_fibers_into a trigeminal nerve.",
+  "description": "'Trigeminal nerve root' is a root of cranial nerve. It is part of the metencephalon.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "trigeminal nerve root",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004673",
+  "synonym": null
+}

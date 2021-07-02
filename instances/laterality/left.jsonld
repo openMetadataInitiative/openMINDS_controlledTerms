@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/laterality/left",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Laterality",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "left",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

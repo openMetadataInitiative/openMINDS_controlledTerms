@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/limenOfInsula",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The anterior basal part of the insular cortex, which separates the lateral surface of the insula from the anterior perforated substance (Heimer, The Human Brain and Spinal Cord, 2nd ed., 1995, pg 80).",
+  "description": "'Limen of insula' is a gyrus. It is part of the insula.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "limen of insula",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002724",
+  "synonym": null
+}

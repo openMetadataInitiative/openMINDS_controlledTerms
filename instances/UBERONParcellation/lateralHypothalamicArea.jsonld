@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHypothalamicArea",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The lateral hypothalamus or lateral hypothalamic area is a part of the hypothalamus. It is concerned with hunger. Damage to this area can cause reduced food intake. Stimulating the lateral hypothalamus causes a desire to eat, while stimulating the ventromedial hypothalamus causes a desire to stop eating. [WP,unvetted].",
+  "description": "'Lateral hypothalamic area' is a regional part of brain. It is part of the lateral zone of hypothalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lateral hypothalamic area",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002430",
+  "synonym": null
+}

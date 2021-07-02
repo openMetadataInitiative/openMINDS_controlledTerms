@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "file bundle grouping",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

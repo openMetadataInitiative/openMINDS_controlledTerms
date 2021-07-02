@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/ethicsAssessment",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ethics assessment",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

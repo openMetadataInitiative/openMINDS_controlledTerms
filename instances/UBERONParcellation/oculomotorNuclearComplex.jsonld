@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nuclear complex containing subnuclei that give rise to the axons of the occulomotor nerve, both motor and parasympathetic fibers, situated at the midline at the level of the superior colliculus in the midbrain tegmentum (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 533-534).",
+  "description": "'Oculomotor nuclear complex' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "oculomotor nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001715",
+  "synonym": null
+}

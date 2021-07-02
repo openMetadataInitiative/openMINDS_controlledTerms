@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/flocculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The small lobe of the cerebellum at the posterior border of the middle cerebellar peduncle anterior to the biventer lobule that receives input from the inferior and medial vestibular nuclei and sends fibers back to the vestibular nuclei, and processes and integrates these signals to allow for the constant maintenance of balance.",
+  "description": "'Flocculus' is a flocculonodular lobe, hemisphere portion.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "flocculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001063",
+  "synonym": null
+}

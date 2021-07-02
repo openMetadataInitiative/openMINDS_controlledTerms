@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/opticTract",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Diencephalic white matter (tract) which is comprised of retinal ganglion cell axons after which they have passed through the optic chiasm[ZFA]. Predominantly white matter structure found in diencephalon consisting of fibers originating in the retina. The optic tract is considered to extend from the point of the optic chiasm and terminates largely, although not exclusively, in the lateral geniculate complex. Other fibers end in the superior colliculus and other structures in the diencephalon, midbrain and brainstem (MM)[NIF].",
+  "description": "'Optic tract' is a tract of diencephalon. It is part of the diencephalic white matter.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "optic tract",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001908",
+  "synonym": null
+}

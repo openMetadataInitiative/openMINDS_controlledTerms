@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralBloodVessel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A blood vessel that is part of a cerebellum.",
+  "description": "'Cerebral blood vessel' is a brain blood vessel. It is part of the cerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebral blood vessel",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016565",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/modelScope/subcellular-signalling",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ModelScope",
+  "definition": "A model of sub-cellular signalling pathways",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subcellular: signalling",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

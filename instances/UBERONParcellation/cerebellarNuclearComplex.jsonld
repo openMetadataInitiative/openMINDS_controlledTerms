@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The gray matter nuclei located in the center of the cerebellum, embedded in the white matter, which receive inhibitory (GABAergic) inputs from Purkinje cells in the cerebellar cortex and excitatory (glutamatergic) inputs from mossy fiber pathways; all output fibers of the cerebellum originate from the these nuclei[MP].",
+  "description": "'Cerebellar nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the cerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellar nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002130",
+  "synonym": null
+}

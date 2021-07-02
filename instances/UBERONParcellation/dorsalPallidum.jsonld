@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalPallidum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The predominant portion of the globus pallidus in the striatopallidal system, which is defined by connectivity and neurochemical staining. The dorsal pallidum is distinguished from the ventral pallidum by a boundary that is partially defined by the anterior commissure. The remainder of the boundary is indistinct in sections stained for Nissl substance ( Heimer-1995 ).",
+  "description": "'Dorsal pallidum' is a cerebral hemisphere gray matter and pallidum. It is part of the globus pallidus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsal pallidum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006516",
+  "synonym": null
+}

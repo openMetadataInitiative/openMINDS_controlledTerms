@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumIntermediateZone",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The paired regions of the cerebellar hemisphere that lie adjacent to the vermis and are between the vermis and lateral regions of the hemispheres; it receives input from the corticopontocerebellar fibers that originate from the motor cortex, and also receives sensory feedback from the muscles; these signals are integrated by this region, to coordinate muscle activity with motor inputs.",
+  "description": "'Cerebellum intermediate zone' is a regional part of cerebellar cortex. It is part of the cerebellar hemisphere and spinocerebellum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellum intermediate zone",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004006",
+  "synonym": null
+}

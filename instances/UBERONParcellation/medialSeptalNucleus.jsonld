@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialSeptalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Cells lying generally in front of Regional_part_of_septal_nuclei, lying ventral to and slightly medial to the lateral septal nucleus. Neurons in this nucleus give rise to the bulk of efferents from the septal nuclei. A major projection from the medial septal nucleus terminates in the hippocampal formation (Adapted from Brodal, 1981).",
+  "description": "'Medial septal nucleus' is a telencephalic nucleus. It is part of the medial septal complex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial septal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001877",
+  "synonym": null
+}

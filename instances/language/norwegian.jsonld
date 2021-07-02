@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/language/norwegian",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Language",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Norwegian",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

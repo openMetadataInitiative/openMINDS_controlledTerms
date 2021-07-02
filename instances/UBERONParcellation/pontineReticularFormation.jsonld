@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pontineReticularFormation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The reticular formation is a part of the brain that is involved in actions such as awaking/sleeping cycle, and filtering incoming stimuli to discriminate irrelevant background stimuli. It is essential for governing some of the basic functions of higher organisms, and is one of the phylogenetically oldest portions of the brain. [WP,unvetted].",
+  "description": "'Pontine reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the reticular formation and pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pontine reticular formation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002573",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralAcousticStria",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "White matter structure containing fibers arising from neurons in the cochlear nuclear complex.",
+  "description": "'Ventral acoustic stria' is a stria of neuraxis and white matter of pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "ventral acoustic stria",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003046",
+  "synonym": null
+}

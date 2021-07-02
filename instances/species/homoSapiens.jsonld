@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/homoSapiens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105114",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NCBITaxon:9606#human",
+  "name": "Homo sapiens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+  "synonym": [
+    "Homo sapien",
+    "human",
+    "man"
+  ]
+}

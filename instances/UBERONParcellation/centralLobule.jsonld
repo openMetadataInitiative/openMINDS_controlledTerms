@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralLobule",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The central lobule is a small square lobule, situated in the anterior cerebellar notch. It overlaps the lingula, from which it is separated by the precentral fissure; laterally, it extends along the upper and anterior part of each hemisphere, where it forms a wing-like prolongation, the ala lobuli centralis. [WP,unvetted].",
+  "description": "'Central lobule' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "central lobule",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003021",
+  "synonym": null
+}

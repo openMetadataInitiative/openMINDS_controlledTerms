@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/voltageClamp",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Voltage clamp' comprises all experimental techniques in which the membrane potential (voltage) is constantly changed to a desired value by adding the necesary current to the cell.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "voltage clamp",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

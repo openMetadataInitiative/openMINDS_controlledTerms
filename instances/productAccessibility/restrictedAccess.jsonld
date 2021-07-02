@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/productAccessibility/restrictedAccess",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
+  "definition": "With 'restricted access' selected, metadata are released, but data remain on an access restricted server.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "restricted access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

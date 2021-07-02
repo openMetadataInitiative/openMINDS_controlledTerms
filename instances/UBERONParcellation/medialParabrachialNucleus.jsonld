@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialParabrachialNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The Medial parabrachial nucleus is a nucleus of the pons which constitutes part of the pneumotaxic center. It gets its name from its location relative to the superior cerebellar peduncles, which is also known as the 'brachia conjunctiva'. [WP,unvetted].",
+  "description": "'Medial parabrachial nucleus' is a parabrachial nucleus. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "medial parabrachial nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002918",
+  "synonym": null
+}

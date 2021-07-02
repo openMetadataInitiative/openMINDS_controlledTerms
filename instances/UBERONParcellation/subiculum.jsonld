@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subiculum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of the hippocampal formation that is bounded by the entorhinal cortex and area CA1. It is characterized on the CA1 border by an abrupt widening of the pyramidal cell layer. A molecular layer is present that is continuous with that of CA1, although the stratum radiatum is no longer present. The stratum oriens is also not present. adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 468).",
+  "description": "'Subiculum' is a regional part of brain. It is part of the hippocampal formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subiculum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002191",
+  "synonym": null
+}

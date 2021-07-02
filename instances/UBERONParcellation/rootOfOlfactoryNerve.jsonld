@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rootOfOlfactoryNerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The initial segment of an olfactory nerve, leaving the central nervous system.",
+  "description": "'Root of olfactory nerve' is a nerve root.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "root of olfactory nerve",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019311",
+  "synonym": null
+}

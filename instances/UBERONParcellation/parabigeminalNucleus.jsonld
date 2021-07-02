@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parabigeminalNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Cholinergic cell group that is located ventral to the brachium of the inferior colliculus (in rat) and has reciprocal connectivity with the superior colliculus (Adapted from Paxinos, The rat central nervous system, 2nd ed, 1995, pg 865.",
+  "description": "'Parabigeminal nucleus' is a nucleus of midbrain tectum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "parabigeminal nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002140",
+  "synonym": null
+}

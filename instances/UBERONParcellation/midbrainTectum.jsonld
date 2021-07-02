@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainTectum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Dorsal part of the midbrain, consisting of the superior and inferior colliculi and the pretectal nuclei (MM).",
+  "description": "'Midbrain tectum' is a regional part of brain. It is part of the midbrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "midbrain tectum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002314",
+  "synonym": null
+}

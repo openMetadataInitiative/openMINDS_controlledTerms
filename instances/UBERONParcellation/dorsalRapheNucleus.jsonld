@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalRapheNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A large raphe nucleus extending from the anterior part of the pons through the mesencephalon; its neurons are serotoninergic[NIF]. The dorsal raphe nucleus is a part of the raphe nucleus and consists of rostral and caudal subdivisions. The rostral aspect of the dorsal raphe is further divided into interfascicular, ventral, ventrolateral and dorsal subnuclei. The projections of the dorsal raphe have been found to vary topographically, and thus the subnuclei differ in their projections. An increased number of cells in the lateral aspects of the dorsal raphe is characteristic of humans and other primates. [WP,unvetted].",
+  "description": "'Dorsal raphe nucleus' is a nucleus of midbrain reticular formation. It is part of the raphe nuclei.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsal raphe nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002043",
+  "synonym": null
+}

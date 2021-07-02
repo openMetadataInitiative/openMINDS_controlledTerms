@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/productAccessibility/freeAccess",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
+  "definition": "With 'free access' selected, data and metadata are both released and become immediately available without any access restrictions.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "free access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

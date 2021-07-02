@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pallidotegmentalFasciculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Pallidotegmental fasciculus' is a tract of brain. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pallidotegmental fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002671",
+  "synonym": null
+}

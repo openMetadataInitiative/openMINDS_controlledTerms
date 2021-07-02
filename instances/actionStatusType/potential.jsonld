@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/potential",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "definition": "A description of an action that is supported",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "potential",
+  "preferredOntologyIdentifier": "https://schema.org/PotentialActionStatus",
+  "synonym": null
+}

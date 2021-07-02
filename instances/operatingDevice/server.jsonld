@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/operatingDevice/server",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "server",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q64729893",
+  "synonym": null
+}

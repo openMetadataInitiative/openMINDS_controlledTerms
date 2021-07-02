@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/productAccessibility/controlledAccess",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProductAccessibility",
+  "definition": "With 'controlled access' selected, data and metadata are both released, but data are only available for users after they loged in and authenticated themselves.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "controlled access",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

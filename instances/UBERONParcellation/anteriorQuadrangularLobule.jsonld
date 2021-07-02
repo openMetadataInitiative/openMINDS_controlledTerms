@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorQuadrangularLobule",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Anterior quadrangular lobule' is a cerebellum hemisphere lobule.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anterior quadrangular lobule",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003015",
+  "synonym": null
+}

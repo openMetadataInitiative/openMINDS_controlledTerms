@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/oculomotorNerveRoot",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Initial segment of the occulomotor nerve as it leaves the midbrain.",
+  "description": "'Oculomotor nerve root' is a root of cranial nerve. It is part of the midbrain tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "oculomotor nerve root",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002668",
+  "synonym": null
+}

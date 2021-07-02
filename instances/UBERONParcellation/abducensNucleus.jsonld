@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/abducensNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Nucleus located beneath the floor of the 4th ventricle in the pontine tegmentum, containing motor neurons innervating the lateral rectus muscle of the eye (Brodal, Neurological Anatomy, 3rd ed., 1981, pg 533).",
+  "description": "'Abducens nucleus' is a cranial nerve nucleus, brainstem nucleus and hindbrain nucleus. It is part of the pons.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "abducens nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002682",
+  "synonym": null
+}

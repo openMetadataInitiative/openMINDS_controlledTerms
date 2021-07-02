@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intermediatePeriventricularNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Intermediate periventricular nucleus' is a hypothalamic nucleus. It is part of the intermediate hypothalamic region.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intermediate periventricular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002746",
+  "synonym": null
+}

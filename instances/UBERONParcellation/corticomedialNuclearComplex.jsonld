@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticomedialNuclearComplex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "These structures are referred to as nuclei but have a layered cortical like structure. These areas include the anterior amygdaloid area, posterior amygdaloid area, the periamygdaloid cortex, and the bed nucleus of the accessory olfactory tract.",
+  "description": "'Corticomedial nuclear complex' is a cerebral hemisphere gray matter and nuclear complex of neuraxis. It is part of the amygdala.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "corticomedial nuclear complex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006108",
+  "synonym": null
+}

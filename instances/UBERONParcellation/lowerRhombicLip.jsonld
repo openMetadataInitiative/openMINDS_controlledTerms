@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lowerRhombicLip",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Posterior portion of the rhombic lip contained within rhombomeres 2-8. Gives rise to several brainstem nuclei and choroid plexus.",
+  "description": "'Lower rhombic lip' is a regional part of brain. It is part of the rhombic lip.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "lower rhombic lip",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009840",
+  "synonym": null
+}

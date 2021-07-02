@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/proteomics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "Any experimental approach focused on the composition, structure, and activity of an entire set of proteins in organisms or their parts.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "proteomics",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741205",
+  "synonym": null
+}

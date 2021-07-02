@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/emboliformNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The small wedge shaped nucleus interposed between the dentate and fastigial nuclei; it receives axons from Purkinje cells of the intermediate area of the cerebral hemispheres and most of its efferent connections travel via the superior cerebellar peduncle.",
+  "description": "'Emboliform nucleus' is a cerebellum interpositus nucleus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "emboliform nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002602",
+  "synonym": null
+}

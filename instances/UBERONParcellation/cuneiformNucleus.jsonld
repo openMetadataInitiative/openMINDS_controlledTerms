@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cuneiformNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Cuneiform nucleus' is a nucleus of midbrain reticular formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cuneiform nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002696",
+  "synonym": null
+}

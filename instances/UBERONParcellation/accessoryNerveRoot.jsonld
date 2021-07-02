@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryNerveRoot",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A nerve root that is part of a accessory XI nerve.",
+  "description": "'Accessory nerve root' is a nerve root.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "accessory nerve root",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014615",
+  "synonym": null
+}

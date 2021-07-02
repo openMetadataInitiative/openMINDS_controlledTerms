@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paravermicLobuleX",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Paravermic lobule X' is a paravermis lobule area and flocculonodular lobe, hemisphere portion. It is part of the flocculus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "paravermic lobule X",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036043",
+  "synonym": null
+}

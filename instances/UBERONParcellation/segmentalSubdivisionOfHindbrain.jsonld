@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/segmentalSubdivisionOfHindbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Segmental subdivision of hindbrain' is a segmental subdivision of nervous system. It is part of the hindbrain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "segmental subdivision of hindbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004733",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/widefieldFluorescenceMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Widefield fluorescence microscopy' comprises all microscopy techniques in which fluorescent molecules of an entire sample are excited through a permanent exposure of a light source of a specific wavelength.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "widefield fluorescence microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

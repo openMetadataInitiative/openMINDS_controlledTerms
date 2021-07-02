@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/brainEndothelium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Vascular endothelium found in blood vessels of the blood-brain-barrier.",
+  "description": "'Brain endothelium' is part of the brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "brain endothelium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013694",
+  "synonym": null
+}

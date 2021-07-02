@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/glossopharyngealNerveRoot",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Glossopharyngeal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "glossopharyngeal nerve root",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019310",
+  "synonym": null
+}

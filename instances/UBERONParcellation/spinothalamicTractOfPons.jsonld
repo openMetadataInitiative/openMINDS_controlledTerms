@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of spinothalamic tract that is in the pontine tegmentum.",
+  "description": "'Spinothalamic tract of pons' is a tract of brain. It is part of the pontine tegmentum and spinothalamic tract.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spinothalamic tract of pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002798",
+  "synonym": null
+}

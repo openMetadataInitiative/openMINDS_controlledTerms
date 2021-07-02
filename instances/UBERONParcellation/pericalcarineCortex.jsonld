@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pericalcarineCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Component of the parietal lobe. The rostral boundary of the pericalcarine cortex was the first appearance of the calcarine sulcus whereas the caudal boundary was the most posterior coronal slice where the calcarine sulcus was visualized. The medial and lateral boundaries were the medial portion of the temporal and occipital cortices and the inferomedial end of the calcarine sulcus respectively (Christine Fennema-Notestine).",
+  "description": "'Pericalcarine cortex' is a regional part of brain. It is part of the parietal lobe.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pericalcarine cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022534",
+  "synonym": null
+}

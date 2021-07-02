@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorColumnOfFornix",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Anterior column of fornix' is a cerebral hemisphere white matter. It is part of the fornix of brain.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "anterior column of fornix",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002940",
+  "synonym": null
+}

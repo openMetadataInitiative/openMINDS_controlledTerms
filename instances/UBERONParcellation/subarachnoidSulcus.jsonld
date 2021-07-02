@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/subarachnoidSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Subarachnoid sulcus' is a sulcus of brain. It is part of the subarachnoid space.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subarachnoid sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008334",
+  "synonym": null
+}

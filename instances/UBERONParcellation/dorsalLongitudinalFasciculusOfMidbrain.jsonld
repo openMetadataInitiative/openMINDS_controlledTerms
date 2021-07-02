@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalLongitudinalFasciculusOfMidbrain",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of dorsal longitudinal fasciculus located in the midbrain tegmentum.",
+  "description": "'Dorsal longitudinal fasciculus of midbrain' is a fasciculus of brain. It is part of the midbrain tegmentum and dorsal longitudinal fasciculus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsal longitudinal fasciculus of midbrain",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003005",
+  "synonym": null
+}

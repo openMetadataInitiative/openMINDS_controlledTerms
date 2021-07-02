@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/twoPhotonExcitationFluorescenceMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Two-photon excitation fluorescence microscopy' (TPEF) is a fluorescence imaging technique for living tissue which is based on the excitation of two photons with light of longer wavelength than the emitted light.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "two-photon excitation fluorescence microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileUsageRole/logo",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
+  "definition": "A logo is a graphic used to aid and promote public identification and recognition.used to aid and promote public identification and recognition. ",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "logo",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

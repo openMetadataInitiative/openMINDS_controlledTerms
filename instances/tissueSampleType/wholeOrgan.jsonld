@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "whole organ",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

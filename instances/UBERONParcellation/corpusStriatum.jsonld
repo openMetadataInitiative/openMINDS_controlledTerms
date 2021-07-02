@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corpusStriatum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The corpus striatum (striated body) is a compound structure consisting of the caudate nucleus and the lentiform nucleus, which consists of the putamen and the globus pallidus[WP].",
+  "description": "'Corpus striatum' is a regional part of brain. It is part of the basal ganglion.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "corpus striatum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000369",
+  "synonym": null
+}

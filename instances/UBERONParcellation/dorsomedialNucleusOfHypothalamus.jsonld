@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsomedialNucleusOfHypothalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The Dorsomedial hypothalamic nucleus is a nucleus of the hypothalamus. It is involved in feeding, drinking, and body weight regulation. [WP,unvetted].",
+  "description": "'Dorsomedial nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsomedial nucleus of hypothalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001934",
+  "synonym": null
+}

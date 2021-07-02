@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/stratumZonaleOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The thalamus consists chiefly of gray substance, but its upper surface is covered by a layer of white substance, named the stratum zonale.",
+  "description": "'Stratum zonale of thalamus' is a diencephalic white matter. It is part of the dorsal plus ventral thalamus.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "stratum zonale of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002801",
+  "synonym": null
+}

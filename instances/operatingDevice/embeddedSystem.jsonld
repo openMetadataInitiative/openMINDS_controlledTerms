@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/operatingDevice/embeddedSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OperatingDevice",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "embedded system",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q193040",
+  "synonym": null
+}

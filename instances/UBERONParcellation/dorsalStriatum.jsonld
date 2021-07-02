@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalStriatum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Dorsal components of the striatum comprising the caudate nucleus and the putamen, in species that have distinct nuclei; the caudoputamen in species which don't.",
+  "description": "'Dorsal striatum' is a gray matter of telencephalon. It is part of the striatum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dorsal striatum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005382",
+  "synonym": null
+}

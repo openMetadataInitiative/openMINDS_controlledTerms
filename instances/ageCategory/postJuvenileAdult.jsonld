@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/ageCategory/postJuvenileAdult",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "definition": "'Post-juvenile adult' categorizes the life cycle stage of an animal or human that starts with sexual maturity.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "post-juvenile adult",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000113",
+  "synonym": null
+}

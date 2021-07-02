@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arcuateNucleusOfHypothalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The arcuate nucleus (or infundibular nucleus) is an aggregation of neurons in the mediobasal hypothalamus, adjacent to the third ventricle and the median eminence. The arcuate nucleus includes several important populations of neurons, including:  Neuroendocrine neurons, Centrally-projecting neurons and Others. [WP,unvetted].",
+  "description": "'Arcuate nucleus of hypothalamus' is a hypothalamic nucleus. It is part of the periventricular zone of hypothalamus and intermediate hypothalamic region.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "arcuate nucleus of hypothalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001932",
+  "synonym": null
+}

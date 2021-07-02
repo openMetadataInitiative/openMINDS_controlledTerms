@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainReticularFormation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Part of the reticular formation located in the midbrain tegmentum.",
+  "description": "'Midbrain reticular formation' is a nuclear complex of neuraxis and gray matter of midbrain. It is part of the midbrain tegmentum and reticular formation.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "midbrain reticular formation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002639",
+  "synonym": null
+}

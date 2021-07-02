@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileBundleGrouping/studyTarget",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "study target",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/centralTegmentalTractOfPons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": null,
+  "description": "'Central tegmental tract of pons' is a tract of brain. It is part of the pontine tegmentum and central tegmental tract.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "central tegmental tract of pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002783",
+  "synonym": null
+}

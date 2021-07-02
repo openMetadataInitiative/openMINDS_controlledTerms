@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/cellCulture",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
+  "definition": "Cells taken from a living organism and grown under controlled conditions (in culture).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cell culture",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/BTO_0000214",
+  "synonym": null
+}

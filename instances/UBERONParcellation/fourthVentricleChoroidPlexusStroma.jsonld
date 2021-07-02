@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/fourthVentricleChoroidPlexusStroma",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A choroid plexus stroma that is part of a fourth ventricle.",
+  "description": "'Fourth ventricle choroid plexus stroma' is a choroid plexus stroma. It is part of the choroid plexus of fourth ventricle.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fourth ventricle choroid plexus stroma",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006340",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellarLayer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "A cortical cell layer of the cerebellum. Examples:  the granular (inner+outer) layer, molecular layer, Purkinje cell layer, and the ventricular layer of the embryo.",
+  "description": "'Cerebellar layer' is a central nervous system cell part cluster and central nervous system gray matter layer. It is part of the cerebellar cortex.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "cerebellar layer",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004130",
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The locus ceruleus is a dense cluster of neurons within the dorsorostral pons. This nucleus is the major location of neurons that release norepinephrine throughout the brain, and is responsible for physiological responses to stress and panic[GO]. Bluish region in the superior angle of the fourth ventricle floor, corresponding to melanin-like pigmented nerve cells which lie lateral to the ponto-mesencephalic central gray (griseum centrale). It is also known as nucleus pigmentosus pontis[GAID].",
+  "description": "'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "locus ceruleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002148",
+  "synonym": null
+}
