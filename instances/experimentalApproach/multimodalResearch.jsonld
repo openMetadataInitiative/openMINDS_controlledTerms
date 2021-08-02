@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach that employs multiple experimental approaches in significant ways.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739395",
   "knowledgeSpaceLink": null,
   "name": "multimodal research",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739395",
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Multimodal",
+  "synonym": [
+    "multimodal approach"
+  ]
 }
