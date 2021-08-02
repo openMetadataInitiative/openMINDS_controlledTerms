@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on normal functions of living organisms and their parts.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739410",
   "knowledgeSpaceLink": null,
   "name": "physiology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739410",
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Physiology",
+  "synonym": [
+    "physiological approach"
+  ]
 }
