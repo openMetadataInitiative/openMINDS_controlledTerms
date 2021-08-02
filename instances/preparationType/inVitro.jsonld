@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "definition": "Something happening outside the body in artificial conditions, often in a test tube.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0739568",
   "knowledgeSpaceLink": null,
   "name": "in vitro",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/inVitro",
+  "synonym": [
+    "in vitro technique"
+  ]
 }
