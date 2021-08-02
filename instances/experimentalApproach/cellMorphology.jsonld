@@ -6,9 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on the shape and structure of individual cells.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739394",
   "knowledgeSpaceLink": null,
   "name": "cell morphology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739394",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/CellMorphology",
   "synonym": null
 }
