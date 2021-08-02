@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "definition": "Something happening or being examined in the original place instead of being moved to another place",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0739593",
   "knowledgeSpaceLink": null,
   "name": "in situ",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/inSitu",
+  "synonym": [
+    "in situ technique"
+  ]
 }
