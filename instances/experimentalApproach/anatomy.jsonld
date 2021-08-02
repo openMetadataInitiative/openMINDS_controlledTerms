@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on the bodily structure of living organisms.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739411",
   "knowledgeSpaceLink": null,
   "name": "anatomy",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739411",
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Anatomy",
+  "synonym": [
+    "anatomical approach"
+  ]
 }
