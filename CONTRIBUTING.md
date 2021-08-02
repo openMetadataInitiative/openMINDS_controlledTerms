@@ -6,7 +6,7 @@ openMINDS is by design an open-source, community-driven project incorporating in
 
 For more details please go to: [Report & ask questions](#report-questions)
 
-**Help us directly!** Contributions from outside the openMINDS development team are always very welcome. If you spot a bug and know how to fix it, if you want to extend existing schemas and/or metadata models, or develop new schemas and/or metadata models, feel free to fork this repository and open a pull request with your changes. For larger changes, please raise an issue beforehand to get feedback from the openMINDS development team and the community.
+**Help us directly!** Contributions from outside the openMINDS development team are always very welcome. If you spot a bug and know how to fix it, if you want to extend existing schemas and/or metadata models, or develop new schemas and/or metadata models, or if you want to suggest new or update existing controlled instances, feel free to fork this repository and open a pull request with your changes. For larger changes, please raise an issue beforehand to get feedback from the openMINDS development team and the community.
 
 For more details please go to: [Direct contributions](#direct-contributions)
 
