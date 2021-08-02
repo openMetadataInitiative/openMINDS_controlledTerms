@@ -6,9 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on processes that modulate transcription but that do not directly alter the primary sequences of an organism's DNA.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741207",
   "knowledgeSpaceLink": null,
   "name": "epigenomics",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741207",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Epigenomics",
   "synonym": null
 }
