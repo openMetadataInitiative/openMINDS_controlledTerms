@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on the mechanical activity or cognitive processes underlying mechanical activity of living organisms often in response to external sensory stimuli.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739413",
   "knowledgeSpaceLink": null,
   "name": "behavior",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739413",
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Behavior",
+  "synonym": [
+    "behavioral approach"
+  ]
 }
