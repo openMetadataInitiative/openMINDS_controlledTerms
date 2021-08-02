@@ -6,9 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on the non-invasive direct or indirect imaging of the structure, function, or pharmacology of the nervous system.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0741206",
   "knowledgeSpaceLink": null,
   "name": "neuroimaging",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0741206",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Neuroimaging",
   "synonym": null
 }
