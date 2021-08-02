@@ -6,9 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "definition": "Conducted or produced by means of computer modelling or simulation.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0494742",
   "knowledgeSpaceLink": null,
   "name": "in silico",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0572590",
   "synonym": null
 }
