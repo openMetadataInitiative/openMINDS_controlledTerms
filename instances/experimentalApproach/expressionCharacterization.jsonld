@@ -6,9 +6,9 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on the cellular, anatomical, or morphological distribution of gene expression.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739409",
   "knowledgeSpaceLink": null,
   "name": "expression characterization",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739409",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/ExpressionCharachterization",
   "synonym": null
 }
