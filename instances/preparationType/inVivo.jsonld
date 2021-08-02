@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
   "definition": "Something happening or existing inside a living body.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0739622",
   "knowledgeSpaceLink": null,
   "name": "in vivo",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/89",
+  "synonym": [
+    "in vivo technique"
+  ]
 }
