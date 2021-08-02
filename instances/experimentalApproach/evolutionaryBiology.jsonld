@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
   "definition": "Any experimental approach focused on heritable characteristics of biological populations and their variation through the modification of developmental process to produce new forms and species.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739392",
   "knowledgeSpaceLink": null,
   "name": "evolutionary biology",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739392",
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/modality/Evolution",
+  "synonym": [
+    "evolutionary approach"
+  ]
 }
