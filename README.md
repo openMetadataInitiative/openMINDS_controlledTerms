@@ -6,23 +6,59 @@
 
 The openMINDS_controlledTerms repository is part of the **open** **M**etadata **I**nitiative for **N**euroscience **D**ata **S**tructures (openMINDS). It contains the schema-templates as well as corresponding terminologies (as JSON-LDs) for all terms that are defined and maintained centrally in this repository. Where applicable, the defined terms are connected to a matching ontological term. Schemas of openMINDS_core as well as openMINDS_SANDS reference to these controlled terms.
 
-The major versions are developed and maintained in different version-branches. The default branch is always the latest version-branch. **Each version can be accessed by checking out the corresponding version-branch.** This README describes the version-branch v1. 
+The **openMINDS_controlledTerms** repository is part of the **open** **M**etadata **I**nitiative for **N**euroscience **D**ata Structures (**openMINDS**). It contains schemas for the consistent registration of well-defined terms as well as a corresponding library of terminologies with controlled instances (including links to ontological terms where applicable). The openMINDS_controlledTerms instances are used within the EBRAINS Knowledge Graph to increase data integration and foster relations to other metadata initiatives.
 
-For more information on openMINDS in general, please go to the main repository: https://github.com/HumanBrainProject/openMINDS
+The major versions are developed and maintained in different version-branches. **Each version can be accessed by checking out the corresponding version-branch.** You are currently on **version-branch v1**. Note: the default branch is always the latest version-branch in use within the EBRAINS Knowledge Graph. 
+
+For application and technical details please go to the [central openMINDS repository](https://github.com/HumanBrainProject/openMINDS) or the [openMINDS Collab](https://wiki.ebrains.eu/bin/view/Collabs/openminds/).
 
 ## schemas
-The controlledTerms v1 schemas are defined as JSON-schema inspired templates with only a few customized technical properties (prefixed with `"_"`). These simplified schema-templates are easy to read and can be robustly translated to other, well known target formats (e.g., HTML, JSON-schema, etc.). 
+In the **schemas** directory, all openMINDS_controlledTerms schemas (v1) are defined in the openMINDS syntax (`*.schema.tpl.json`). Details about the openMINDS syntax can be found [here](https://wiki.ebrains.eu/bin/view/Collabs/openminds/Documentation/Implementation%20details/#HTheopenMINDSsyntax). To ensure a central access point for all openMINDS schemas across all versions and metadata models, each change in the schemas will lead to a new build of the central openMINDS repository.
 
-Except for the schema-template-property (`"_type"`), the schema-template is identical across all controlled terms (cf. the "abstract" schema-template used for all controlled terms:
-[controlledTerm.schema.tpl.json](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0/controlledTerm.schema.tpl.json)).
+## instances
+In the **instances** directory, it is possible to store **controlled instances** (as JSONLDs) for all openMINDS_controlledTerms schemas (v1), except `TermSuggestion`. The subdirectory of **instances** should resemble the **schemas** directory with the schema type as an additional subdirectory. As mentioned above, the controlled instances are used within the EBRAINS Knowledge Graph to increase data integration and to foster relations with other metadata initiatives. Within the EBRAINS Knowledge Graph, a `TermSuggestion` can be used to suggest new controlled instances as potential keywords or study targets. 
 
-The schema-template-property `"_type"` is unique for each terminology it controlles and extends the generic controlledTerm.schema.tpl.json (cf., e.g., `"_type": "https://openminds.ebrains.eu/controlledTerms/BiologicalSex"` in [biologicalSex.schema.tpl.json](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0/biologicalSex.schema.tpl.json)). This differentiation facilitates the identification of conceptually related terms (cf. **terminologies**).
+**How to request new instances?** Requests for adding new controlled instances can be made by getting in touch with the openMINDS development team (through the issue tracker or the support email: coming soon). The team will attend to a request as soon as possible. Note that instances should be well defined to be useful for the community. They should at least provide a one sentence definition, and, where applicable, a reference to a matching ontology term.
 
-## terminologies
-The controlled terminologies are stored as JSON-LDs, conceptually grouped 
-according to the corresponding schema-type. For simplicity the name of the 
-term defined in each JSON-LD is reused in the filename and identifier (cf. 
-[female.jsonld](https://raw.githubusercontent.com/HumanBrainProject/openMINDS_controlledTerms/master/v1.0-terminologies/biologicalSex/female.jsonld)).
+**How to correctly define an openMINDS instance?** openMINDS instances are written as JSON-LDs. A correctly instantiated openMINDS JSON-LD should always contain the following technical attributes, and at least the required properties of the respective schema type they are validated against:
+
+```json
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/OPENMINDS_SCHEMA_NAME/HUMAN_READABLE_INSTANCE_ID",
+  "@type": "OPENMINDS_SCHEMA_TYPE",
+  "PROPERTY_NAME": "METADATA_VALUE"
+}
+```
+
+The values written in capital letters need to be replaced accordingly. Here a full example of an instance for an openMINDS_controlledTerms schema type (cf. `/instances/species/homoSapiens.jsonld`):
+
+```json
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/homoSapiens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105114",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NCBITaxon:9606#human",
+  "name": "Homo sapiens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+  "synonym": [
+    "Homo sapien",
+    "human",
+    "man"
+  ] 
+}
+```
+Note that properties that are defined as optional in an openMINDS schema can either be provided with a `null` value in the JSON-LD or left out completely.
+ 
+## tests
+In the **tests** directory you can find JSON-LDs designed to test the validation behaviour of each schema. The subdirectory of **tests** should resemble the **schemas** directory with the schema type as an additional subdirectory. Each JSON-LD follows the naming convention `{schema_name}-{custom_test_name}.jsonld`. For test cases supposed to fail the validation, the suffix **`-nok`** should be attached (`{schema_name}-{custom_test_name}-nok.jsonld`). The tests are validated every time a change is introduced and therefore are ensuring the correct behavior of the schemas.
 
 ## How to contribute
 Please check our [contribution document](./CONTRIBUTING.md).
@@ -31,3 +67,4 @@ Please check our [contribution document](./CONTRIBUTING.md).
 This work is licensed under the MIT License.
 
 **Logo:** The openMINDS logo was created by U. Schlegel, based on an original sketch by C. Hagen Blixhavn and feedback by L. Zehl.
+
