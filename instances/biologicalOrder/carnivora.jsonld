@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/biologicalOrder/carnivora",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BiologicalOrder",
+  "definition": "The biological order *Carnivora* (carnivore) belongs to the class *Mammalia* (mammals).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101675",
+  "knowledgeSpaceLink": null,
+  "name": "Carnivora",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_33554",
+  "synonym": [
+    "carnivore"
+  ]
+}
