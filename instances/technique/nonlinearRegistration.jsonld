@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/nonlinearImageRegistration",
+  "@id": "https://openminds.ebrains.eu/instances/technique/nonlinearRegistration",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "nonlinear image registration",
+  "name": "nonlinear registration",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
