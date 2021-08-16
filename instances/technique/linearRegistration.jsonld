@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/linearImageRegistration",
+  "@id": "https://openminds.ebrains.eu/instances/technique/linearRegistration",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "linear image registration",
+  "name": "linear registration",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
