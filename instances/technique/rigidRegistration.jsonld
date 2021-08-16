@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/rigidImageRegistration",
+  "@id": "https://openminds.ebrains.eu/instances/technique/rigidRegistration",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "regid image registration",
+  "name": "regid registration",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
