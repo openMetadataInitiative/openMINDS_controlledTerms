@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0782779",
   "knowledgeSpaceLink": null,
   "name": "in vitro",
-  "preferredOntologyIdentifier": " 	http://purl.obolibrary.org/obo/OBI_0001285",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0001285",
   "synonym": [
     "in vitro design"
   ]
