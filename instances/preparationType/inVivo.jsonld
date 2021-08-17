@@ -4,13 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/preparationType/inVivo",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
-  "definition": "Something happening or existing inside a living body.",
+  "definition": "The preparation is 'in vivo' when an organism is studied alive.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0739622",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0784018",
   "knowledgeSpaceLink": null,
   "name": "in vivo",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/89",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0001199",
   "synonym": [
-    "in vivo technique"
+    "in vivo design"
   ]
 }
