@@ -4,13 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/preparationType/inVitro",
   "@type": "https://openminds.ebrains.eu/controlledTerms/PreparationType",
-  "definition": "Something happening outside the body in artificial conditions, often in a test tube.",
+  "definition": "The preparation is 'in vitro' when living tissue is studied outside the body in artificial conditions (e.g., test tube or culture dish).",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/ilx_0739568",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0782779",
   "knowledgeSpaceLink": null,
   "name": "in vitro",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/inVitro",
+  "preferredOntologyIdentifier": " 	http://purl.obolibrary.org/obo/OBI_0001285",
   "synonym": [
-    "in vitro technique"
+    "in vitro design"
   ]
 }
