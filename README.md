@@ -1,5 +1,5 @@
 <a href="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/openMINDS_terms_logo.png">
-    <img src="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/openMINDS_terms_logo.png" alt="openMINDS controlledTerms logo" title="openMINDS controlledTerms" align="right" height="70" />
+    <img src="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/light_openMINDS-terms-logo.png" alt="openMINDS controlledTerms logo" title="openMINDS controlledTerms" align="right" height="70" />
 </a>
 
 # openMINDS_controlledTerms
