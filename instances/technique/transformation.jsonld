@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/transformation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'transformation' is a mathematical function to map coordinates between two different coordinate systems.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "transformation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
