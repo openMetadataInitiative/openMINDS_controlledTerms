@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/nonrigidImageRegistration",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'nonrigid image registration' is a process of bringing a set of images into the same coordinate system using nonrigid transformation.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nonrigid image registration",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "non-rigid image registration"
+  ]
+}
