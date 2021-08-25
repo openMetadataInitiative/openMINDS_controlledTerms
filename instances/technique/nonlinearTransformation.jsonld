@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "nonlinear transformation",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "non-linear transformation"
+  ]
 }
