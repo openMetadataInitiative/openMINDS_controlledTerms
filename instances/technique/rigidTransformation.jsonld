@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/rigidTransformation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'rigid transformation' is a specific linear transformation using combinations of rotations, translations, and reflections to map coordinates between two coordinate spaces, leaving the oject congruent.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "rigid transformation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
