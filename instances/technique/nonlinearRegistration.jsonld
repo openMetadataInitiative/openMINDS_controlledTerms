@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "nonlinear registration",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "non-linear registration"
+  ]
 }
