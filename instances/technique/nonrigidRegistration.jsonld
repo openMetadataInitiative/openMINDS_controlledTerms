@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "nonrigid registration",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "non-rigid registration"
+  ]
 }
