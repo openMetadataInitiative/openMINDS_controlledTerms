@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "transformation",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "spatial registration"
+  ]
 }
