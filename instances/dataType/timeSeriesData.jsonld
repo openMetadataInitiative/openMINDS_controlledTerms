@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/timeSeriesData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "'Time series data' are comprised of a list of data points indexed in time order.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "time series data",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q186588",
+  "synonym": null
+}

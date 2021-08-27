@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/vectorGraphic",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "A 'vector graphic' is an image that is defined in terms of points on a Cartesian plane, which are connected by lines and curves to form polygons and other shapes, holding additional properties such as stroke color, shape, curve, thickness, and fill.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "vector graphic",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q170130",
+  "synonym": [
+    "vector image data"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/3DComputerGraphic",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "A '3D computer graphic' is a three-dimensional representation of geometric data.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "3D computer graphic",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q189177",
+  "synonym": [
+    "3DCG",
+    "three-dimensional computer graphics"
+  ]
+}
