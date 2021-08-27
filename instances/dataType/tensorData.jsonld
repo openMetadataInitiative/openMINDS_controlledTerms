@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/tensorData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "tensor data",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q188524",
+  "synonym": null
+}
