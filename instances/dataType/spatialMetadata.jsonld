@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/spatialMetadata",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "'Spatial metadata' provide information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of spatial data.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spatial metadata",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q1477538",
+  "synonym": [
+    "geospatial metadata",
+    "geographic metadata"
+  ]
+}
