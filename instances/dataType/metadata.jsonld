@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/dataType/metadata",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": null,
+  "definition": "'Metadata' are data about data.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
