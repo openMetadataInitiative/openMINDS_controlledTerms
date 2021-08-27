@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/matrixData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matrix data",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q44337",
+  "synonym": null
+}
