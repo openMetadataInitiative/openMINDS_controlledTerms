@@ -2,13 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/rasterImageData",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/rasterGraphic",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": null,
+  "definition": "A 'raster graphic' is a dot matrix that represents a rectangular grid of pixels (points of color).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "raster image data",
   "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q182270",
-  "synonym": null
+  "synonym": [
+    "raster image data"
+  ]
 }
