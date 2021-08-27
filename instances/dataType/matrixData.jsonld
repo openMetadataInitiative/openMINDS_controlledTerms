@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/dataType/matrixData",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": null,
+  "definition": "'Matrix data' are numbers, symbols, or expressions, arranged in rows and columns (rectangular array or table).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
