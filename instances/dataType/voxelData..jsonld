@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/voxelData",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "'Voxel data' is a matrix defining values (scalars, lists, or matrices) on a grid in a three dimensional space, which can be rendered to raster graphic.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "voxel data",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
