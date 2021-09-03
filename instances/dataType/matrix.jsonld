@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/matrixData",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/matrix",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "'Matrix data' are numbers, symbols, or expressions, arranged in rows and columns (rectangular array or table).",
+  "definition": "A 'matrix' is a list of lists.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "matrix data",
+  "name": "matrix",
   "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q44337",
   "synonym": null
 }
