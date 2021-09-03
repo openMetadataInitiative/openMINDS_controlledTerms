@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/4DScalarData",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/scalar",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "'4D scalar data' represent a discrete geometric location with one additional parameter (x, y, z, w).",
+  "definition": "A 'scalar' represent a single value (e.g., integer, float, string, etc.).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "4D scalar data",
-  "preferredOntologyIdentifier": null,
+  "name": "scalar",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q1289248",
   "synonym": null
 }
