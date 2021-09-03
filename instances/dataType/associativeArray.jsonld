@@ -2,15 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/vectorGraphic",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/associativeArray",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "A 'vector graphic' is an image that is defined in terms of points on a Cartesian plane, which are connected by lines and curves to form polygons and other shapes, holding additional properties such as stroke color, shape, curve, thickness, and fill.",
+  "definition": "A 'associative array' is an abstract data type that associates keys (scalars) with values (scalars, lists or matrices).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "vector graphic",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q170130",
+  "name": "associative array",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q80585",
   "synonym": [
-    "vector image data"
+    "dictionary"
   ]
 }
