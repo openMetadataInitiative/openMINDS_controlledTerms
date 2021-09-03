@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/rasterGraphic",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "A 'raster graphic' is a matrix, representing a generally rectangular grid of pixels, or points of color, viewable via a monitor, paper, or other display medium.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "raster graphic",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q182270",
+  "synonym": [
+    "raster image"
+  ]
+}
