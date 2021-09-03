@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/statisticalData",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/list",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": null,
+  "definition": "A 'list' is a series of ordered scalars and/or lists.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "statistical data",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q7604387",
+  "name": "list",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q12139612",
   "synonym": null
 }
