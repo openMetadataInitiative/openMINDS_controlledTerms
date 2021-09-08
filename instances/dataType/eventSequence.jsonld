@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/eventSequence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "An 'event sequence' is a list or matrix, where elements are ordered in not equally spaced points in time.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "event sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
