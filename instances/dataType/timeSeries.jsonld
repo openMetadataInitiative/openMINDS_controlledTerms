@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/dataType/timeSeries",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "A 'time series' is a list or matrix, where the elements are ordered in time.",
+  "definition": "A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
