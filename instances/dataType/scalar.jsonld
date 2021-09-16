@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/dataType/scalar",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
+  "definition": "A 'scalar' represent a single value (e.g., integer, float, string, etc.).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "scalar",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q1289248",
+  "synonym": null
+}

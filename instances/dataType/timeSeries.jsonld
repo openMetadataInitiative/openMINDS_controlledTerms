@@ -2,13 +2,15 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/timeSeriesData",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/timeSeries",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "'Time series data' are comprised of a list of data points indexed in time order.",
+  "definition": "A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "time series data",
+  "name": "time series",
   "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q186588",
-  "synonym": null
+  "synonym": [
+    "time-series"
+  ]
 }

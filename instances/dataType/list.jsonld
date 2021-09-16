@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/metadata",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/list",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "'Metadata' are data about data.",
+  "definition": "A 'list' is a series of ordered scalars and/or lists.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "metadata",
-  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q180160",
+  "name": "list",
+  "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q12139612",
   "synonym": null
 }

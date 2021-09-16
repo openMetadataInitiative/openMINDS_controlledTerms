@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/3DVectorData",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/eventSequence",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "'3D vector data' are composed of a list of vertices (3D scalar data) that defined the shape of a spatial object.",
+  "definition": "An 'event sequence' is a list or matrix, where elements are ordered in not equally spaced points in time.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "3D vector data",
+  "name": "event sequence",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

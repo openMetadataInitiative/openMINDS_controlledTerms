@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/dataType/3DScalarData",
+  "@id": "https://openminds.ebrains.eu/instances/dataType/voxelData",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DataType",
-  "definition": "'3D scalar data' represent a discrete geometric location (x, y, z).",
+  "definition": "'Voxel data' is a matrix defining values (scalars, lists, or matrices) on a grid in a three dimensional space, which can be rendered to raster graphic.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "3D scalar data",
+  "name": "voxel data",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
