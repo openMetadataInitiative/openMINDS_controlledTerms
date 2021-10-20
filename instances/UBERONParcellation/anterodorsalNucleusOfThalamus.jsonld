@@ -1,0 +1,30 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anterodorsalNucleusOfThalamus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Anterodorsal nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100755",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002679#anterodorsal-nucleus",
+    "name": "anterodorsal nucleus of thalamus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002679",
+    "synonym": [
+        "AD",
+        "nucleus thalamicus anterodorsalis",
+        "nucleus anterior thalami dorsalis",
+        "nucleus anterior dorsalis",
+        "nucleus anterodorsalis",
+        "nucleus anterodorsalis (Hassler)",
+        "anterodorsal nucleus of the thalamus",
+        "nucleus anterosuperior",
+        "anterodorsal thalamic nucleus",
+        "nucleus anterodorsalis thalami",
+        "Anterodorsal nucleus of thalamus",
+        "anterior dorsal thalamic nucleus",
+        "anterodorsal nucleus",
+        "nucleus anterior dorsalis thalami",
+        "nucleus anterodorsalis of thalamus"
+    ]
+}

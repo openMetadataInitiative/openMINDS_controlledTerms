@@ -1,14 +1,20 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Vertical limb of the diagonal band' is a subdivision of diagonal band.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "vertical limb of the diagonal band",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006124",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/verticalLimbOfTheDiagonalBand",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Vertical limb of the diagonal band' is a subdivision of diagonal band.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112424",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006124#vertical-limb-of-the-diagonal-band-1",
+    "name": "vertical limb of the diagonal band",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006124",
+    "synonym": [
+        "Vertical limb of the diagonal band of Broca",
+        "nucleus of the vertical limb of the diagonal band",
+        "vertical limb of diagonal band",
+        "vertical limb of the diagonal band",
+        "crus verticale striae diagonalis"
+    ]
 }

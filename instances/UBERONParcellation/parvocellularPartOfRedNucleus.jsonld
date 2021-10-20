@@ -1,14 +1,30 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The parvocellular red nucleus (RNp) is located in the rostral midbrain and is involved in motor coordination. Together with the magnocellular red nucleus, it makes up the red nucleus.",
-  "description": "'Parvocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "parvocellular part of red nucleus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002938",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvocellularPartOfRedNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Parvocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.",
+    "description": "Rostral portion of the red nucleus, located in the midbrain but originated from the diencephalon. Contains both large and small cells.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108564",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002938#parvocellular-part-of-red-nucleus-1",
+    "name": "parvocellular part of red nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002938",
+    "synonym": [
+        "RPC",
+        "Parvocellular red nucleus",
+        "red nucleus",
+        "parvocellular part",
+        "pars parvocellularis nuclei rubri",
+        "neoruber",
+        "neorubrum",
+        "parvocellular part of the red nucleus",
+        "pars parvocellularis (ruber)",
+        "red nucleus parvicellular part",
+        "red nucleus",
+        "parvicellular part",
+        "nucleus ruber parvocellularis",
+        "nucleus ruber",
+        "pars parvocellularis"
+    ]
 }

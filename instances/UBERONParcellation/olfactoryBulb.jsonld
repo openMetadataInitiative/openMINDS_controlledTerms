@@ -1,14 +1,22 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulb",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "A bulbous anterior projection of the olfactory lobe that is the place of termination of the olfactory nerves and is especially well developed in lower vertebrates (as fishes)[BTO].",
-  "description": "'Olfactory bulb' is a regional part of brain. It is part of the olfactory lobe.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "olfactory bulb",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002264",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/olfactoryBulb",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Olfactory bulb' is a regional part of brain. It is part of the olfactory lobe.",
+    "description": "Structure of the vertebrate telencephalon involved in olfaction.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107921",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002264#olfactory-bulb-1",
+    "name": "olfactory bulb",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002264",
+    "synonym": [
+        "Olb",
+        "main olfactory bulb",
+        "bulbus olfactorius",
+        "bulbus olfactorius",
+        "olfactory lobe",
+        "bulbus olfactorius (Morgagni)",
+        "olfactory lobe (Barr & Kiernan)"
+    ]
 }

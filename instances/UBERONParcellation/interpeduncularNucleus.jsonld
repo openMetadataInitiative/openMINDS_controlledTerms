@@ -1,14 +1,24 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Interpeduncular nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "interpeduncular nucleus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002145",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/interpeduncularNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Interpeduncular nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105597",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002145#interpeduncular-nucleus-1",
+    "name": "interpeduncular nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002145",
+    "synonym": [
+        "IP",
+        "nucleus interpeduncularis",
+        "interpeduncular nuclei",
+        "interpeduncular ganglion",
+        "interpeduncular nucleus of midbrain",
+        "nucleus interpeduncularis medialis",
+        "interpedunclear nucleus",
+        "interpeduncular nucleus (Gudden)",
+        "interpeduncular nucleus tegmentum"
+    ]
 }

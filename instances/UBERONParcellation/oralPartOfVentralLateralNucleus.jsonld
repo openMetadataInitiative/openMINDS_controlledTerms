@@ -1,0 +1,38 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/oralPartOfVentralLateralNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Oral part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108081",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002978#oral-part-of-ventral-lateral-nucleus-1",
+    "name": "oral part of ventral lateral nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002978",
+    "synonym": [
+        "VLO,VAL(VO)",
+        "ventral lateral nucleus",
+        "pars oralis",
+        "nucleus lateralis oralis situs principalis",
+        "ventral lateral thalamic nucleus",
+        "nucleus ventralis lateralis",
+        "oral part",
+        "nucleus ventrooralis externus",
+        "ventral lateral anterior nucleus",
+        "anterior part (Van Buren)",
+        "Ventral lateral nucleus",
+        "oral part",
+        "Ventral anterior nucleus",
+        "pars densicellularis",
+        "Ventral lateral thalamic nucleus",
+        "oral part",
+        "nucleus ventralis lateralis",
+        "pars oralis",
+        "nucleus ventrooralis externus",
+        "anterior part (van buren)",
+        "subnucleus rostralis",
+        "oral part of the ventral lateral nucleus",
+        "VLO"
+    ]
+}

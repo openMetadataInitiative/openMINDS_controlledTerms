@@ -1,0 +1,25 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCerebellarPeduncle",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Inferior cerebellar peduncle' is a cerebellar peduncle and white matter of medulla oblongata.",
+    "description": "Regional part of medullary white matter (according to Neuronames) primarily found at the level of the open medulla, consisting of a large bundle of fibers projecting to and projecting from the cerebellum.  The icp is continuous with the dorsal spinocerebellar tract and also contains a large number of fibers originating in the inferior olivary complex (MM).",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105435",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002163#inferior-cerebellar-peduncle-1",
+    "name": "inferior cerebellar peduncle",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002163",
+    "synonym": [
+        "icp",
+        "restiform body",
+        "corpus restiforme",
+        "inferior peduncle",
+        "crus cerebelli ad medullam oblongatam",
+        "pedunculus cerebellaris inferior",
+        "inferior cerebellar peduncle (restiform body)",
+        "crus medullo-cerebellare",
+        "inferior cerebellar peduncle (Ridley)",
+        "pedunculus cerebellaris caudalis"
+    ]
+}

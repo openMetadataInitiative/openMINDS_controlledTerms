@@ -1,14 +1,27 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumGloboseNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The two or three small masses of gray matter that is located medial to the emboliform nucleus and lateral to the fastigial nucleus; it receives axons from the intermediate area of the cerebellar hemispheres and its afferents exit through the superior cerebellar peduncle.",
-  "description": "'Cerebellum globose nucleus' is a cerebellum interpositus nucleus.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "cerebellum globose nucleus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002613",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebellumGloboseNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Cerebellum globose nucleus' is a cerebellum interpositus nucleus.",
+    "description": "One of two nuclei comprising the interpositus cerebellar nuclear complex of the deep cerebellar nuclei.  It is  recognized in human cerebellum but is not distinguishable in all mammalian species.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104655",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002613#globose-nucleus",
+    "name": "cerebellum globose nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002613",
+    "synonym": [
+        "Glo",
+        "posterior interposed nucleus",
+        "Nucleus globosus",
+        "Posterior interpositus nucleus",
+        "medial interpositus nucleus",
+        "nucleus interpositus posterior",
+        "medial interposed nucleus",
+        "globose nucleus",
+        "medial interpositus (globose) nucleus",
+        "nucleus globosus cerebelli",
+        "nucleus interpositus posterior cerebelli",
+        "nuclei globosi"
+    ]
 }

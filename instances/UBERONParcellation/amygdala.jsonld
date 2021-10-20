@@ -1,14 +1,32 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Subcortical brain region lying anterior to the hippocampal formation in the temporal lobe and anterior to the temporal horn of the lateral ventricle in some species. It is usually subdivided into several groups. Functionally, it is not considered a unitary structure (MM).",
-  "description": "'Amygdala' is a basal ganglion and cerebral hemisphere gray matter. It is part of the limbic system and temporal lobe.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "amygdala",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001876",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/amygdala",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Amygdala' is a basal ganglion and cerebral hemisphere gray matter. It is part of the limbic system and temporal lobe.",
+    "description": "Subcortical brain region lying anterior to the hippocampal formation in the temporal lobe and anterior to the temporal horn of the lateral ventricle in some species.  It is usually subdivided into several groups.  Functionally, it is not considered a unitary structure (MM).",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100573",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001876#amygdala-1",
+    "name": "amygdala",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001876",
+    "synonym": [
+        "amygdaloid nucleus",
+        "amygdaloid body",
+        "archistriatum",
+        "amygdaloid complex",
+        "amygdaloid nuclear groups",
+        "amygdaloid nuclear complex",
+        "nucleus amygdalae",
+        "corpus amygdaloideum",
+        "corpus amygdalae",
+        "amygdaloid area",
+        "amygdaloid nuclear group",
+        "Amygdaloid body",
+        "Amygdaloid nuclear complex",
+        "Amygdaloid complex",
+        "Amygdaloid nuclear groups",
+        "Amygdaloid nucleus",
+        "Archistriatum"
+    ]
 }

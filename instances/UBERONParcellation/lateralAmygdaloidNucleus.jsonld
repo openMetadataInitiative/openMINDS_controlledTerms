@@ -1,14 +1,25 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The sensory interface of the amygdala where plasticity is mediated (Phelps & LeDoux, 2005, http://www.ncbi.nlm.nih.gov/pubmed/ 16242399).",
-  "description": "'Lateral amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "lateral amygdaloid nucleus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002886",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralAmygdaloidNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Lateral amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.",
+    "description": "The sensory interface of the amygdala where plasticity is mediated (Phelps & LeDoux, 2005, PMID: 16242399).",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106043",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002886#lateral-amygdaloid-nucleus-1",
+    "name": "lateral amygdaloid nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002886",
+    "synonym": [
+        "LA",
+        "lateral nucleus of amygdala",
+        "medial principal nucleus",
+        "lateral principal nucleus of amygdala",
+        "nucleus amygdaloideus lateralis",
+        "nucleus lateralis amygdalae",
+        "lateral nucleus of the amygdala",
+        "nucleus amygdalae lateralis",
+        "lateral amygdalar nucleus",
+        "lateral amygdala"
+    ]
 }

@@ -1,0 +1,39 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/piriformCortex",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Piriform cortex' is a regional part of brain. It is part of the olfactory cortex.",
+    "description": "Prepyriform area (or prepiriform cortex) is a portion of the rhinencephalon consisting of paleocortex. Some sources state that it is part of the primary olfactory cortex.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109236",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004725#piriform-cortex-1",
+    "name": "piriform cortex",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004725",
+    "synonym": [
+        "prepiriform cortex",
+        "cortex piriformis",
+        "primary olfactory areas",
+        "paleopallium",
+        "pyriform cortex",
+        "area prepiriformis",
+        "primary olfactory cortex",
+        "pyriform lobe",
+        "eupalaeocortex",
+        "regio praepiriformis",
+        "olfactory pallium",
+        "piriform lobe",
+        "palaeocortex II",
+        "prepiriform cortex",
+        "piriform area",
+        "prepyriform cortex",
+        "(pre-)piriform cortex",
+        "pyriform area",
+        "piriform cortex (Price)",
+        "lateral olfactory gyrus",
+        "piriform olfactory cortex",
+        "piriform cortex",
+        "gyrus olfactorius lateralis",
+        "prepiriform region"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteromedialNucleusOfThalamus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Anteromedial nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the anterior nuclear group.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100768",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002681#anteromedial-nucleus",
+    "name": "anteromedial nucleus of thalamus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002681",
+    "synonym": [
+        "AM",
+        "nucleus anteromedialis thalami",
+        "nucleus thalamicus anteromedialis",
+        "anteromedial thalamic nucleus",
+        "nucleus anterior medialis thalami",
+        "nucleus anterior thalami medialis",
+        "nucleus anteromedialis (Hassler)",
+        "nucleus anteromedialis",
+        "nucleus anterior medialis",
+        "anteromedial nucleus of the thalamus",
+        "anteromedial nucleus",
+        "Anteromedial nucleus of thalamus"
+    ]
+}

@@ -1,14 +1,21 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfFourthVentricle",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Choroid plexus of the fourth ventricle.",
-  "description": "'Choroid plexus of fourth ventricle' is a choroid plexus and cerebellum vasculature. It is part of the fourth ventricle.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "choroid plexus of fourth ventricle",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002290",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/choroidPlexusOfFourthVentricle",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Choroid plexus of fourth ventricle' is a choroid plexus and cerebellum vasculature. It is part of the fourth ventricle.",
+    "description": "Choroid plexus of the fourth ventricle",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102143",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002290#choroid-plexus-of-fourth-ventricle",
+    "name": "choroid plexus of fourth ventricle",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002290",
+    "synonym": [
+        "Chorioid plexus of fourth ventricle",
+        "fourth ventricle choroid plexus",
+        "choroid plexus fourth ventricle",
+        "fourth ventricle chorioid plexus of cerebral hemisphere",
+        "chorioid plexus of cerebral hemisphere of fourth ventricle",
+        "4th ventricle choroid plexus"
+    ]
 }

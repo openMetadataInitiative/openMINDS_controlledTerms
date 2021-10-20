@@ -1,14 +1,32 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The cerebral crus is the anterior portion of the cerebral peduncle which contains the motor tracts, the plural of which is cerebral crura. In some older texts, it is used as a synonym for the entire cerebral peduncle, not just the anterior portion of it. [WP,unvetted].",
-  "description": "'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "cerebral crus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002631",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cerebralCrus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Cerebral crus' is a white matter of midbrain. It is part of the cerebral peduncle.",
+    "description": "The cerebral crus is the most anterior portion of the midbrain which consists of a massive band of nerve fibers originating primarily from the cerebral cortex.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101990",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002631#cerebral-crus-1",
+    "name": "cerebral crus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002631",
+    "synonym": [
+        "ccr",
+        "Cerebral peduncle (clinical definition)",
+        "crus cerebri",
+        "crura cerebri",
+        "pes pedunculi of midbrain",
+        "cerebral peduncle",
+        "basal part",
+        "pedunculus cerebri",
+        "pars basalis",
+        "basis cerebri (Oertel)",
+        "pes pedunculi",
+        "crus of the cerebral peduncle",
+        "base of cerebral peduncle",
+        "basis pedunculi cerebri (Willis)",
+        "pars neo-encephalica pedunculi",
+        "basis pedunculi (Oertel)",
+        "crus cerebri"
+    ]
 }

@@ -1,14 +1,21 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralOculomotorNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Ventral oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "ventral oculomotor nucleus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002934",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralOculomotorNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Ventral oculomotor nucleus' is a brainstem nucleus and midbrain nucleus. It is part of the oculomotor nuclear complex.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112325",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002934#ventral-oculomotor-nucleus-1",
+    "name": "ventral oculomotor nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002934",
+    "synonym": [
+        "V3",
+        "ventral oculomotor cell column",
+        "ventral nucleus of oculomotor nuclear complex",
+        "nucleus nervi oculomotorii ventrolateralis",
+        "nucleus nervi oculomotorii",
+        "pars ventralis"
+    ]
 }

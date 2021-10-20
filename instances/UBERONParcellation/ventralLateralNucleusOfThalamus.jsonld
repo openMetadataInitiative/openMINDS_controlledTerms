@@ -1,0 +1,33 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralLateralNucleusOfThalamus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Ventral lateral nucleus of thalamus' is a nucleus of dorsal thalamus and nucleus of ventral thalamus. It is part of the ventral nuclear group.",
+    "description": "The ventral lateral nucleus (VL) is a nucleus of the thalamus. [WP,unvetted].",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112309",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001925#ventral-lateral-nucleus",
+    "name": "ventral lateral nucleus of thalamus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001925",
+    "synonym": [
+        "VL",
+        "ventrolateral thalamic nucleus",
+        "nucleus ventrolateralis thalami",
+        "ventral lateral nucleus of thalamus",
+        "ventral lateral thalamic nucleus",
+        "nucleus ventralis lateralis thalami",
+        "nucleus ventralis lateralis",
+        "nucleus ventralis intermedius",
+        "nucleus ventralis thalami lateralis",
+        "ventral lateral thalamic nuclei",
+        "Ventral lateral complex of thalamus",
+        "Lateral ventral nucleus of thalamus",
+        "nuclei ventrales laterales thalami",
+        "ventral lateral nucleus",
+        "ventral lateral nuclei of thalamus",
+        "nuclei ventrales laterales thalami",
+        "ventrolateral complex",
+        "lateral-ventral nuclei of thalamus"
+    ]
+}

@@ -1,14 +1,24 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Part of hypothalamus consisting of hollow eminence of gray matter situated between the mammilary bodies and the optic chiasm visible on the basal surface of the brain (adapted from Wikipedia).",
-  "description": "'Tuber cinereum' is a regional part of brain. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "tuber cinereum",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002620",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/tuberCinereum",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Tuber cinereum' is a regional part of brain. It is part of the medial zone of hypothalamus and intermediate hypothalamic region.",
+    "description": "Layer of gray matter in the hypothalamus that also forms part of the floor of the third ventricle and merges anteriorly into the infundibulum. (MSH)",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112046",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002620#tuber-cinereum-1",
+    "name": "tuber cinereum",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002620",
+    "synonym": [
+        "tbcn",
+        "tuberal area of hypothalamus",
+        "tubercle of Rolando",
+        "tuberal area",
+        "hypothalamus",
+        "tuberal nucleus",
+        "tuber cinereum area",
+        "tuberal area",
+        "tuberal region"
+    ]
 }

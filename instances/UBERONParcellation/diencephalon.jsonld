@@ -1,14 +1,22 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The division of the forebrain that develops from the foremost primary cerebral vesicle.",
-  "description": "'Diencephalon' is a regional part of brain. It is part of the forebrain.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "diencephalon",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001894",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/diencephalon",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Diencephalon' is a regional part of brain. It is part of the forebrain.",
+    "description": "Part of the brain consisting of the paired caudal parts of the prosencephalon from which the Thalamus; Hypothalamus; Epithalamus; and Subthalamus are derived.(MeSH)",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103217",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001894#diencephalon-1",
+    "name": "diencephalon",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001894",
+    "synonym": [
+        "DiE",
+        "Interbrain",
+        "Between brain",
+        "Mature diencephalon",
+        "thalamencephalon",
+        "diencephalon",
+        "betweenbrain"
+    ]
 }

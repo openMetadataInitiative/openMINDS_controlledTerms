@@ -1,0 +1,27 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorPeriventricularNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Posterior periventricular nucleus' is a hypothalamic nucleus. It is part of the posterior hypothalamic region.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109122",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002708#posterior-periventricular-nucleus-1",
+    "name": "posterior periventricular nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002708",
+    "synonym": [
+        "PPe",
+        "posterior periventricular nucleus of hypothalamus",
+        "Periventricular nucleus",
+        "posterior subdivision",
+        "Posterior periventricular nucleus",
+        "nucleus periventricularis posterior",
+        "posterior paraventricular nucleus",
+        "posterior periventricular hypothalamic nucleus",
+        "griseum periventriculare hypothalami",
+        "periventricular hypothalamic nucleus",
+        "posterior part",
+        "posterior periventricular nucleus of the hypothalamus"
+    ]
+}

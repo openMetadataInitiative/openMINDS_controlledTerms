@@ -1,14 +1,27 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ammonsHorn",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "A part of the brain consisting of a three layered cortex located in the forebrain bordering the medial surface of the lateral ventricle. The term hippocampus is often used synonymously with hippocampal formation which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subiculum.",
-  "description": "'Ammon's horn' is a regional part of brain. It is part of the limbic system, hippocampal formation and limbic lobe.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "Ammon's horn",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001954",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ammonsHorn",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Ammon's horn' is a regional part of brain. It is part of the limbic system, hippocampal formation and limbic lobe.",
+    "description": "A part of the hippocampal formation consisting of a three layered cortex located in the forebrain bordered by the medial surface of the lateral ventricle, the dentate gyrus and the subiculum.  It has 3 subfields termed CA1, CA2 and CA3. The term hippocampus is often used synonymously with  hippocampal formation which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subiculum.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105021",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001954#hippocampus",
+    "name": "Ammon's horn",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001954",
+    "synonym": [
+        "Hip",
+        "Cornu ammonis",
+        "Ammon&#39;s horn",
+        "hippocampus proper",
+        "ammon horn",
+        "Hippocampus major",
+        "Ammon's horn",
+        "ammon gyrus",
+        "hippocampus proprius",
+        "hippocampus",
+        "Ammons horn",
+        "Ammon horn fields"
+    ]
 }

@@ -1,0 +1,25 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/submedialNucleusOfThalamus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Submedial nucleus of thalamus' is a posterior nucleus of thalamus.",
+    "description": "Thalamic nucleus separated from the ventromedial part of the mediodorsal nucleus of the thalamus by the internal medullary lamina (Paxinos The rat nervous system 2nd ed, Academic Press, 1995).",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111192",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003031#submedial-nucleus",
+    "name": "submedial nucleus of thalamus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003031",
+    "synonym": [
+        "submedial nucleus thalamus",
+        "submedial nucleus of thalamus",
+        "nucleus submedius thalami",
+        "gelatinosus thalamic nucleus",
+        "submedial thalamic nucleus",
+        "nucleus submedialis thalami",
+        "submedial nucleus",
+        "submedius thalamic nucleus",
+        "submedial nucleus of the thalamus",
+        "SM"
+    ]
+}

@@ -1,14 +1,32 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Motor root of trigeminal nerve' is a trigeminal nerve root.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "motor root of trigeminal nerve",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002796",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/motorRootOfTrigeminalNerve",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Motor root of trigeminal nerve' is a trigeminal nerve root.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107128",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002796#motor-root-of-trigeminal-nerve-1",
+    "name": "motor root of trigeminal nerve",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002796",
+    "synonym": [
+        "radix motoria (Nervus trigeminus [V])",
+        "radix motoria nervus trigemini",
+        "motor root of nervus v",
+        "motor branch of trigeminal nerve",
+        "motor root of N. V",
+        "portio minor of trigeminal nerve",
+        "dorsal motor roots of V",
+        "nervus trigeminus",
+        "radix motoria",
+        "dorsal motor root of v",
+        "nervus trigemini radix motoria",
+        "motor root of the trigeminal nerve",
+        "radix motoria",
+        "minor root of trigeminal nerve",
+        "portio minor nervi trigemini",
+        "nervus trigeminus",
+        "radix motorius"
+    ]
 }

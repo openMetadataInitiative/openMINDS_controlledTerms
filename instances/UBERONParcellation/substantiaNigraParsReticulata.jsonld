@@ -1,14 +1,37 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Regional part of substantia nigra consisting of loosely packed cells, generally located ventral and lateral to the pars compacta. Many cells in this region use GABA as a neurotransmitter (MM).",
-  "description": "'Substantia nigra pars reticulata' is part of the substantia nigra.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "substantia nigra pars reticulata",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001966",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/substantiaNigraParsReticulata",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Substantia nigra pars reticulata' is part of the substantia nigra.",
+    "description": "Regional part of substantia nigra consisting of loosely packed cells, generally located ventral and lateral to the pars compacta.  Many cells in this region use GABA as a neurotransmitter (MM).",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111222",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001966#substantia-nigra-pars-reticulata-1",
+    "name": "substantia nigra pars reticulata",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001966",
+    "synonym": [
+        "SNR",
+        "pars reticulata",
+        "substantia nigra",
+        "reticular part",
+        "pars reticularis",
+        "reticular part of substantia nigra",
+        "pars reticularis substantiae nigrae",
+        "nucleus substantiae nigrae",
+        "pars reticularis",
+        "substantia nigra",
+        "pars diffusa",
+        "nucleus substantiae nigrae",
+        "pars compacta",
+        "pars compacta of substantia nigra",
+        "substantia nigra reticular part",
+        "substantia nigra",
+        "reticular division",
+        "substantia nigra",
+        "pars compacta",
+        "substantia nigra",
+        "pars reticulata",
+        "SNPR"
+    ]
 }

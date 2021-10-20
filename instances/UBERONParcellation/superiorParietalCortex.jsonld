@@ -1,14 +1,21 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Copmonent of the parietal lobe. The rostral and caudal boundaries of the superior parietal cortex were the precentral gyrus and lateral occipital cortex respectively. The medial and lateral boundaries were the precuneus and/or cuneus cortex and the infererior parietal cortex respectively (Christine Fennema-Notestine).",
-  "description": "'Superior parietal cortex' is part of the parietal lobe and neocortex.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "superior parietal cortex",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006094",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/superiorParietalCortex",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Superior parietal cortex' is part of the parietal lobe and neocortex.",
+    "description": "Component of the parietal lobe.  The rostral and caudal boundaries of the superior parietal cortex were the precentral gyrus and lateral occipital cortex respectively. The medial and lateral boundaries were the precuneus and/or cuneus cortex and the infererior parietal cortex respectively (Christine Fennema-Notestine).",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111317",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006094#superior-parietal-cortex-1",
+    "name": "superior parietal cortex",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006094",
+    "synonym": [
+        "superior portion of parietal gyrus",
+        "superior parietal gyrus",
+        "superior parietal cortex",
+        "superior parietal lobule",
+        "lobulus parietalis superior",
+        "gyrus parietalis superior"
+    ]
 }

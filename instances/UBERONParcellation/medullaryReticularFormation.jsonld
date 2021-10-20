@@ -1,14 +1,29 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The reticular formation is a series of brain nuclei located in the medulla oblongata.",
-  "description": "'Medullary reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and reticular formation.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "medullary reticular formation",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002559",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryReticularFormation",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Medullary reticular formation' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and reticular formation.",
+    "description": "Part of reticular formation located in the medulla",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106744",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002559#medullary-reticular-formation-1",
+    "name": "medullary reticular formation",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002559",
+    "synonym": [
+        "reticular formation of medulla",
+        "reticular formation of medulla oblonmgata",
+        "reticular formation of metepencephalon",
+        "bulb reticular formation",
+        "medulla oblonmgata reticular formation",
+        "reticular formation of bulb",
+        "metepencephalon reticular formation",
+        "medulla oblongata reticular formation",
+        "rhombencephalic reticular formation",
+        "reticular formation of medulla oblongata",
+        "medullary reticular nucleus",
+        "bulbar reticular formation",
+        "formatio reticularis myelencephali",
+        "reticular formation"
+    ]
 }

@@ -1,0 +1,41 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfMedialDorsalNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Parvicellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus and medial dorsal nucleus of thalamus.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108559",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002654#parvicellular-part-of-medial-dorsal-nucleus-1",
+    "name": "parvicellular part of medial dorsal nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002654",
+    "synonym": [
+        "MDPC",
+        "parvicellular part",
+        "lateral mediodorsal nucleus",
+        "parvicellular part of medial dorsal nucleus",
+        "nucleus medialis dorsalis",
+        "parvicellular part of dorsomedial nucleus",
+        "mediodorsal thalamic nucleus",
+        "nucleus medialis dorsalis fasciculosis (Hassler)",
+        "pars fasciculosa",
+        "pars parvicellularis",
+        "nucleus medialis dorsalis nucleus fasciculosis (Hassler)",
+        "parvocellular nucleus of medial dorsal nucleus of thalamus",
+        "mediodorsal thalamic nucleus",
+        "pars fasciculosa",
+        "nucleus medialis dorsalis",
+        "pars parvicellularis",
+        "principal division of ventral anterior nucleus of thalamus",
+        "pars parvocellularis lateralis nuclei mediodorsalis thalami",
+        "dorsomedial thalamic nucleus",
+        "parvicellular part",
+        "lateral nucleus of medial dorsal nucleus of thalamus",
+        "pars principalis nuclei ventralis anterior thalami",
+        "nucleus medialis dorsalis",
+        "pars parvocellularis",
+        "parvicellular part of the medial dorsal nucleus",
+        "nucleus medialis dorsalis nucleus fasciculosus (Hassler)"
+    ]
+}

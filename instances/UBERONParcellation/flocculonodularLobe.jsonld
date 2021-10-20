@@ -1,14 +1,23 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The flocculonodular lobe is a lobe of the cerebellum consisting of the nodule and the flocculus. It is closely associated with the vestibulocerebellum. [WP,unvetted].",
-  "description": "'Flocculonodular lobe' is a cerebellum lobe. It is part of the vestibulocerebellum.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "flocculonodular lobe",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003012",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/flocculonodularLobe",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Flocculonodular lobe' is a cerebellum lobe. It is part of the vestibulocerebellum.",
+    "description": "The flocculonodular lobe is a lobe of the cerebellum consisting of the nodule and the flocculus. It is closely associated with the vestibulocerebellum. [WP,unvetted].",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104286",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003012#flocculonodular-lobe-1",
+    "name": "flocculonodular lobe",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003012",
+    "synonym": [
+        "vestibulocerebellum",
+        "archicerebellum",
+        "Archaeocerebellum",
+        "flocculonodular lobe of cerebellum",
+        "flocculonodular lobe",
+        "lobus flocculonodularis",
+        "cerebellum flocculonodular lobe",
+        "posterior lobe-2 of cerebellum"
+    ]
 }

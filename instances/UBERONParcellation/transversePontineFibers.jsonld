@@ -1,14 +1,24 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/transversePontineFibers",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Transverse pontine fibers' is a tract of brain. It is part of the basal part of pons.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "transverse pontine fibers",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002735",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/transversePontineFibers",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Transverse pontine fibers' is a tract of brain. It is part of the basal part of pons.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111909",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002735#transverse-pontine-fibers-1",
+    "name": "transverse pontine fibers",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002735",
+    "synonym": [
+        "transverse pontine tract",
+        "fibrae pontis transversae",
+        "superficial transverse fibers of pons",
+        "transverse pontine fibres",
+        "transverse pontine fibers",
+        "transverse fibers of pons",
+        "transverse fibers of the pons",
+        "fibrae pontis superficiales",
+        "fibrae transversae superficiales pontis"
+    ]
 }

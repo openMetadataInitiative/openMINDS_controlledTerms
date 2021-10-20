@@ -1,14 +1,25 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "Part of spinothalamic tract that is in the pontine tegmentum.",
-  "description": "'Spinothalamic tract of pons' is a tract of brain. It is part of the pontine tegmentum and spinothalamic tract.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "spinothalamic tract of pons",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002798",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/spinothalamicTractOfPons",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Spinothalamic tract of pons' is a tract of brain. It is part of the pontine tegmentum and spinothalamic tract.",
+    "description": "Part of spinothalamic tract that is in the pontine tegmentum",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110976",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002798#spinothalamic-tract-of-pons-1",
+    "name": "spinothalamic tract of pons",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002798",
+    "synonym": [
+        "pons spinothalamic tract",
+        "spinothalamic tract of medulla of pons of varolius",
+        "spinothalamic tract of pons of varolius",
+        "pons of varolius spinothalamic tract of medulla",
+        "pons of varolius spinothalamic tract",
+        "spinothalamic tract of medulla of pons",
+        "pons spinothalamic tract of medulla",
+        "spinothalamic tract of the pons",
+        "tractus spinothalamicus (pontis)",
+        "spinotectal pathway"
+    ]
 }

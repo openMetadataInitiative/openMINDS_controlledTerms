@@ -1,14 +1,31 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Medial part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "medial part of basal amygdaloid nucleus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002889",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfBasalAmygdaloidNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Medial part of basal amygdaloid nucleus' is a cerebral hemisphere gray matter. It is part of the basal amygdaloid nucleus.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106676",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002889#medial-part-of-basal-amygdaloid-nucleus-1",
+    "name": "medial part of basal amygdaloid nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002889",
+    "synonym": [
+        "BAM",
+        "medial basal nucleus of amygdala",
+        "basomedial amygdaloid nucleus",
+        "basomedial amygdalar nucleus",
+        "nucleus amygdalae basalis medialis",
+        "medial division of basal nucleus",
+        "basomedial amygdaloid nucleus anterior part",
+        "nucleus amygdaloideus basalis pars lateralis parvocellularis",
+        "medial part of the basal amygdalar nucleus",
+        "basomedial amygdaloid nucleus anterior subdivision",
+        "nucleus amygdalae basalis",
+        "pars medialis",
+        "basomedial amygdaloid nucleus",
+        "anterior part",
+        "nucleus basalis medialis amygdalae",
+        "medial part of the basolateral nucleus"
+    ]
 }

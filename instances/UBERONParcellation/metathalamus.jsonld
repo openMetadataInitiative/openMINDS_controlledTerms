@@ -1,14 +1,22 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "The metathalamus is a composite structure of the thalamus, consisting of the medial geniculate nucleus and the lateral geniculate nucleus. [WP,unvetted].",
-  "description": "'Metathalamus' is a nucleus of dorsal thalamus.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "metathalamus",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002704",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/metathalamus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Metathalamus' is a nucleus of dorsal thalamus.",
+    "description": "The metathalamus is a composite structure of the thalamus, consisting of the medial geniculate nucleus and the lateral geniculate nucleus. [WP,unvetted].",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106839",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002704#metathalamus-1",
+    "name": "metathalamus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002704",
+    "synonym": [
+        "MTh",
+        "nuclei metathalami",
+        "Geniculate group of the dorsal thalamus",
+        "geniculate thalamic group",
+        "geniculate thalamic nuclear group (metathalamus)",
+        "corpora geniculata",
+        "geniculate group of dorsal thalamus"
+    ]
 }

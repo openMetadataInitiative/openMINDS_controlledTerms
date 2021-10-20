@@ -1,14 +1,20 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Medial longitudinal fasciculus of pons' is a medial longitudinal fasciculus. It is part of the pons.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "medial longitudinal fasciculus of pons",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002794",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialLongitudinalFasciculusOfPons",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Medial longitudinal fasciculus of pons' is a medial longitudinal fasciculus. It is part of the pons.",
+    "description": "A medial longitudinal fasciculus that is part of a pons [Automatically generated definition].",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106659",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002794#medial-longitudinal-fasciculus-of-pons-1",
+    "name": "medial longitudinal fasciculus of pons",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002794",
+    "synonym": [
+        "medial longitudinal fasciculus of pons of varolius",
+        "pons of varolius medial longitudinal fasciculus",
+        "pons medial longitudinal fasciculus",
+        "fasciculus longitudinalis medialis (pontis)",
+        "medial longitudinal fasciculus of the pons"
+    ]
 }

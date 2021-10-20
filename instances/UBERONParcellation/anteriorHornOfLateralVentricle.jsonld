@@ -1,0 +1,25 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorHornOfLateralVentricle",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Anterior horn of lateral ventricle' is a telencephalic ventricle.",
+    "description": "Part of the lateral ventricle that extends anteriorly into the frontal lobes, bordered by the head of the caudate nucleus on the lateral side (Adapted from Heimer, 1996)",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100702",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002651#anterior-horn-of-lateral-ventricle-1",
+    "name": "anterior horn of lateral ventricle",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002651",
+    "synonym": [
+        "cornu anterius (ventriculi lateralis)",
+        "ventriculus lateralis",
+        "cornu anterius",
+        "cornu frontale ventriculi lateralis",
+        "anterior horn of lateral ventricle",
+        "frontal horn of lateral ventricle",
+        "cornu frontale (ventriculi lateralis)",
+        "cornu anterius ventriculi lateralis",
+        "cornu anterius",
+        "Anterior horn of lateral ventricle"
+    ]
+}

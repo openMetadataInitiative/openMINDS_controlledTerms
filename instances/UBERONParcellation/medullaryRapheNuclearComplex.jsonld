@@ -1,14 +1,20 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": null,
-  "description": "'Medullary raphe nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and raphe nuclei.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "medullary raphe nuclear complex",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002692",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medullaryRapheNuclearComplex",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Medullary raphe nuclear complex' is a nuclear complex of neuraxis and gray matter of hindbrain. It is part of the medulla oblongata and raphe nuclei.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106743",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002692#medullary-raphe-nuclear-complex-1",
+    "name": "medullary raphe nuclear complex",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002692",
+    "synonym": [
+        "raphe nuclei of medulla",
+        "raphe medullae oblongatae",
+        "raphe of medulla oblongata",
+        "raphe nuclei of the medulla",
+        "nuclei raphe (myelencephali)"
+    ]
 }

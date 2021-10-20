@@ -1,0 +1,26 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/opercularPartOfInferiorFrontalGyrus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Opercular part of inferior frontal gyrus' is part of the inferior frontal gyrus.",
+    "description": "Component of the inferior frontal gyrus.defined as the first gyrus from the precentral gyrus.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108057",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002980#opercular-part-of-inferior-frontal-gyrus-1",
+    "name": "opercular part of inferior frontal gyrus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002980",
+    "synonym": [
+        "pars opercularis gyri frontalis inferioris",
+        "Opercular portion of inferior frontal gyrus",
+        "Posterior part of inferior frontal gyrus",
+        "gyrus frontalis inferior",
+        "pars opercularis",
+        "pars opercularis",
+        "pars posterior of inferior frontal gyrus",
+        "inferior frontal gyrus",
+        "opercular part",
+        "inferior frontal gyrus",
+        "pars opercularis"
+    ]
+}

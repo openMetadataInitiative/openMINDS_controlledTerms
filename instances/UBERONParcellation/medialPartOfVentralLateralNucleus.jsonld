@@ -1,0 +1,35 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialPartOfVentralLateralNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Medial part of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106680",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002614#medial-part-of-ventral-lateral-nucleus-1",
+    "name": "medial part of ventral lateral nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002614",
+    "synonym": [
+        "VLM",
+        "ventral lateral nucleus",
+        "pars medialis",
+        "medial part",
+        "nucleus ventrooralis medialis (Hassler)",
+        "nucleus ventralis lateralis thalami",
+        "ventral medial nucleus of thalamus",
+        "Ventral lateral nucleus",
+        "medial part",
+        "Ventral medial nucleus",
+        "nucleus ventralis lateralis thalami",
+        "pars medialis",
+        "vMp (Macchi)",
+        "ventromedial nucleus of thalamus",
+        "ventromedial thalamic nucleus",
+        "ventromedial nucleus of the thalamus",
+        "medial part of the ventral lateral nucleus",
+        "nucleus ventralis lateralis",
+        "pars medialis",
+        "ventral medial nucleus of the thalamus"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfMedialDorsalNucleus",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Magnocellular part of medial dorsal nucleus' is a gray matter of diencephalon. It is part of the medial dorsal nucleus of thalamus.",
+    "description": "",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106473",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002647#magnocellular-part-of-medial-dorsal-nucleus-1",
+    "name": "magnocellular part of medial dorsal nucleus",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002647",
+    "synonym": [
+        "MDM",
+        "nucleus medialis dorsalis",
+        "magnocellular part",
+        "magnocellular mediodorsal nucleus",
+        "magnocellular part of mediodorsal nucleus",
+        "pars magnocellularis",
+        "nucleus medialis fibrosus (Hassler)",
+        "nucleus medialis fibrosus",
+        "dorsomedial thalamic nucleus",
+        "magnocellular part",
+        "magnocellular nucleus of medial dorsal nucleus of thalamus",
+        "pars magnocellularis nuclei mediodorsalis thalami",
+        "nucleus medialis dorsalis",
+        "pars magnocellularis",
+        "magnocellular part of dorsomedial nucleus",
+        "magnocellular part of the medial dorsal nucleus"
+    ]
+}

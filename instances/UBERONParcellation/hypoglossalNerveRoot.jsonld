@@ -1,14 +1,24 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hypoglossalNerveRoot",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "A nerve root that extends_fibers_into a hypoglossal nerve.",
-  "description": "'Hypoglossal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "hypoglossal nerve root",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004675",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hypoglossalNerveRoot",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Hypoglossal nerve root' is a root of cranial nerve. It is part of the medulla oblongata.",
+    "description": "A nerve root that extends_fibers_into a hypoglossal nerve.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105166",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004675#hypoglossal-nerve-fiber-bundle",
+    "name": "hypoglossal nerve root",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004675",
+    "synonym": [
+        "root of hypoglossal nerve",
+        "central part of hypoglossal nerve",
+        "hypoglossal nerve fibers",
+        "hypoglossal nerve tract",
+        "hypoglossal nerve root",
+        "hypoglossal nerve fiber bundle",
+        "fibrae nervi hypoglossi",
+        "hypoglossal nerve fibers",
+        "hypoglossal nerve/ root"
+    ]
 }

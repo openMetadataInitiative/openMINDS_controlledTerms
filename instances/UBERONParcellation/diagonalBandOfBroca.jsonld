@@ -1,14 +1,35 @@
 {
-  "@context": {
-    "@vocab": "https://openminds.ebrains.eu/vocab/"
-  },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalBandOfBroca",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "A white fibre bundle descending in the precommissural septum toward the base of the forebrain, immediately rostral to the lamina terminalis; at the base, the bundle turns in the caudolateral direction; traveling through the ventral substantia innominata alongside the optic tract, it fades before reaching the amygdala.",
-  "description": "'Diagonal band of Broca' is a neuron projection bundle and central nervous system cell part cluster. It is part of the cerebral hemisphere white matter.",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
-  "name": "diagonal band of Broca",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002741",
-  "synonym": null
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/diagonalBandOfBroca",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Diagonal band of Broca' is a neuron projection bundle and central nervous system cell part cluster. It is part of the cerebral hemisphere white matter.",
+    "description": "A white fibre bundle descending in the precommissural septum toward the base of the forebrain, immediately rostral to the lamina terminalis; at the base, the bundle turns in the caudolateral direction; traveling through the ventral substantia innominata alongside the optic tract, it fades before reaching the amygdala. (Mondofacto:  http://www.mondofacto.com/facts/dictionary?Broca%27s%20diagonal%20band)",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103188",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002741#diagonal-band",
+    "name": "diagonal band of Broca",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002741",
+    "synonym": [
+        "diagonal band of Broca",
+        "Broca's diagonal gyrus",
+        "Olfactory fasciculus",
+        "Diagonal gyrus",
+        "Olfactory radiations of Zuckerkandl",
+        "Broca's diagonal band",
+        "diagonal band",
+        "fasciculus olfactorius",
+        "diagonal band(Broca)",
+        "stria diagonalis",
+        "fasciculus septo-amygdalicus",
+        "stria diagonalis (Broca)",
+        "band of Broca",
+        "fasciculus olfactorius cornu Ammonis",
+        "gyrus diagonalis rhinencephli",
+        "fasciculus olfactorius (hippocampi)",
+        "gyrus diagonalis",
+        "fasciculus diagonalis Brocae",
+        "bandaletta diagonalis (Broca)",
+        "bandeletta diagonalis"
+    ]
 }

@@ -1,0 +1,27 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralGeniculateBody",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'Lateral geniculate body' is a nucleus of dorsal thalamus. It is part of the metathalamus.",
+    "description": "The group of neurons that serve as the primary processor of visual information received from the retina via the optic tract and send processed information to the visual cortex of the occipital lobe",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106064",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001926#lateral-geniculate-body-1",
+    "name": "lateral geniculate body",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001926",
+    "synonym": [
+        "LGN",
+        "corpus geniculatum laterales",
+        "nucleus geniculatus lateralis",
+        "lateral geniculate nucleus",
+        "lateral geniculate complex",
+        "lateral geniculate body",
+        "external geniculate body",
+        "LGB",
+        "corpus geniculatum externum",
+        "corpus geniculatum laterale",
+        "corpus geniculatus lateralis",
+        "nucleus corporis geniculati lateralis"
+    ]
+}
