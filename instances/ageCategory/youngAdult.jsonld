@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/ageCategory/youngAdult",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
+  "definition": "'Young adult' categorizes the early stage of a prime adult when sexual maturity has been reached, but not the cessation of growth.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "young adult",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "young adult stage",
+    "adolescent stage", 
+    "teenage"
+  ]
+}
