@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/ageCategory/youngAdult",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
-  "definition": "'Young adult' categorizes the early stage of a prime adult when sexual maturity has been reached, but not the cessation of growth.",
+  "definition": "'Young adult' categorizes the early adult stage of an animal or human when sexual maturity has been reached, but not the cessation of growth.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
