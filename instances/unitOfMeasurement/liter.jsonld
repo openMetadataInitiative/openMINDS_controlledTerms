@@ -10,5 +10,6 @@
   "knowledgeSpaceLink": null,
   "name": "liter",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": ["l"]
+
 }

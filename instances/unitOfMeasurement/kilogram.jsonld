@@ -10,5 +10,5 @@
   "knowledgeSpaceLink": null,
   "name": "kilogram",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": ["kg"]
 }

@@ -10,5 +10,5 @@
   "knowledgeSpaceLink": null,
   "name": "millisecond",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": ["ms"]
 }

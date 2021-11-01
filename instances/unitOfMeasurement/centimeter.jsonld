@@ -10,5 +10,5 @@
   "knowledgeSpaceLink": null,
   "name": "centimeter",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": ["cm"]
 }

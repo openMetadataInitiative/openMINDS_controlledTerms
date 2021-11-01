@@ -10,5 +10,5 @@
   "knowledgeSpaceLink": null,
   "name": "minute",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": ["min"]
 }
