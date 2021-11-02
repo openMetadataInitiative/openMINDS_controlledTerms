@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/geneticStrainType/conditionalKnockoutReady",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/GeneticStrainType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "conditional knockout ready",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
