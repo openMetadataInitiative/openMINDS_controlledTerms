@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleAttribute/stained",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "stained",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
