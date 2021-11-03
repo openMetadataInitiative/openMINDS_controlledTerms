@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/geneticStrainType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "The genetic strain type describes the genetic background type of a strain.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "genetic strain type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

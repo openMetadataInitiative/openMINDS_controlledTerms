@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/phenotype",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "@id": "https://openminds.ebrains.eu/instances/geneticStrainType/transgenic",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/GeneticStrainType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "phenotype",
+  "name": "transgenic",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
