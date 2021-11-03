@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/stereology",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "An imaging assay that is used for the three-dimensional interpretation of planar sections of materials or tissues.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0739729",
+  "knowledgeSpaceLink": null,
+  "name": "stereology",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/79",
+  "synonym": null
+}
