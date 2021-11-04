@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationApproach/visualStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationApproach",
+  "definition": "A stimulation of the visual (sight) system.",
+  "description": "The sensory modality that pertains to the sense of sight. It usually but not always arises from the stimulation of the visual system with a light source of sufficient brightness to be visible.",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0112525",
+  "knowledgeSpaceLink": null,
+  "name": "visual stimulation",
+  "preferredOntologyIdentifier": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00132",
+  "synonym": [
+    "visual modality",
+    "visual stimulus"
+  ]
+}
