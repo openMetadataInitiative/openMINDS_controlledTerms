@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationApproach/tactileStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationApproach",
+  "definition": "A stimulation of the tactile (touch) system.",
+  "description": "The sensory modality that pertains to the sense of touch or contact via the skin. It usually but not always arises from a tactile stimulation via contact of the skin to other external objects.",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0111485",
+  "knowledgeSpaceLink": null,
+  "name": "tactile stimulation",
+  "preferredOntologyIdentifier": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00131",
+  "synonym": [
+    "tactile modality",
+    "tactile stimulus"
+  ]
+}
