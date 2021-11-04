@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationApproach/gustatoryStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationApproach",
+  "definition": "A stimulation of the gustatory (taste and flavor perception) system.",
+  "description": "The sensory modality that pertains to the sense of taste or flavor. It usually but not always arises through stimulation of the gustatory system (e.g., tastebuds, nasal receptors).",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0104834",
+  "knowledgeSpaceLink": null,
+  "name": "gustatory stimulation",
+  "preferredOntologyIdentifier": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00123",
+  "synonym": [
+    "gustatory modality",
+    "gustatory stimulus"
+  ]
+}
