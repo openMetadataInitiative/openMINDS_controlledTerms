@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationApproach/interoceptiveStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationApproach",
+  "definition": "A stimulation that arises from inside an organism.",
+  "description": "The sensory modality that pertains to the sense of interoception, or internal sensations.",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0105596",
+  "knowledgeSpaceLink": null,
+  "name": "interoceptive stimulation",
+  "preferredOntologyIdentifier": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00128",
+  "synonym": [
+    "interoceptive modality",
+    "interoceptive stimulus"
+  ]
+}
