@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulusType/movingCheckerboard",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulusType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "moving checkerboard",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
