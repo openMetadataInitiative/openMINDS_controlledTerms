@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/ilx_0101001",
   "knowledgeSpaceLink": null,
   "name": "auditory stimulation",
-  "preferredOntologyIdentifier": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00125http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00125",
+  "preferredOntologyIdentifier": "http://www.cogpo.org/ontologies/CogPOver1.owl#COGPO_00125",
   "synonym": [
     "auditory modality",
     "auditory stimulus"
