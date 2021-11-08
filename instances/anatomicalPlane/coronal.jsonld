@@ -1,0 +1,16 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/coronal",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
+    "definition": "An anatomical plane which divides the body into divides the body into dorsal and ventral (back and front, or posterior and anterior) parts.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "coronal plane",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "frontal plane"
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/sagittal",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
+    "definition": "An anatomical plane which divides the body into right and left parts.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "sagittal plane",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "longitudinal plane",
+        "lateral plane",
+        "anteroposterior plane"
+    ]
+  }
