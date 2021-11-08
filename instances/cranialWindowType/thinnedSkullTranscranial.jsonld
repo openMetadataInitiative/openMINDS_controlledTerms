@@ -1,0 +1,14 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/cranialWindowType/thinnedSkullTranscranial",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/CranialWindowType",
+    "definition": "A transcranial window produced by thinning a small region of the skull.",
+    "description": "",
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "thinned skull transcranial window",
+    "preferredOntologyIdentifier": null,
+    "synonym": []
+  }
