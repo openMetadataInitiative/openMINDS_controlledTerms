@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/ageCategory/adolescent",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AgeCategory",
-  "definition": "'Adolescent' categorizes the life cycle stage of an animal or human that starts right before puberty and ends right after puberty.",
+  "definition": "'Adolescent' categorizes a transitional life cycle stage of growth and development between childhood and adulthood, often described as 'puberty'.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "adolescent",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "puberty"
+  ]
 }
