@@ -5,7 +5,7 @@
     "@id": "https://openminds.ebrains.eu/instances/cranialWindowType/reinforcedThinnedSkullTranscranial",
     "@type": "https://openminds.ebrains.eu/controlledTerms/CranialWindowType",
     "definition": "A transcranial window produced by thinning a small region of the skull then reinforcing it with cyanoacrylate glue and a glass coverslip.",
-    "description": "",
+    "description": null,
     "interlexIdentifier": null,
     "knowledgeSpaceLink": null,
     "name": "reinforced thinned skull transcranial window",

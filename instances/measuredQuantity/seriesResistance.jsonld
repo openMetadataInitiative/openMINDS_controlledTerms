@@ -5,7 +5,7 @@
     "@id": "https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance",
     "@type": "https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity",
     "definition": "Resistance of the electrode during an electrophysiological recording.",
-    "description": "",
+    "description": null,
     "interlexIdentifier": null,
     "knowledgeSpaceLink": null,
     "name": "series resistance",

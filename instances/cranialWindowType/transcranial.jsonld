@@ -5,7 +5,7 @@
     "@id": "https://openminds.ebrains.eu/instances/cranialWindowType/transcranial",
     "@type": "https://openminds.ebrains.eu/controlledTerms/CranialWindowType",
     "definition": "A transcranial window without thinning of the skull.",
-    "description": "",
+    "description": null,
     "interlexIdentifier": null,
     "knowledgeSpaceLink": null,
     "name": "transcranial window",
