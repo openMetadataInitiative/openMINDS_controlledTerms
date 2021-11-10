@@ -3,7 +3,7 @@
       "@vocab": "https://openminds.ebrains.eu/vocab/"
     },
     "@id": "https://openminds.ebrains.eu/instances/cellCultureType/primary",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/CultureType",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/CellCultureType",
     "definition": "A cell culture comprised of primary cultured cells and the media in which they are being actively propaged or quiescently stored.",
     "description": null,
     "interlexIdentifier": "http://uri.interlex.org/base/ilx_0490188",
