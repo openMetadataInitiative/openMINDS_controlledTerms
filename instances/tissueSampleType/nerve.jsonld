@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/nerve",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
+  "definition": "A nerve sample (i.e. a whole nerve or a part of a nerve) from a living or deceased multicellular organism body.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nerve",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
