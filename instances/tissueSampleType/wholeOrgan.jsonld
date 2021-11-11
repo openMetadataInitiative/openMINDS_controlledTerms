@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": null,
+  "definition": "A sample of an entire organ from a living multicellular organism body.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
