@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/cellCulture",
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/homogeneousCellPopulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": "Cells taken from a living organism and grown under controlled conditions (in culture).",
+  "definition": "A sample of multiple cells/a population of cells that are of the same cell type.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "cell culture",
-  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/BTO_0000214",
+  "name": "homogeneous cell population",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }
