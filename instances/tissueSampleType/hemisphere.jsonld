@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/brainHemisphere",
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/hemisphere",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": null,
+  "definition": "A sample of one half of a bilateral organ from a living multicellular organism body.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "brain hemisphere",
+  "name": "hemisphere",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
