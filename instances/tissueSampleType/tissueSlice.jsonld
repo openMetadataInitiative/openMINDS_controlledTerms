@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/tissueSlice",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": null,
+  "definition": "A thin sample of tissue that was cut off from a larger tissue sample (e.g. a tissue block or a whole organ).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
