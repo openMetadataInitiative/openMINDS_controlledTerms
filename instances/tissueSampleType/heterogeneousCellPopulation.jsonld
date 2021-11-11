@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/heterogeneousCellPopulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
+  "definition": "A sample of multiple cells/a population of cells that are of two or more different cell types.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "heterogeneous cell population",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
