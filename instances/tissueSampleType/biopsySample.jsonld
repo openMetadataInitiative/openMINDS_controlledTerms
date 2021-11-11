@@ -4,11 +4,11 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/biopsySample",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": null,
+  "definition": "A sample of tissue or cell from a living multicellular organism body.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0782394",
   "knowledgeSpaceLink": null,
   "name": "biopsy sample",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0002650",
   "synonym": null
 }
