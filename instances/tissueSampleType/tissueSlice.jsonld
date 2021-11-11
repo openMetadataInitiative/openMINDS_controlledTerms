@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/tissueSlice",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": null,
+  "definition": "A thin and often flat sample of tissue that was excised from a larger tissue sample (e.g., a tissue block or a whole organ) from a living or deceased multicellular organism body.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan",
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/singleCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": "A whole organ sample from a living or deceased multicellular organism body.",
+  "definition": "A single cell sample from a living or deceased multicellular organism body.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "whole organ",
+  "name": "single cell",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

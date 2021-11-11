@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/wholeOrgan",
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleType/homogeneousCellPopulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleType",
-  "definition": "A whole organ sample from a living or deceased multicellular organism body.",
+  "definition": "A sample of multiple cells/a population of cells that are of the same cell type.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "whole organ",
+  "name": "homogeneous cell population",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
