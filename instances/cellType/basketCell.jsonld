@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/basketCell",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "A neuron enmeshing the cell body of another neuron with its terminal axon ramifications.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "basket cell",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
