@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/geneticRiskScore",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A genetic risk score is an estimate of the cumulative contribution of genetic factors to a specific outcome of interest in an individual (Igo et al, 2019).",
+  "description": "[described in: Igo, R. P., Jr, Kinzy, T. G., & Cooke Bailey, J. N. (2019). Genetic Risk Scores. Current protocols in human genetics, 104(1), e95. https://doi.org/10.1002/cphg.95]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "genetic risk score",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "GRS"
+  ]
+}
