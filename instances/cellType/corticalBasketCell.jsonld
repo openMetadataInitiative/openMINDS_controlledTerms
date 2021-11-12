@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/corticalBasketCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/corticalBasketCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "An inhibitory GABAergic interneurons of the cortex, enmeshing the cell body of another neuron with its terminal axon ramifications.",
   "description": null,
