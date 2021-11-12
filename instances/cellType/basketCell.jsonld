@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/basketCell",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "An inhibitory GABAergic interneurons of the brain, enmeshing the cell body of another neuron with its terminal axon ramifications.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "basket cell",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
