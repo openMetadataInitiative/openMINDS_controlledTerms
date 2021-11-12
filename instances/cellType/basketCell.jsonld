@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/basketCell",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "definition": "A neuron enmeshing the cell body of another neuron with its terminal axon ramifications.",
+  "definition": "An inhibitory GABAergic interneurons of the brain, enmeshing the cell body of another neuron with its terminal axon ramifications.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
