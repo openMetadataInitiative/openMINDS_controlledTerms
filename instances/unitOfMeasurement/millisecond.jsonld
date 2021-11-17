@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "millisecond",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "ms",
   "synonym": ["ms"]
 }
