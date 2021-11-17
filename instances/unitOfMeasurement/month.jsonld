@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "month",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "mth",
   "synonym": ["mth"]
 }
