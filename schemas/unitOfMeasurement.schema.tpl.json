@@ -1,4 +1,16 @@
 {
   "_type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "_extends": "controlledTerm.schema.tpl.json"
+  "_extends": "controlledTerm.schema.tpl.json",
+  "properties": {
+    "placement": {
+      "_instruction": "Add where the preferred symbol of the unit of measurement needs to be placed in respect to the value.",
+      "_linkedTypes": [
+        "https://openminds.ebrains.eu/controlledTerms/Morpheme"
+      ]
+    },
+    "preferredSymbol": {
+      "type": "string",
+      "_instruction": "Enter the preferred symbol that should be used for this unit of measurement"
+    }
+  }
 }
