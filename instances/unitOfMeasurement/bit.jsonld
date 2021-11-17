@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "bit",
+  "placement": null,
   "preferredOntologyIdentifier": null,
-  "synonym": ["b"]
+  "preferredSymbol": "b",
+  "synonym": ["b"],
 }
