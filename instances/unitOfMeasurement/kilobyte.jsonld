@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "kilobyte",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "KB",
   "synonym": ["KB"]
 }
