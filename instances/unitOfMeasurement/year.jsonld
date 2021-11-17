@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "year",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "yr",
   "synonym": ["yr"]
 }
