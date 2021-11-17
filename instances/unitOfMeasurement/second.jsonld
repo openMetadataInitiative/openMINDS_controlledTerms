@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "second",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "s",
   "synonym": ["s"]
 }
