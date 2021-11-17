@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/disease/parkinsons",
+  "@id": "https://openminds.ebrains.eu/instances/disease/parkinsonsDisease",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
-  "definition": "Parkinsons is a progressive central nervous system disorder that affects the motor system.",
+  "definition": "Parkinson's is a progressive central nervous system disorder that affects the motor system.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "Parkinsons",
+  "name": "Parkinson's disease",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_14330",
   "synonym": null
 }
