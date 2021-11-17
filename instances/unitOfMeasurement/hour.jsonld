@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "hour",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "h",
   "synonym": ["h"]
 }
