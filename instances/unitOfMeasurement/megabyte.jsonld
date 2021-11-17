@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "megabyte",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "MB",
   "synonym": ["MB"]
 }
