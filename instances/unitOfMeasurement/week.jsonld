@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "week",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "wk",
   "synonym": ["wk"]
 }
