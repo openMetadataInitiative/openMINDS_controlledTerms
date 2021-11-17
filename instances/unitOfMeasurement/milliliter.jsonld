@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "milliliter",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "ml",
   "synonym": ["ml"]
 }
