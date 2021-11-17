@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "centimeter",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "cm",
   "synonym": ["cm"]
 }
