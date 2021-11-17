@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "kilogram",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "kg",
   "synonym": ["kg"]
 }
