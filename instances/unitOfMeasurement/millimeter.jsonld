@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "millimeter",
+  "placement": null,
   "preferredOntologyIdentifier": null,
+  "preferredSymbol": "mm",
   "synonym": ["mm"]
 }
