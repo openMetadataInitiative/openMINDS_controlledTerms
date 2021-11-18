@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/siibraExplorer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "siibra-explorer",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
