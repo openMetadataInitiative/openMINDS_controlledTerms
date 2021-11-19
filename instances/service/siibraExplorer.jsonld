@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/siibraExplorer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": "'siibra-explorer' is an interactive viewer for multilevel brain atlases",
+  "description": "siibra-explorer is an frontend module wrapping around nehuba for visualizing volumetric brain volumes at possible high resolutions, and connecting to siibra-api for offering access to brain atlases of different species, including to navigate their brain region hierarchies, maps in different coordinate spaces, and linked regional data features. It provides metadata integration with the EBRAINS knowledge graph, different forms of data visualisation, and a structured plugin system for implementing custom extensions. For more information see: https://github.com/FZJ-INM1-BDA/siibra-explorer",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "siibra-explorer",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
