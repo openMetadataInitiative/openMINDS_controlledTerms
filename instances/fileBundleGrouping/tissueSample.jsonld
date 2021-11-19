@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/fileBundleGrouping/tissueSample",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "tissue sample",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
