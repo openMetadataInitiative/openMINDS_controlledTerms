@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/service/localiZoom",
+  "@id": "https://openminds.ebrains.eu/instances/service/LocaliZoom",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
   "definition": null,
   "description": null,
