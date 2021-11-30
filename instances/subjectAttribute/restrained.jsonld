@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/restrained",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
-  "definition": null,
+  "definition": "An organism that has been restrained in any way causing e.g., decreased motion range and/or increased resistance in movement.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
