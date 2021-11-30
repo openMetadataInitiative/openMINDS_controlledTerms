@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/tissueSampleAttribute/stained",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute",
-  "definition": null,
+  "definition": "A specimen that has been artifically colorized using a dye or chemical substances.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
