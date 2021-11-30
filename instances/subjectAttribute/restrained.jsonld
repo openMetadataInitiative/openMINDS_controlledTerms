@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/restrained",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "restrained",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
