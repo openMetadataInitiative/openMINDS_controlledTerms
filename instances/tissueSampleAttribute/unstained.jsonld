@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/tissueSampleAttribute/unstained",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute",
-  "definition": null,
+  "definition": "A specimen without visual changes in colorization compared to its natural state.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
