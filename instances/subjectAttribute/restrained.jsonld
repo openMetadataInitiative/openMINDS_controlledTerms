@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/knockout",
+  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/restrained",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
-  "definition": "An organism that underwent a targeted excision or silencing/inactivation of existing genetic material (i.e. a gene).",
+  "definition": "An organism that has been restrained in any way causing e.g., decreased motion range and/or increased resistance in movement.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "knockout",
+  "name": "restrained",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

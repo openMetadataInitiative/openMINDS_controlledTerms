@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/knockout",
+  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/asleep",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
-  "definition": "An organism that underwent a targeted excision or silencing/inactivation of existing genetic material (i.e. a gene).",
+  "definition": "A periodic, readily reversible state of an organism with reduced awareness and typically lower metabolic activity.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "knockout",
+  "name": "asleep",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
