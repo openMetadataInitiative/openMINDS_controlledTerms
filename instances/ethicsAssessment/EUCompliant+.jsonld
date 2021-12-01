@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant+",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/EthicsAssessment",
+  "definition": "Data are ethically approved in compliance with EU law and an additional assessment was made by the data sharing initiative.",
+  "description": "Data are ethically approved in compliance with EU law and an additional assessment was made by the data sharing initiative. This is typically true for all living human single-subject data as well as all non-human primate data.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "EU compliant +",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
