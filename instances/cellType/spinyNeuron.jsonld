@@ -9,6 +9,6 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXCELL:100601#spiny-neuron",
   "name": "spiny neuron",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_100601",
   "synonym": null
 }
