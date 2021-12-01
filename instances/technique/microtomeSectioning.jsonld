@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/microtomeSectioning",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
-  "description": null,
-  "interlexIdentifier": null,
+  "definition": "A technique used to cut specimen in thin slices using a microtome.",
+  "description": "The microtome cutting thickness can range between 50 nanometer and 100 micrometer.",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0739422",
   "knowledgeSpaceLink": null,
   "name": "microtome sectioning",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/212",
+  "synonym": [
+    "microtomy"
+  ]
 }
