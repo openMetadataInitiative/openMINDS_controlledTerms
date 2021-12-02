@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/diseaseModel/epilepsyModel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DiseaseModel",
+  "definition": "An animal or cell displaying all or some of the pathological processes that are observed for epilepsy in humans or animals.",
+  "description": "Epilepsy describes a group of central nervous system disorders characterized by recurrent unprovoked seizures. A model of epilepsy displays all or some of the pathological processes that are observed for epilespy in humans or animals.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "epilepsy model",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
