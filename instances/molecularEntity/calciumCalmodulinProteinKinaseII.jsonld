@@ -2,7 +2,7 @@
     "@context": {
         "@vocab": "https://openminds.ebrains.eu/vocab/"
     },
-    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIi",
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseII",
     "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
     "definition": "The 'calcium calmodulin protein kinase II' is a protein with a core domain architecture consisting of a Protein kinase domain and a C-terminal Calcium/calmodulin dependent protein kinase II Association domain.",
     "description": null,
