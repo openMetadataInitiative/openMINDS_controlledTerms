@@ -4,7 +4,7 @@
     },
     "@id": "https://openminds.ebrains.eu/instances/molecularEntity/alpha-1Receptor",
     "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-    "definition": "The alpha-1 receptor is a subclass of the  adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.",
+    "definition": "The alpha-1 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.",
     "description": null,
     "interlexIdentifier": null,
     "knowledgeSpaceLink": null,
