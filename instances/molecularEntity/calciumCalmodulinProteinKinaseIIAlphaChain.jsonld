@@ -2,7 +2,7 @@
     "@context": {
         "@vocab": "https://openminds.ebrains.eu/vocab/"
     },
-    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIiAlphaChain",
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIIAlphaChain",
     "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
     "definition": "The 'calcium calmodulin protein kinase II alpha chain' is a calcium/calmodulin-dependent protein kinase type II chain that is a translation product of the human CAMK2A gene or a 1:1 ortholog thereof.",
     "description": null,
