@@ -10,5 +10,5 @@
     "knowledgeSpaceLink": null,
     "name": "biomarker",
     "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090517",
-    "synonym": []
+    "synonym": null
 }
