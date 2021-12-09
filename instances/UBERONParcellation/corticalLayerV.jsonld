@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerV",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "Layer of neocortex lying deep to the internal granule cell layer (layer 4) defined cytoarchitecturally by the predominance of large pyramidal cell bodies.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107371",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005394#neocortex-layer-5",
+  "name": "cortical layer V",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005394",
+  "synonym": [
+    "lamina V",
+    "lamina 5",
+    "layer V",
+    "layer 5",
+    "layer v",
+    "cortical layer 5",
+    "neocortical layer V",
+    "neocortical layer 5",
+    "neocortex layer V",
+    "neocortex layer 5",
+    "lamina pyramidalis interna isocorticis",
+    "layer V of neocortex",
+    "layer 5 of neocortex",
+    "internal pyramidal layer of isocortex",
+    "internal pyramidal cell layer of neocortex",
+    "lamina ganglionaris",
+    "lamina pyramidalis interna"
+  ]
+}
