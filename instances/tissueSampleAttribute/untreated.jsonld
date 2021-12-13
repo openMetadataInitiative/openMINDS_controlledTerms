@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/tissueSampleAttribute/untreated",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute",
+  "definition": "A specimen that has not been modified or treated (e.g., with chemicals) compared to its natural state.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "untreated",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
