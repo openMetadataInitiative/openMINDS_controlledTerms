@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/tissueSampleAttribute/mounted",
   "@type": "https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute",
-  "definition": "A specimen that has been preserved in a way that can be stored and handled easily for an extended period of time (e.g., on a microscope slide with mounting medium and covered with a coverslip).",
+  "definition": "A specimen that has been put ('mounted') on e.g., a glass slide with mounting medium in order to be supported for further handling and/or long term preservation.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
