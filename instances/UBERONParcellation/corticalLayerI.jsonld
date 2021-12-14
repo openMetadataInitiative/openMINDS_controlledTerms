@@ -1,0 +1,34 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticalLayerI",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The most superficial layer of the neocortex characterized by a paucity of cell bodies.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107367",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005390#neocortex-layer-1",
+  "name": "cortical layer I",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005390",
+  "synonym": [
+    "lamina I",
+    "lamina 1",
+    "layer I",
+    "layer 1",
+    "layer i",
+    "cortical layer 1",
+    "neocortical layer I",
+    "neocortical layer 1",
+    "neocortex layer I",
+    "neocortex layer 1",
+    "neocortex molecular layer",
+    "neocortex plexiform layer",
+    "lamina molecularis isocorticis",
+    "layer I of neocortex",
+    "layer 1 of neocortex",
+    "molecular layer of cerebral cortex",
+    "molecular layer of isocortex",
+    "molecular layer of neocortex",
+    "plexiform layer of neocortex"
+  ]
+}
