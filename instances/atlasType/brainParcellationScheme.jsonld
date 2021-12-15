@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/atlasType/brainParcellationScheme",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AtlasType",
+  "definition": "A set of parcels occupying a significant portion of or all of the brain that has been delineated using a common approach or set of criteria, usually in the form of a reference atlas.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "brain parcellation scheme",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
