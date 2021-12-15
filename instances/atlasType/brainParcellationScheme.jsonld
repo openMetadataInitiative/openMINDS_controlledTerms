@@ -6,9 +6,11 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/AtlasType",
   "definition": "A set of parcels occupying a significant portion of or all of the brain that has been delineated using a common approach or set of criteria, usually in the form of a reference atlas.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0101439",
   "knowledgeSpaceLink": null,
   "name": "brain parcellation scheme",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_23627",
+  "synonym": [
+    "brain partition scheme"
+  ]
 }
