@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/atlasType/parcellationScheme",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AtlasType",
+  "definition": "A 'parcellation scheme' is a set of parcels occupying a part or all of an anatomical entity that has been delineated or annotated using a common approach or set of criteria.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0108526",
+  "knowledgeSpaceLink": null,
+  "name": "parcellation scheme",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_144019",
+  "synonym": [
+    "partition scheme"
+  ]
+}
