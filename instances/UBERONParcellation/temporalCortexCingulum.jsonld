@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/temporalCortexCingulum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "",
+  "description": "'' is a . It is part of .",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "temporal cortex cingulum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022429",
+  "synonym": null
+}
