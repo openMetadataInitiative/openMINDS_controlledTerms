@@ -5,10 +5,12 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corpusCallosum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "",
-  "description": "'' is a . It is part of .",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "description": "The 'corpus callosum' is a white matter structure containing massive numbers of commissural fibers connecting cortical areas in the two cerebral hemispheres.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102562",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002336#corpus-callosum",
   "name": "corpus callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002336",
-  "synonym": null
+  "synonym": [
+    "cc"
+  ]
 }

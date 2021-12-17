@@ -5,10 +5,18 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/corticospinalTract",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "",
-  "description": "'' is a . It is part of .",
+  "description": "The 'corticospinal tract' is a white matter fibre bundle that arise from the pyramidal cells within the cerebral cortex layer V of the precentral motor area, the premotor area and the postcentral gyrus, then descend into and through the medulla to form the lateral corticospinal tract and the anterior corticospinal tract.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "corticospinal tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002707",
-  "synonym": null
+  "synonym": [
+    "tractus cortico-spinalis",
+    "tractus corticospinalis",
+    "fasciculus cerebro-spinalis",
+    "corticospinal fibers",
+    "fasciculus pyramidalis",
+    "tractus pyramidalis",
+    "fibrae corticospinales"
+  ]
 }

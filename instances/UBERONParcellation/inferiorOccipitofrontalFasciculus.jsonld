@@ -5,10 +5,14 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorOccipitofrontalFasciculus",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "",
-  "description": "'' is a . It is part of .",
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "description": "The 'inferior occipitofrontal fasciculus' is a white matter fibre bundle. It is the inferior part of the occipitofrontal fasciculus.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731728",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034753#inferior-occipitofrontal-fasciculus",
   "name": "inferior occipitofrontal fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034753",
-  "synonym": null
+  "synonym": [
+    "fasciculus occipito-frontalis inferior",
+    "inferior fronto-occipital fasciculus",
+    "fasciculus occipitofrontalis inferior"
+  ]
 }
