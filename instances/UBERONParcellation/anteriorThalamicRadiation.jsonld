@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/anteriorThalamicRadiation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "",
+  "description": "The 'anterior thalamic radiation' is a white matter fibre bundle. It is part of the thalamic complex.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728673",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034746#anterior-thalamic-radiation",
+  "name": "anterior thalamic radiation",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034746",
+  "synonym": [
+    "radiationes thalamicae anteriores",
+    "athf",
+    "radiatio thalami anterior",
+    "anterior radiation of thalamus"
+  ]
+}

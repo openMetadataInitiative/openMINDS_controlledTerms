@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/bodyOfCorpusCallosum",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "",
+  "description": "The 'body of corpus callosum' is a white matter structure. It is part of the corpus callosum.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728551",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015510#body-of-corpus-callosum",
+  "name": "body of corpus callosum",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015510",
+  "synonym": [
+    "trunk of corpus callosum",
+    "truncus corpus callosi",
+    "corpus callosum truncus",
+    "trunculus corporis callosi",
+    "corpus callosum body",
+    "corpus callosum corpus",
+    "truncus corporis callosi"
+  ]
+}
