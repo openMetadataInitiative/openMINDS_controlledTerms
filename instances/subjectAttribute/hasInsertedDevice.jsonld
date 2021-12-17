@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/hasInsertedDevice",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
+  "definition": "A typically temporary state of an organism during which a device (e.g., an electrode) is inserted to measure or stimulate bodily functions.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "has inserted device",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

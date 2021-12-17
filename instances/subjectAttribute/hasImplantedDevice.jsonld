@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/hasImplantedDevice",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
+  "definition": "A typically chronic state of an organism after surgical implantation of a device (e.g., an electrode, a pacemaker) to measure or stimulate bodily functions.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "has implanted device",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
