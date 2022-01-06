@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/breedingType/coisogenic",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BreedingType",
-  "definition": null,
+  "definition": "'Coisogenic' breeding  is a type of inbreeding where the offspring differs at only a single locus through a mutation occurring in the original inbred strain.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

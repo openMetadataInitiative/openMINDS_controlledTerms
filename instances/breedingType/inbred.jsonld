@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/breedingType/inbred",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BreedingType",
-  "definition": null,
+  "definition": "'Inbred' breeding (or inbreeding) is the production of offspring from mating organisms that are genetically closely related (same background breed).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

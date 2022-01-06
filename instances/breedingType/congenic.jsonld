@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/breedingType/congenic",
   "@type": "https://openminds.ebrains.eu/controlledTerms/BreedingType",
-  "definition": null,
+  "definition": "'Congenic' breeding is the production of offspring from repeated backcrossing into an inbred (background) strain, with selection for a particular marker, ideally a single gene from another strain.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
