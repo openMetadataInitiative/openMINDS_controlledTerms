@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/optogeneticInhibition",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Optogenetic inhibition can be achieved directly by expressing an inhibitory opsin in the neurons of choice or indirectly by expressing an excitatory opsin in inhibitory neurons, followed by illumination of the brain region of interest."
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
