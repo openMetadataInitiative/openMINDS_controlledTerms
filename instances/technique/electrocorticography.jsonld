@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/electrocorticography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Electrocorticography, or intracranial electroencephalography, is a type of electrophysiological monitoring that uses electrodes placed directly on the exposed surface of the brain to record electrical activity from the cerebral cortex.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
