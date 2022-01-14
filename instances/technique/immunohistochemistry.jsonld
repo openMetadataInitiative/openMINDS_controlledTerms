@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/immunohistochemistry",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Immunohistochemistry (IHC) is a method for detecting antigens or haptens in cells of a tissue sections by exploiting the principle of antibodies binding specifically to antigens in biological tissues. The antibody-antigen binding can be visualized in different manners.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
