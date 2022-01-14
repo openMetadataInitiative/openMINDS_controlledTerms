@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/biocytinStaining",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Biocytin staining is a technique commonly used in electrophysiology for post-hoc recovery of morphological details. Biocytin is a histological stain for nerve cells that is included in the recording electrode. It allows for the visualisation of the dendritic arborization and the regions targeted by the axons of the recorded neurons.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
