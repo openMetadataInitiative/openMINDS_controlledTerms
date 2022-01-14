@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/cellAttachedPatchClamp",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Cell-attached patch clamp is a patch clamp recording technique used in electrophysiology  in which the intracellular integrity of the cell is preserved. Patches are formed using either a ‘loose seal’ (mega ohm resistance) or a ‘tight seal’ (giga ohm resistance) without rupturing the cell membrane. A loose seal is used for recording action potential currents, whereas a tight seal is required for evoking action potentials in the attached cell and for recording resting and synaptic potentials.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
