@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/cellType/neostriatumCholinergicInterneuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "definition": "An inhibitory interneuron in the caudate nucleus and putamen, and form the main source of acetylcholine (ACh) there.",
+  "definition": "An inhibitory interneuron in the caudate nucleus and putamen which mainly uses the neurotrasmitter acetylcholine (ACh).",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0107403",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell",
