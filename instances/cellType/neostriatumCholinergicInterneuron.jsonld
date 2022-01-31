@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/ilx_0107403",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/SAO:1866881837#neostriatum-cholinergic-cell",
   "name": "neostriatum cholinergic interneuron",
-  "preferredOntologyIdentifier": "	http://uri.neuinfo.org/nif/nifstd/sao1866881837",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1866881837",
   "synonym": [
     "giant cholinergic interneuron",
     "striatal cholinergic interneuron",
