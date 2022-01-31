@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/fastSpikingInterneuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "A parvalbumin positive GABAergic interneuron with a high-frequency firing pattern.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "fast spiking interneuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "FSI"
+  ]
+}
