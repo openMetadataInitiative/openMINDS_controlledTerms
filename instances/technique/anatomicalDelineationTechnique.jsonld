@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "An 'anatomical delineation technique' is a process in which a region of interest is segmented and then separated from the irrelevant portion of the image.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
