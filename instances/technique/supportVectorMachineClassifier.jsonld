@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/supportVectorMachineClassifier",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "A 'support-vector machine classifier' is a supervised machine learning technique that analyze data for classification and regression analysis.",
+  "definition": "A 'support-vector machine classifier' is a supervised machine learning technique that analyzes data for classification and regression analysis.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
