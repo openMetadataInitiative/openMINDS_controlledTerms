@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/anatomicalParcellationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "An 'anatomical parcellation technique' annotates substructures of an anatomical image with region(s) of interest that might be useful for different types of image analysis.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
