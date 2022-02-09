@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/asserted",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType",
-  "definition": null,
+  "definition": "If a criteria was 'asserted' it is based on an (expert) opinion or claim.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
