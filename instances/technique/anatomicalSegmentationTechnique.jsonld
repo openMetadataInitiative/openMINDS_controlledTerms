@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/anatomicalSegmentationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "An 'anatomical segmentation technique' fully annotates an anatomical image with regions of interest that might be useful for different types of image analysis.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
