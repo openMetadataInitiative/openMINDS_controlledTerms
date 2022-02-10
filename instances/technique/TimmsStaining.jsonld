@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/TimmsStaining",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A technique used to selectively visualize a variety of metals (e.g. zinc, copper, iron) in biological tissue based on sulphide-precipitation of metals in the tissue.",
+  "description": "The principle of this technique is that metals in the tissue can be transformed histochemically to metal sulphide. Subsequently, metal sulphide catalyze the reduction of silver ions by a reducing agent to metallic grains that are visible under a light or electron microscope.",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0107265",
+  "knowledgeSpaceLink": null,
+  "name": "Timm's staining",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_2248",
+  "synonym": [
+    "Timm's stain",
+    "Timm's sulfide silver staining"
+  ]
+}
