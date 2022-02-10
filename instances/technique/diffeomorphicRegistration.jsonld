@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/diffeomorphicRegistration",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Diffeomorphic registration' refers to a suite of algorithms that register or build correspondences between dense coordinate systems in medical imaging by ensuring the solutions are diffeomorphic.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "diffeomorphic registration",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "diffeomorphic mapping",
+    "large deformation diffeomorphic metric mapping"
+  ]
+}
