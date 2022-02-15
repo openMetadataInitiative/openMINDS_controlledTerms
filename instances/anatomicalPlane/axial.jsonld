@@ -1,0 +1,16 @@
+{
+    "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/axial",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
+    "definition": "An anatomical plane which divides the body into divides the body into cranial and caudal (head and tail) parts.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "axial plane",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "transverse plane"
+    ]
+}

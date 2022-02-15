@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/patchClampVariation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "A variation of the patch clamp technique",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "patch clamp variation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

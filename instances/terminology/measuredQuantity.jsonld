@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/measuredQuantity",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "A qualified physical quantity that was measured/recorded",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "measured quantity",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
