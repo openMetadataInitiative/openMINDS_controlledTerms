@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/extracellularElectrophysiology",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "Extracellular recording is an electrophysiology technique that uses an electrode inserted into living tissue to measure electrical activity coming from adjacent cells, usually neurons.",
+  "definition": "In 'extracellular electrophysiology' electrodes are inserted into living tissue, but remain outside the cells in the extracellular environment to measure or stimulate electrical activity coming from adjacent cells, usually neurons.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
