@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/cytoarchitectonicMapping",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "'Cytoarchitectonic mapping' is a delineation technique that defines regional borders based on histological analysis of the cellular composition of the studied tissue.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
