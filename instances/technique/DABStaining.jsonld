@@ -4,11 +4,11 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/DABStaining",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "DAB staining is a technique in which DAB (3, 3'-diaminobenzidine) is oxidized by hydrogen peroxide in a reaction typically catalyzed by horseradish peroxidase (HRP).",
-  "description": "DAB staining is a technique in which DAB (3, 3'-diaminobenzidine) is oxidized by hydrogen peroxide in a reaction typically catalyzed by horseradish peroxidase (HRP). The oxidized DAB forms a brown precipitate, at the location of the HRP, which can be visualized using light microscopy.",
+  "definition": "In a 'DAB staining', the organic compound DAB (3, 3'-diaminobenzidine) is oxidized in presence of peroxidase and hydrogen peroxide resulting in deposition of a brown, alcohol-insoluble precipitate which can be used in immunohistochemical and blotting applications.",
+  "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "DAB staining",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": ["3,3′-Diaminobenzidine staining"]
 }
