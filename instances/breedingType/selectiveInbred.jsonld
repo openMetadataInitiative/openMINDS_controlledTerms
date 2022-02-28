@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/breedingType/selectiveInbred",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BreedingType",
+  "definition": "'Selective inbred' breeding (or selective inbreeding) is the production of offspring from mating organisms that are genetically closely related (same background breed) and have been selected based on a particular phenotype.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "selective inbred",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
