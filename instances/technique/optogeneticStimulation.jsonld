@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/optogeneticStimulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "Optogenetic stimulation is a genetic technique in which the activity of specific neuron populations is increased using light of a particular wavelength. This is achieved by expressing light-sensitive ion channels, pumps or enzymes specifically in the target cells. ",
+  "definition": "Using light of a particular wavelength, 'optogenetic stimulation' increases or inhibits the activity of neuron populations that express (typically due to genetic manipulation) light-sensitive ion channels, pumps or enzymes.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
