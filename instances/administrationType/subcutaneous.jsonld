@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/administrationType/subcutaneous",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AdministrationType",
+  "definition": "A 'subcutaneous' procedure or administration takes place beneath, or under, all the layers of the skin.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intravenous",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "s.c."
+    ]
+}
