@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/administrationType/intravenous",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AdministrationType",
+  "definition": "An 'intravenous' procedure takes place within a vein or veins.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intravenous",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "i.v."
+    ]
+}
