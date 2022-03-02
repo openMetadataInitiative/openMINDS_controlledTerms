@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerVolumePercentage",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "Percentage of weight of a dissolved, solid substance in a total volume of a solution",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "weightPerVolumePercentage",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "% w/v"
+    ]
+}
