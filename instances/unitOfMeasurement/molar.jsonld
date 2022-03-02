@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/molar",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": null,
+  "definition": "Molar is a measure of concentration that describes a solution as moles of solute per one liter of a solution.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
