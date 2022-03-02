@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerWeightPercentage",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "The percentage of a particular substance within a mixture, as measured by weight or mass",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "weightPerWeightPercentage",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "% w/w"
+    ]
+}
