@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/administrationType/oralAdministration",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/AdministrationType",
+  "@id": "https://openminds.ebrains.eu/instances/technique/oralAdministration",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/technique",
   "definition": "In an 'oral administration' a substance is taken through the mouth.",
   "description": null,
   "interlexIdentifier": null,
