@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/administrationType/subcutaneousInjection",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/technique",
+  "definition": "An 'subcutenous injection' is the administration of a substance under all the layers of the skin via a needle or tube.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "subcutatneous injection",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "s.c.",
+    "SC",
+    "SC injection"
+    ]
+}
