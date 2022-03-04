@@ -4,13 +4,17 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/weightPerVolumePercentage",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": "Percentage of weight of a dissolved, solid substance in a total volume of a solution",
+  "definition": "Percentage of weight or mass of a dissolved, solid substance in a total volume of a solution. As per definition, the volume of a liquid is expressed in milliliter (ml) and the mass of a solute in grams (g)",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "weight per volume percentage",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "% w/v"
+    "% w/v",
+    "percent w/v",
+    "w/v percent",
+    "mass/volume percent"
+    "w/v %"
     ]
 }
