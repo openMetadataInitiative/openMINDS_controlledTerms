@@ -10,5 +10,9 @@
   "knowledgeSpaceLink": null,
   "name": "percent",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "%",
+    "percentage",
+    "pct",
+    "pc"
 }
