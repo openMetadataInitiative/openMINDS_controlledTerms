@@ -2,15 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/administrationType/intravenous",
+  "@id": "https://openminds.ebrains.eu/instances/administrationType/intravenousInjection",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AdministrationType",
-  "definition": "An 'intravenous' procedure takes place within a vein or veins.",
+  "definition": "An 'intravenous injection' is the administration of a substance into a vein or veins, via a needle or tube.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "intravenous",
+  "name": "intravenous injection",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "i.v."
+    "i.v.",
+    "IV"
     ]
 }
