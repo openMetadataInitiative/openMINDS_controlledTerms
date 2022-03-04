@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/WeightedCorrelationNetworkAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Weighted correlation network analysis is a widely used data mining method for studying networks based on pairwise correlations between variables.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "weighted correlation network analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
