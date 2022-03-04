@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/administrationType/intraperitonealInjection",
+  "@id": "https://openminds.ebrains.eu/instances/technique/intraperitonealInjection",
   "@type": "https://openminds.ebrains.eu/controlledTerms/technique",
   "definition": "An 'intraperitoneal injection' is the administration of a substance into the peritoneum (abdominal cavity) via a needle or tube.",
   "description": null,
