@@ -2,13 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/administrationType/oral",
+  "@id": "https://openminds.ebrains.eu/instances/administrationType/oralAdministration",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AdministrationType",
-  "definition": "'Oral' administration is a route of administration where a substance is taken via the mouth.",
+  "definition": "In an 'oral administration' a substance is taken through the mouth.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "intravenous",
+  "name": "oral administration",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "per os",
+    "p.o.",
+    "PO",
+    ]
 }
