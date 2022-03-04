@@ -2,13 +2,16 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/degree",
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/arcdegree",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": null,
+  "definition": "An arc degree is a measurement of a plane angle in which one full rotation is 360 degrees.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "degree",
+  "name": "arc degree",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "degree of arc",
+    "degree"
+    ]
 }
