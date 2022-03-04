@@ -11,6 +11,7 @@
   "name": "microgram per milliliter",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "ug/ml"
+    "ug/ml",
+    "µg/ml"
     ]
 }
