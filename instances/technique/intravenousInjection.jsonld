@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/intravenousInjection",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "An 'intravenous injection' is the administration of a substance into a vein or veins via a needle or tube.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intravenous injection",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "i.v.",
+    "i.v. injection",
+    "IV",
+    "IV injection"
+  ]
+}
