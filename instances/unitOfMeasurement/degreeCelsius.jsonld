@@ -4,11 +4,12 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeCelsius",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": null,
+  "definition": "Degree of temperature",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "degree celsius",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "degree"
 }
