@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/annotationType/probabalisticAnnotation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnnotationType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "probabalistic annotation",
+  "preferredOntologyIdentifier": "https://schema.org/ActiveActionStatus",
+  "synonym": null
+}
