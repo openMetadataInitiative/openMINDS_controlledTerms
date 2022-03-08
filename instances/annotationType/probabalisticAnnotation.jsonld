@@ -4,11 +4,11 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/annotationType/probabalisticAnnotation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnnotationType",
-  "definition": null,
+  "definition": "A 'probabalistic annotation' provides the probability or probabilites to which an entity or a list of entities belong(s) to a defined annotation.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "probabalistic annotation",
-  "preferredOntologyIdentifier": "https://schema.org/ActiveActionStatus",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }
