@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/heavyMetalNegativeStaining",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "In a 'heavy metal negative staining', a thin and amorphous film of heavy metal salts (e.g. uranyl acetate) on a sample to reveal its structural details for electron microscopy.",
+  "definition": "In a 'heavy metal negative staining', a thin and amorphous film of heavy metal salts (e.g. uranyl acetate) is applied on a sample to reveal its structural details for electron microscopy.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
