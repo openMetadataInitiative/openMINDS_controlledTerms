@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/annotationType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "General classification of how data were annotated.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "annotation type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
