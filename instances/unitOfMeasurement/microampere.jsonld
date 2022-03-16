@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/microampere",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "An electric current unit current which is equal to one millionth of an ampere or 10^[-6] A.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "microampere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000038",
+  "synonym": [
+    "µA"
+  ]
+}

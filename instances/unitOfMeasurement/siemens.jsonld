@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/siemens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "An electrical conduction unit which is equal to A/V.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "siemens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000264",
+  "synonym": [
+    "S"
+  ]
+}
