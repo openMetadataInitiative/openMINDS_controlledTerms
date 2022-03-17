@@ -1,0 +1,19 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/CA1StratumLacunosumMoleculare",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'CA1 stratum lacunosum moleculare' is a layer of CA1 field. It is part of the hippocampus stratum lacunosum moleculare.",
+    "description": "Part of stratum lacunosum-moleculare lying in area CA1, superficial to CA1 stratum radiatum and bounded by the pial surface, continuous with stratum lacunosum-moleculare of CA2 and the subiculum stratum moleculare.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101523",
+    "knowledgeSpaceLink": null,
+    "name": "CA1 stratum lacunosum moleculare",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014557",
+    "synonym": [
+        "lacunar-molecular layer of CA1 field",
+        "CA1 s. lacunosum moleculare",
+        "CA1 part of stratum lacunosum moleculare",
+        "stratum lacunosum moleculare of the CA1 field"
+    ]
+}
