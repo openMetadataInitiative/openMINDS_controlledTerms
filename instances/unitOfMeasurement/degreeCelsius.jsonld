@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeCelsius",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": "The 'degree Celsius' is a unit of temperature on the Celsius scale which is defined by the freezing point of water (0 °C) and the boiling point of water (100 °C) at 1 atm pressure.",
+  "definition": "The 'degree Celsius' is a unit of temperature on the Celsius scale which is defined by the freezing point of water (0 °C) and the boiling point of water (100 °C) under standard atmospheric pressure.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
