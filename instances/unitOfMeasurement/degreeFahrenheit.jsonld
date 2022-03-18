@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/degreeFahrenheit",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": "The 'degree Fahrenheit' is a unit of temperature on the Fahrenheit scale which is defined by by the freezing point of water (32 °F) and the boiling point of water (212 °F) under standard atmospheric pressure.",
+  "definition": "The 'degree Fahrenheit' is a unit of temperature on the Fahrenheit scale where the freezing point of water is at 32 °F and the boiling point of water is at 212 °F under standard atmospheric pressure.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
