@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/micromolar",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": "Micromolar is a decimal fraction of molar concentration that describes a solution as micromole per one liter of a solution.",
+  "definition": "Micromolar is a decimal fraction of molar concentration describing the amount of substance (measured in micromole) in one liter solution.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -14,6 +14,7 @@
     "µM",
     "uM",
     "µmol/m³",
-    "µmol*m⁻³"
+    "µmol*m⁻³",
+    "µmol/l"
     ]
 }
