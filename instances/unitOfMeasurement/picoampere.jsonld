@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/picoampere",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "An electric current unit current which is equal to one trillionth of an ampere or 10^[-12] A.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "picoampere",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0010054",
+  "synonym": [
+    "pA"
+  ]
+}
