@@ -2,9 +2,9 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/percent",
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/percentage",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": null,
+  "definition": "A 'percentage' (from Latin per centum 'by a hundred') is a quantity expressed as a fraction of 100 (amount of something in each hundred).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,7 +12,7 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "%",
-    "percentage",
+    "percent",
     "pct",
     "pc"
     ]
