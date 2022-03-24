@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/Neuroglancer",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": "'Neuroglancer' is a WebGL-based viewer for volumetric data.",
+  "description": "'Neuroglancer' is capable of displaying arbitrary (non axis-aligned) cross-sectional views of volumetric data, as well as 3-D meshes and line-segment based models (skeletons). A live demo without any preloaded datasets is hosted at https://neuroglancer-demo.appspot.com.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Neuroglancer",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
