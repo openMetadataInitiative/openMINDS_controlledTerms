@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vessel",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+    "definition": "'vessel' is an anatomical conduit.",
+    "description": "A tubular structure that contains, conveys body fluid, such as blood or lymph.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731576",
+    "knowledgeSpaceLink": null,
+    "name": "vessel",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000055",
+    "synonym": null
+}
