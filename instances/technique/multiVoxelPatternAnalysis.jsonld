@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/multiVoxelPatternAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'multi-voxel pattern analysis' is considered as a supervised classification problem where a classifier attempts to capture the relationships between spatial patterns of functional magnetic resonance imaging activity and experimental conditions ([Mahmoudi et al., 2012](https://doi.org/10.1155/2012/961257), [Davatzikos et al., 2005](https://doi.org/10.1016/j.neuroimage.2005.08.009)).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "multi-voxel pattern analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MVPA"
+  ]
+}
