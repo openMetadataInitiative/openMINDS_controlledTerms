@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/untreated",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
+  "definition": "A subject in its natural state which has not been exposed to any kind of state-altering treatment.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "untreated",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
