@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/amplifier",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "An 'amplifier' is an electronic device that increases the voltage, current, or power of a signal",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100567",
+  "knowledgeSpaceLink": null,
+  "name": "amplifier",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_27076",
+  "synonym": null
+}
