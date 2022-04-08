@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/vibratome",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "A 'vibratome' is an instrument used to cut thin slices of material using a vibrating blade.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "vibratome",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
