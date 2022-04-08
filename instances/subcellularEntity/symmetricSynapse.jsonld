@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/subcellularEntity/symmetricSynapse",
   "@type": "https://openminds.ebrains.eu/controlledTerms/SubcellularEntity",
-  "definition": "A 'symmetric synapse' has flattened or elongated vesicles, and do not contain a prominent postsynaptic density. Symmetric synapses are typically inhibitory.",
+  "definition": "A 'symmetric synapse' has flattened or elongated vesicles, and does not contain a prominent postsynaptic density. Symmetric synapses are typically inhibitory.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
