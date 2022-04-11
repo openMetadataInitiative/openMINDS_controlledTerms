@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/cellType/D2ReceptorExpressingNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
-  "definition": null,
+  "definition": "Any neuron that expresses D2 receptors.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
