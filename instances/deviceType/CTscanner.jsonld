@@ -4,13 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/deviceType/CTscanner",
   "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
-  "definition": "A 'CT scanner' is an instrument that uses radiology (x-rays) to generate cross-sectional images (slices) of the bones, blood vessels and soft tissues inside the body.",
+  "definition": "A 'CT scanner' is an x-ray machine that creates and combines serial two-dimensional x-ray images (sections) with the aid of a computer to generate cross-sectional views and/or three-dimensional images of internal body structures (e.g., bones, blood vessels or soft tissues).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "CT scanner",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "computed tomography scanner"
-    ]
+    "computed tomography scanner",
+    "computed axial tomography scanner",
+    "CAT scanner"
+  ]
 }
