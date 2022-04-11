@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/vibratingMicrotome",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "A 'vibrating microtome' is an mechanical instrument with a vibrating steel blade used to cut (typically) biological specimens into thin segments (smallest slice thickness: ~ 50µm).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0780522",
+  "knowledgeSpaceLink": null,
+  "name": "vibrating microtome",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
