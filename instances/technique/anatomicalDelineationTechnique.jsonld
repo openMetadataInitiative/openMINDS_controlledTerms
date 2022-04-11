@@ -4,11 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "An 'anatomical delineation technique' is a process in which a region of interest is segmented or parceled and then separated from the irrelevant portion of the image.",
+  "definition": "An 'anatomical delineation technique' is a manual or automated process in which a structure or structures of interest in an anatomical image is/are annotated for further analysis or interpretation.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "anatomical delineation technique",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "anatomical segmentation technique",
+    "anatomical parcellation technique",
+    "anatomical annotation technique"
+  ]
 }
