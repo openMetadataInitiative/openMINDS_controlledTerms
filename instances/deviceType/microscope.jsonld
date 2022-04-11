@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/microscope",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "A 'microscope' is an instrument used to obtain a magnified image of small objects and reveal details of structures not otherwise distinguishable.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106921",
+  "knowledgeSpaceLink": null,
+  "name": "microscope",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_2106",
+  "synonym": null
+}
