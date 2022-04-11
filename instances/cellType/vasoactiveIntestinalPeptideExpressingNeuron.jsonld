@@ -2,17 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/vasoactiveIntestinalPeptideExpressingCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/vasoactiveIntestinalPeptideExpressingNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "Any neuron that expresses vasoactive-intestinal peptide.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "vasoactive-intestinal peptide expressing cell",
+  "name": "vasoactive-intestinal peptide expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "VIP+ neuron",
-    "vasoactive-intestinal peptide expressing neuron",
+    "vasoactive-intestinal peptide expressing cell",
     "VIP-positive neuron",
     "VIP+ cell",
     "VIP-positive cell"
