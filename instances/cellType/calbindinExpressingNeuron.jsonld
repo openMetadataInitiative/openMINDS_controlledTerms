@@ -15,6 +15,10 @@
     "calbindin-positive neuron",
     "calbindin-positive cell",
     "CALB+ cell",
-    "CALB+ neuron"
+    "CALB+ neuron",
+    "CALB-positive cell",
+    "CALB-positive neuron",
+    "CALB-expressing cell",
+    "CALB-expressing neuron"
   ]
 }
