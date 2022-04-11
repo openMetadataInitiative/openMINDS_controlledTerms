@@ -2,17 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/cellType/cholecystokininExpressingCell",
+  "@id": "https://openminds.ebrains.eu/instances/cellType/cholecystokininExpressingNeuron",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
   "definition": "Any neuron that expresses cholecystokinin.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "cholecystokinin expressing cell",
+  "name": "cholecystokinin expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "CCK+ neuron",
-    "cholecystokinin expressing neuron",
+    "cholecystokinin expressing cell",
     "CCK-positive neuron",
     "CCK+ cell",
     "CCK-positive cell"
