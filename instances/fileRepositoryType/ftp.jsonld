@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "FTP repository",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "file transfer protocol repository"
+  ]
 }
