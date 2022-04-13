@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subcellularEntity/synapticVesicle",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubcellularEntity",
+  "definition": "A 'synaptic vesicle' is a secretory organelle (~ 50 nm in diameter) released from the pre-synaptic nerve terminal. It accumulates high concentrations of neurotransmitters and secretes these into the synaptic cleft by fusion with the 'active zone' of the pre-synaptic plasma membrane (modified from Gene Ontology).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0111411",
+  "knowledgeSpaceLink": null,
+  "name": "synaptic vesicle",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1071221672",
+  "synonym": null
+}
