@@ -12,7 +12,6 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000015188",
   "synonym": [
     "DAT",
-    "dopamine active transporter",
-    "SLC6A3"
+    "dopamine active transporter"
     ]
 }
