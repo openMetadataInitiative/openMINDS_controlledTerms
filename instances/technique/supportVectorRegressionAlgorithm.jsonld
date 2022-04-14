@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/supportVectorRegressionAlgorithm",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "A 'support-vector regression algorithm' is a supervised machine learning technique used to predict discrete values.",
+  "definition": "A 'Support-Vector Regression Algorithm' is a supervised machine learning technique used to estimate the relationship between a dependent and a number of independent variables.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
