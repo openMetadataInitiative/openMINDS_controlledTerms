@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/globalSignalRegression",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'global signal regression' is a denoising technique where the global signal is removed from the time series of each voxel through linear regression.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "global signal regression",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "GSR"
+  ]
+}
