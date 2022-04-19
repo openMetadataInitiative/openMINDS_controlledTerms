@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/combinedVolumetricAndSurfaceRegistration",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "combined volumetric and surface registration",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "CVS registration"
+  ]
+}
