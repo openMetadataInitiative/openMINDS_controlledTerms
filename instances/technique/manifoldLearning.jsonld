@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/manifoldLearning",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'manifold learning' refers to a group of machine learning algorithms for non-linear dimensionality reduction of high-dimensionalty data.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "manifold learning",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
