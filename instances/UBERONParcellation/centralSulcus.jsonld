@@ -12,6 +12,14 @@
     "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002916",
     "synonym": [
         "sulcus centralis cerebri",
-        "CS"
+        "CS",
+        "sulcus centralis",
+        "central sulcus of Rolando",
+        "central fissure",
+        "central cerebral sulcus",
+        "sulcus centralis (rolandi)",
+        "fissure of Rolando",
+        "sulcus of Rolando",
+        "rolandic fissure"
     ]
 }
