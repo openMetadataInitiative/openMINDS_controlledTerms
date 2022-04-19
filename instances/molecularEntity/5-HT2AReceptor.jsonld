@@ -9,7 +9,7 @@
     "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100038",
     "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:6742#5-ht2a-receptor-1",
     "name": "5-HT2A receptor",
-    "preferredOntologyIdentifier": http://uri.neuinfo.org/nif/nifstd/nifext_6741",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_6741",
     "synonym": [
         "5-HT2A serotonin receptor",
         "5-HT2A",
