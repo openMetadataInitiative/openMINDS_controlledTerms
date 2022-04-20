@@ -4,11 +4,11 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/perfusionTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Perfusion is a technique to distribute fluid through the circulatory system or lymphatic system to an organ or a tissue.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739602",
   "knowledgeSpaceLink": null,
   "name": "perfusion technique",
-  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0739602",
+  "preferredOntologyIdentifier": null,
   "synonym": null
 }
