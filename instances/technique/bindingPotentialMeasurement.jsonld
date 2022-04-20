@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/bindingPotentialMeasurement",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "A 'binding potential measurement' refers to any technique that is used to estimate the binging potential of a receptor-ligand pair.",
+  "definition": "A 'binding potential measurement' refers to any technique that is used to estimate the binding potential of a receptor-ligand pair.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
