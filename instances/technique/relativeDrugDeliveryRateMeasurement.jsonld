@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/relativeDrugDeliveryRateMeasurement",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'relative drug delivery rate measurement' refers to any technique that is used to estimate the relative delivery rate of an injected substance in a target region.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "relative drug delivery rate measurement",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
