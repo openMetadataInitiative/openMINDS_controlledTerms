@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/metabolicClearanceRateMeasurement",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'metabolic clearance rate measurement' refers to any technique that is used to estimate the metabolic clearance rate of an injected substance (e.g., a labeled tracer).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "metabolic clearance rate measurement",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MCR measurement",
+    "clearance rate measurement"
+  ]
+}
