@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/perfusionFixationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Perfusion fixation is a technique that uses the vascular system to distribute fixatives throughout tissue.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
