@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/activationLikelihoodEstimation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "An 'activation likelihood estimation' is a coordinate-based meta-analysis of neuroimaging data that determines the above-chance convergence of activation probabilities between experiments (i.e., not between foci). [adapted from [Eickhoff et al., 2011](https://dx.doi.org/10.1016%2Fj.neuroimage.2011.09.017)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "activation likelihood estimation",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ALE",
+    "activation likelihood estimation meta-analysis",
+    "activation likelihood estimation analysis",
+    "ALE meta-analysis",
+    "ALE analysis"
+  ]
+}
