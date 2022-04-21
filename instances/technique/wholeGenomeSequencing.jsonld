@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/wholeGenomeSequencing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Whole genome sequencing' is a genetic test (sequencing technique) to determine the entire, or nearly the entire, DNA sequence of an organism's genome at a single time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Whole_genome_sequencing)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0492452",
+  "knowledgeSpaceLink": null,
+  "name": "whole genome sequencing",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M000621306",
+  "synonym": [
+    "WGS",
+    "full genome sequencing",
+    "complete genome sequencing",
+    "entire genome sequencing"
+  ]
+}

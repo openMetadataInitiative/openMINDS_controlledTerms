@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/pathwayAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'pathway analysis' refers to a group of techniques that aim to discover what biological themes, and which biomolecules, are crucial to understand biological pathways of (typically) high-throughput biological data (adapted from [García-Campos et al., 2015](https://doi.org/10.3389/fphys.2015.00383)).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0778897",
+  "knowledgeSpaceLink": null,
+  "name": "pathway analysis",
+  "preferredOntologyIdentifier": "http://edamontology.org/operation_3928",
+  "synonym": [
+    "PA",
+    "functional enrichment analysis",
+    "biological pathway prediction",
+    "pathway modelling",
+    "biological pathway modelling",
+    "pathway prediction",
+    "functional pathway analysis",
+    "pathway comparison",
+    "pathway simulation"
+  ]
+}

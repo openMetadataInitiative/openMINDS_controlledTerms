@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/DNASequencing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'DNA sequencing' refers to a group of techniques that are used to determine the order of nucleotides (nucleic acid sequence) in DNA. [adapted from [wikipedia](https://en.wikipedia.org/wiki/DNA_sequencing)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0783031",
+  "knowledgeSpaceLink": null,
+  "name": "DNA sequencing",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0000626",
+  "synonym": [
+    "DNA sequencing assay",
+    "DNA-Seq",
+    "deoxyribonucleic acid sequencing assay",
+    "deoxyribonucleic acid sequencing"
+  ]
+}
