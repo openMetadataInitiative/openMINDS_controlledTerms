@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "embryonic day",
+  "placement": null,
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredSymbol": "E",
+  "synonym": ["E"]
 }

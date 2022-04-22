@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "meter",
+  "placement": null,
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredSymbol": "m",
+  "synonym": ["m"]
 }

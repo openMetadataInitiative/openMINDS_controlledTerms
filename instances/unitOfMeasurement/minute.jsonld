@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "minute",
+  "placement": null,
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredSymbol": "min",
+  "synonym": ["min"]
 }
