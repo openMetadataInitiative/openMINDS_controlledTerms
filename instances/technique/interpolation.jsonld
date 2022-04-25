@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/interpolation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "An 'interpolation' is an analysis technique that delivers estimates for new data points based on a range of a discrete set of known data points.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "interpolation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
