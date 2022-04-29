@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/lightMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Light microscopy, also referred to as a optical microscopy, comprises any type of microscopy technique that uses visible light to generate magnified images of small objects.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0780269",
   "knowledgeSpaceLink": null,
   "name": "light microscopy",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://edamontology.org/topic_3385",
+  "synonym": [
+    "optical microscopy",
+    "LM"
+    ]
 }
