@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/bootstrapAggregating",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Bootstrap Aggregating' is a specialized Ensemble Learning technique, a framework that uses a group of 'weak-learner' methods, which get trained in parallel on random data-points of the training-dataset and which outputs get aggregated into a unified results.",
+  "definition": "'Bootstrap aggregating' is a specialized Ensemble Learning technique, a framework that uses a group of 'weak-learner' methods, which get trained in parallel on random data-points of the training-dataset and which outputs get aggregated into a unified results.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
