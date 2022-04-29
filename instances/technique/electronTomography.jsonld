@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/electronTomography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Electron tomography is a tomographic technique for obtaining 3-dimensional images with transmission electron microscopy.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0461087",
   "knowledgeSpaceLink": null,
   "name": "electron tomography",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0512939",
+  "synonym": [
+    "electron microscope tomography"
+    ]
 }
