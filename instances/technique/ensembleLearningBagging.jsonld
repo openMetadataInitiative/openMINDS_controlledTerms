@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/ensembleLearningBagging",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Ensemble Learning Bagging' is a specialized Ensemble Learning technique, a group of 'weak-learner' methods get trained in parallel on random data-points of the training-dataset and the results get combined by aggregating the different outputs.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "k-means clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
