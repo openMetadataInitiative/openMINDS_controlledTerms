@@ -2,13 +2,17 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/ensembleLearningBagging",
+  "@id": "https://openminds.ebrains.eu/instances/technique/bootstrapAggregating",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Ensemble Learning Bagging' is a specialized Ensemble Learning technique, a framework that uses a group of 'weak-learner' methods, which get trained in parallel on random data-points of the training-dataset and which outputs get aggregated into a unified results.",
+  "definition": "'Bootstrap Aggregating' is a specialized Ensemble Learning technique, a framework that uses a group of 'weak-learner' methods, which get trained in parallel on random data-points of the training-dataset and which outputs get aggregated into a unified results.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "ensemble learning bagging",
+  "name": "bootstrap aggregating",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+  	"bagging ensemble learning",
+	"bagging ensemble method",
+	"ensemble learning bagging"
+  ]
 }
