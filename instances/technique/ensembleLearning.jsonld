@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/EnsembleLearning",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Ensemble Learning' is a group of methods that allow the application of a combination of machine-learning methods and agggregate the results of those methods into one output.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "k-means clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
