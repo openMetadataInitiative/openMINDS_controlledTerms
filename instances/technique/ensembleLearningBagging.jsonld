@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/EnsembleLearningBagging",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Ensemble Learning Bagging' is a specialized Ensemble Learning technique, a group of 'weak-learner' methods that get trained in parallel on random data-points of the training-dataset and that combine the different outputs in the results.",
+  "definition": "'Ensemble Learning Bagging' is a specialized Ensemble Learning technique, a framework that uses a group of 'weak-learner' methods, which get trained in parallel on random data-points of the training-dataset and which outputs get aggregated into a unified results.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
