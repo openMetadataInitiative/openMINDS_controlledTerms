@@ -4,11 +4,11 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/electronMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Electron microscopy is an electron-optical instrument in which a beam of electrons is used to produce an enlarged image of a minute object.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739513",
   "knowledgeSpaceLink": null,
   "name": "electron microscopy",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/electronMicroscopy",
   "synonym": null
 }
