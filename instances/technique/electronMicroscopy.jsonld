@@ -4,11 +4,11 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/electronMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Electron microscopy is a microscopy technique that uses differential scattering and or deflection of electrons passing through or bouncing off a sample to generate contrast.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739513",
   "knowledgeSpaceLink": null,
   "name": "electron microscopy",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/electronMicroscopy",
   "synonym": null
 }
