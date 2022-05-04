@@ -4,11 +4,21 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/twoPhotonExcitationFluorescenceMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Two-photon excitation fluorescence microscopy' (TPEF) is a fluorescence imaging technique for living tissue which is based on the excitation of two photons with light of longer wavelength than the emitted light.",
+  "definition": "Two-photon excitation fluorescence microscopy is a fluorescence microscopy technique for living tissue which is based on the simultaneous excitation by two photons with longer wavelength than the emitted light.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739658",
   "knowledgeSpaceLink": null,
   "name": "two-photon excitation fluorescence microscopy",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/twoPhoton",
+  "synonym": [
+    "TPEF",
+    "2PEF",
+    "TPM",
+    "two-photon excitation microscopy",
+    "two-photon fluorescence microscopy",
+    "two-photon miscroscopy",    
+    "2-photon excitation microscopy",
+    "2-photon fluorescence microscopy",
+    "2-photon miscroscopy"
+  ]
 }
