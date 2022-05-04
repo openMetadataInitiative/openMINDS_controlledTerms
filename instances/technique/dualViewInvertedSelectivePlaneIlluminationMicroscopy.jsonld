@@ -12,6 +12,7 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "diSPIM",
-    "dual-view inverted light sheet microscopy"
+    "dual-view inverted light sheet microscopy",
+    "dual-view inverted light sheet fluorescence microscopy"
   ]
 }
