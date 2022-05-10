@@ -11,6 +11,9 @@
   "name": "light sheet fluorescence microscopy",
   "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/lightSheetMicroscopyFluorescent",
   "synonym": [
-    "LSFM"
+    "LSFM",
+    "selective plane illumination microscopy",
+    "SPIM",
+    "light sheet microscopy"
     ]
 }
