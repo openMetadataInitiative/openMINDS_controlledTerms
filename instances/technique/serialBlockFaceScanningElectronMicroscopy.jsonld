@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/serialBlockFaceScanningElectronMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "Serial section transmission electron microscopy is a microscopy technique in which a beam of electrons is transmitted through multiple successive slices of a volumetric sample to produce images of the slices (e.g. for later 3D reconstruction).",
+  "definition": "Serial block face scanning electron microscopy is a serial section scanning electron microscopy technique where an ultramicrotome is used to ablate the surface of a specimen.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
@@ -12,6 +12,7 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "serial blockface SEM",
-    "SB-SEM"
+    "SB-SEM",
+    "SBEM"
   ]
 }
