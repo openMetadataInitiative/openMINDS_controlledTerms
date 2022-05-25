@@ -4,7 +4,6 @@
     },
     "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII",
     "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Ansiform lobule crus II' is a hemisphere part of the cerebellar posterior lobe.",
     "description": "",
     "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104942",
     "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXANAT:20081209#ansiform-lobule-crus-ii",
@@ -17,17 +16,10 @@
         "semilunar lobule-2 (inferior)",
         "inferior semilunar lobule of cerebellum",
         "posterior inferior lobule",
-        "second crus of ansiform lobule of cerebellum [hVIIa]",
+        "second crus of ansiform lobule of cerebellum [hVIIa]",       
         "crus secundum lobuli ansiformis cerebelli [hVII A]",
         "hemispheric lobule VIIBi",
-        "crus II of the ansiform lobule (HVII)",
-        "lobulus semilunaris inferior cerebelli",
-        "lobulus semilunaris caudalis",
-        "ansiform lobe of the cerebellum, crus 2",
-        "crus 2",
-        "Cb-Crus II",
-        "crus II",
-        "crus II (cerebelli)",
-        "lobulus posterior inferior"
+        "crus II of the ansiform lobule (HVII)",        
+        "lobulus semilunaris inferior cerebelli"
     ]
 }
