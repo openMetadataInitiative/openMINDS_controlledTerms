@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/chemicalMixtureType/solution",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType",
+    "definition": "A special type of homogeneous mixture composed of two or more substances.",
+    "description": "A solution is a mixture where one of the substances dissolves in the other. The substance that dissolves is called the solute. The substance that does not dissolve is called the solvent.",
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "solution",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+}

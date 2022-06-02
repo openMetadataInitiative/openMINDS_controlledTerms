@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType",
+    "definition": "A heterogeneous mixture that contains solute particles sufficiently large for sedimentation.",
+    "description": "A suspension is a heterogeneous mixture in which the solute particles do not dissolve, but get suspended throughout the bulk of the solvent, left floating around freely in the medium.",
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "suspension",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+}
