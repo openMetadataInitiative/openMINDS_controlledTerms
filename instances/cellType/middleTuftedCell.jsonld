@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/cellType/middleTuftedCell",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+    "definition": "Principal neuron located in the outer third of the external plexiform layer of the olfactory bulb in the mammalian central nervous system.",
+    "description": "Each tufted cell is characterized by usually a single short primary dendrite that traverses the outer external plexiform layer and terminates within an olfactory glomerulus in a tuft of branches, where it receives the input from olfactory receptor neuron axon terminals. Differentiated from external tufted cells. Axons of the tufted cells transfer information to a number of areas in the brain, including the piriform cortex, entorhinal cortex, olfactory tubercle, and amygdala.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107935",
+    "knowledgeSpaceLink": null,
+    "name": "middle tufted cell",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+}

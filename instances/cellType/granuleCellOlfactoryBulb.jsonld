@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/cellType/granuleCellOlfactoryBulb",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+    "definition": "The main intrinsic neuron in the vertebrate olfactory bulb. It lacks an axon.",
+    "description": "Each cell gives rise to short central dendrites and a single long apical dendrite that traverses the granule cell layer, pierces the mitral cell body layer, and branches and terminates within the external plexiform layer among the lateral dendrites of mitral and tufted cells. The dendrites receive synaptic input from mitral and tufted cell lateral dendrites, and have synaptic outputs on those dendrites through reciprocal dendrodendritic synapses.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107930",
+    "knowledgeSpaceLink": null,
+    "name": "granule cell olfactory bulb",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+}

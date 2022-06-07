@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/cellType/tuftedCell",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+    "definition": "Output cells similar to mitral cells but located more superficially in the external plexiform layer are called tufted cells (Shepherd 2004)",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "tufted cell",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+}

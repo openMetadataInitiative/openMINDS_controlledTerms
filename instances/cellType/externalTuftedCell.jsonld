@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/cellType/externalTuftedCell",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+    "definition": null,
+    "description": "External tufted cells have large somata and abundant cytoplasm containing stacks of Nissl material; their main dendrites are characterized by pale cytoplasm and a regular array of neurotubules. (PINCHING and POWELL 1971)",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107943",
+    "knowledgeSpaceLink": null,
+    "name": "external tufted cell",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+}
