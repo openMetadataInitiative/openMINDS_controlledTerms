@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/hippocampus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The hippocampus is part of the hippocampal formation and consists of a three layered cortex located in the forebrain bordered by the medial surface of the lateral ventricle, the dentate gyrus and the subiculum.",
+  "description": "A part of the brain consisting of a three layered cortex located in the forebrain bordering the medial surface of the lateral ventricle. It has 3 subfields termed CA1, CA2 and CA3. The term hippocampus is often used synonymously with hippocampal formation which consists of the hippocampus proper or Cornu Ammonis, the dentate gyrus and the subiculum.",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0105021",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001954#hippocampus",
+  "name": "hippocampus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001954",
+  "synonym": [
+    "HC",
+    "hip",
+    "Ammon's horn",
+    "hippocampus proper",
+    "ammon horn",
+    "hippocampus major",
+    "ammon gyrus",
+    "hippocampus proprius"
+  ]
+}
