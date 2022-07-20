@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/golgiStaining",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Any of several methods for staining nerve cells, nerve fibers, and neuroglia in which fixed tissue is impregnated with silver nitrate and potassium dichromate resulting in the complete staining of some nerve cells while other cells are not stained at all.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0104713",
+  "knowledgeSpaceLink": null,
+  "name": "Golgi staining",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_2243",
+  "synonym": null
+}
