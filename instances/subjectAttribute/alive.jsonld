@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subjectAttribute/alive",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubjectAttribute",
+  "definition": "An organism that is not dead.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "alive",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
