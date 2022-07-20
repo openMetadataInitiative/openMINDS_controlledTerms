@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/species/ovisAries",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
-  "definition": "The species 'Ovis aries' (domestic sheep) is a mammal of the artiodactyla (even-toed ungulates) order and genus ovis (wild and domestic sheep).",
+  "definition": "The species *Ovis aries* (domestic sheep) belongs to the family of bovidae (bovids).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
