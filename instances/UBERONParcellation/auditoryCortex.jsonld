@@ -10,7 +10,5 @@
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001393#auditory-cortex",
   "name": "auditory cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001393",
-  "synonym": [
-    "auditory area"
-  ]
+  "synonym": null
 }
