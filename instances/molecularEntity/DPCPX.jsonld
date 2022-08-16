@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/DPCPX",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A pharmacological substance that acts as a selective high affinity antagonist radioligand for A1 adenosine receptors.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "DPCPX",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "8-cyclopentyl-1,3-dipropylxanthine"
+  ]
+}
