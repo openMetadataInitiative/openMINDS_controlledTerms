@@ -1,0 +1,18 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/APV",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A selective NMDA receptor antagonist that competitively inhibits the ligand (glutamate) binding site of NMDA receptors."
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0100867",
+  "knowledgeSpaceLink": null,
+  "name": "APV",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_94485",
+  "synonym": [
+    "AP5",
+    "(2R)-amino-5-phosphonovaleric acid",
+    "(2R)-amino-5-phosphonopentanoate"
+  ]
+}
