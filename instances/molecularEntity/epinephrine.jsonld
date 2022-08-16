@@ -1,0 +1,18 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/epinephrine",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "The active sympathomimetic hormone from the adrenal medulla in most species, which stimulates both the alpha- and beta- adrenergic systems.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0103891",
+  "knowledgeSpaceLink": null,
+  "name": "epinephrine",
+  "preferredOntologyIdentifier": "https://www.drugbank.ca/drugs/DB00668",
+  "synonym": [
+    "adrenalin",
+    "AD",
+    "EPI"
+  ]
+}
