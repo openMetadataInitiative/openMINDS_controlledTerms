@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/DNQX",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A pharmacological substance that acts as a competitive AMPA/kainate receptor antagonist.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0103368",
+  "knowledgeSpaceLink": null,
+  "name": "DNQX",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_76042",
+  "synonym": [
+    "6,7-dinitroquinoxaline-2,3-dione"
+  ]
+}
