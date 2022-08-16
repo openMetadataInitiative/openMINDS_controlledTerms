@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/DAPI",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A fluorescent dye used to stain biological specimens.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "DAPI",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_51231",
+  "synonym": [
+    "4′,6-diamidino-2-phenylindole"
+  ]
+}
