@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Cav2-1Channel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A calcium channel subtype mainly found in the brain, which plays an important role in controlling the release of neurotransmitters between neurons.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Cav2.1 channel",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "P/Q voltage-dependent calcium channel"
+  ]
+}
