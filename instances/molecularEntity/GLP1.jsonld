@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GLP1",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A peptide derived from proglucagon which is also the precursor of pancreatic glucagon.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "GLP1",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "glucagon-like peptide 1"
+    ]
+}
