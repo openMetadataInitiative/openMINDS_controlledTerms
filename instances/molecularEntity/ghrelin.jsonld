@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/ghrelin",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A hormone produced by enteroendocrine cells of the gstrointestinal tract in mammals, especially in the stomach, which increases the drive to eat.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0104614",
+  "knowledgeSpaceLink": null,
+  "name": "ghrelin",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5076",
+  "synonym": [
+    "GHRL"
+  ]
+}
