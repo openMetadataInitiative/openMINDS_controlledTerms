@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GIRK2Channel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "One of the inwardly-rectifying potassium channels that are activated by pertussis toxin sensitive G-protein coupled receptors.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "GIRK2 channel",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0214257",
+  "synonym": [
+    "G-protein coupled inwardly-rectifying potassium channel 2"
+  ]
+}
