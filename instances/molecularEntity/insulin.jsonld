@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/insulin",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "A peptide hormone produced by beta cells of the pancreatic islets, which regulates the metabolism of carbohydrates, fats and proteins by promoting the absorption of glucose from the blood into liver, fat and skeletal muscle cells.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "insulin",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000009054",
+    "synonym": [
+        "INS"
+    ]
+}
