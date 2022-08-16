@@ -1,0 +1,19 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/deltaOpioidReceptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A subgroup of G-protein coupled receptors that are targeted by opiates.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0103010",
+  "knowledgeSpaceLink": null,
+  "name": "delta opioid receptor",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_6921",
+  "synonym": [
+    "delta DOR",
+    "delta receptor",
+    "DOR-1",
+    "delta-type opioid receptor"
+  ]
+}
