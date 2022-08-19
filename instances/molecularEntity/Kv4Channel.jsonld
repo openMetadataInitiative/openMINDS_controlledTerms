@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Kv4Channel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "'Kv4 channels' are the primary subunits contributing to transient, voltage-dependent potassium currents in the nervous system and the heart, and are inhibited by free fatty acids.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Kv4 channel",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "voltage dependent potassium channel Kv4"
+  ]
+}
