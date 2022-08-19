@@ -1,0 +1,20 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/muOpioidReceptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A subgroup of G-protein coupled receptors that are targeted by opiates.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0107168",
+  "knowledgeSpaceLink": null,
+  "name": "Mu opioid receptor",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_7702",
+  "synonym": [
+    "mu", 
+    "MOR",
+    "Mu receptor",
+    "MOR-1",
+    "Mu-type opioid receptor"
+  ]
+}
