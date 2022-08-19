@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/convolutionTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Convolution' is a technique where a mathematical operation on two functions is performed to produce a third function that expresses how the shape of one is modified by the other.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "convolution technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
