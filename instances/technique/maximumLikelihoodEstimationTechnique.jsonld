@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/maximumLikelihoodEstimationTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Maximum likelihood estimation' is a statistical technique that determines values for the parameters of a model. The parameter values are found such that they maximise the likelihood that the process described by the model produced the data that were actually observed.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "maximum likelihood estimation technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
