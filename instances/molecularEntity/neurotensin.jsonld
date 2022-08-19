@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/neurotensin",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "A 13 amino acid neuropeptide that is implicated in the regulation of luteinizing hormone and prolactin release and has significant interaction with the dopaminergic system.",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/ilx_0107542",
+    "knowledgeSpaceLink": null,
+    "name": "neurotensin",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5092",
+    "synonym": [
+        "NTS"
+    ]
+}
