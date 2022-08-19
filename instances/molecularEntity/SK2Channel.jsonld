@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/SK2Channel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "One of the calcium-activated potassium channels.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "SK2 channel",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "small conductance calcium-activated potassium channel 2"
+  ]
+}
