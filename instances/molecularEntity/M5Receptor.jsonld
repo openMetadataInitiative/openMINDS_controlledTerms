@@ -1,0 +1,21 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/M5Receptor",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "The M5 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It is found in a variety of locations including the salivary glands, and the substantia nigra and ventral tegmental area of the brain.",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/ilx_0106433",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:7338#m5-receptor",
+    "name": "M5 receptor",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_7338",
+    "synonym": [
+        "muscarinic acetylcholine receptor 5",
+        "M5",
+        "M5 AChR",
+        "M5 acetylcholine receptor",
+        "muscarinic acetylcholine receptor M5",
+        "muscarinic acetylcholine receptor type 5"
+    ]
+}
