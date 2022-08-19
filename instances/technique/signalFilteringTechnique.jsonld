@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/signalFilteringTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Signal filtering' is a technique to remove some signal (e.g. frequencies) to suppress interfering signals and to reduce background noise.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0739623",
+  "knowledgeSpaceLink": null,
+  "name": "signal filtering technique",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/151",
+  "synonym": null
+}
