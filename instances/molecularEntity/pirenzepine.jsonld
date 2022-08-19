@@ -1,0 +1,20 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/pirenzepine",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A pharmacological substance that acts as a selective muscarinic M1 receptor antagonist and is used in the treatment of peptic ulcers.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0108914",
+  "knowledgeSpaceLink": null,
+  "name": "pirenzepine",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_8247",
+  "synonym": [
+    "bisvanil",
+    "gasteril",
+    "gastrozepin",
+    "leblon",
+    "tabe"
+  ]
+}
