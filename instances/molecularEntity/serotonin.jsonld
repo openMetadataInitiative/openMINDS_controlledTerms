@@ -2,7 +2,7 @@
   "@context": {
       "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter",
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/serotonin",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
   "definition": "A biochemical messenger and regulator, synthesized from the essential amino acid L-tryptophan, and acts as a neurotrasmitter in the central nervous system.",
   "description": null,
