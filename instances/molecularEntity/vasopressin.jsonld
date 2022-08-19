@@ -1,0 +1,22 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/vasopressin",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "An antidiuretic hormone, which is a nine amino acid peptide long and secreted from the posterior pituitary.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0112270",
+  "knowledgeSpaceLink": null,
+  "name": "vasopressin",
+  "preferredOntologyIdentifier": "https://www.drugbank.ca/drugs/DB00067",
+  "synonym": [
+    "3-Isoleucyl vasopressin",
+    "arginine oxytocin",
+    "arginine vasotocin",
+    "argiprestocin",
+    "pitressin tannate",
+    "pitressin",
+    "isoleucyl"    
+  ]
+}
