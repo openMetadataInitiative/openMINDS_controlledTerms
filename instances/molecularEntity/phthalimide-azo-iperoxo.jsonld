@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/phthalimide-azo-iperoxo",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "Phthalimide-azo-iperoxo is an organic chemical molecule that is used as a muscarinic M2 receptor agonist.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "phthalimide-azo-iperoxo",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "PAI"
+    ]
+}
