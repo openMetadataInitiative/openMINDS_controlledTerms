@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/SKChannel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A subfamily of calcium-activated potassium channels.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "SK channel",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "small conductance calcium-activated potassium channel"
+  ]
+}
