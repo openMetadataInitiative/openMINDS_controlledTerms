@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/nuisanceRegression",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Nuisance regression' is an image processing technique where non-neural signals caused by nuisance terms (e.g. motion or cardiac and respiratory activity) are removed to improve the fMRI signal.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nuisance regression",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "NR"
+  ]
+}
