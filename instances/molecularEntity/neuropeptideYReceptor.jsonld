@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/neuropeptideYReceptor",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "A family of receptors belonging to class A G-protein coupled receptors and are activated by the closely related peptide hormones neuropeptide Y, peptide YY and pancreatic polypeptide.",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/ilx_0107529",
+    "knowledgeSpaceLink": null,
+    "name": "neuropeptide Y receptor",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5809",
+    "synonym": [
+      "NPY receptor",
+      "NPYR"
+    ]
+}
