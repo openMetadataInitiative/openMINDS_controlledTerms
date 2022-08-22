@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/maximumLikelihoodEstimationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Maximum likelihood estimation' is a statistical technique that determines values for the parameters of a model. The parameter values are found such that they maximise the likelihood that the process described by the model produced the data that were actually observed.",
+  "definition": "'Maximum likelihood estimation' is a statistical analysis technique that estimates the parameters of an assumed probability distribution for some observed data by by maximizing a likelihood function so that, under the assumed statistical model, the observed data is most probable. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "maximum likelihood estimation technique",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "MLE"
+  ]
 }
