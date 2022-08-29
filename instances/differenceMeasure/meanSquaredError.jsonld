@@ -8,7 +8,7 @@
     "description": null,
     "interlexIdentifier": null,
     "knowledgeSpaceLink": null,
-    "name": "z-score",
+    "name": "mean squared error",
     "preferredOntologyIdentifier": null,
     "synonym": null
   }

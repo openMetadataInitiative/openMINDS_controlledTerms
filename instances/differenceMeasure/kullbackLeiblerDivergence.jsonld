@@ -11,6 +11,6 @@
     "name": "Kullback-Leibler divergence",
     "preferredOntologyIdentifier": null,
     "synonym": [
-        "KS-statistic"
+        "KL divergence"
     ]
   }
