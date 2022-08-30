@@ -8,7 +8,7 @@
   "description": "This may be a numerical or physical quantity, a set of categories, etc. Examples include 'mean squared error', 't-statistic', 'p-value'.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "measured type",
+  "name": "difference measure",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
