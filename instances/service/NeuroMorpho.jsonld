@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/NeuroMorphoDotOrg",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": "A web-based inventory dedicated to densely archive and organize all publicly shared digital reconstructions of neuronal morphology.",
+  "description": "Digital reconstructions are a parsimonious and efficient representation of neuronal morphology. They allow extensive analysis and implementation of biophysical models of electrophysiology. However, reconstructing cells is a very labor-intensive and time-consuming process. A collection of such data is an invaluable resource for the neuroscience community. This inventory is meant to encourage data sharing among neuroscientists, enabling further use of this data and to prevent data loss.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "NeuroMorpho.Org",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
