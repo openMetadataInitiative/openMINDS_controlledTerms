@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arterialBlood",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'arterial blood' is a part of blood, which occupies the vasculature of the brain that carries blood away from the heart.",
+  "description": "Blood that flows through an artery",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725460",
+  "knowledgeSpaceLink": null,
+  "name": "arterial blood",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013755",
+  "synonym": [
+    "arterial blood",
+    "portion of arterial blood",
+    "blood in artery"
+  ]
+}

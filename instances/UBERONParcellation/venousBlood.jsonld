@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/venousBlood",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'venous blood' is a part of blood which occupies the vasculature of the brain that carries blood towards the heart.",
+  "description": "Blood that flows through a vein.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0734397",
+  "knowledgeSpaceLink": null,
+  "name": "venous blood",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013756",
+  "synonym": [
+    "blood in vein",
+    "venous blood",
+    "portion of venous blood"
+  ]
+}
