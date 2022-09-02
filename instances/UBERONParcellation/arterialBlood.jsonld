@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/arterialBlood",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Arterial blood' is the oxygenated portion of blood which occupies the pulmonary vein, the left chambers of the heart, and the arteries of the circulatory system.",
-  "description": "Blood that flows through an artery",
+  "description": "Blood that flows through an artery.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725460",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013755#arterial-blood",
   "name": "arterial blood",
