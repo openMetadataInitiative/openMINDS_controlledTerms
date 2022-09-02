@@ -7,7 +7,7 @@
   "definition": "Lower lateral part of the cerebral hemisphere. (MSH).",
   "description": "'Temporal lobe' is a lobe of cerebral hemisphere.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001871#temporal-lobe-1",
   "name": "temporal lobe",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001871",
   "synonym": null

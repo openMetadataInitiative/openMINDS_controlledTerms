@@ -7,7 +7,7 @@
   "definition": "White matter tract containing axons arising in the vestibular ganglion primarily projecting to the ipsilateral cerebellum via the inferior cerebellar peduncle (Heimer, L. The Human Brain, 2nd ed., 1995, pg 370).",
   "description": "'Vestibulocerebellar tract' is a tract of brain. It is part of the pontine tegmentum.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002552#vestibulocerebellar-tract-1",
   "name": "vestibulocerebellar tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002552",
   "synonym": null

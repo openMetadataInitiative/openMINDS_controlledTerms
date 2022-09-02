@@ -7,7 +7,7 @@
   "definition": "One of a set of deep furrows which divide the lobules of the cerebellum. Examples:  postcentral, primary and secondary furrows.",
   "description": "'Cerebellum fissure' is a subarachnoid fissure. It is part of the cerebellum.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003980#cerebellum-fissure",
   "name": "cerebellum fissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003980",
   "synonym": null

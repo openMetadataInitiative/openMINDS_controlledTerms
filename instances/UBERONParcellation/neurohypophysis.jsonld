@@ -7,7 +7,7 @@
   "definition": "The posterior part of the pituitary gland that secretes hormones involved in blood pressure regulation such as oxytocin and antidiuretic hormon.",
   "description": "'Neurohypophysis' is a gland of diencephalon and secretory circumventricular organ. It is part of the pituitary gland.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002198#neurohypophysis-1",
   "name": "neurohypophysis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002198",
   "synonym": null

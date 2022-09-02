@@ -7,7 +7,7 @@
   "definition": "A vasculature that is part of a cerebellum.",
   "description": "'Cerebellum vasculature' is a vasculature of central nervous system. It is part of the cerebellum.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006694#cerebellum-vasculature",
   "name": "cerebellum vasculature",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006694",
   "synonym": null

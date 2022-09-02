@@ -7,7 +7,7 @@
   "definition": "Any commissure within the hindbrain.",
   "description": "'Hindbrain commissure' is a brain commissure. It is part of the hindbrain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034763#hindbrain-commissure",
   "name": "hindbrain commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034763",
   "synonym": null

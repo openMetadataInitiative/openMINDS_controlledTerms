@@ -7,7 +7,7 @@
   "definition": null,
   "description": "'Paravermis lobule area' is a cerebellum hemisphere lobule. It is part of the paravermis parts of the cerebellar cortex.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0027285#paravermis-lobule-area",
   "name": "paravermis lobule area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027285",
   "synonym": null

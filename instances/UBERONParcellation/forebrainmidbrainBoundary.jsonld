@@ -7,7 +7,7 @@
   "definition": "An anatomical boundary that adjacent_to a forebrain and adjacent_to a midbrain.",
   "description": "'Forebrain-midbrain boundary' is part of the brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005075#forebrain-midbrain-boundary",
   "name": "forebrain-midbrain boundary",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005075",
   "synonym": null

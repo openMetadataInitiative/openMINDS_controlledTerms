@@ -7,7 +7,7 @@
   "definition": "A venous system that is part of a hindbrain.",
   "description": "'Hindbrain venous system' is part of the hindbrain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005720#hindbrain-venous-system",
   "name": "hindbrain venous system",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005720",
   "synonym": null

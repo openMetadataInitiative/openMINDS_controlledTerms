@@ -7,7 +7,7 @@
   "definition": "Vascular endothelium found in blood vessels of the blood-brain-barrier.",
   "description": "'Brain endothelium' is part of the brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013694#brain-endothelium",
   "name": "brain endothelium",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013694",
   "synonym": null

@@ -7,7 +7,7 @@
   "definition": "A developing anatomical structure that has the potential to develop into a myelencephalon.",
   "description": "'Future myelencephalon' is part of the hindbrain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0010096#future-myelencephalon",
   "name": "future myelencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010096",
   "synonym": null

@@ -7,7 +7,7 @@
   "definition": null,
   "description": "'Venous system of brain' is part of the brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain",
   "name": "venous system of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013146",
   "synonym": null

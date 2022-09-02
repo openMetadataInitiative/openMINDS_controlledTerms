@@ -7,7 +7,7 @@
   "definition": null,
   "description": "'Matrix compartment of putamen' is a matrix compartment. It is part of the putamen.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0029002#matrix-compartment-of-putamen",
   "name": "matrix compartment of putamen",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0029002",
   "synonym": null

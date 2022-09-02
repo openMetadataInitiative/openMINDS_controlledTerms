@@ -7,7 +7,7 @@
   "definition": "The part of the brain that is the morphological boundary between the midbrain and hindbrain and that is the location of an organizing center which patterns the midbrain and hindbrain primordia of the neural plate.",
   "description": "'Midbrain-hindbrain boundary' is part of the brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003052#midbrain-hindbrain-boundary",
   "name": "midbrain-hindbrain boundary",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003052",
   "synonym": null

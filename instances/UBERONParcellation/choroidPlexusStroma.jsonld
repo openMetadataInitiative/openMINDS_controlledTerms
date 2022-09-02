@@ -7,7 +7,7 @@
   "definition": "Stromal matrix surrounding blood vessels within the choroid plexus.",
   "description": "'Choroid plexus stroma' is part of the choroid plexus.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005206#choroid-plexus-stroma",
   "name": "choroid plexus stroma",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005206",
   "synonym": null
