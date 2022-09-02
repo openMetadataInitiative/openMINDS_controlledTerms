@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/psychologicalTesting",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Psychological testing' is the administration of psychological tests typically by trained evaluators which also evaluate the person's responses according to carefully prescribed guidelines resulting in psychometric scores are thought to reflect individual or group differences in the construct the test purports to measure. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Psychological_testing)]",
+  "definition": ""'Psychological testing' is a psychometric measurement to evaluate a person's response to a psychological test according to carefully prescribed guidelines. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Psychological_testing)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
