@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/retinotopicMapping",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Retinotopic mapping' is a special type of receptive field mapping where the visual receptive field position is mapped in retinotopic coorinates in a brain region.",
+  "definition": "In 'retinotopic mapping' the retina is repeatedly stimulated in such a way that the response of neurons, particularly within the visual stream, can be mapped to the location of the stimulus on the retina.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "retinotopic mapping",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "retinal mapping"
+  ]
 }
