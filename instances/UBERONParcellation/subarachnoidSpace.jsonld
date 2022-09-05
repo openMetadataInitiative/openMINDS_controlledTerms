@@ -7,7 +7,7 @@
   "definition": "The space between the arachnoid and pia mater.",
   "description": "'Subarachnoid space' is an anatomical entity. It is part of the brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000315#subarachnoid-space",
   "name": "subarachnoid space",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000315",
   "synonym": null

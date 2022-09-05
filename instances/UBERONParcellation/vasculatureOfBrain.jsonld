@@ -7,7 +7,7 @@
   "definition": "System pertaining to blood vessels in the brain.",
   "description": "'Vasculature of brain' is a vasculature of central nervous system. It is part of the brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0008998#vasculature-of-brain",
   "name": "vasculature of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008998",
   "synonym": null

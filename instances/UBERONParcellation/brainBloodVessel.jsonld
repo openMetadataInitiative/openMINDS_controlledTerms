@@ -7,7 +7,7 @@
   "definition": null,
   "description": "'Brain blood vessel' is part of the vasculature of brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003499#brain-blood-vessel",
   "name": "brain blood vessel",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003499",
   "synonym": null

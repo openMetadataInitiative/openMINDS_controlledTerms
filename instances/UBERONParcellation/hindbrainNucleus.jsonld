@@ -7,7 +7,7 @@
   "definition": "Nucleus located within the hindbrain.",
   "description": "'Hindbrain nucleus' is a nucleus of brain. It is part of the hindbrain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0009662#hindbrain-nucleus",
   "name": "hindbrain nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009662",
   "synonym": null

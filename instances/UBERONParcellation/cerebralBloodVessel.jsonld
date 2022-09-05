@@ -7,7 +7,7 @@
   "definition": "A blood vessel that is part of a cerebellum.",
   "description": "'Cerebral blood vessel' is a brain blood vessel. It is part of the cerebellum.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0016565#cerebral-blood-vessel",
   "name": "cerebral blood vessel",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016565",
   "synonym": null

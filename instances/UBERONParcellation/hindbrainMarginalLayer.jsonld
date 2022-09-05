@@ -7,7 +7,7 @@
   "definition": null,
   "description": "'Hindbrain marginal layer' is a central nervous system cell part cluster. It is part of the hindbrain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034709#hindbrain-marginal-layer",
   "name": "hindbrain marginal layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034709",
   "synonym": null

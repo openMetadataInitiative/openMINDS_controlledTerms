@@ -7,7 +7,7 @@
   "definition": null,
   "description": "'Hindbrain subarachnoid space' is a subarachnoid space. It is part of the hindbrain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005219#hindbrain-subarachnoid-space",
   "name": "hindbrain subarachnoid space",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005219",
   "synonym": null

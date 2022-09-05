@@ -7,7 +7,7 @@
   "definition": "The ependymal cell layer that lines the brain ventricles.",
   "description": "'Brain ependyma' is an ependyma. It is part of the brain ventricle.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0005357#brain-ependyma",
   "name": "brain ependyma",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005357",
   "synonym": null

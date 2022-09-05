@@ -7,7 +7,7 @@
   "definition": null,
   "description": "'Gross anatomical parts of the cerebellum' is a regional part of brain. It is part of the cerebellum.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0023836#gross-anatomical-parts-of-the-cerebellum-1",
   "name": "gross anatomical parts of the cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023836",
   "synonym": null

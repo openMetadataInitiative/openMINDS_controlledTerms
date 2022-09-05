@@ -7,7 +7,7 @@
   "definition": "Anatomical divisons of the brain according to one or more criteria, e.g. cytoarchitectural, gross anatomy. Parts may be contiguous in 3D or not, e.g., basal ganglia.",
   "description": "'Regional part of brain' is a regional part of nervous system. It is part of the brain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002616#regional-part-of-brain-1",
   "name": "regional part of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002616",
   "synonym": null

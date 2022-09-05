@@ -7,7 +7,7 @@
   "definition": "A white matter that is part of the hindbrain.",
   "description": "'White matter of hindbrain' is a brain white matter. It is part of the hindbrain.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0019258#white-matter-of-hindbrain",
   "name": "white matter of hindbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0019258",
   "synonym": null

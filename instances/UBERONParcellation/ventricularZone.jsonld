@@ -7,7 +7,7 @@
   "definition": "Proliferative region that is part of the ventricular system.",
   "description": "'Ventricular zone' is an anatomical entity. It is part of the brain and ventricular system of central nervous system.",
   "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003053#ventricular-zone",
   "name": "ventricular zone",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003053",
   "synonym": null
