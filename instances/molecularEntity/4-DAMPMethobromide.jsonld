@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/4-DAMPMethobromide",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-  "definition": null,
+  "definition": "'4-DAMP methobromide' is a derivative of 4-DAMP and a muscarinic antagonist with heterogeneous binding profiles, permitting binding to several muscarinic receptors in the central and peripheral nervous system. [adapted from [Collins et al., 1993](https://doi.org/10.1016/0197-0186(93)90051-6)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0686819",
   "knowledgeSpaceLink": null,
   "name": "4-DAMP methobromide",
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0125168",
-  "synonym": null
+  "synonym": [
+    "4-diphenylacetoxy-N-methylpiperidine methobromide"
+  ]
 }
