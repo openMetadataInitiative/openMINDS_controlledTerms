@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "receptive field mapping",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "RF mapping"
+  ]
 }
