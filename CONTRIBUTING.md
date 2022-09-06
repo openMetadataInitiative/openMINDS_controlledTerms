@@ -40,7 +40,7 @@ Non-backwards compatible changes are only accepted for version branches that do 
 
 For all contributions, make sure that you describe well what you plan to do / have done to speed up the evaluation / review process of your issue / pull request. The assigned member of the openMINDS development team will get back to you as soon as possible to discuss or give the blessing to your contribution. Note that, all contributing community members are welcome to provide comments on active issues and pull requests. 
 
-**Guidelines to contribute new controlled instances:** Terminology instances for any terminology all have the same basic schema against they are validated. Please use the following template to provide new controlled instance for an openMINDS controlledTerms terminology schema:
+**Guidelines to contribute new controlled instances to existing terminologies:** All controlled instances across all terminologies are validated against the same basic schema. Please use the following template to provide new controlled instance for an existing openMINDS controlledTerms terminology:
 
 ```json
 {
@@ -58,7 +58,7 @@ For all contributions, make sure that you describe well what you plan to do / ha
 }
 ```
 
-Note that the optional properties are highly desired if they are available. In particular, please try to always provide a definition  for your new instance suggestion.
+Note that the optional properties are highly desired if they are available. In particular, please try to always provide a definition for your new instance suggestion.
 
 [BACK TO TOP](#top)
 
