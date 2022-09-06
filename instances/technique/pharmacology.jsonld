@@ -10,8 +10,5 @@
   "knowledgeSpaceLink": null,
   "name": "pharmacology",
   "preferredOntologyIdentifier": "http://edamontology.org/topic_0202",
-  "synonym": [
-    "computational pharmacology",
-    "pharmacoinformatics"
-  ]
+  "synonym": null
 }
