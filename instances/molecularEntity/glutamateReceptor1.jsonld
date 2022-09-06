@@ -1,0 +1,24 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/glutamateReceptor1",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "The 'glutamate receptor 1' is a type of the ionotropic glutamate receptors which in humans is encoded by the GRIA1 gene and believed to be centrally involved synaptic plasticity. [adpated from [wikipedia](https://en.wikipedia.org/wiki/GRIA1)]",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/ilx_0104672",
+    "knowledgeSpaceLink": null,
+    "name": "glutamate receptor 1",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1322219701",
+    "synonym": [
+      "α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor 1",
+      "AMPA receptor 1",
+      "AMPAR1",
+      "GRIA1",
+      "glutamate iontropic receptor AMPA type subunit 1",
+      "glutamate receptor type 1",
+      "GluR1",
+      "GluA1",
+      "GluA1 receptor"
+    ]
+}
