@@ -1,0 +1,25 @@
+
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Kir3-3",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "'Kir3.3' is one type of inwardly-rectifying potassium channels that are controlled by G-Proteins. [adapted from [wikipedia](https://en.wikipedia.org/wiki/KCNJ3)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105867",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000002004#g-protein-activated-inward-rectifier-potassium-channel-3",
+  "name": "Kir3.3",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0237545",
+  "synonym": [
+    "G protein activated potassium channel 3",
+    "G protein-activated potassium channel 3",
+    "G protein coupled inwardly rectifying potassium channel 3",
+    "G protein-coupled inwardly-rectifying potassium channel 3",
+    "GIRK3",
+    "GIRK3 potassium channel",
+    "Kir3.3 potassium channel",
+    "GIRK3 channel",
+    "Kir3.3 channel"
+  ]
+}
