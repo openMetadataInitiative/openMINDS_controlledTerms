@@ -1,0 +1,22 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Cav2-1",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "'Cav2.1' is calcium channel mainly found in the brain, which plays an important role in controlling the release of neurotransmitters between neurons. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Cav2.1)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101766",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:2639#cav2-1",
+  "name": "Cav2.1",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_2639",
+  "synonym": [
+    "a1A",
+    "BI-1",
+    "BI-2 (rabbit)",
+    "P/Q voltage-dependent calcium channel",
+    "P-type",
+    "Q-type",
+    "rBA-1 (rat)"
+  ]
+}
