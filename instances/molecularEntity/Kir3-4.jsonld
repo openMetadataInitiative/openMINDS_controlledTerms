@@ -5,7 +5,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Kir3-4",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-  "definition": "'Kir3.4' is one type of inwardly-rectifying potassium channels that are controlled by G-Proteins. [adapted from [wikipedia](https://en.wikipedia.org/wiki/KCNJ3)]",
+  "definition": "'Kir3.4' is one type of inwardly-rectifying potassium channels that are controlled by G-Proteins. [adapted from [wikipedia](https://en.wikipedia.org/wiki/KCNJ5)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105868",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000002005#g-protein-activated-inward-rectifier-potassium-channel-4",
