@@ -11,9 +11,14 @@
   "name": "Kir3.2",
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0214257",
   "synonym": [
-    "G-protein coupled inwardly-rectifying potassium channel 2",
-    "G protein-activated inward rectifier potassium channel 2",
-    "Inward rectifier K(+) channel Kir3.2",
-    "GIRK2"
+    "G protein activated potassium channel 2",
+    "G protein-activated potassium channel 2",
+    "G protein coupled inwardly rectifying potassium channel 2",
+    "G protein-coupled inwardly-rectifying potassium channel 2",
+    "GIRK2",
+    "GIRK2 potassium channel",
+    "Kir3.2 potassium channel",
+    "GIRK2 channel",
+    "Kir3.2 channel"
   ]
 }
