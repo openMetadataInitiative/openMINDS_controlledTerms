@@ -1,0 +1,33 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GluR1",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "'GluR1' is a protein and one of four subunits that build tetrameric AMPA receptors.",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104672",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000008233#glutamate-receptor-1",
+    "name": "GluR1",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1322219701",
+    "synonym": [
+      "AMPA1",
+      "AMPA-1",
+      "AMPA receptor 1",
+      "AMPA-selective glutamate receptor 1",
+      "GluA1",
+      "GluRA",
+      "GluRK1",
+      "GluA-1",
+      "GluR-1",
+      "GluR-A",
+      "GluR-K1",
+      "glutamate iontropic receptor AMPA type subunit 1",
+      "glutamate receptor iontropic, AMPA 1",
+      "glutamate receptor 1",
+      "GRIA1",
+      "GRIA-1",
+      "iontropic glutamate receptor AMPA type subunit 1",
+      "iontropic glutamate receptor, AMPA 1"
+    ]
+}
