@@ -1,0 +1,17 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GlucagonLikePeptide1",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "The 'glucagon-like peptide 1' is a 31 amino acid long peptide hormone deriving from the tissue-specific posttranslational processing of the proglucagon peptide.",
+  "description": "The 'glucagon-like peptide 1' is produced and secreted by intestinal enteroendocrine L-cells and certain neurons within the nucleus of the solitary tract in the brainstem upon food consumption. The initial product GLP-1 (1–37) is susceptible to amidation and proteolytic cleavage which gives rise to the two truncated and equipotent biologically active forms, GLP-1 (7–36) amide and GLP-1 (7–37). Active GLP-1 composes two α-helices from amino acid position 13–20 and 24–35 separated by a linker region. Alongside glucose-dependent insulinotropic peptide (GIP), GLP-1 is an incretin; thus, it has the ability to decrease blood sugar levels in a glucose-dependent manner by enhancing the secretion of insulin. Beside the insulinotropic effects, GLP-1 has been associated with numerous regulatory and protective effects. Unlike GIP, the action of GLP-1 is preserved in patients with type 2 diabetes and substantial pharmaceutical research has therefore been directed towards the development of GLP-1-based treatment. However, endogenous GLP-1 is rapidly degraded primarily by dipeptidyl peptidase-4 (DPP-4), but also neutral endopeptidase 24.11 (NEP 24.11) and renal clearance, resulting in a half-life of approximately 2 minutes. Consequently, only 10–15 % of GLP-1 reaches circulation intact, leading to fasting plasma levels of only 0–15 pmol/L. To overcome this, GLP-1 receptor agonists and DPP-4 inhibitors have been developed to increase GLP-1 activity. As opposed to common treatment agents such as insulin and sulphonylurea, GLP-1-based treatment has been associated with weight loss and a lower risk of hypoglycemia, two important considerations for patients with type 2 diabetes.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:5143#glucagon-like-peptide-1",
+  "name": "glucagon-like peptide 1",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "GLP1",
+    "GLP-1"
+  ]
+}
