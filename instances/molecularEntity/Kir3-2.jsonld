@@ -7,7 +7,7 @@
   "definition": "'Kir3.2' is one type of inwardly-rectifying potassium channels that are controlled by G-Proteins. [adapted from [wikipedia](https://en.wikipedia.org/wiki/KCNJ6)]",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105866",
-  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:2918#kir3-2",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000002003#g-protein-activated-inward-rectifier-potassium-channel-2",
   "name": "Kir3.2",
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0214257",
   "synonym": [
