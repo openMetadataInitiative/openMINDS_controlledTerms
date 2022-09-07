@@ -12,12 +12,13 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "potassium voltage-gated channel subfamily C member 1",
+    "KV3",
     "KV4",
     "Kv4",
     "voltage-gated potassium channel KCNC1",
     "KCNC1",
     "NGK2",
-    "voltage-gated potassium channel subunit Kv4",
-    "voltage-gated potassium channel subunit Kv3.1"
+    "voltage-gated potassium channel Kv4",
+    "voltage-gated potassium channel Kv3.1"
   ]
 }
