@@ -4,13 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/DAPI",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-  "definition": "A fluorescent dye used to stain biological specimens.",
+  "definition": "'DAPI' is a fluorescent dye used to stain biological specimens, binding strongly to adenine–thymine-rich regions in DNA. [adapted from [wikipedia](https://en.wikipedia.org/wiki/DAPI)]",
   "description": null,
-  "interlexIdentifier": null,
-  "knowledgeSpaceLink": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0515130",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:51231#dapi",
   "name": "DAPI",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_51231",
   "synonym": [
-    "4′,6-diamidino-2-phenylindole"
+    "4',6-diamidino-2-phenylindole",
+    "4',6-diamidinophenyl-indole",
+    "2-(4-(aminoiminomethyl)phenyl)-1H-indole-6-carboximidamide",
+    "2-(4-carbamimidoylphenyl)-1H-indole-6-carboximidamide"
   ]
 }
