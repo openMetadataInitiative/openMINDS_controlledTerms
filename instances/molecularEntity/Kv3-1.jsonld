@@ -1,0 +1,23 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Kv3-1",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "'Kv3.1' is a voltage-gated potassium channel prominently expressed in the brain and and retinal ganglion cells. [adapted from [wikipedia](https://en.wikipedia.org/wiki/KCNC1)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105909",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:2719#voltage-gated-potassium-channel-kcnc1",
+  "name": "Kv3.1",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "potassium voltage-gated channel subfamily C member 1",
+    "KV4",
+    "Kv4",
+    "voltage-gated potassium channel KCNC1",
+    "KCNC1",
+    "NGK2",
+    "voltage-gated potassium channel subunit Kv4",
+    "voltage-gated potassium channel subunit Kv3.1"
+  ]
+}
