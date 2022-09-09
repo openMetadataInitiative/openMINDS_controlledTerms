@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/T1PulseSequence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "In magnetic resonance imaging, a 'T1 pulse sequence' is a contrasting technique that allows the magnetization of the specimen or object to recover (spin-lattice relaxation) before measuring the magnetic resonance signal by changing the repetition time. [adapted from [wikipedia](https://en.wikipedia.org/wiki/MRI_sequence)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "T1 pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "T1 weighted imaging",
+    "T1 weighted magnetic resonance imaging",
+    "T1 weighted MRI",
+    "T1w imaging",
+    "T1w magnetic resonance imaging",
+    "T1w MRI"
+  ]
+}

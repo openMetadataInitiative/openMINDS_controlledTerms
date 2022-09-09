@@ -40,6 +40,26 @@ Non-backwards compatible changes are only accepted for version branches that do 
 
 For all contributions, make sure that you describe well what you plan to do / have done to speed up the evaluation / review process of your issue / pull request. The assigned member of the openMINDS development team will get back to you as soon as possible to discuss or give the blessing to your contribution. Note that, all contributing community members are welcome to provide comments on active issues and pull requests. 
 
+**Guidelines to contribute new controlled instances to existing terminologies:** All controlled instances across all terminologies are validated against the same basic schema. Please use the following template to provide new controlled instance for an existing openMINDS controlledTerms terminology:
+
+```json
+{
+  "@id": "https://openminds.ebrains.eu/instances/»REPLACE-WITH-SCHEMA-NAME(lowerCamelCase)«/»REPLACE-WITH-TERM-NAME(lowerCamelCase)«",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/»REPLACE-WITH-SCHEMA-NAME(UpperCamelCase)«",
+  "name": "Enter here the preferred name of the term.",
+  "definition": "Enter here a short (maximum 2 sentences) definition of the term. Set value to ’null’ if not available.",
+  "description": "Enter here a longer description of the term. Set value to ’null’ if not available.",
+  "preferredOntologyIdentifier": "Enter here the IRI of the preferred ontology identifier. Set value to ’null’ if not available.",
+  "interlexIdentifier": "Enter here the IRI of the interlex identifier (cf. [InterLex Project](https://neuinfo.org/interlex/dashboard)). Set value to ’null’ if not available.",
+  "knowledgeSpaceLink": "Enter here the IRI of the KnowledgeSpace term (cf. [KnowledgeSpace](https://knowledge-space.org/)). Set value to ’null’ if not available.",
+  "synonym": [
+    "Enter here all EXACT synonyms as a list. Set the whole value to ’null’ if not available."
+  ]
+}
+```
+
+Note that the optional properties are highly desired if they are available. In particular, please try to always provide a definition for your new instance suggestion.
+
 [BACK TO TOP](#top)
 
 ## Code of conduct <a name="code-of-conduct"/>
