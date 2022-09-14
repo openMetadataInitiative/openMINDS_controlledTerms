@@ -1,0 +1,7 @@
+{
+  "_type": "https://openminds.ebrains.eu/controlledTerms/BodySubstance",
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "studyTarget"
+  ]
+}
