@@ -4,11 +4,11 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/terminology/organ",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": null,
-  "description": null,
+  "definition": "Anatomical structure that performs a specific function or group of functions.",
+  "description": "The preferred ontology for 'organ' is UBERON.",
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "organ",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000062",
   "synonym": null
 }
