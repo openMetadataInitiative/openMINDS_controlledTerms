@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/organ/heart",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Organ",
+  "definition": "'Heart' is part of the cardiovascular system",
+  "description": "A myogenic muscular circulatory organ found in the vertebrate cardiovascular system composed of chambers of cardiac muscle. It is the primary circulatory organ.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0732254",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000948#heart",
+  "name": "heart",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000948",
+  "synonym": [
+    "chambered heart",
+    "vertebrate heart"
+  ]
+}
