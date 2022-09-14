@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/bodySystem/centralNervousSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BodySystem",
+  "definition": "In vertebrates 'central nervous system' consists of the neural tube derivatives: the brain and spinal cord. In invertebrates it includes central ganglia plus nerve cord.",
+  "description": "The central nervous system is the core nervous system that serves an integrating and coordinating function.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101901",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1",
+  "name": "central nervous system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001017",
+  "synonym": [
+    "systema nervosum centrale",
+    "CNS"
+  ]
+}

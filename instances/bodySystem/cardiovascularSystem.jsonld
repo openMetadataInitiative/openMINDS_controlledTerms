@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/bodySystem/cardiovascularSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/BodySystem",
+  "definition": "'Cardiovascular system' is an anatomical system that has as its parts the heart and blood vessels.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101670",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004535#cardiovascular-system",
+  "name": "cardiovascular system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004535",
+  "synonym": null
+}
