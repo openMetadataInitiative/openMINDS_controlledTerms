@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/bodySubstance",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "",
+  "description": "Material anatomical entity in a gaseous, liquid, semisolid or solid state; produced by anatomical structures or derived from inhaled and ingested substances that have been modified by anatomical structures as they pass through the body. The preferred ontology for 'body substance' is UBERON.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "body substance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
