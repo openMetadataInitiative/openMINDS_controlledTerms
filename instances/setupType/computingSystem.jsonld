@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/setupType/computingSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SetupType",
+  "definition": "A 'computing system' is a setup type with the purpose of performing computations.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "computing system",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
