@@ -9,7 +9,7 @@
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101049",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/GO:0043679#axon-terminus",
   "name": "Axon Terminal",
-  "preferredOntologyIdentifier": "	http://uri.neuinfo.org/nif/nifstd/sao2007137787",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao2007137787",
   "synonym": [
     "axon terminus"
   ]
