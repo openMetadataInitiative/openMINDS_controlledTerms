@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Brain endothelium' is part of the brain.",
   "description": "Vascular endothelium found in blood vessels of the blood-brain-barrier.",
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0733041",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013694#brain-endothelium",
   "name": "brain endothelium",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013694",

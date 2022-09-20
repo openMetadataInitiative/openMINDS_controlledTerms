@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Retrochiasmatic area' is part of the medial zone of hypothalamus and intermediate hypothalamic region.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0726953",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001933#retrochiasmatic-area-1",
   "name": "retrochiasmatic area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001933",

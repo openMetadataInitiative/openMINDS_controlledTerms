@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Meninx of hindbrain' is a brain meninx. It is part of the hindbrain.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0736366",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0003291#meninx-of-hindbrain",
   "name": "meninx of hindbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003291",

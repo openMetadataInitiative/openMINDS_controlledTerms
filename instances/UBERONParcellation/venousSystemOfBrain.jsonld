@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Venous system of brain' is part of the brain.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0733246",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0013146#venous-system-of-brain",
   "name": "venous system of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013146",

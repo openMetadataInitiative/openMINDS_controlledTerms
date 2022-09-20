@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Cerebellum marginal layer' is a hindbrain marginal layer. It is part of the cerebellum.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0734731",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0034708#cerebellum-marginal-layer",
   "name": "cerebellum marginal layer",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034708",

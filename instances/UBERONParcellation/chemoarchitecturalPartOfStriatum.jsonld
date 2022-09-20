@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Chemoarchitectural part of striatum' is a chemoarchitectural part of brain. It is part of the striatum.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102073",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0025736#chemoarchitectural-part-of-striatum",
   "name": "chemoarchitectural part of striatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025736",
