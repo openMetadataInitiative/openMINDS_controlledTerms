@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Cerebellum vasculature' is a vasculature of central nervous system. It is part of the cerebellum.",
   "description": "A vasculature that is part of a cerebellum.",
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0729550",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006694#cerebellum-vasculature",
   "name": "cerebellum vasculature",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006694",

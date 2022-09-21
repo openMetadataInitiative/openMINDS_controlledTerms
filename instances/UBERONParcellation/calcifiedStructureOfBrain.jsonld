@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Calcified structure of brain' is part of the brain.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731107",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0017631#calcified-structure-of-brain",
   "name": "calcified structure of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0017631",

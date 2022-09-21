@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Lentiform nucleus' is a telencephalic nucleus. It is part of the ventral striatum.",
   "description": "The lentiform nucleus or lenticular nucleus comprises the putamen and the globus pallidus within the basal ganglia. It is a large, cone-shaped mass of gray matter just lateral to the internal capsule. [WP,unvetted].",
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0725892",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002263#lentiform-nucleus",
   "name": "lentiform nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002263",

@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
   "definition": "'Cerebellum vermis lobule I' is a cerebellum vermis lobule. It is part of the cerebellum anterior vermis.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112394",
   "knowledgeSpaceLink": null,
   "name": "cerebellum vermis lobule I",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004074",
