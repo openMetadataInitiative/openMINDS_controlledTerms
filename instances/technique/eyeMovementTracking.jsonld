@@ -6,10 +6,10 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
   "definition": "'Eye movement tracking' refers to a group of techniques used to measure the eye movement and/or position of a living specimen over a given period of time.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0417680",
   "knowledgeSpaceLink": null,
   "name": "eye movement tracking",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0493574",
   "synonym": [
     "eye tracking",
     "eye motion tracking"  
