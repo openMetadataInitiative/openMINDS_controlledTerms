@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/biophysics",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "biophysics",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
