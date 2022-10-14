@@ -11,8 +11,8 @@
   "name": "primary somatosensory area barrel field layer 5",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035872",
   "synonym": [
-    "barrel cortex layer 5,",
     "barrel cortex layer 5",
+    "barrel cortex layer 5,",
     "SSp-bfd5"
   ]
 }

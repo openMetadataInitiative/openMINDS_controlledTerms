@@ -11,13 +11,13 @@
   "name": "rhomboidal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002955",
   "synonym": [
-    "Rh",
-    "rhomboid thalamic nucleus",
-    "rhomboid nucleus",
-    "rhomboid nucleus of the thalamus",
-    "rhomboid nucleus (Cajal 1904)",
     "nucleus commissuralis rhomboidalis",
     "nucleus rhomboidalis",
-    "nucleus rhomboidalis thalami"
+    "nucleus rhomboidalis thalami",
+    "Rh",
+    "rhomboid nucleus",
+    "rhomboid nucleus (Cajal 1904)",
+    "rhomboid nucleus of the thalamus",
+    "rhomboid thalamic nucleus"
   ]
 }

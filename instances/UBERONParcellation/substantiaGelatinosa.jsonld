@@ -11,16 +11,16 @@
   "name": "substantia gelatinosa",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002181",
   "synonym": [
-    "Rexed lamina II",
-    "substantia gelatinosa of spinal cord posterior horn",
-    "substantia gelatinosa cornu posterioris medullae spinalis",
-    "gelatinous substance of Rolando",
-    "gelatinous substance of posterior horn of spinal cord",
-    "gelatinous substance of dorsal horn of spinal cord",
-    "spinal lamina II",
-    "substantia gelatinosa of spinal cord dorsal horn",
-    "lamina spinalis II",
     "central gelatinous substance of spinal cord",
-    "lamina II of gray matter of spinal cord"
+    "gelatinous substance of dorsal horn of spinal cord",
+    "gelatinous substance of posterior horn of spinal cord",
+    "gelatinous substance of Rolando",
+    "lamina II of gray matter of spinal cord",
+    "lamina spinalis II",
+    "Rexed lamina II",
+    "spinal lamina II",
+    "substantia gelatinosa cornu posterioris medullae spinalis",
+    "substantia gelatinosa of spinal cord dorsal horn",
+    "substantia gelatinosa of spinal cord posterior horn"
   ]
 }

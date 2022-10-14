@@ -11,11 +11,11 @@
   "name": "medial lemniscus of pons",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002958",
   "synonym": [
-    "medial lemniscus of pons of varolius",
-    "pons medial lemniscus",
-    "pons of varolius medial lemniscus",
-    "medial lemniscus of the pons",
     "lemniscus medial",
-    "lemniscus medialis (pontis)"
+    "lemniscus medialis (pontis)",
+    "medial lemniscus of pons of varolius",
+    "medial lemniscus of the pons",
+    "pons medial lemniscus",
+    "pons of varolius medial lemniscus"
   ]
 }

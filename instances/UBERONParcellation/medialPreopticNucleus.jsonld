@@ -11,12 +11,12 @@
   "name": "medial preoptic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002035",
   "synonym": [
-    "MPO",
+    "area praeoptica medialis",
+    "area preopticus medialis",
     "medial preoptic area",
     "medial preoptic hypothalamic nucleus",
-    "area preopticus medialis",
-    "nucleus preopticus medialis",
-    "area praeoptica medialis",
-    "nucleus praeopticus medialis"
+    "MPO",
+    "nucleus praeopticus medialis",
+    "nucleus preopticus medialis"
   ]
 }

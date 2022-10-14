@@ -11,17 +11,17 @@
   "name": "ventral nucleus of posterior commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002044",
   "synonym": [
-    "Dk",
-    "Nucleus of Darkschewitsch",
-    "Darkshevich's nucleus",
     "Darkshevich nucleus",
-    "nucleus of the posterior commissure (Darkschewitsch)",
+    "Darkshevich's nucleus",
+    "Dk",
     "nucleus accessorius",
+    "nucleus commissurae posterioris (Riley)",
+    "nucleus Darkschewitsch",
+    "nucleus Darkschewitschi",
+    "nucleus fasciculi longitudinalis medialis",
+    "Nucleus of Darkschewitsch",
     "nucleus of Darkschewitsch (Cajal)",
     "nucleus of Darkshevich",
-    "nucleus commissurae posterioris (Riley)",
-    "nucleus fasciculi longitudinalis medialis",
-    "nucleus Darkschewitsch",
-    "nucleus Darkschewitschi"
+    "nucleus of the posterior commissure (Darkschewitsch)"
   ]
 }

@@ -11,11 +11,11 @@
   "name": "precuneus cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006093",
   "synonym": [
-    "precuneus",
-    "quadrate lobule",
-    "precuneus cortex",
-    "precuneate lobule",
+    "medial area of the superior parietal cortex",
     "praecuneus",
-    "medial area of the superior parietal cortex"
+    "precuneate lobule",
+    "precuneus",
+    "precuneus cortex",
+    "quadrate lobule"
   ]
 }

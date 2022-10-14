@@ -11,21 +11,21 @@
   "name": "insula",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002022",
   "synonym": [
-    "insular cortex",
     "central lobe",
+    "cortex insularis",
+    "cortex of island",
+    "iNS",
+    "insula cerebri",
+    "insula lobule",
+    "insula of Reil",
+    "insula Reilii",
+    "insular cortex",
     "insular gyrus",
     "insular lobe",
     "insular region",
     "insulary cortex",
     "island of Reil",
-    "cortex of island",
-    "insula lobule",
     "lobus insularis",
-    "cortex insularis",
-    "insula Reilii",
-    "insula cerebri",
-    "insula of Reil",
-    "morphological insula",
-    "iNS"
+    "morphological insula"
   ]
 }

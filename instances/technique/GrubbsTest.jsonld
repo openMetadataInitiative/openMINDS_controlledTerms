@@ -11,8 +11,8 @@
   "name": "Grubbs' test",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "extreme studentized deviate test",
     "Grubbs test",
-    "maximum normalized residual test",
-    "extreme studentized deviate test"
+    "maximum normalized residual test"
   ]
 }

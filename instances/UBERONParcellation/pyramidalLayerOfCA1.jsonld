@@ -11,12 +11,12 @@
   "name": "pyramidal layer of CA1",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014548",
   "synonym": [
-    "CA1 stratum pyramidale hippocampi",
-    "CA1 stratum pyramidale",
-    "stratum pyramidale of CA1",
-    "CA1 pyramidal cell layer",
-    "CA1 part of stratum pyramidale hippocampi",
     "CA1 part of stratum pyramidale",
+    "CA1 part of stratum pyramidale hippocampi",
+    "CA1 pyramidal cell layer",
+    "CA1 stratum pyramidale",
+    "CA1 stratum pyramidale hippocampi",
+    "stratum pyramidale of CA1",
     "stratum pyramidale of the CA1 field"
   ]
 }

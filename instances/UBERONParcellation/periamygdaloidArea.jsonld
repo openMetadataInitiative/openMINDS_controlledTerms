@@ -11,17 +11,17 @@
   "name": "periamygdaloid area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002656",
   "synonym": [
-    "periamygdaloid region",
-    "semilunar gyrus",
-    "periamygdaloid cortex",
-    "ventral cortical nucleus of amygdala",
-    "Para-amygdaloid cortex",
-    "periamygdaloid area",
-    "posterior amygdalar nucleus",
+    "cortical amygdaloid nucleus",
     "gyrus semilunaris",
+    "Para-amygdaloid cortex",
     "periamygdalar area",
-    "regio periamygdalaris",
+    "periamygdaloid area",
+    "periamygdaloid cortex",
+    "periamygdaloid region",
+    "posterior amygdalar nucleus",
     "posterior nucleus of the amygdala",
-    "cortical amygdaloid nucleus"
+    "regio periamygdalaris",
+    "semilunar gyrus",
+    "ventral cortical nucleus of amygdala"
   ]
 }

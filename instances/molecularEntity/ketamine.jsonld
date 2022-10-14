@@ -12,14 +12,14 @@
   "preferredOntologyIdentifier": "https://www.drugbank.ca/drugs/DB01221",
   "synonym": [
     "(-)-ketamine",
-    "(S)-ketamine",
     "(S)-(-)-ketamine",
+    "(S)-ketamine",
     "Cl 581 base",
-    "I-ketamine",
     "esketamine",
+    "I-ketamine",
     "ketaject",
     "ketalar",
-    "ketanest",
-    "ketalor"
+    "ketalor",
+    "ketanest"
   ]
 }

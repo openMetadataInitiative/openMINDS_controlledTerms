@@ -11,18 +11,18 @@
   "name": "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part, ventral zone",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014595",
   "synonym": [
-    "PVHmpv",
-    "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part",
-    "ventral zone",
-    "paraventricular nucleus of the hypothalamus",
+    "descending division",
     "descending division",
     "medial parvicellular part",
-    "ventral zone",
+    "medial parvicellular part",
     "paraventricular hypothalamic nucleus",
-    "descending division",
-    "medial parvicellular part",
-    "ventral zone",
     "paraventricular hypothalamic nucleus medial parvicellular part",
+    "paraventricular nucleus of the hypothalamus",
+    "paraventricular nucleus of the hypothalamus descending division - medial parvicellular part",
+    "PVHmpv",
+    "ventral zone",
+    "ventral zone",
+    "ventral zone",
     "ventral zone"
   ]
 }

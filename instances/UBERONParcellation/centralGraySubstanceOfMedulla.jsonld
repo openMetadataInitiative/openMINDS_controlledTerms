@@ -11,11 +11,11 @@
   "name": "central gray substance of medulla",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002867",
   "synonym": [
-    "CGM",
     "central gray matter",
-    "medullary central gray substance",
     "central gray of the medulla",
     "central gray substance of the medulla",
-    "griseum periventriculare"
+    "CGM",
+    "griseum periventriculare",
+    "medullary central gray substance"
   ]
 }

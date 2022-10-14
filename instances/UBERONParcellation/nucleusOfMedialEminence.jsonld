@@ -11,8 +11,8 @@
   "name": "nucleus of medial eminence",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002997",
   "synonym": [
-    "nucleus of eminentia teres",
     "medial eminence nucleus",
-    "nucleus eminentiae teretis"
+    "nucleus eminentiae teretis",
+    "nucleus of eminentia teres"
   ]
 }

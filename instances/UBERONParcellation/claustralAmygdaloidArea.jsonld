@@ -11,11 +11,11 @@
   "name": "claustral amygdaloid area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002729",
   "synonym": [
-    "ventral claustrum",
-    "ventral portion of claustrum",
+    "area claustralis amygdalae",
+    "claustral amygdalar area",
     "claustrum diffusa",
     "claustrum parvum",
-    "claustral amygdalar area",
-    "area claustralis amygdalae"
+    "ventral claustrum",
+    "ventral portion of claustrum"
   ]
 }

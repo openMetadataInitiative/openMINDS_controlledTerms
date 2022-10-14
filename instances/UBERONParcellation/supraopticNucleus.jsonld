@@ -11,17 +11,17 @@
   "name": "supraoptic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001929",
   "synonym": [
-    "SO",
-    "supraoptic nucleus of hypothalamus",
-    "Supra-optic nucleus",
-    "nucleus supraopticus",
-    "nucleus supraopticus",
-    "supraoptic nucleus proper (Lenhossek)",
-    "nucleus tangentialis (Riley)",
-    "supraoptic nucleus",
-    "proper",
-    "supraoptic nucleus",
     "general",
-    "nucleus supraopticus hypothalami"
+    "nucleus supraopticus",
+    "nucleus supraopticus",
+    "nucleus supraopticus hypothalami",
+    "nucleus tangentialis (Riley)",
+    "proper",
+    "SO",
+    "Supra-optic nucleus",
+    "supraoptic nucleus",
+    "supraoptic nucleus",
+    "supraoptic nucleus of hypothalamus",
+    "supraoptic nucleus proper (Lenhossek)"
   ]
 }

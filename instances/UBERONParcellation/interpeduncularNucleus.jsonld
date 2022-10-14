@@ -11,14 +11,14 @@
   "name": "interpeduncular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002145",
   "synonym": [
+    "interpedunclear nucleus",
+    "interpeduncular ganglion",
+    "interpeduncular nuclei",
+    "interpeduncular nucleus (Gudden)",
+    "interpeduncular nucleus of midbrain",
+    "interpeduncular nucleus tegmentum",
     "IP",
     "nucleus interpeduncularis",
-    "interpeduncular nuclei",
-    "interpeduncular ganglion",
-    "interpeduncular nucleus of midbrain",
-    "nucleus interpeduncularis medialis",
-    "interpedunclear nucleus",
-    "interpeduncular nucleus (Gudden)",
-    "interpeduncular nucleus tegmentum"
+    "nucleus interpeduncularis medialis"
   ]
 }

@@ -11,15 +11,15 @@
   "name": "medial subnucleus of solitary tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023390",
   "synonym": [
+    "left",
+    "medial part",
+    "medial subnucleus",
+    "medial subnucleus of solitary tract",
+    "medial subnucleus of the solitary tract",
+    "meidal subnucleus",
     "MSol",
     "nucleus of the solitary tract",
     "solitary nucleus",
-    "left",
-    "meidal subnucleus",
-    "solitary nucleus",
-    "medial subnucleus",
-    "medial subnucleus of the solitary tract",
-    "medial subnucleus of solitary tract",
-    "medial part"
+    "solitary nucleus"
   ]
 }

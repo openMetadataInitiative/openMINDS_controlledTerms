@@ -11,8 +11,8 @@
   "name": "vesicular glutamate transporter 3",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000014964",
   "synonym": [
-    "VGLUT3",
+    "SLC17A8",
     "solute carrier family 17 member 8",
-    "SLC17A8"
+    "VGLUT3"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "computer tomography",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "CT",
-    "computed tomography",
+    "CAT",
     "computed axial tomography",
+    "computed tomography",
     "computertomography",
-    "CAT"
+    "CT"
   ]
 }

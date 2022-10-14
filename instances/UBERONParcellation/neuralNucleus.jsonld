@@ -11,12 +11,12 @@
   "name": "neural nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000125",
   "synonym": [
-    "nucleus",
-    "neuraxis nucleus",
-    "neural nucleus",
-    "nucleus of CNS",
-    "neuronal nucleus",
     "nervous system nucleus",
+    "neural nucleus",
+    "neuraxis nucleus",
+    "neuronal nucleus",
+    "nucleus",
+    "nucleus of CNS",
     "nucleus of neuraxis"
   ]
 }

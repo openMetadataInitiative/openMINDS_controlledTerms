@@ -11,16 +11,16 @@
   "name": "isthmus of cingulate gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002738",
   "synonym": [
-    "isthmus of cingulate cortex",
-    "isthmus of the gyrus fornicatus",
     "cingulate gyrus isthmus",
-    "isthmus of limbic lobe",
-    "isthmus of fornicate gyrus",
-    "isthmus-2",
-    "isthmus of gyrus fornicatus",
-    "isthmus gyri cinguli",
-    "isthmus gyri cingulatus",
     "isthmus cinguli",
-    "isthmus of the cingulate gyrus"
+    "isthmus gyri cingulatus",
+    "isthmus gyri cinguli",
+    "isthmus of cingulate cortex",
+    "isthmus of fornicate gyrus",
+    "isthmus of gyrus fornicatus",
+    "isthmus of limbic lobe",
+    "isthmus of the cingulate gyrus",
+    "isthmus of the gyrus fornicatus",
+    "isthmus-2"
   ]
 }

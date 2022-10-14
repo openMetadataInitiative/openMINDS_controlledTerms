@@ -12,11 +12,11 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023752",
   "synonym": [
     "IHP",
+    "intermediate lobe",
     "intermediate lobe of hypophysis",
-    "middle lobe of hypophysis",
-    "intermediate region of hypophysis",
     "intermediate part of hypophysis",
-    "pituitary gland",
-    "intermediate lobe"
+    "intermediate region of hypophysis",
+    "middle lobe of hypophysis",
+    "pituitary gland"
   ]
 }

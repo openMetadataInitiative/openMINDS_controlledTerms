@@ -11,13 +11,13 @@
   "name": "pontine reticular formation",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002573",
   "synonym": [
-    "pontine reticulotegmental nucleus",
+    "formatio reticularis pontis",
     "pons of varolius reticular formation",
     "pons reticular formation",
-    "reticular formation of pons of varolius",
-    "reticular formation of pons",
     "pontine reticular nucleus",
     "pontine reticular nucleus rostral part",
-    "formatio reticularis pontis"
+    "pontine reticulotegmental nucleus",
+    "reticular formation of pons",
+    "reticular formation of pons of varolius"
   ]
 }

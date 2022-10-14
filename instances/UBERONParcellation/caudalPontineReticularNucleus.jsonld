@@ -11,10 +11,10 @@
   "name": "caudal pontine reticular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002963",
   "synonym": [
+    "caudal part",
+    "nucleus reticularis pontis caudalis",
     "PnC",
     "pontine reticular nucleus",
-    "caudal part",
-    "pontine reticular nucleus caudal part",
-    "nucleus reticularis pontis caudalis"
+    "pontine reticular nucleus caudal part"
   ]
 }

@@ -11,13 +11,13 @@
   "name": "reticulotegmental nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002147",
   "synonym": [
-    "reticulotegmental nucleus of pons",
-    "reticulotegmental pontine nucleus",
-    "reticular tegmental nucleus",
-    "tegmental reticular nucleus",
-    "pontine gray",
     "nucleus reticularis tegmenti pontis",
+    "pontine gray",
+    "reticular tegmental nucleus",
+    "reticulotegmental nucleus of pons",
     "reticulotegmental nucleus of the pons",
+    "reticulotegmental pontine nucleus",
+    "tegmental reticular nucleus",
     "tegmental reticular nucleus"
   ]
 }

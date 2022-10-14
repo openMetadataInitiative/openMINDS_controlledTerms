@@ -11,13 +11,13 @@
   "name": "posteroventral cochlear nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002831",
   "synonym": [
-    "PVCo",
-    "posterior part of anterior cochlear nucleus",
-    "ventral cochlear nucleus",
-    "posterior part",
     "nucleus cochlearis posteroventralis",
+    "posterior part",
+    "posterior part of anterior cochlear nucleus",
     "posterior part of the ventral cochlear nucleus",
     "posterior ventral cochlear nucleus",
+    "PVCo",
+    "ventral cochlear nucleus",
     "ventral coclear nucleus posterior part"
   ]
 }

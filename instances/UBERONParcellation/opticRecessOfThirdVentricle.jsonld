@@ -11,13 +11,13 @@
   "name": "optic recess of third ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002287",
   "synonym": [
+    "optic recess",
+    "optic recesses",
     "preoptic recess",
-    "supraoptic recess",
     "recessus opticus",
     "recessus praeopticus",
-    "optic recess",
     "recessus supraopticus",
     "recessus supraopticus",
-    "optic recesses"
+    "supraoptic recess"
   ]
 }

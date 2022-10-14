@@ -11,20 +11,20 @@
   "name": "dorsal trigeminal tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002797",
   "synonym": [
-    "reticulothalamic tract",
-    "Dorsal secondary tract of V",
-    "uncrossed dorsal trigeminothalamic tract",
     "dorsal ascending trigeminal tract",
-    "dorsal trigeminal pathway",
-    "Dorsal secondary ascending tract of V",
-    "posterior trigeminothalamic tract",
-    "dorsal trigeminothalamic tract",
-    "dorsal trigeminal lemniscus",
     "dorsal division of trigeminal lemniscus",
-    "tractus trigeminothalamicus posterior",
-    "tractus trigemino-thalamicus dorsalis",
-    "dorsal trigmino-thalamic tract",
+    "Dorsal secondary ascending tract of V",
+    "Dorsal secondary tract of V",
+    "dorsal trigeminal lemniscus",
+    "dorsal trigeminal pathway",
     "dorsal trigemino-thalamic tract",
-    "tractus trigeminalis dorsalis"
+    "dorsal trigeminothalamic tract",
+    "dorsal trigmino-thalamic tract",
+    "posterior trigeminothalamic tract",
+    "reticulothalamic tract",
+    "tractus trigeminalis dorsalis",
+    "tractus trigemino-thalamicus dorsalis",
+    "tractus trigeminothalamicus posterior",
+    "uncrossed dorsal trigeminothalamic tract"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "medial longitudinal fasciculus of pons",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002794",
   "synonym": [
-    "medial longitudinal fasciculus of pons of varolius",
-    "pons of varolius medial longitudinal fasciculus",
-    "pons medial longitudinal fasciculus",
     "fasciculus longitudinalis medialis (pontis)",
-    "medial longitudinal fasciculus of the pons"
+    "medial longitudinal fasciculus of pons of varolius",
+    "medial longitudinal fasciculus of the pons",
+    "pons medial longitudinal fasciculus",
+    "pons of varolius medial longitudinal fasciculus"
   ]
 }

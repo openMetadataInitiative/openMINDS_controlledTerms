@@ -11,11 +11,11 @@
   "name": "support-vector machine classifier",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "SVM classifier",
     "support-vector machine",
     "support-vector machine learning",
-    "SVM learning",
+    "SVC",
     "SVM",
-    "SVC"
+    "SVM classifier",
+    "SVM learning"
   ]
 }

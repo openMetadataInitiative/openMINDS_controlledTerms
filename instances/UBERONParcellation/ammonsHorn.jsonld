@@ -11,17 +11,17 @@
   "name": "Ammon's horn",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001954",
   "synonym": [
-    "Hip",
-    "cornu ammonis",
-    "Ammon's horn",
-    "hippocampus proper",
-    "ammon horn",
-    "hippocampus major",
-    "Ammon's horn",
     "ammon gyrus",
-    "hippocampus proprius",
-    "hippocampus",
+    "ammon horn",
+    "Ammon horn fields",
+    "Ammon's horn",
+    "Ammon's horn",
     "Ammons horn",
-    "Ammon horn fields"
+    "cornu ammonis",
+    "Hip",
+    "hippocampus",
+    "hippocampus major",
+    "hippocampus proper",
+    "hippocampus proprius"
   ]
 }

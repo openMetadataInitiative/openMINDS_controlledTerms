@@ -11,14 +11,14 @@
   "name": "fusiform gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002766",
   "synonym": [
-    "occipitotemporal gyrus",
-    "lateral occipitotemporal gyrus",
-    "lateral occipito-temporal gyrus",
     "gyrus fusiformis",
+    "gyrus occipito-temporalis lateralis",
     "gyrus occipitotemporalis lateralis",
+    "lateral occipito-temporal gyrus",
+    "lateral occipitotemporal gyrus",
     "medial occipitotemporal gyrus-1 (heimer)",
-    "t4",
     "occipito-temporal gyrus",
-    "gyrus occipito-temporalis lateralis"
+    "occipitotemporal gyrus",
+    "t4"
   ]
 }

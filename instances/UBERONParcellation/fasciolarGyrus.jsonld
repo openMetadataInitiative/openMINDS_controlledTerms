@@ -11,14 +11,14 @@
   "name": "fasciolar gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002601",
   "synonym": [
-    "splenial gyrus",
-    "retrosplenial gyrus of hippocampus",
-    "gyrus retrosplenialis hippocampi",
-    "FC",
-    "gyrus fasciolaris",
-    "fasciola cinereum",
+    "Arnold)",
     "fasciola cinerea",
     "fasciola cinerea (Reil",
-    "Arnold)"
+    "fasciola cinereum",
+    "FC",
+    "gyrus fasciolaris",
+    "gyrus retrosplenialis hippocampi",
+    "retrosplenial gyrus of hippocampus",
+    "splenial gyrus"
   ]
 }

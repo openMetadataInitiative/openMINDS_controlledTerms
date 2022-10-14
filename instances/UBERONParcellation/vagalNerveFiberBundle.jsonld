@@ -11,11 +11,11 @@
   "name": "vagal nerve fiber bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006116",
   "synonym": [
-    "vagal nerve fibers",
     "central part of vagus nerve",
+    "fibrae nervi vagi",
     "tenth cranial nerve fibers",
-    "vagal nerve tract",
     "vagal nerve fiber bundle",
-    "fibrae nervi vagi"
+    "vagal nerve fibers",
+    "vagal nerve tract"
   ]
 }

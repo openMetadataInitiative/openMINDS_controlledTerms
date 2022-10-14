@@ -11,12 +11,12 @@
   "name": "central lateral nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003036",
   "synonym": [
-    "CL",
     "central lateral nucleus of thalamus",
+    "central lateral nucleus of the thalamus",
     "central lateral thalamic nucleus",
-    "nucleus centralis lateralis of thalamus",
-    "nucleus centralis lateralis thalami",
     "centrolateral thalamic nucleus",
-    "central lateral nucleus of the thalamus"
+    "CL",
+    "nucleus centralis lateralis of thalamus",
+    "nucleus centralis lateralis thalami"
   ]
 }

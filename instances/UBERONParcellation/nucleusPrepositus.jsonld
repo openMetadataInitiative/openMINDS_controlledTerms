@@ -11,13 +11,13 @@
   "name": "nucleus prepositus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002160",
   "synonym": [
-    "PrP",
-    "prepositus nucleus",
-    "prepositus hypoglossal nucleus",
     "nucleus praepositus",
-    "prepositus nucleus (Marburg)",
-    "nucleus prepositus hypoglossus",
     "nucleus praepositus hypoglossi",
-    "nucleus prepositus hypoglossi"
+    "nucleus prepositus hypoglossi",
+    "nucleus prepositus hypoglossus",
+    "prepositus hypoglossal nucleus",
+    "prepositus nucleus",
+    "prepositus nucleus (Marburg)",
+    "PrP"
   ]
 }

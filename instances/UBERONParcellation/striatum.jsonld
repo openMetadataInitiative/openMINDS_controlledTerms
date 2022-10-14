@@ -11,15 +11,15 @@
   "name": "striatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002435",
   "synonym": [
-    "neostriatum",
     "caudate putamen",
-    "striatum of neuraxis",
-    "striate nucleus",
-    "striatum",
-    "neuraxis striatum",
-    "dorsal striatum",
-    "striated nucleus",
     "corpus striatum",
-    "corpus striatum (Zilles)"
+    "corpus striatum (Zilles)",
+    "dorsal striatum",
+    "neostriatum",
+    "neuraxis striatum",
+    "striate nucleus",
+    "striated nucleus",
+    "striatum",
+    "striatum of neuraxis"
   ]
 }

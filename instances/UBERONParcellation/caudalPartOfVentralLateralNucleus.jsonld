@@ -11,21 +11,21 @@
   "name": "caudal part of ventral lateral nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002608",
   "synonym": [
-    "VLC",
-    "pars caudalis",
-    "ventral lateral nucleus",
+    "caudal part",
+    "caudal part",
+    "caudal part",
+    "caudal part of the ventral lateral nucleus",
     "dorsal part of ventral lateral posterior nucleus (Jones)",
-    "caudal part",
-    "ventral lateral thalamic nucleus",
-    "nucleus ventralis lateralis",
-    "nucleus lateralis intermedius mediodorsalis situs dorsalis",
-    "ventral lateral thalamic nucleus",
-    "caudal part",
-    "ventral lateral nucleus",
-    "caudal part",
     "nucleus dorsooralis (van buren)",
+    "nucleus lateralis intermedius mediodorsalis situs dorsalis",
+    "nucleus ventralis lateralis",
     "nucleus ventralis lateralis",
     "pars caudalis",
-    "caudal part of the ventral lateral nucleus"
+    "pars caudalis",
+    "ventral lateral nucleus",
+    "ventral lateral nucleus",
+    "ventral lateral thalamic nucleus",
+    "ventral lateral thalamic nucleus",
+    "VLC"
   ]
 }

@@ -11,15 +11,15 @@
   "name": "anterior transverse temporal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002773",
   "synonym": [
-    "great transverse gyrus of Heschl",
     "anterior transverse convolution of Heschl",
     "anterior transverse convolution of heschl",
     "anterior transverse temporal convolution of heschl",
-    "first transverse gyrus of Heschl",
-    "gyrus temporalis transversus anterior",
-    "gyrus temporalis transversus primus",
-    "Great transverse gyrus of Heschl",
     "Anterior transverse temporal convolution of Heschl",
-    "First transverse gyrus of Heschl"
+    "first transverse gyrus of Heschl",
+    "First transverse gyrus of Heschl",
+    "great transverse gyrus of Heschl",
+    "Great transverse gyrus of Heschl",
+    "gyrus temporalis transversus anterior",
+    "gyrus temporalis transversus primus"
   ]
 }

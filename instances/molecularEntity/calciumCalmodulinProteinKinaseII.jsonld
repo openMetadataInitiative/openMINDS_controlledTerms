@@ -11,8 +11,8 @@
   "name": "calcium calmodulin protein kinase II",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000003197",
   "synonym": [
-    "CaMKII",
     "Ca2+/calmodulin-dependent protein kinase II",
-    "calcium/calmodulin-dependent protein kinase type II"
+    "calcium/calmodulin-dependent protein kinase type II",
+    "CaMKII"
   ]
 }

@@ -11,9 +11,9 @@
   "name": "CA1 stratum lacunosum moleculare",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014557",
   "synonym": [
-    "lacunar-molecular layer of CA1 field",
-    "CA1 s. lacunosum moleculare",
     "CA1 part of stratum lacunosum moleculare",
+    "CA1 s. lacunosum moleculare",
+    "lacunar-molecular layer of CA1 field",
     "stratum lacunosum moleculare of the CA1 field"
   ]
 }

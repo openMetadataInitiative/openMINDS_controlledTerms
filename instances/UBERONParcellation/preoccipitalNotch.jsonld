@@ -11,13 +11,13 @@
   "name": "preoccipital notch",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002698",
   "synonym": [
-    "preoccipital notch",
-    "incisura preoccipitalis",
     "incisura parieto-occipitalis",
+    "incisura praeoccipitalis",
+    "incisura preoccipitalis",
+    "occipital notch",
+    "PON",
     "preoccipital incisura",
     "preoccipital incisure",
-    "occipital notch",
-    "incisura praeoccipitalis",
-    "PON"
+    "preoccipital notch"
   ]
 }

@@ -11,12 +11,12 @@
   "name": "globus pallidus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001875",
   "synonym": [
+    "globus pallidus (Burdach)",
     "GP",
+    "nucleus pallidus",
     "Pale Body",
     "paleostriatum",
-    "pallidum",
-    "nucleus pallidus",
     "pallidium",
-    "globus pallidus (Burdach)"
+    "pallidum"
   ]
 }

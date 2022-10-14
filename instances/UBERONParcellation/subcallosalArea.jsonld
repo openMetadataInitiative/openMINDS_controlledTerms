@@ -11,13 +11,13 @@
   "name": "subcallosal area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003020",
   "synonym": [
-    "parolfactory area",
     "adolfactory area",
     "area paraolfactoria",
-    "paraolfactory area",
     "area parolfactoria",
-    "Zuckerkandl's gyrus",
     "area subcallosa",
-    "subcallosal cortex"
+    "paraolfactory area",
+    "parolfactory area",
+    "subcallosal cortex",
+    "Zuckerkandl's gyrus"
   ]
 }

@@ -11,11 +11,11 @@
   "name": "paleodentate of dentate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006743",
   "synonym": [
-    "Pdt",
-    "paleodentate portion of dentate nucleus",
-    "paleodentate part of dentate nucleus",
     "paleodentate of dentate nucleus",
+    "paleodentate part of dentate nucleus",
+    "paleodentate part of the dentate nucleus",
+    "paleodentate portion of dentate nucleus",
     "pars paleodentata",
-    "paleodentate part of the dentate nucleus"
+    "Pdt"
   ]
 }

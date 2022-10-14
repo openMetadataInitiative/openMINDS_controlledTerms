@@ -11,7 +11,7 @@
   "name": "neonate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007221",
   "synonym": [
-    "neonate stage",
-    "neonatal stage"
+    "neonatal stage",
+    "neonate stage"
   ]
 }

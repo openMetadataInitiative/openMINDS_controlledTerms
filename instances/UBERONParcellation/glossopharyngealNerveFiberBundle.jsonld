@@ -11,11 +11,11 @@
   "name": "glossopharyngeal nerve fiber bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006090",
   "synonym": [
-    "glossopharyngeal nerve fibers",
-    "ninth cranial nerve fibers",
     "central part of glossopharyngeal nerve",
+    "fibrae nervi glossopharyngei",
     "glossopharyngeal nerve fiber bundle",
+    "glossopharyngeal nerve fibers",
     "glossopharyngeal nerve tract",
-    "fibrae nervi glossopharyngei"
+    "ninth cranial nerve fibers"
   ]
 }

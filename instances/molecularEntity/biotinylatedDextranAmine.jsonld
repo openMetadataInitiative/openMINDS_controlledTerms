@@ -11,9 +11,9 @@
   "name": "biotinylated dextran amine",
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0205506",
   "synonym": [
-    "biotin dextran amine",
-    "biotinylated dextranamine",
+    "B-DA",
     "BDA",
-    "B-DA"
+    "biotin dextran amine",
+    "biotinylated dextranamine"
   ]
 }

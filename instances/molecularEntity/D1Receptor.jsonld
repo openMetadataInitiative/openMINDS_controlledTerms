@@ -11,11 +11,11 @@
   "name": "D1 receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5845",
   "synonym": [
+    "D(1A) dopamine receptor",
+    "D1",
     "D1 dopamine receptor",
     "D1R",
-    "D1",
-    "D(1A) dopamine receptor",
-    "DRD1",
-    "dopamine receptor D1"
+    "dopamine receptor D1",
+    "DRD1"
   ]
 }

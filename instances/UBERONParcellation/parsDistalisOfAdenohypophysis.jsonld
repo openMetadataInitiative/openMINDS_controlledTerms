@@ -11,20 +11,20 @@
   "name": "pars distalis of adenohypophysis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006964",
   "synonym": [
-    "DHP",
-    "pars anterior of adenohypophysis",
-    "pars glandularis of adenohypophysis",
-    "pars distalis (glandula pituitaria)",
-    "pars distalis of anterior lobe of pituitary gland",
-    "pars distalis adenohypophysis",
-    "distal part of hypophysis",
-    "pars distalis (hypophysis)",
-    "pars glandularis",
-    "pars distalis",
     "anterior lobe",
-    "pars distalis lobi anterioris hypophyseos",
-    "pars distalis adenohypophyseos",
+    "DHP",
+    "distal part of hypophysis",
     "distal part of the hypophysis",
-    "pars anterior"
+    "pars anterior",
+    "pars anterior of adenohypophysis",
+    "pars distalis",
+    "pars distalis (glandula pituitaria)",
+    "pars distalis (hypophysis)",
+    "pars distalis adenohypophyseos",
+    "pars distalis adenohypophysis",
+    "pars distalis lobi anterioris hypophyseos",
+    "pars distalis of anterior lobe of pituitary gland",
+    "pars glandularis",
+    "pars glandularis of adenohypophysis"
   ]
 }

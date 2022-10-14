@@ -11,8 +11,8 @@
   "name": "spinothalamic tract of midbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002609",
   "synonym": [
-    "stmb",
     "spinothalamic tract of the midbrain",
+    "stmb",
     "tractus spinothalamicus (mesencephali)"
   ]
 }

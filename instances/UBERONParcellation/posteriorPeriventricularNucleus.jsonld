@@ -11,17 +11,17 @@
   "name": "posterior periventricular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002708",
   "synonym": [
-    "PPe",
-    "posterior periventricular nucleus of hypothalamus",
-    "periventricular nucleus",
-    "posterior subdivision",
-    "posterior periventricular nucleus",
-    "nucleus periventricularis posterior",
-    "posterior paraventricular nucleus",
-    "posterior periventricular hypothalamic nucleus",
     "griseum periventriculare hypothalami",
+    "nucleus periventricularis posterior",
     "periventricular hypothalamic nucleus",
+    "periventricular nucleus",
+    "posterior paraventricular nucleus",
     "posterior part",
-    "posterior periventricular nucleus of the hypothalamus"
+    "posterior periventricular hypothalamic nucleus",
+    "posterior periventricular nucleus",
+    "posterior periventricular nucleus of hypothalamus",
+    "posterior periventricular nucleus of the hypothalamus",
+    "posterior subdivision",
+    "PPe"
   ]
 }

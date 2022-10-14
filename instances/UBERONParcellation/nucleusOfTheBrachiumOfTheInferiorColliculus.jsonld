@@ -11,10 +11,10 @@
   "name": "nucleus of the brachium of the inferior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0036012",
   "synonym": [
-    "NB",
-    "nucleus of the brachium of the inferior colliculus",
     "brachial nucleus of the inferior colliculus",
     "BrC",
-    "nucleus brachium inferior colliculus"
+    "NB",
+    "nucleus brachium inferior colliculus",
+    "nucleus of the brachium of the inferior colliculus"
   ]
 }

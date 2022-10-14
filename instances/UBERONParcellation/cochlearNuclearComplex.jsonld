@@ -11,8 +11,8 @@
   "name": "cochlear nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002610",
   "synonym": [
-    "cochlear nucleus",
     "cochlear nuclei",
+    "cochlear nucleus",
     "nuclei cochleares"
   ]
 }

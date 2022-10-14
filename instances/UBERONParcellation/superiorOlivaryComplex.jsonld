@@ -11,11 +11,11 @@
   "name": "superior olivary complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002128",
   "synonym": [
-    "superior olive",
-    "superior olivary nucleus",
-    "superior olivary nuclei",
     "nucleus olivaris superior",
+    "regio olivaris superioris",
+    "superior olivary nuclei",
+    "superior olivary nucleus",
     "superior olivary nucleus (Barr & Kiernan)",
-    "regio olivaris superioris"
+    "superior olive"
   ]
 }

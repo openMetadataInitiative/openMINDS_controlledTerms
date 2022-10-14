@@ -11,15 +11,15 @@
   "name": "median raphe nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003004",
   "synonym": [
-    "nucleus centralis superior",
     "Cell group B8",
-    "median nucleus of the raphe",
-    "superior central tegmental nucleus",
-    "superior central nucleus raphe",
-    "median raphe nucleus",
-    "nucleus raphes medianus",
     "medial raphe nucleus",
+    "median nucleus of the raphe",
+    "median raphe nucleus",
     "MRN",
-    "superior central nucleus"
+    "nucleus centralis superior",
+    "nucleus raphes medianus",
+    "superior central nucleus",
+    "superior central nucleus raphe",
+    "superior central tegmental nucleus"
   ]
 }

@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "Mann–Whitney–Wilcoxon test",
+    "MWU test",
+    "MWW test",
     "Wilcoxon rank-sum test",
     "Wilcoxon–Mann–Whitney test",
-    "MWW test",
-    "MWU test",
     "WMW test"
   ]
 }

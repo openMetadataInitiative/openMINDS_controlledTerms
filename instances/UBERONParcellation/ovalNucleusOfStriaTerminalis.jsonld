@@ -11,9 +11,9 @@
   "name": "oval nucleus of stria terminalis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0011176",
   "synonym": [
-    "oval nucleus",
-    "bed nuclei of the stria terminalis",
     "anterior division",
+    "bed nuclei of the stria terminalis",
+    "oval nucleus",
     "oval nucleus"
   ]
 }

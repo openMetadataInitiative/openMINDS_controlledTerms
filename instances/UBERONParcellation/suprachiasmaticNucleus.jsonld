@@ -11,12 +11,12 @@
   "name": "suprachiasmatic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002034",
   "synonym": [
-    "SCh",
-    "suprachiasmatic nucleus of hypothalamus",
-    "suprachiasmatic nucleus (Spiegel-Zwieg)",
-    "nucleus suprachiasmaticus hypothalami",
-    "SCN",
     "nucleus suprachiasmaticus",
-    "SCN"
+    "nucleus suprachiasmaticus hypothalami",
+    "SCh",
+    "SCN",
+    "SCN",
+    "suprachiasmatic nucleus (Spiegel-Zwieg)",
+    "suprachiasmatic nucleus of hypothalamus"
   ]
 }

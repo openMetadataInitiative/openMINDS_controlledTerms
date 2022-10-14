@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002771",
   "synonym": [
     "gyrus temporalis medius",
-    "intermediate temporal gyrus",
     "inferior temporal gyrus (Seltzer)",
-    "middle (medial) temporal gyrus",
-    "medial temporal gyrus"
+    "intermediate temporal gyrus",
+    "medial temporal gyrus",
+    "middle (medial) temporal gyrus"
   ]
 }

@@ -11,12 +11,12 @@
   "name": "island of Calleja",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001881",
   "synonym": [
-    "ICj",
-    "Islets of Calleja",
-    "Islands of Calleja",
     "Calleja island",
+    "ICj",
     "insula callejae",
     "insulae olfactoriae",
-    "islands of Calleja (olfactory tubercle)"
+    "Islands of Calleja",
+    "islands of Calleja (olfactory tubercle)",
+    "Islets of Calleja"
   ]
 }

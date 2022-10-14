@@ -11,12 +11,12 @@
   "name": "intermediate hypothalamic region",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002555",
   "synonym": [
-    "IHR",
     "area hypothalamica intermedia",
+    "IHR",
     "intermediate hypothalamic area",
     "intermediate hypothalamus",
-    "regio hypothalamica intermedia",
     "medial hypothalamus",
-    "middle hypothalamus"
+    "middle hypothalamus",
+    "regio hypothalamica intermedia"
   ]
 }

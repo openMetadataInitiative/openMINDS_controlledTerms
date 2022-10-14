@@ -11,14 +11,14 @@
   "name": "pathway analysis",
   "preferredOntologyIdentifier": "http://edamontology.org/operation_3928",
   "synonym": [
-    "PA",
-    "functional enrichment analysis",
-    "biological pathway prediction",
-    "pathway modelling",
     "biological pathway modelling",
-    "pathway prediction",
+    "biological pathway prediction",
+    "functional enrichment analysis",
     "functional pathway analysis",
+    "PA",
     "pathway comparison",
+    "pathway modelling",
+    "pathway prediction",
     "pathway simulation"
   ]
 }

@@ -11,17 +11,17 @@
   "name": "ventral anterior nucleus of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002637",
   "synonym": [
-    "VA",
-    "ventral anterior nucleus of thalamus",
-    "ventroanterior thalamic nucleus",
-    "nucleus ventralis anterior",
-    "ventral anterior thalamic nucleus",
-    "nucleus ventralis thalami anterior",
     "nucleus lateropolaris",
+    "nucleus ventralis anterior",
     "nucleus ventralis anterior thalami",
+    "nucleus ventralis anterior thalami",
+    "nucleus ventralis thalami anterior",
+    "VA",
     "ventral anterior nucleus",
+    "ventral anterior nucleus of thalamus",
+    "ventral anterior nucleus of the thalamus",
+    "ventral anterior thalamic nucleus",
     "ventroanterior nucleus of the thalamus",
-    "nucleus ventralis anterior thalami",
-    "ventral anterior nucleus of the thalamus"
+    "ventroanterior thalamic nucleus"
   ]
 }

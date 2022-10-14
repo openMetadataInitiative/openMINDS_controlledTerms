@@ -11,15 +11,15 @@
   "name": "calcium calmodulin protein kinase II alpha chain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000003199",
   "synonym": [
-    "CaMKIIa",
-    "CaMK2a",
-    "Ca2+/calmodulin-dependent protein kinase II alpha chain",
     "Ca2+/calmodulin-dependent protein kinase 2 alpha chain",
-    "CaM kinase II subunit alpha",
-    "CaM kinase 2 subunit alpha",
-    "CaMKII subunit alpha",
-    "CaMK2 subunit alpha",
+    "Ca2+/calmodulin-dependent protein kinase II alpha chain",
+    "calcium/calmodulin-dependent protein kinase type 2 alpha chain",
     "calcium/calmodulin-dependent protein kinase type II alpha chain",
-    "calcium/calmodulin-dependent protein kinase type 2 alpha chain"
+    "CaM kinase 2 subunit alpha",
+    "CaM kinase II subunit alpha",
+    "CaMK2 subunit alpha",
+    "CaMK2a",
+    "CaMKII subunit alpha",
+    "CaMKIIa"
   ]
 }

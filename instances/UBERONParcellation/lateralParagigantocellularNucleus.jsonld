@@ -11,13 +11,13 @@
   "name": "lateral paragigantocellular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016824",
   "synonym": [
-    "PGL",
-    "nucleus paragigantocellularis lateralis",
+    "lateral paragigantocellular nucleus",
     "lateral paragigantocellular reticular nucleus",
+    "lateral part",
+    "lateral part",
+    "nucleus paragigantocellularis lateralis",
     "paragigantocellular nucleus",
-    "lateral part",
     "paragigantocellular reticular nucleus",
-    "lateral part",
-    "lateral paragigantocellular nucleus"
+    "PGL"
   ]
 }

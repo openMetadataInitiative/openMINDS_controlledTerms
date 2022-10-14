@@ -11,14 +11,14 @@
   "name": "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014601",
   "synonym": [
-    "PVHpm",
-    "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part",
+    "magnocellular division",
+    "magnocellular division",
+    "paraventricular hypothalamic nucleus",
     "paraventricular hypothalamic nucleus posterior magnocellular part",
     "paraventricular nucleus of the hypothalamus",
-    "magnocellular division",
+    "paraventricular nucleus of the hypothalamus magnocellular division - posterior magnocellular part",
     "posterior magnocellular part",
-    "paraventricular hypothalamic nucleus",
-    "magnocellular division",
-    "posterior magnocellular part"
+    "posterior magnocellular part",
+    "PVHpm"
   ]
 }

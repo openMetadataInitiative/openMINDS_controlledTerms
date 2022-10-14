@@ -11,12 +11,12 @@
   "name": "insulin-like growth factor 1",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "IGF1",
     "IGF-1",
-    "insulin-like growth factor I",
-    "IGF-I",
-    "Igf1",
     "Igf-1",
-    "Igf-I"
+    "IGF-I",
+    "Igf-I",
+    "IGF1",
+    "Igf1",
+    "insulin-like growth factor I"
   ]
 }

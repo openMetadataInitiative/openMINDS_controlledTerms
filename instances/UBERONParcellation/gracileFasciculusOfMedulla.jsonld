@@ -11,17 +11,17 @@
   "name": "gracile fasciculus of medulla",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002653",
   "synonym": [
-    "gracile fascicle (Gall)",
-    "medulla segment of gracile fasciculus",
-    "gracile fascicle of medulla",
-    "medulla segment of fasciculus gracilis",
-    "Goll's tract",
-    "Fasciculus of Goll",
     "Column of Goll",
-    "Tract of Gall",
     "fasciculus dorsolateralis gracilis (Golli)",
-    "gracile fasciculus of the medulla",
+    "fasciculus gracilis (myelencephali)",
+    "Fasciculus of Goll",
+    "Goll's tract",
+    "gracile fascicle (Gall)",
     "gracile fascicle (Goll)",
-    "fasciculus gracilis (myelencephali)"
+    "gracile fascicle of medulla",
+    "gracile fasciculus of the medulla",
+    "medulla segment of fasciculus gracilis",
+    "medulla segment of gracile fasciculus",
+    "Tract of Gall"
   ]
 }

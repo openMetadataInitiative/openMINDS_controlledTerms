@@ -12,7 +12,7 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013755",
   "synonym": [
     "arterial blood",
-    "portion of arterial blood",
-    "blood in artery"
+    "blood in artery",
+    "portion of arterial blood"
   ]
 }

@@ -12,8 +12,8 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016538",
   "synonym": [
     "cortex of temporal lobe",
+    "gray matter of temporal lobe",
     "temporal lobe cortex",
-    "temporal neocortex",
-    "gray matter of temporal lobe"
+    "temporal neocortex"
   ]
 }

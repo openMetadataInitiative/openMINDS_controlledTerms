@@ -11,16 +11,16 @@
   "name": "fornix of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000052",
   "synonym": [
-    "fornix (column and body of fornix)",
-    "forebrain fornix",
-    "fornix of brain",
-    "neuraxis fornix",
     "brain fornix",
     "cerebral fornix",
+    "forebrain fornix",
+    "fornix",
+    "fornix (column and body of fornix)",
+    "fornix cerebri",
+    "fornix hippocampus",
+    "fornix of brain",
     "fornix of neuraxis",
     "hippocampus fornix",
-    "fornix hippocampus",
-    "fornix cerebri",
-    "fornix"
+    "neuraxis fornix"
   ]
 }

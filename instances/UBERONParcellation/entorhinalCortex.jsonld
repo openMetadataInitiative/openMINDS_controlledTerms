@@ -11,15 +11,15 @@
   "name": "entorhinal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002728",
   "synonym": [
+    "Area 28 of Brodmann (Crosby)",
+    "area entorhinalis (28,34)",
+    "area entorhinalis ventralis et dorsalis",
+    "Brodmann's area 28",
+    "cortex entorhinalis",
     "Ent",
     "entorhinal area",
-    "secondary olfactory cortex",
-    "Secondary olfactory cortical area (Carpenter)",
-    "Area 28 of Brodmann (Crosby)",
     "entorhinal cortex",
-    "area entorhinalis ventralis et dorsalis",
-    "cortex entorhinalis",
-    "Brodmann's area 28",
-    "area entorhinalis (28,34)"
+    "secondary olfactory cortex",
+    "Secondary olfactory cortical area (Carpenter)"
   ]
 }

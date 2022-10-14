@@ -11,13 +11,13 @@
   "name": "superior medullary velum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002659",
   "synonym": [
-    "SMV",
     "anterior medullary velum",
-    "velum medullare rostralis",
+    "rostral medullary velum",
+    "SMV",
     "velum medullare anterius",
     "velum medullare craniale",
-    "rostral medullary velum",
-    "velum medullare superius",
-    "velum medullare superior"
+    "velum medullare rostralis",
+    "velum medullare superior",
+    "velum medullare superius"
   ]
 }

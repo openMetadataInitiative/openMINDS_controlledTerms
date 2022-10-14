@@ -11,9 +11,9 @@
   "name": "focused ion beam scanning electron microscopy",
   "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/245",
   "synonym": [
-    "FIBSEM",
     "FIB-SEM",
     "FIB/SEM",
+    "FIBSEM",
     "focused ion beam scanning electron microscoscopy technique"
   ]
 }

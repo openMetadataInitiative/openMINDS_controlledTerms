@@ -11,10 +11,10 @@
   "name": "body of caudate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002630",
   "synonym": [
+    "body of the caudate nucleus",
+    "caudate body",
     "caudate nuclear body",
     "corpus (caudatus)",
-    "corpus nuclei caudati",
-    "body of the caudate nucleus",
-    "caudate body"
+    "corpus nuclei caudati"
   ]
 }

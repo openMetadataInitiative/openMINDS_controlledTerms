@@ -11,10 +11,10 @@
   "name": "presubiculum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001953",
   "synonym": [
-    "PrS",
-    "presubiculum (Cajal)",
     "Area 27 of Brodmann",
+    "praesubiculum",
     "presubicular cortex (presubiculum)",
-    "praesubiculum"
+    "presubiculum (Cajal)",
+    "PrS"
   ]
 }

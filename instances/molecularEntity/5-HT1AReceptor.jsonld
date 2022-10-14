@@ -11,9 +11,9 @@
   "name": "5-HT1A receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5890",
   "synonym": [
-    "5-HT1A serotonin receptor",
+    "1A receptor",
     "5-HT1A",
-    "serotonin 1A receptor",
-    "1A receptor"
+    "5-HT1A serotonin receptor",
+    "serotonin 1A receptor"
   ]
 }

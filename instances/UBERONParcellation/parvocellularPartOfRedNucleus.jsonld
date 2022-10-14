@@ -11,20 +11,20 @@
   "name": "parvocellular part of red nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002938",
   "synonym": [
-    "RPC",
-    "parvocellular red nucleus",
-    "red nucleus",
-    "parvocellular part",
-    "pars parvocellularis nuclei rubri",
     "neoruber",
     "neorubrum",
-    "parvocellular part of the red nucleus",
-    "pars parvocellularis (ruber)",
-    "red nucleus parvicellular part",
-    "red nucleus",
-    "parvicellular part",
-    "nucleus ruber parvocellularis",
     "nucleus ruber",
-    "pars parvocellularis"
+    "nucleus ruber parvocellularis",
+    "pars parvocellularis",
+    "pars parvocellularis (ruber)",
+    "pars parvocellularis nuclei rubri",
+    "parvicellular part",
+    "parvocellular part",
+    "parvocellular part of the red nucleus",
+    "parvocellular red nucleus",
+    "red nucleus",
+    "red nucleus",
+    "red nucleus parvicellular part",
+    "RPC"
   ]
 }

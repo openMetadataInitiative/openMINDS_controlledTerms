@@ -11,10 +11,10 @@
   "name": "CA1 stratum oriens",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014552",
   "synonym": [
-    "CA1 s. oriens",
-    "stratum oriens of the CA1 field",
-    "CA1 stratum oriens",
     "CA1 part of stratum oriens",
-    "oriens layer of CA1 field"
+    "CA1 s. oriens",
+    "CA1 stratum oriens",
+    "oriens layer of CA1 field",
+    "stratum oriens of the CA1 field"
   ]
 }

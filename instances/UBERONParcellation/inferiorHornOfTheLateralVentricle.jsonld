@@ -11,16 +11,16 @@
   "name": "inferior horn of the lateral ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006091",
   "synonym": [
-    "temporal horn of lateral ventricle",
-    "inferior horn of the lateral ventricle",
-    "cornu temporale ventriculi lateralis",
-    "ventriculus lateralis",
+    "cornu inferius",
+    "cornu inferius (ventriculi lateralis)",
+    "cornu inferius ventriculi lateralis",
     "cornu temporale",
     "cornu temporale (ventriculi lateralis)",
+    "cornu temporale ventriculi lateralis",
+    "inferior horn of lateral ventricle",
+    "inferior horn of the lateral ventricle",
+    "temporal horn of lateral ventricle",
     "ventriculus lateralis",
-    "cornu inferius",
-    "cornu inferius ventriculi lateralis",
-    "cornu inferius (ventriculi lateralis)",
-    "inferior horn of lateral ventricle"
+    "ventriculus lateralis"
   ]
 }

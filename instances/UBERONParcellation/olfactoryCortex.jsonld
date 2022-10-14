@@ -11,9 +11,9 @@
   "name": "olfactory cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002894",
   "synonym": [
+    "archaeocortex",
     "archeocortex",
     "olfactory areas",
-    "olfactory lobe",
-    "archaeocortex"
+    "olfactory lobe"
   ]
 }

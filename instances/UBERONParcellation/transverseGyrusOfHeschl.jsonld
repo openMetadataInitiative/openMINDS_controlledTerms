@@ -11,12 +11,12 @@
   "name": "transverse gyrus of Heschl",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003939",
   "synonym": [
-    "transverse temporal gyrus",
-    "Heshl's gyrus",
-    "transverse temporal gyri",
-    "transverse temporal cortex",
     "gyri temporales transversi",
     "Heschl gyrus",
-    "Heschl's gyrus"
+    "Heschl's gyrus",
+    "Heshl's gyrus",
+    "transverse temporal cortex",
+    "transverse temporal gyri",
+    "transverse temporal gyrus"
   ]
 }

@@ -11,16 +11,16 @@
   "name": "ventral cochlear nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002828",
   "synonym": [
-    "VCo",
-    "anterior cochlear nucleus",
-    "ventral cochlear nucleus",
-    "c1281209",
-    "nucleus cochlearis ventralis",
-    "ventral cochlear nuclei",
-    "ventral coclear nucleus",
-    "nucleus cochlearis anterior",
-    "ventral division of cochlear nucleus",
     "accessory cochlear nucleus",
-    "nucleus acustici accessorici"
+    "anterior cochlear nucleus",
+    "c1281209",
+    "nucleus acustici accessorici",
+    "nucleus cochlearis anterior",
+    "nucleus cochlearis ventralis",
+    "VCo",
+    "ventral cochlear nuclei",
+    "ventral cochlear nucleus",
+    "ventral coclear nucleus",
+    "ventral division of cochlear nucleus"
   ]
 }

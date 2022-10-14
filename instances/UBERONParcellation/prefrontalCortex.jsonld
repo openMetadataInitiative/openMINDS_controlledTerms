@@ -11,8 +11,8 @@
   "name": "prefrontal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000451",
   "synonym": [
-    "prefrontal association cortex",
+    "frontal association cortex",
     "prefrontal association complex",
-    "frontal association cortex"
+    "prefrontal association cortex"
   ]
 }

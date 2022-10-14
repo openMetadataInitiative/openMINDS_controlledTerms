@@ -11,11 +11,11 @@
   "name": "parahippocampal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002973",
   "synonym": [
-    "PaI",
-    "hippocampal gyrus",
-    "gyrus parahippocampi",
+    "gyrus hippocampi",
     "gyrus parahippocampalis",
+    "gyrus parahippocampi",
     "hippocampal convolution",
-    "gyrus hippocampi"
+    "hippocampal gyrus",
+    "PaI"
   ]
 }

@@ -11,7 +11,7 @@
   "name": "anterior cingulate cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009835",
   "synonym": [
-    "anterior cingulate",
-    "ACC"
+    "ACC",
+    "anterior cingulate"
   ]
 }

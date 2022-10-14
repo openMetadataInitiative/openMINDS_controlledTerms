@@ -11,13 +11,13 @@
   "name": "hippocampus alveus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007639",
   "synonym": [
-    "alveus of hippocampus",
-    "neuraxis alveus",
     "alveus",
+    "alveus hippocampi",
     "alveus of fornix",
+    "alveus of hippocampus",
     "alveus of the hippocampus",
     "CA2 alveus",
-    "alveus hippocampi",
+    "neuraxis alveus",
     "neuraxis alveus"
   ]
 }

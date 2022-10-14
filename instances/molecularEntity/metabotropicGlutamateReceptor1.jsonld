@@ -11,9 +11,9 @@
   "name": "metabotropic glutamate receptor 1",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090504",
   "synonym": [
-    "MGluR1",
+    "glutamate metabotropic 1",
     "glutamate metabotropic receptor 1",
     "GRM1",
-    "glutamate metabotropic 1"
+    "MGluR1"
   ]
 }

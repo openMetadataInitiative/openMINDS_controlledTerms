@@ -11,21 +11,21 @@
   "name": "caudal part of ventral posterolateral nucleus of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002781",
   "synonym": [
-    "VPLC",
-    "ventral posterolateral thalamic nucleus",
     "caudal part",
-    "ventral posterolateral nucleus",
     "caudal part",
+    "caudal part of the ventral posterolateral nucleus",
     "caudal part of ventral posterolateral nucleus",
-    "ventral posterior lateral nucleus (ilinsky)",
+    "nucleus ventralis caudalis lateralis",
     "nucleus ventralis posterior lateralis",
-    "pars caudalis",
     "nucleus ventralis posterior pars lateralis (Dewulf)",
     "nucleus ventralis posterolateralis (Walker)",
-    "ventral posterolateral thalamic nucleus",
-    "posterior part",
-    "caudal part of the ventral posterolateral nucleus",
     "nucleus ventrocaudalis externus (Van Buren)",
-    "nucleus ventralis caudalis lateralis"
+    "pars caudalis",
+    "posterior part",
+    "ventral posterior lateral nucleus (ilinsky)",
+    "ventral posterolateral nucleus",
+    "ventral posterolateral thalamic nucleus",
+    "ventral posterolateral thalamic nucleus",
+    "VPLC"
   ]
 }

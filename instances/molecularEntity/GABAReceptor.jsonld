@@ -11,7 +11,7 @@
   "name": "GABA receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_mol_1006001",
   "synonym": [
-    "gamma-aminobutyric acid receptor",
-    "GABAR"
+    "GABAR",
+    "gamma-aminobutyric acid receptor"
   ]
 }

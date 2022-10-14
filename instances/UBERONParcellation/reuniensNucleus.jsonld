@@ -11,14 +11,14 @@
   "name": "reuniens nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001921",
   "synonym": [
-    "Re",
-    "reuniens thalamic nucleus",
     "medioventral nucleus",
-    "nucleus reuniens",
-    "nucleus of reunions",
-    "nucleus reuniens thalami",
     "nucleus endymalis (Hassler)",
+    "nucleus of reunions",
+    "nucleus reuniens",
+    "nucleus reuniens (Malone)",
+    "nucleus reuniens thalami",
+    "Re",
     "reuniens nucleus of the thalamus",
-    "nucleus reuniens (Malone)"
+    "reuniens thalamic nucleus"
   ]
 }

@@ -11,15 +11,15 @@
   "name": "white matter lamina of cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014540",
   "synonym": [
-    "laminae albae of cerebellar cortex",
-    "white lamina of cerebellum",
-    "white laminae of cerebellum",
-    "lamina alba of cerebellar cortex",
+    "isthmus cinguli",
+    "isthmus gyri cingulatus",
     "isthmus gyri cinguli",
+    "isthmus of gyrus fornicatus",
     "isthmus of the cingulate gyrus",
     "isthmus-2",
-    "isthmus gyri cingulatus",
-    "isthmus of gyrus fornicatus",
-    "isthmus cinguli"
+    "lamina alba of cerebellar cortex",
+    "laminae albae of cerebellar cortex",
+    "white lamina of cerebellum",
+    "white laminae of cerebellum"
   ]
 }

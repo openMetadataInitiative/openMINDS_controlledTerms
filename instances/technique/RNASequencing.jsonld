@@ -11,9 +11,9 @@
   "name": "RNA sequencing",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0001177",
   "synonym": [
-    "RNA sequencing assay",
-    "RNA-Seq",
+    "ribonucleic acid sequencing",
     "ribonucleic acid sequencing assay",
-    "ribonucleic acid sequencing"
+    "RNA sequencing assay",
+    "RNA-Seq"
   ]
 }

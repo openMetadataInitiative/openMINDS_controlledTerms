@@ -11,20 +11,20 @@
   "name": "posterior part of anterior commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003043",
   "synonym": [
-    "anterior commissure temporal limb",
-    "pars posterior commissurae anterioris",
-    "temporal limb of anterior commissure",
-    "commissura rostralis",
-    "pars posterior",
-    "commissura anterior",
-    "pars posterior",
-    "commissura anterior",
-    "crus posterius",
+    "anterior commissure",
+    "anterior commissure",
     "anterior commissure pars posterior",
-    "anterior commissure",
+    "anterior commissure temporal limb",
+    "commissura anterior",
+    "commissura anterior",
+    "commissura rostralis",
+    "crus posterius",
+    "pars posterior",
+    "pars posterior",
+    "pars posterior",
+    "pars posterior commissurae anterioris",
     "posterior part",
-    "anterior commissure",
     "temporal limb",
-    "pars posterior"
+    "temporal limb of anterior commissure"
   ]
 }

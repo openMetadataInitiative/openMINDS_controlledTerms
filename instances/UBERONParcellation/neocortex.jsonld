@@ -11,16 +11,16 @@
   "name": "neocortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001950",
   "synonym": [
-    "neopallium",
-    "homotypical cortex",
     "cerebral neocortex",
+    "homogenetic cortex",
+    "homotypical cortex",
+    "iso-cortex",
+    "isocortex",
+    "isocortex (sensu lato)",
     "neocortex (isocortex)",
     "neopallial cortex",
-    "homogenetic cortex",
-    "isocortex (sensu lato)",
-    "nucleus hypoglossalis",
+    "neopallium",
     "nonolfactory cortex",
-    "iso-cortex",
-    "isocortex"
+    "nucleus hypoglossalis"
   ]
 }

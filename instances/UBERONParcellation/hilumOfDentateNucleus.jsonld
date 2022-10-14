@@ -11,9 +11,9 @@
   "name": "hilum of dentate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002744",
   "synonym": [
-    "hdt",
     "dentate nuclear hilum",
-    "hilum of the dentate nucleus",
-    "hilum nuclei dentati"
+    "hdt",
+    "hilum nuclei dentati",
+    "hilum of the dentate nucleus"
   ]
 }

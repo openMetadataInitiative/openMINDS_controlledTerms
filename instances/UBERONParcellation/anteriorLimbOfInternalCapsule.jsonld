@@ -11,10 +11,10 @@
   "name": "anterior limb of internal capsule",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014526",
   "synonym": [
-    "capsula interna",
-    "pars anterior",
-    "crus anterius capsulae internae",
     "anterior internal capsule",
-    "anterior limb"
+    "anterior limb",
+    "capsula interna",
+    "crus anterius capsulae internae",
+    "pars anterior"
   ]
 }

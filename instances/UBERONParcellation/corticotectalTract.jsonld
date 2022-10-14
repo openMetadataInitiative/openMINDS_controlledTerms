@@ -11,10 +11,10 @@
   "name": "corticotectal tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002556",
   "synonym": [
-    "fibrae corticotectales",
+    "cortico-tectal tract",
     "corticotectal fibers",
     "corticotectal fibres",
-    "tractus corticotectalis",
-    "cortico-tectal tract"
+    "fibrae corticotectales",
+    "tractus corticotectalis"
   ]
 }

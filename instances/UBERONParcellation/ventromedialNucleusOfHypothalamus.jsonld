@@ -11,17 +11,17 @@
   "name": "ventromedial nucleus of hypothalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001935",
   "synonym": [
-    "VMH",
-    "ventromedial hypothalamus",
-    "ventromedial nucleus",
-    "ventromedial hypothalamic nucleus",
-    "ventromedial nucleus of the hypothalamus",
+    "nucleus hypothalamicus ventromedialis",
+    "nucleus ventromedialis hypothalami",
+    "tuberal nucleus (Ganser)",
     "ventrolateral hypothalamic nucleus",
     "ventrolateral nucleus of hypothalamus",
+    "ventromedial hypothalamic nucleus",
+    "ventromedial hypothalamus",
+    "ventromedial nucleus",
     "ventromedial nucleus hypothalamus",
     "ventromedial nucleus of hypothalamus.",
-    "nucleus ventromedialis hypothalami",
-    "nucleus hypothalamicus ventromedialis",
-    "tuberal nucleus (Ganser)"
+    "ventromedial nucleus of the hypothalamus",
+    "VMH"
   ]
 }

@@ -12,16 +12,16 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002681",
   "synonym": [
     "AM",
-    "nucleus anteromedialis thalami",
-    "nucleus thalamicus anteromedialis",
+    "anteromedial nucleus",
+    "anteromedial nucleus of thalamus",
+    "anteromedial nucleus of the thalamus",
     "anteromedial thalamic nucleus",
+    "nucleus anterior medialis",
     "nucleus anterior medialis thalami",
     "nucleus anterior thalami medialis",
-    "nucleus anteromedialis (Hassler)",
     "nucleus anteromedialis",
-    "nucleus anterior medialis",
-    "anteromedial nucleus of the thalamus",
-    "anteromedial nucleus",
-    "anteromedial nucleus of thalamus"
+    "nucleus anteromedialis (Hassler)",
+    "nucleus anteromedialis thalami",
+    "nucleus thalamicus anteromedialis"
   ]
 }

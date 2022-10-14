@@ -11,10 +11,10 @@
   "name": "supramammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001940",
   "synonym": [
-    "SuM",
-    "premammillary nuclei",
     "nuclei premamillaris",
     "nucleus premamillaris hypothalami",
-    "premamillary nucleus"
+    "premamillary nucleus",
+    "premammillary nuclei",
+    "SuM"
   ]
 }

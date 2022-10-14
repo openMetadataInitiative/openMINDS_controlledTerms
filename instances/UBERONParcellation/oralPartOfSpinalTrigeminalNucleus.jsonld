@@ -11,16 +11,16 @@
   "name": "oral part of spinal trigeminal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002591",
   "synonym": [
-    "Sp5O",
-    "spinal nucleus of the trigeminal",
+    "nucleus oralis tractus spinalis nervi trigemini",
+    "nucleus spinalis nervi trigemini",
+    "oral part",
     "oral part",
     "oral part of the spinal trigeminal nucleus",
-    "nucleus oralis tractus spinalis nervi trigemini",
+    "pars oralis",
+    "Sp5O",
+    "spinal nucleus of the trigeminal",
     "spinal nucleus of the trigeminal oral part",
     "spinal trigeminal nucleus",
-    "oral part",
-    "spinal trigeminal nucleus oral part",
-    "nucleus spinalis nervi trigemini",
-    "pars oralis"
+    "spinal trigeminal nucleus oral part"
   ]
 }

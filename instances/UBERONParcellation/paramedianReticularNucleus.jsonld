@@ -11,9 +11,9 @@
   "name": "paramedian reticular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007764",
   "synonym": [
-    "paramedian reticular nucleus",
-    "ventral paramedian reticular nucleus",
+    "nucleus reticularis paramedianus",
     "paramedian nucleus reticularis",
-    "nucleus reticularis paramedianus"
+    "paramedian reticular nucleus",
+    "ventral paramedian reticular nucleus"
   ]
 }

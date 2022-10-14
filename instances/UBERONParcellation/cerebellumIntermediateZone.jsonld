@@ -11,13 +11,13 @@
   "name": "cerebellum intermediate zone",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004006",
   "synonym": [
-    "intermediate zone",
-    "paravermis",
+    "cerebellar paravermis",
     "cerebellum intermediate hemisphere",
     "intermediate part of spinocerebellum",
-    "cerebellar paravermis",
-    "spinocerebellum",
+    "intermediate zone",
     "paleocerebellum",
-    "paravermal zone of the cerebellum"
+    "paravermal zone of the cerebellum",
+    "paravermis",
+    "spinocerebellum"
   ]
 }

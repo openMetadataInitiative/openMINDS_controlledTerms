@@ -11,18 +11,18 @@
   "name": "postnatal subventricular zone",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004922",
   "synonym": [
-    "SVZ",
-    "subependymal zone",
-    "brain subventricular zone",
-    "postnatal subventricular zone",
-    "subventricular zone",
     "adult subventricular zone",
-    "subventricular zone of brain",
-    "SEZ",
-    "postnatal subependymal zone",
-    "subependymal plate",
-    "postnatal subependymal plate",
+    "brain subventricular zone",
     "postnatal subependymal layer",
-    "subependymal layer"
+    "postnatal subependymal plate",
+    "postnatal subependymal zone",
+    "postnatal subventricular zone",
+    "SEZ",
+    "subependymal layer",
+    "subependymal plate",
+    "subependymal zone",
+    "subventricular zone",
+    "subventricular zone of brain",
+    "SVZ"
   ]
 }

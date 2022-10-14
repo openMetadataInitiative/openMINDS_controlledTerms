@@ -11,10 +11,10 @@
   "name": "M3 receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_6131",
   "synonym": [
-    "muscarinic acetylcholine receptor 3",
     "M3",
-    "M3 AChR",
     "M3 acetylcholine receptor",
+    "M3 AChR",
+    "muscarinic acetylcholine receptor 3",
     "muscarinic acetylcholine receptor M3",
     "muscarinic acetylcholine receptor type 3"
   ]

@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002568",
   "synonym": [
     "amdt",
-    "dentate nuclear amiculum",
     "amiculum nuclei dentati",
     "amiculum of the dentate nucleus",
+    "dentate nuclear amiculum",
     "dentate nuclear amiculum"
   ]
 }

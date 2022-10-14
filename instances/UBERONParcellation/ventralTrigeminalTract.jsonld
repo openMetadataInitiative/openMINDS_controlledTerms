@@ -11,17 +11,17 @@
   "name": "ventral trigeminal tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002549",
   "synonym": [
-    "ventral trigeminal pathway",
     "anterior trigeminothalamic tract",
-    "ventral trigeminothalamic tract",
-    "tractus trigeminothalamicus anterior",
-    "ventral crossed tract",
-    "trigeminal lemniscus-2",
-    "ventral secondary ascending tract of V",
     "tractus trigeminalis ventralis",
     "tractus trigeminothalamicus anterior",
-    "ventral trigeminal tract",
+    "tractus trigeminothalamicus anterior",
+    "trigeminal lemniscus-2",
+    "ventral crossed tract",
     "ventral secondary ascending tract of V",
+    "ventral secondary ascending tract of V",
+    "ventral trigeminal pathway",
+    "ventral trigeminal tract",
+    "ventral trigeminothalamic tract",
     "ventral trigeminothalamic tract"
   ]
 }

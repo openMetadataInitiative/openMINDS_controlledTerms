@@ -11,8 +11,8 @@
   "name": "medullary anterior horn",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023378",
   "synonym": [
+    "cornu anterius medullaris",
     "MAH",
-    "medullary anterior horn",
-    "cornu anterius medullaris"
+    "medullary anterior horn"
   ]
 }

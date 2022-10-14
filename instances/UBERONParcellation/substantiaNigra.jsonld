@@ -11,11 +11,11 @@
   "name": "substantia nigra",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002038",
   "synonym": [
+    "nucleus of basis pedunculi",
+    "nucleus pigmentosus subthalamo-peduncularis",
     "SN",
     "Soemmering's substance",
-    "nucleus of basis pedunculi",
-    "substantia nigra (Soemmerringi)",
-    "nucleus pigmentosus subthalamo-peduncularis",
-    "substancia nigra"
+    "substancia nigra",
+    "substantia nigra (Soemmerringi)"
   ]
 }

@@ -11,16 +11,16 @@
   "name": "brachium of inferior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003025",
   "synonym": [
-    "peduncle of inferior colliculus",
-    "inferior collicular brachium",
-    "inferior brachium",
-    "brachium of medial geniculate",
-    "inferior quadrigeminal brachium",
-    "inferior colliculus brachium",
-    "brachium colliculi inferioris",
-    "brachium of the inferior colliculus",
     "brachium colliculi caudalis",
+    "brachium colliculi inferioris",
+    "brachium of medial geniculate",
+    "brachium of the inferior colliculus",
+    "brachium quadrigeminum inferius",
+    "inferior brachium",
+    "inferior collicular brachium",
+    "inferior colliculus brachium",
+    "inferior quadrigeminal brachium",
     "nucleus of the brachium of the inferior colliculus",
-    "brachium quadrigeminum inferius"
+    "peduncle of inferior colliculus"
   ]
 }

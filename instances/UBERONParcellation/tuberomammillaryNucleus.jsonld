@@ -11,18 +11,18 @@
   "name": "tuberomammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001936",
   "synonym": [
-    "TM",
     "caudal magnocellular nucleus",
+    "mammilloinfundibular nucleus",
     "mammiloinfundibular nucleus",
+    "nucleus tuberomamillaris",
+    "nucleus tuberomamillaris hypothalami",
+    "TM",
+    "tubero-mamillary area",
+    "tuberomamillary nucleus",
     "tuberomammillary hypothalamic nucleus",
     "tuberomammillary nucleus",
-    "mammilloinfundibular nucleus",
-    "ventral tuberomammillary nucleus",
-    "nucleus tuberomamillaris hypothalami",
-    "tubero-mamillary area",
     "tuberomammillary nucleus",
     "ventral part",
-    "nucleus tuberomamillaris",
-    "tuberomamillary nucleus"
+    "ventral tuberomammillary nucleus"
   ]
 }

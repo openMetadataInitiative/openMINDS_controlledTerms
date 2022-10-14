@@ -11,9 +11,9 @@
   "name": "metabotropic glutamate receptor 2",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_mol_20090505",
   "synonym": [
-    "MGluR2",
+    "glutamate metabotropic 2",
     "glutamate metabotropic receptor 2",
     "GRM2",
-    "glutamate metabotropic 2"
+    "MGluR2"
   ]
 }

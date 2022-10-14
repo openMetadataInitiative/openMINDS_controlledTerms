@@ -12,14 +12,14 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002655",
   "synonym": [
     "central part of lateral ventricle",
-    "lateral ventricular body",
-    "ventriculus lateralis",
     "corpus",
-    "pars centralis (ventriculi lateralis)",
     "corpus ventriculi lateralis",
+    "lateral ventricular body",
+    "pars centralis",
+    "pars centralis (ventriculi lateralis)",
+    "pars centralis ventriculi lateralis",
     "pars centralis ventriculi lateralis",
     "ventriculus lateralis",
-    "pars centralis",
-    "pars centralis ventriculi lateralis"
+    "ventriculus lateralis"
   ]
 }

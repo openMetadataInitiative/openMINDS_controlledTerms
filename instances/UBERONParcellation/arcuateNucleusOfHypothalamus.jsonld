@@ -12,19 +12,19 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001932",
   "synonym": [
     "ArcH",
+    "arcuate hypothalamic nucleus",
+    "arcuate nucleus",
+    "arcuate nucleus of the hypothalamus",
+    "arcuate nucleus-2",
     "arcuate periventricular nucleus",
     "infundibular hypothalamic nucleus",
-    "arcuate hypothalamic nucleus",
-    "nucleus arcuatus",
-    "infundibular periventricular nucleus",
     "infundibular nucleus",
-    "arcuate nucleus-2",
-    "arcuate nucleus",
-    "nucleus infundibularis",
+    "infundibular periventricular nucleus",
+    "nucleus arcuatus",
     "nucleus arcuatus (hypothalamus)",
     "nucleus arcuatus hypothalami",
-    "nucleus semilunaris",
+    "nucleus infundibularis",
     "nucleus infundibularis hypothalami",
-    "arcuate nucleus of the hypothalamus"
+    "nucleus semilunaris"
   ]
 }

@@ -11,15 +11,15 @@
   "name": "internal medullary lamina of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002762",
   "synonym": [
+    "envelope (involucrum medial) (Hassler)",
     "iml",
+    "internal medullary lamina",
     "internal medullary lamina of thalamus",
-    "lamina medullaris medialis thalami",
+    "internal medullary lamina of the thalamus",
     "lamina medullaris interna",
     "lamina medullaris interna thalami",
-    "internal medullary lamina",
-    "lamina medullaris thalami interna",
-    "envelope (involucrum medial) (Hassler)",
-    "internal medullary lamina of the thalamus",
-    "lamina medullaris medialis"
+    "lamina medullaris medialis",
+    "lamina medullaris medialis thalami",
+    "lamina medullaris thalami interna"
   ]
 }

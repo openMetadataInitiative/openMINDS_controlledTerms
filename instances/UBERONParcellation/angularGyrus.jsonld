@@ -11,13 +11,13 @@
   "name": "angular gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002686",
   "synonym": [
-    "middle part of inferior parietal lobule",
-    "preoccipital gyrus",
-    "prelunate gyrus",
-    "gyrus parietalis inferior",
-    "gyrus angularis",
-    "preoccipital gyrus",
     "AG",
-    "middle part of inferior parietal lobule"
+    "gyrus angularis",
+    "gyrus parietalis inferior",
+    "middle part of inferior parietal lobule",
+    "middle part of inferior parietal lobule",
+    "prelunate gyrus",
+    "preoccipital gyrus",
+    "preoccipital gyrus"
   ]
 }

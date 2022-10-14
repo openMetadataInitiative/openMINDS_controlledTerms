@@ -11,8 +11,8 @@
   "name": "Spearman's rank-order correlation",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "Spearman’s correlation",
     "Spearman’s correlation test",
-    "Spearman’s rank correlation",
-    "Spearman’s correlation"
+    "Spearman’s rank correlation"
   ]
 }

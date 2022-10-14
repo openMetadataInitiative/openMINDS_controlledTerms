@@ -11,10 +11,10 @@
   "name": "calretinin",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5717",
   "synonym": [
-    "calbindin 2",
     "29kDa calbindin",
     "CAB29",
-    "CR",
-    "CALB2"
+    "CALB2",
+    "calbindin 2",
+    "CR"
   ]
 }

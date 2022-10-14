@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002023",
   "synonym": [
     "Cl",
-    "insular claustrum",
-    "dorsal portion of claustrum",
-    "dorsal claustrum",
     "claustrum",
-    "claustrum (Burdach)"
+    "claustrum (Burdach)",
+    "dorsal claustrum",
+    "dorsal portion of claustrum",
+    "insular claustrum"
   ]
 }

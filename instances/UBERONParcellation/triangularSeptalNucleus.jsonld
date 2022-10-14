@@ -11,11 +11,11 @@
   "name": "triangular septal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002977",
   "synonym": [
-    "TS",
-    "triangular nucleus septum (Cajal)",
-    "triangular nucleus of septum",
+    "nucleus septalis triangularis",
     "nucleus triangularis septi",
+    "triangular nucleus of septum",
     "triangular nucleus of the septum",
-    "nucleus septalis triangularis"
+    "triangular nucleus septum (Cajal)",
+    "TS"
   ]
 }

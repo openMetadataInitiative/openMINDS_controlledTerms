@@ -11,9 +11,9 @@
   "name": "occipital cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016540",
   "synonym": [
+    "cortex of occipital lobe",
     "gray matter of occipital lobe",
     "occipital lobe cortex",
-    "occipital neocortex",
-    "cortex of occipital lobe"
+    "occipital neocortex"
   ]
 }

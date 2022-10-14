@@ -12,8 +12,8 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002751",
   "synonym": [
     "gyrus temporalis inferior",
-    "lateral occipitotemporal gyrus (heimer-83)",
     "inferotemporal cortex",
-    "IT cortex"
+    "IT cortex",
+    "lateral occipitotemporal gyrus (heimer-83)"
   ]
 }

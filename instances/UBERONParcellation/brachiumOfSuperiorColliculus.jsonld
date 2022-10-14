@@ -11,14 +11,14 @@
   "name": "brachium of superior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002580",
   "synonym": [
-    "superior quadrigeminal brachium",
-    "superior collicular brachium",
-    "superior brachium",
-    "superior colliculus brachium",
-    "brachium quadrigeminum superius",
     "brachium colliculi cranialis",
     "brachium colliculi rostralis",
     "brachium colliculi superioris",
-    "brachium of the superior colliculus"
+    "brachium of the superior colliculus",
+    "brachium quadrigeminum superius",
+    "superior brachium",
+    "superior collicular brachium",
+    "superior colliculus brachium",
+    "superior quadrigeminal brachium"
   ]
 }

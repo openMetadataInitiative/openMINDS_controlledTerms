@@ -11,12 +11,12 @@
   "name": "red nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001947",
   "synonym": [
-    "nucleus ruber",
     "nucleus rotundus subthalamo-peduncularis",
-    "red nucleus (Burdach)",
+    "nucleus ruber",
     "nucleus ruber tegmenti",
     "nucleus ruber tegmenti (Stilling)",
     "R",
-    "R program"
+    "R program",
+    "red nucleus (Burdach)"
   ]
 }

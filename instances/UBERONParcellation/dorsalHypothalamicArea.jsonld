@@ -11,11 +11,11 @@
   "name": "dorsal hypothalamic area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002954",
   "synonym": [
+    "area dorsalis hypothalami",
+    "area hypothalamica dorsalis",
     "DH",
     "dorsal hypothalamic region",
     "dorsal hypothalamic zone",
-    "nucleus hypothalamicus dorsalis",
-    "area dorsalis hypothalami",
-    "area hypothalamica dorsalis"
+    "nucleus hypothalamicus dorsalis"
   ]
 }

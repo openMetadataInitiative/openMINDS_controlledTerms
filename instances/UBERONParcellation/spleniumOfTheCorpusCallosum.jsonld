@@ -11,10 +11,10 @@
   "name": "splenium of the corpus callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015708",
   "synonym": [
-    "splenium of corpus callosum",
+    "corpus callosum splenium",
+    "splenium",
     "splenium corporis callosi",
     "splenium corpus callosi",
-    "corpus callosum splenium",
-    "splenium"
+    "splenium of corpus callosum"
   ]
 }

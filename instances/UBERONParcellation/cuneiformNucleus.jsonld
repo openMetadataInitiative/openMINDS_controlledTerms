@@ -11,11 +11,11 @@
   "name": "cuneiform nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002696",
   "synonym": [
-    "CnF",
-    "parabigeminal area (mai)",
-    "cunieform nucleus",
-    "cuneiform nucleus (Castaldi)",
     "area parabigeminalis (Mai)",
-    "nucleus cuneiformis"
+    "CnF",
+    "cuneiform nucleus (Castaldi)",
+    "cunieform nucleus",
+    "nucleus cuneiformis",
+    "parabigeminal area (mai)"
   ]
 }

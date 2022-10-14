@@ -11,10 +11,10 @@
   "name": "parasubiculum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004683",
   "synonym": [
-    "PaS",
     "parasubicular area",
-    "parasubiculum",
+    "parasubicular cortex",
     "parasubicular cortex (parasubiculum)",
-    "parasubicular cortex"
+    "parasubiculum",
+    "PaS"
   ]
 }

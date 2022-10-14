@@ -11,12 +11,12 @@
   "name": "postcentral gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002581",
   "synonym": [
-    "posterior central gyrus",
-    "postrolandic gyrus",
-    "postcentral convolution",
+    "gyrus centralis posterior",
     "gyrus postcentralis",
     "post central gyrus",
-    "gyrus centralis posterior",
+    "postcentral convolution",
+    "posterior central gyrus",
+    "postrolandic gyrus",
     "somatosensory cortex"
   ]
 }

@@ -11,18 +11,18 @@
   "name": "preoptic periventricular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002622",
   "synonym": [
-    "POP",
-    "preoptic periventricular hypothalamic nucleus",
-    "nucleus preopticus periventricularis",
-    "periventricular preoptic nucleus",
+    "anterior portion",
     "dorsal periventricular hypothalamic nucleus",
-    "nucleus periventricularis preopticus",
     "nucleus periventricularis hypothalami",
+    "nucleus periventricularis praeopticus",
+    "nucleus periventricularis preopticus",
+    "nucleus preopticus periventricularis",
     "pars dorsalis",
     "periventricular hypothalamic nucleus",
-    "preoptic part",
     "periventricular nucleus",
-    "anterior portion",
-    "nucleus periventricularis praeopticus"
+    "periventricular preoptic nucleus",
+    "POP",
+    "preoptic part",
+    "preoptic periventricular hypothalamic nucleus"
   ]
 }

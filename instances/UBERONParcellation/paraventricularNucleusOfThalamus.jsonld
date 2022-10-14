@@ -11,14 +11,14 @@
   "name": "paraventricular nucleus of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001920",
   "synonym": [
-    "PV",
-    "paraventricular thalamic nucleus",
+    "nuclei paraventriculares thalami",
+    "nucleus paramedianus (Hassler)",
+    "nucleus paraventricularis thalami",
+    "paraventricular gray",
     "paraventricular nuclei",
     "paraventricular nuclei of thalamus",
-    "paraventricular gray",
-    "nuclei paraventriculares thalami",
-    "nucleus paraventricularis thalami",
-    "nucleus paramedianus (Hassler)",
-    "paraventricular nucleus of the thalamus"
+    "paraventricular nucleus of the thalamus",
+    "paraventricular thalamic nucleus",
+    "PV"
   ]
 }

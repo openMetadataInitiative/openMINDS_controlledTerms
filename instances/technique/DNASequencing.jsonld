@@ -11,9 +11,9 @@
   "name": "DNA sequencing",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0000626",
   "synonym": [
-    "DNA sequencing assay",
-    "DNA-Seq",
+    "deoxyribonucleic acid sequencing",
     "deoxyribonucleic acid sequencing assay",
-    "deoxyribonucleic acid sequencing"
+    "DNA sequencing assay",
+    "DNA-Seq"
   ]
 }

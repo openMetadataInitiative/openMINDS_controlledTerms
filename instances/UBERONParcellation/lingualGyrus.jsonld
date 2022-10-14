@@ -11,12 +11,12 @@
   "name": "lingual gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002943",
   "synonym": [
-    "medial occipitotemporal gyrus",
-    "lingula of cerebral hemisphere",
-    "gyrus occipitotemporalis medialis",
-    "medial occipitotemporal gyrus-2",
     "gyrus lingualis",
+    "gyrus occipitotemporalis medialis",
+    "lingula gyrus",
+    "lingula of cerebral hemisphere",
     "medial occipito-temporal gyrus",
-    "lingula gyrus"
+    "medial occipitotemporal gyrus",
+    "medial occipitotemporal gyrus-2"
   ]
 }

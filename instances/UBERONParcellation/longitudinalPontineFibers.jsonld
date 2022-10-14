@@ -11,12 +11,12 @@
   "name": "longitudinal pontine fibers",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002732",
   "synonym": [
+    "corticofugal fibers",
+    "fasiculii longitudinales pyramidales",
+    "fibrae pontis longitudinales",
     "longitudinal fasciculus of the pons",
     "longitudinal pontine fibers",
     "longitudinal pontine fibres",
-    "longitudinal pontine tract",
-    "fibrae pontis longitudinales",
-    "corticofugal fibers",
-    "fasiculii longitudinales pyramidales"
+    "longitudinal pontine tract"
   ]
 }

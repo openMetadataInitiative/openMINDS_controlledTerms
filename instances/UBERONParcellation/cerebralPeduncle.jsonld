@@ -11,15 +11,15 @@
   "name": "cerebral peduncle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002623",
   "synonym": [
+    "cerebal peduncle",
+    "cerebral peduncle",
+    "cerebral peduncle (archaic)",
     "CP",
     "peduncle of midbrain",
-    "cerebral peduncle",
-    "pedunculus cerebri",
     "pedunculi cerebri",
-    "tegmentum",
-    "cerebal peduncle",
-    "cerebral peduncle (archaic)",
+    "pedunculus cerebralis",
     "pedunculus cerebri",
-    "pedunculus cerebralis"
+    "pedunculus cerebri",
+    "tegmentum"
   ]
 }

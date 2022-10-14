@@ -11,14 +11,14 @@
   "name": "choline acetyltransferase expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "choline acetyltransferase expressing cell",
-    "choline acetyltransferase-positive neuron",
-    "choline acetyltransferase-positive cell",
     "ChAT+ cell",
     "ChAT+ neuron",
+    "ChAT-expressing cell",
+    "ChAT-expressing neuron",
     "ChAT-positive cell",
     "ChAT-positive neuron",
-    "ChAT-expressing cell",
-    "ChAT-expressing neuron"
+    "choline acetyltransferase expressing cell",
+    "choline acetyltransferase-positive cell",
+    "choline acetyltransferase-positive neuron"
   ]
 }

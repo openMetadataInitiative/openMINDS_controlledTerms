@@ -12,14 +12,14 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002886",
   "synonym": [
     "LA",
-    "lateral nucleus of amygdala",
-    "medial principal nucleus",
-    "lateral principal nucleus of amygdala",
-    "nucleus amygdaloideus lateralis",
-    "nucleus lateralis amygdalae",
-    "lateral nucleus of the amygdala",
-    "nucleus amygdalae lateralis",
+    "lateral amygdala",
     "lateral amygdalar nucleus",
-    "lateral amygdala"
+    "lateral nucleus of amygdala",
+    "lateral nucleus of the amygdala",
+    "lateral principal nucleus of amygdala",
+    "medial principal nucleus",
+    "nucleus amygdalae lateralis",
+    "nucleus amygdaloideus lateralis",
+    "nucleus lateralis amygdalae"
   ]
 }

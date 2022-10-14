@@ -11,15 +11,15 @@
   "name": "paratenial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002992",
   "synonym": [
-    "PT",
-    "paratenial thalamic nucleus",
-    "parataenial nucleus",
-    "nucleus parataenialis",
-    "paratenial nucleus of thalamus",
     "nuclei parataeniales thalami",
+    "nucleus parataenialis",
     "nucleus parataenialis (Hassler)",
     "nucleus parataenialis thalami",
     "nucleus paratenialis thalami",
-    "paratenial nucleus of the thalamus"
+    "parataenial nucleus",
+    "paratenial nucleus of thalamus",
+    "paratenial nucleus of the thalamus",
+    "paratenial thalamic nucleus",
+    "PT"
   ]
 }

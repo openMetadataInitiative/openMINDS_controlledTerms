@@ -11,14 +11,14 @@
   "name": "ventral nucleus of lateral lemniscus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002604",
   "synonym": [
-    "VLL",
     "anterior nucleus of lateral lemniscus",
-    "ventral nucleus of the lateral lemniscus",
-    "nucleus of the lateral lemniscus",
-    "ventral part",
     "nucleus anterior lemnisci lateralis",
-    "nucleus of the lateral lemniscus ventral part",
+    "nucleus lemnisci lateralis pars ventralis",
     "nucleus lemnisci lateralis ventralis",
-    "nucleus lemnisci lateralis pars ventralis"
+    "nucleus of the lateral lemniscus",
+    "nucleus of the lateral lemniscus ventral part",
+    "ventral nucleus of the lateral lemniscus",
+    "ventral part",
+    "VLL"
   ]
 }

@@ -11,11 +11,11 @@
   "name": "paraventricular nucleus of the hypothalamus descending division",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014602",
   "synonym": [
-    "PVHd",
-    "paraventricular nucleus of the hypothalamus descending division",
-    "paraventricular nucleus of the hypothalamus",
+    "descending division",
     "descending division",
     "paraventricular hypothalamic nucleus",
-    "descending division"
+    "paraventricular nucleus of the hypothalamus",
+    "paraventricular nucleus of the hypothalamus descending division",
+    "PVHd"
   ]
 }

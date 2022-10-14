@@ -11,13 +11,13 @@
   "name": "periolivary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002971",
   "synonym": [
-    "peri-olivary nucleus",
     "nuclei periolivares",
-    "peri-olivary nuclei",
-    "POI",
     "nucleus periolivaris",
-    "superior olivary complex periolivary region",
+    "peri-olivary nuclei",
+    "peri-olivary nucleus",
+    "periolivary nuclei",
     "periolivary region",
-    "periolivary nuclei"
+    "POI",
+    "superior olivary complex periolivary region"
   ]
 }

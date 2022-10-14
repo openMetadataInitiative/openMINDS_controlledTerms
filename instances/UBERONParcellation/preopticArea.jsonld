@@ -11,17 +11,17 @@
   "name": "preoptic area",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001928",
   "synonym": [
-    "POA",
-    "preoptic nuclei",
-    "area proptica",
-    "preoptic region of hypothalamus",
-    "regio hypothalamica anterior",
-    "preoptic hypothalamic area",
     "area hypothalamica rostralis",
-    "preoptic hypothalamic region",
-    "nuclei preoptici",
-    "area preoptica",
     "area praeoptica",
-    "preoptic region"
+    "area preoptica",
+    "area proptica",
+    "nuclei preoptici",
+    "POA",
+    "preoptic hypothalamic area",
+    "preoptic hypothalamic region",
+    "preoptic nuclei",
+    "preoptic region",
+    "preoptic region of hypothalamus",
+    "regio hypothalamica anterior"
   ]
 }

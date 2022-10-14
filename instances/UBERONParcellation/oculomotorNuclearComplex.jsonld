@@ -12,18 +12,18 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001715",
   "synonym": [
     "3N",
-    "oculomotor nucleus",
-    "oculomotor III nucleus",
-    "nucleus of third cranial nerve",
-    "nucleus of oculomotor nerve",
-    "oculomotor III nuclear complex",
-    "OM",
-    "nucleus of oculomotor nuclear complex",
-    "nucleus nervi oculomotorii",
-    "third cranial nerve nucleus",
     "motor nucleus III",
-    "oculomotor motornucleus",
+    "nIII",
+    "nucleus nervi oculomotorii",
     "nucleus oculomotorius",
-    "nIII"
+    "nucleus of oculomotor nerve",
+    "nucleus of oculomotor nuclear complex",
+    "nucleus of third cranial nerve",
+    "oculomotor III nuclear complex",
+    "oculomotor III nucleus",
+    "oculomotor motornucleus",
+    "oculomotor nucleus",
+    "OM",
+    "third cranial nerve nucleus"
   ]
 }

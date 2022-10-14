@@ -11,10 +11,10 @@
   "name": "supramarginal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002688",
   "synonym": [
-    "inferior parietal lobule (krieg)",
     "anterior part of inferior parietal lobule",
-    "gyrus supramarginalis",
+    "BA40",
     "Brodmann area 40",
-    "BA40"
+    "gyrus supramarginalis",
+    "inferior parietal lobule (krieg)"
   ]
 }

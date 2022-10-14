@@ -11,14 +11,14 @@
   "name": "paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014599",
   "synonym": [
-    "PVHam",
-    "paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part",
-    "paraventricular nucleus of the hypothalamus",
-    "magnocellular division",
     "anterior magnocellular part",
+    "anterior magnocellular part",
+    "magnocellular division",
+    "magnocellular division",
     "paraventricular hypothalamic nucleus",
-    "magnocellular division",
-    "anterior magnocellular part",
-    "paraventricular hypothalamic nucleus anterior magnocellular part"
+    "paraventricular hypothalamic nucleus anterior magnocellular part",
+    "paraventricular nucleus of the hypothalamus",
+    "paraventricular nucleus of the hypothalamus magnocellular division - anterior magnocellular part",
+    "PVHam"
   ]
 }

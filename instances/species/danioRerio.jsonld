@@ -11,14 +11,14 @@
   "name": "Danio rerio",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_7955",
   "synonym": [
-    "zebrafish",
-    "zebra fish",
-    "zebra danio",
-    "leopard danio",
-    "Danio frankei",
-    "Cyprinus rerio",
-    "Danio rerio frankei",
+    "Brachydanio rerio",
     "Brachydanio rerio frankei",
-    "Brachydanio rerio"
+    "Cyprinus rerio",
+    "Danio frankei",
+    "Danio rerio frankei",
+    "leopard danio",
+    "zebra danio",
+    "zebra fish",
+    "zebrafish"
   ]
 }

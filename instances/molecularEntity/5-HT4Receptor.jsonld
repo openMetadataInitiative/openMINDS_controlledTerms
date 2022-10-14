@@ -11,9 +11,9 @@
   "name": "5-HT4 receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_6151",
   "synonym": [
+    "5-HT4",
     "5-HT4 serotonin receptor",
     "5-hydroxytryptamine 4 receptor",
-    "serotonin receptor 4",
-    "5-HT4"
+    "serotonin receptor 4"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "mammillary peduncle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002720",
   "synonym": [
+    "mammillary peduncle (Meynert)",
     "mpe",
     "peduncle of mammillary body",
     "pedunculus corporis mamillaris",
-    "mammillary peduncle (Meynert)",
     "pedunculus corporis mammillaris"
   ]
 }

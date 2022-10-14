@@ -11,12 +11,12 @@
   "name": "external nucleus of inferior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002571",
   "synonym": [
-    "nucleus lateralis colliculi inferioris",
-    "nucleus externus colliculi inferioris",
     "external cortex of the inferior colliculus",
-    "nucleus externus (colliculi inferioris)",
+    "external nucleus",
     "external nucleus of the inferior colliculus",
     "inferior colliculus",
-    "external nucleus"
+    "nucleus externus (colliculi inferioris)",
+    "nucleus externus colliculi inferioris",
+    "nucleus lateralis colliculi inferioris"
   ]
 }

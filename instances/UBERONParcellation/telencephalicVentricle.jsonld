@@ -11,15 +11,15 @@
   "name": "telencephalic ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002285",
   "synonym": [
-    "LV",
-    "lateral ventricle",
-    "lateral ventricles",
-    "telencephalic ventricle",
-    "telencephalon lateral ventricle",
     "forebrain ventricle",
-    "tectal ventricle",
-    "telencephalic ventricles",
+    "lateral ventricle",
     "lateral ventricle of brain",
-    "telencephalic vesicle"
+    "lateral ventricles",
+    "LV",
+    "tectal ventricle",
+    "telencephalic ventricle",
+    "telencephalic ventricles",
+    "telencephalic vesicle",
+    "telencephalon lateral ventricle"
   ]
 }

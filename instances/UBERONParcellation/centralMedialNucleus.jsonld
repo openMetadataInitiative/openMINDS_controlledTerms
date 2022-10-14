@@ -11,13 +11,13 @@
   "name": "central medial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001923",
   "synonym": [
-    "CM",
-    "nucleus centralis medialis thalami",
-    "central medial thalamic nucleus",
-    "central medial nucleus thalamus (Rioch 1928)",
     "central medial nucleus of thalamus",
-    "nucleus centralis medialis",
+    "central medial nucleus of the thalamus",
+    "central medial nucleus thalamus (Rioch 1928)",
+    "central medial thalamic nucleus",
     "centromedial thalamic nucleus",
-    "central medial nucleus of the thalamus"
+    "CM",
+    "nucleus centralis medialis",
+    "nucleus centralis medialis thalami"
   ]
 }

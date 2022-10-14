@@ -12,19 +12,19 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002891",
   "synonym": [
     "CoA",
-    "posterior amygdaloid area",
-    "posterior cortical nucleus",
-    "posterior cortical amygdaloid nucleus",
-    "posterior cortical nucleus of amygdala",
-    "posterior cortical amygdalar nucleus",
-    "ventral cortical amygdaloid nucleus",
-    "cortical amygdalar nucleus",
+    "cortex periamygdaloideus",
     "cortical amygdala",
     "cortical amygdalar area",
+    "cortical amygdalar nucleus",
     "nucleus amygdalae corticalis",
-    "ventral cortical nucleus",
-    "posterior cortical nucleus of the amygdala",
     "nucleus corticalis amygdalae",
-    "cortex periamygdaloideus"
+    "posterior amygdaloid area",
+    "posterior cortical amygdalar nucleus",
+    "posterior cortical amygdaloid nucleus",
+    "posterior cortical nucleus",
+    "posterior cortical nucleus of amygdala",
+    "posterior cortical nucleus of the amygdala",
+    "ventral cortical amygdaloid nucleus",
+    "ventral cortical nucleus"
   ]
 }

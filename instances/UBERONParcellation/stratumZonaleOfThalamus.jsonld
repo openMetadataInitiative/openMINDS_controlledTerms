@@ -11,8 +11,8 @@
   "name": "stratum zonale of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002801",
   "synonym": [
-    "stratum zonale thalami",
     "neuraxis stratum",
-    "stratum zonale of the thalamus"
+    "stratum zonale of the thalamus",
+    "stratum zonale thalami"
   ]
 }

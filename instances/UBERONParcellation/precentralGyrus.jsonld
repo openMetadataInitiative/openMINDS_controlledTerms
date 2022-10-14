@@ -11,11 +11,11 @@
   "name": "precentral gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002703",
   "synonym": [
-    "precentral convolution",
-    "prerolandic gyrus",
-    "gyrus praecentralis",
+    "anterior central gyrus",
     "gyrus centralis anterior",
+    "gyrus praecentralis",
     "motor cortex (Noback)",
-    "anterior central gyrus"
+    "precentral convolution",
+    "prerolandic gyrus"
   ]
 }

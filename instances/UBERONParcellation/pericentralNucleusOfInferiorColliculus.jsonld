@@ -12,11 +12,11 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002577",
   "synonym": [
     "cortex of inferior colliculus",
-    "nucleus pericentralis colliculi inferioris",
-    "pericentral nucleus of the inferior colliculus",
     "dorsal cortex of the inferior colliculus",
-    "nucleus pericentralis (colliculi inferioris)",
+    "dorsal nucleus",
     "inferior colliculus",
-    "dorsal nucleus"
+    "nucleus pericentralis (colliculi inferioris)",
+    "nucleus pericentralis colliculi inferioris",
+    "pericentral nucleus of the inferior colliculus"
   ]
 }

@@ -12,12 +12,12 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002756",
   "synonym": [
     "ACG",
-    "gyrus limbicus anterior",
     "anterior cingulate",
+    "anterior division",
+    "cGa",
+    "cingulate gyrus",
     "cortex cingularis anterior",
     "gyrus cinguli anterior",
-    "cingulate gyrus",
-    "anterior division",
-    "cGa"
+    "gyrus limbicus anterior"
   ]
 }

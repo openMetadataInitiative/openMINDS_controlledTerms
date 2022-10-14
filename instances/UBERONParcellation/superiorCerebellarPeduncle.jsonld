@@ -11,19 +11,19 @@
   "name": "superior cerebellar peduncle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002150",
   "synonym": [
-    "scp",
     "brachium conjunctivum",
     "crus cerebello-cerebrale",
+    "pedunculus cerebellaris cranialis",
+    "pedunculus cerebellaris rostralis",
+    "pedunculus cerebellaris superior",
+    "scp",
+    "Stilling)",
+    "superior cerebelar peduncles",
+    "superior cerebellar peduncle (brachium conjuctivum)",
     "superior cerebellar peduncle (brachium conjunctivum)",
     "superior cerebellar peduncle (Galen",
-    "Stilling)",
-    "superior cerebellar peduncle (brachium conjuctivum)",
-    "pedunculus cerebellaris superior",
-    "tractus cerebello-tegmentalis mesencephali",
-    "pedunculus cerebellaris rostralis",
-    "superior cerebelar peduncles",
+    "superior peduncle",
     "tractus cerebello-rubralis",
-    "pedunculus cerebellaris cranialis",
-    "superior peduncle"
+    "tractus cerebello-tegmentalis mesencephali"
   ]
 }

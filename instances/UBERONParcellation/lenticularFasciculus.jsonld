@@ -11,17 +11,17 @@
   "name": "lenticular fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014529",
   "synonym": [
-    "Field H2 of Forel",
-    "field H2",
-    "fasciculus lenticularis",
-    "Forel's field H2",
-    "lenticular fasciculus [h2]",
     "dorsal division of ansa lenticularis",
-    "lenticular fasciculus",
-    "lenticular fasciculus of diencephalon",
+    "fasciculus lenticularis",
+    "fasciculus lenticularis [h2]",
+    "field H2",
+    "Field H2 of Forel",
+    "Forel's field H2",
     "forel's field h2",
+    "lenticular fasciculus",
+    "lenticular fasciculus [h2]",
+    "lenticular fasciculus of diencephalon",
     "lenticular fasciculus of telencephalon",
-    "tegmental area h2",
-    "fasciculus lenticularis [h2]"
+    "tegmental area h2"
   ]
 }

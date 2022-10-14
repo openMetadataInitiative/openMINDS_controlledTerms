@@ -11,10 +11,10 @@
   "name": "vestibular nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002673",
   "synonym": [
+    "nuclei vestibulares",
+    "nuclei vestibulares in medulla oblongata",
     "vestibular nuclei",
     "vestibular nuclei in medulla oblongata",
-    "nuclei vestibulares in medulla oblongata",
-    "vestibular nucleus",
-    "nuclei vestibulares"
+    "vestibular nucleus"
   ]
 }

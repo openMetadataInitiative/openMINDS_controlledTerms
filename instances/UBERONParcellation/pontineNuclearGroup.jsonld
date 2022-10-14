@@ -11,16 +11,16 @@
   "name": "pontine nuclear group",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002151",
   "synonym": [
+    "nuclei brachii pontis",
+    "nuclei pontis",
+    "nucleus pontis",
     "Pn",
     "pontine gray",
-    "pontine nuclei",
+    "pontine gray matter",
+    "pontine grey matter",
     "pontine nuclear complex",
     "pontine nuclear group",
-    "pontine nucleus",
-    "pontine gray matter",
-    "nuclei brachii pontis",
-    "pontine grey matter",
-    "nuclei pontis",
-    "nucleus pontis"
+    "pontine nuclei",
+    "pontine nucleus"
   ]
 }

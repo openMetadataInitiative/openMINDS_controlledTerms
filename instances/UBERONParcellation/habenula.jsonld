@@ -11,16 +11,16 @@
   "name": "habenula",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001904",
   "synonym": [
-    "Hb",
-    "habenular nucleus",
-    "habenular nuclei",
-    "habenula complex",
-    "nucleus habenularis",
-    "ganglion interpedunculare",
-    "nuclei habenulares",
-    "pineal peduncle",
     "ganglion intercrurale",
+    "ganglion interpedunculare",
+    "habenula complex",
     "habenulae",
-    "habenular complex"
+    "habenular complex",
+    "habenular nuclei",
+    "habenular nucleus",
+    "Hb",
+    "nuclei habenulares",
+    "nucleus habenularis",
+    "pineal peduncle"
   ]
 }

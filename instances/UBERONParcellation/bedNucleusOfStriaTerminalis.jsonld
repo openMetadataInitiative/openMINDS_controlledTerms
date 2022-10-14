@@ -11,21 +11,21 @@
   "name": "bed nucleus of stria terminalis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001880",
   "synonym": [
-    "BST",
-    "bed nucleus stria terminalis (Johnson)",
-    "interstitial nucleus of stria terminalis",
-    "intercalate nucleus of stria terminalis",
-    "bed nucleus of the stria terminalis",
-    "nucleus of the stria terminalis",
-    "nucleus of stria terminalis",
     "bed nuclei of the stria terminalis",
-    "nucleus striae terminalis",
+    "bed nuclei of the stria terminalis",
+    "bed nucleus of stria terminalis",
+    "bed nucleus of the stria terminalis",
+    "bed nucleus stria terminalis (Johnson)",
     "bed nucleus striae terminalis",
-    "stria terminalis nucleus",
+    "BST",
+    "intercalate nucleus of stria terminalis",
+    "interstitial nucleus of stria terminalis",
     "nuclei of stria terminalis",
     "nucleus interstitialis striae terminalis",
+    "nucleus of stria terminalis",
+    "nucleus of the stria terminalis",
     "nucleus proprius stria terminalis (bed nucleus)",
-    "bed nuclei of the stria terminalis",
-    "bed nucleus of stria terminalis"
+    "nucleus striae terminalis",
+    "stria terminalis nucleus"
   ]
 }

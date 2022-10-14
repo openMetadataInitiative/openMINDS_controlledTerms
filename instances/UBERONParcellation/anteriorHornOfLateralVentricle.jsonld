@@ -11,15 +11,15 @@
   "name": "anterior horn of lateral ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002651",
   "synonym": [
-    "cornu anterius (ventriculi lateralis)",
-    "ventriculus lateralis",
-    "cornu anterius",
-    "cornu frontale ventriculi lateralis",
     "anterior horn of lateral ventricle",
-    "frontal horn of lateral ventricle",
-    "cornu frontale (ventriculi lateralis)",
-    "cornu anterius ventriculi lateralis",
+    "anterior horn of lateral ventricle",
     "cornu anterius",
-    "anterior horn of lateral ventricle"
+    "cornu anterius",
+    "cornu anterius (ventriculi lateralis)",
+    "cornu anterius ventriculi lateralis",
+    "cornu frontale (ventriculi lateralis)",
+    "cornu frontale ventriculi lateralis",
+    "frontal horn of lateral ventricle",
+    "ventriculus lateralis"
   ]
 }

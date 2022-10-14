@@ -11,16 +11,16 @@
   "name": "barrel cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0010415",
   "synonym": [
+    "barrel cortex",
+    "barrel field",
+    "barrel field",
     "barrel field",
     "barrel field of the primary somatosensory area",
-    "whisker barrels",
+    "barrel field sensory area",
+    "primary somatosensory area",
     "primary somatosensory area barrel field",
     "primary somatosensory cortex",
-    "barrel field",
-    "primary somatosensory area",
-    "barrel field",
-    "whisker sensory area",
-    "barrel field sensory area",
-    "barrel cortex"
+    "whisker barrels",
+    "whisker sensory area"
   ]
 }

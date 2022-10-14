@@ -11,8 +11,8 @@
   "name": "Beta-Amyloid 40",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_13181",
   "synonym": [
-    "Amyloid-Beta 40",
+    "Abeta40",
     "AbetaX-40",
-    "Abeta40"
+    "Amyloid-Beta 40"
   ]
 }

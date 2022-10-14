@@ -11,15 +11,15 @@
   "name": "induseum griseum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015793",
   "synonym": [
-    "IG",
     "dorsal hippocampal continuation",
-    "indusium griseum",
-    "gyrus epicallosus",
-    "supracallosal gyrus",
-    "gyrus indusium griseum",
     "gray stria of Lancisi",
-    "supracommissural hippocampus",
+    "gyrus epicallosus",
+    "gyrus indusium griseum",
+    "IG",
+    "indusium griseum",
+    "superior part of intralimbic gyrus",
     "superior segment of intralimbic gyrus",
-    "superior part of intralimbic gyrus"
+    "supracallosal gyrus",
+    "supracommissural hippocampus"
   ]
 }

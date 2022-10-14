@@ -12,16 +12,16 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002613",
   "synonym": [
     "Glo",
-    "posterior interposed nucleus",
-    "nucleus globosus",
-    "posterior interpositus nucleus",
-    "medial interpositus nucleus",
-    "nucleus interpositus posterior",
-    "medial interposed nucleus",
     "globose nucleus",
+    "medial interposed nucleus",
     "medial interpositus (globose) nucleus",
+    "medial interpositus nucleus",
+    "nuclei globosi",
+    "nucleus globosus",
     "nucleus globosus cerebelli",
+    "nucleus interpositus posterior",
     "nucleus interpositus posterior cerebelli",
-    "nuclei globosi"
+    "posterior interposed nucleus",
+    "posterior interpositus nucleus"
   ]
 }

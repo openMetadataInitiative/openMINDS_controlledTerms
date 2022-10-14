@@ -11,9 +11,9 @@
   "name": "rostrum of corpus callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015703",
   "synonym": [
-    "rostrum corporis callosi",
-    "rostrum corpus callosi",
+    "corpus callosum rostrum",
     "rostrum",
-    "corpus callosum rostrum"
+    "rostrum corporis callosi",
+    "rostrum corpus callosi"
   ]
 }

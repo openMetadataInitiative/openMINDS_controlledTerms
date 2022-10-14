@@ -11,12 +11,12 @@
   "name": "M1 receptor",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000001613",
   "synonym": [
-    "muscarinic acetylcholine receptor 1",
+    "cholinergic receptor, muscarinic 1",
     "M1",
-    "M1 AChR",
     "M1 acetylcholine receptor",
+    "M1 AChR",
+    "muscarinic acetylcholine receptor 1",
     "muscarinic acetylcholine receptor M1",
-    "muscarinic acetylcholine receptor type 1",
-    "cholinergic receptor, muscarinic 1"
+    "muscarinic acetylcholine receptor type 1"
   ]
 }

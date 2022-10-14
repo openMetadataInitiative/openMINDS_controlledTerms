@@ -11,14 +11,14 @@
   "name": "middle cerebellar peduncle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002152",
   "synonym": [
-    "mcp",
     "brachium pontis",
-    "crus ponto-cerebellare",
+    "brachium pontis (stem of middle cerebellar peduncle)",
     "crus cerebelli ad pontem",
-    "pedunculus cerebellaris medialis",
-    "pedunculus cerebellaris pontinus",
-    "pedunculus cerebellaris medius",
+    "crus ponto-cerebellare",
+    "mcp",
     "mid-cerebellar peduncle",
-    "brachium pontis (stem of middle cerebellar peduncle)"
+    "pedunculus cerebellaris medialis",
+    "pedunculus cerebellaris medius",
+    "pedunculus cerebellaris pontinus"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "support-vector regression algorithm",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "SVR algorithm",
-    "support-vector regression",
     "support vector regression",
     "support vector regression algorithm",
-    "SVR"
+    "support-vector regression",
+    "SVR",
+    "SVR algorithm"
   ]
 }

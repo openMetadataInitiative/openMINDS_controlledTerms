@@ -11,7 +11,7 @@
   "name": "eye movement tracking",
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0493574",
   "synonym": [
-    "eye tracking",
-    "eye motion tracking"
+    "eye motion tracking",
+    "eye tracking"
   ]
 }

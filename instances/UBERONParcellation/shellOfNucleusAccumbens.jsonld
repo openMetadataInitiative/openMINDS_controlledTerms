@@ -12,11 +12,11 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012171",
   "synonym": [
     "AcbSH",
-    "nucleus accumbens shell",
-    "shell of nucleus accumbens",
-    "shell region of nucleus accumbens",
-    "accumbens nucleus shell",
     "accumbens nucleus",
-    "shell"
+    "accumbens nucleus shell",
+    "nucleus accumbens shell",
+    "shell",
+    "shell of nucleus accumbens",
+    "shell region of nucleus accumbens"
   ]
 }

@@ -11,9 +11,9 @@
   "name": "medial longitudinal fasciculus of medulla",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002750",
   "synonym": [
-    "medial longitudinal fasciculus of medulla oblongata",
-    "medulla medial longitudinal fasciculus",
     "fasciculus longitudinalis medialis (myelencephali)",
-    "medial longitudinal fasciculus of the medulla"
+    "medial longitudinal fasciculus of medulla oblongata",
+    "medial longitudinal fasciculus of the medulla",
+    "medulla medial longitudinal fasciculus"
   ]
 }

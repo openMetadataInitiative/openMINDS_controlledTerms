@@ -11,9 +11,9 @@
   "name": "5-HT1B receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_6386",
   "synonym": [
-    "5-HT1B serotonin receptor",
+    "1B receptor",
     "5-HT1B",
-    "serotonin 1B receptor",
-    "1B receptor"
+    "5-HT1B serotonin receptor",
+    "serotonin 1B receptor"
   ]
 }

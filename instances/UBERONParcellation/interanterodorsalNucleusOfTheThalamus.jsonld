@@ -11,12 +11,12 @@
   "name": "interanterodorsal nucleus of the thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035972",
   "synonym": [
+    "IAD",
     "interanterodorsal nucleus of thalamus",
     "interanterodorsal nucleus of the thalamus",
     "interanterodorsal nucleus thalamus",
-    "nucleus interanterodorsalis",
-    "nucleus commissura interanterodorsalis",
     "interanterodorsal thalamic nucleus",
-    "IAD"
+    "nucleus commissura interanterodorsalis",
+    "nucleus interanterodorsalis"
   ]
 }

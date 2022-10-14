@@ -11,18 +11,18 @@
   "name": "lateral superior olivary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002779",
   "synonym": [
-    "LSO",
-    "accessory superior olive",
-    "superior olivary nucleus",
-    "lateral part",
-    "superior olive lateral part",
-    "lateral superior olive",
-    "accessory superior olivary nucleus",
-    "LSON",
     "accessory olivary nucleus",
+    "accessory superior olivary nucleus",
+    "accessory superior olive",
     "inferior olivary complex dorsalaccessory nucleus",
+    "lateral part",
+    "lateral part",
+    "lateral superior olive",
+    "LSO",
+    "LSON",
     "nucleus olivaris superior lateralis",
     "superior olivary complex",
-    "lateral part"
+    "superior olivary nucleus",
+    "superior olive lateral part"
   ]
 }

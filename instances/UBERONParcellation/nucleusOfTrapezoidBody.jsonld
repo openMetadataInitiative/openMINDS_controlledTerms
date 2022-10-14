@@ -11,14 +11,14 @@
   "name": "nucleus of trapezoid body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007633",
   "synonym": [
-    "Tz",
-    "trapezoid gray",
-    "trapezoid nuclei",
-    "trapezoid nuclear complex",
+    "nuclei of trapezoid body",
+    "nucleus corporis trapezoidei",
     "nucleus of the trapezoid body",
     "nucleus trapezoidalis",
     "set of nuclei of trapezoid body",
-    "nuclei of trapezoid body",
-    "nucleus corporis trapezoidei"
+    "trapezoid gray",
+    "trapezoid nuclear complex",
+    "trapezoid nuclei",
+    "Tz"
   ]
 }

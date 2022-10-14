@@ -11,20 +11,20 @@
   "name": "nucleus of solitary tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009050",
   "synonym": [
-    "nucleus of the tractus solitarius",
-    "nucleus of the solitary tract",
-    "nucleus solitary tract",
-    "nucleus tractus solitarius",
-    "solitary tract nucleus",
-    "solitary nucleus",
-    "nucleus tractus solitarii medullae oblongatae",
-    "nucleus of tractus solitarius",
-    "solitary nucleus",
-    "nucleus tractus solitarii",
-    "solitary nuclear complex",
-    "nuclei tractus solitarii",
     "Geschmackskern@de",
+    "nuclei tractus solitarii",
+    "nucleus of the solitary tract",
+    "nucleus of the tractus solitarius",
+    "nucleus of tractus solitarius",
+    "nucleus solitarius",
+    "nucleus solitary tract",
     "nucleus tracti solitarii",
-    "nucleus solitarius"
+    "nucleus tractus solitarii",
+    "nucleus tractus solitarii medullae oblongatae",
+    "nucleus tractus solitarius",
+    "solitary nuclear complex",
+    "solitary nucleus",
+    "solitary nucleus",
+    "solitary tract nucleus"
   ]
 }

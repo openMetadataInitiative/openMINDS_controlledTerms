@@ -11,10 +11,10 @@
   "name": "posterior nucleus of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003030",
   "synonym": [
-    "PTh",
+    "caudal thalamic nucleus",
     "nucleus posterior thalami",
     "nucleus thalami posterior",
-    "caudal thalamic nucleus",
-    "posterior nucleus of the thalamus"
+    "posterior nucleus of the thalamus",
+    "PTh"
   ]
 }

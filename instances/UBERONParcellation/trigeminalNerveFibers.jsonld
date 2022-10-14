@@ -11,9 +11,9 @@
   "name": "trigeminal nerve fibers",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003041",
   "synonym": [
-    "trigeminal nerve fibers",
     "central part of trigeminal nerve",
-    "trigeminal nerve tract",
-    "fibrae nervi trigemini"
+    "fibrae nervi trigemini",
+    "trigeminal nerve fibers",
+    "trigeminal nerve tract"
   ]
 }

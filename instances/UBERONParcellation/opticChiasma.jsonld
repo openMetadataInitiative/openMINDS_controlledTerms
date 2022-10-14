@@ -11,13 +11,13 @@
   "name": "optic chiasma",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000959",
   "synonym": [
-    "ox",
-    "decussation of optic nerve fibers",
-    "optic chiasma",
+    "chiasma",
+    "chiasma nervorum opticorum",
     "chiasma opticum",
+    "decussation of optic nerve fibers",
     "optic chiasm",
     "optic chiasm (Rufus of Ephesus)",
-    "chiasma",
-    "chiasma nervorum opticorum"
+    "optic chiasma",
+    "ox"
   ]
 }

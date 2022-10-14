@@ -11,10 +11,10 @@
   "name": "internal capsule of telencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001887",
   "synonym": [
-    "ic",
-    "internal capsule radiations",
     "brain internal capsule",
     "capsula interna",
-    "internal capsule"
+    "ic",
+    "internal capsule",
+    "internal capsule radiations"
   ]
 }

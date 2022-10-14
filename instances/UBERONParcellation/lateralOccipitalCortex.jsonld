@@ -11,12 +11,12 @@
   "name": "lateral occipital cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006114",
   "synonym": [
-    "lateral occipital gyrus",
-    "middle occipital gyrus",
+    "gyrus occipitalis lateralis",
+    "gyrus occipitalis medius",
     "gyrus occipitalis medius (mai)",
     "gyrus occipitalis secundus",
     "lateral occipital cortex",
-    "gyrus occipitalis lateralis",
-    "gyrus occipitalis medius"
+    "lateral occipital gyrus",
+    "middle occipital gyrus"
   ]
 }

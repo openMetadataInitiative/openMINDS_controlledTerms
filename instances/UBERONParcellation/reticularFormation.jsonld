@@ -11,9 +11,9 @@
   "name": "reticular formation",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002275",
   "synonym": [
-    "reticular formation of the brainstem",
-    "reticular formation (classical)",
+    "brain stem reticular formation",
     "brainstem reticular formation",
-    "brain stem reticular formation"
+    "reticular formation (classical)",
+    "reticular formation of the brainstem"
   ]
 }

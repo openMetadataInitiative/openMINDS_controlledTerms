@@ -11,15 +11,15 @@
   "name": "caudate-putamen",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005383",
   "synonym": [
+    "caudate putamen",
+    "caudate putamen",
+    "caudate putamen (striatum)",
     "Caudate-putamen",
     "caudateputamen",
-    "caudate putamen",
-    "caudoputamen",
-    "caudate putamen (striatum)",
-    "striatum",
-    "dorsal striatum",
-    "caudate putamen",
     "caudateputamen",
-    "neostriatum"
+    "caudoputamen",
+    "dorsal striatum",
+    "neostriatum",
+    "striatum"
   ]
 }

@@ -11,12 +11,12 @@
   "name": "accessory nerve fiber bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006117",
   "synonym": [
-    "accessory nerve fibers",
     "accessory nerve fiber bundle",
+    "accessory nerve fibers",
+    "accessory nerve fibers",
     "accessory nerve tract",
     "eleventh cranial nerve fibers",
-    "fibrae nervi accessorius",
-    "accessory nerve fibers",
-    "eleventh cranial nerve fibers"
+    "eleventh cranial nerve fibers",
+    "fibrae nervi accessorius"
   ]
 }

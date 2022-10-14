@@ -11,15 +11,15 @@
   "name": "dorsal longitudinal fasciculus of midbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003005",
   "synonym": [
-    "dlfmb",
-    "midbrain fasciculus of Schutz",
-    "midbrain dorsal longitudinal fasciculus",
-    "fasciculus of Schutz of midbrain",
-    "posterior longitudinal fasciculus of midbrain",
-    "midbrain bundle of Schutz",
     "bundle of Schutz of midbrain",
-    "midbrain posterior longitudinal fasciculus",
+    "dlfmb",
     "dorsal longitudinal fasciculus of the midbrain",
-    "fasciculus longitudinalis dorsalis (mesencephali)"
+    "fasciculus longitudinalis dorsalis (mesencephali)",
+    "fasciculus of Schutz of midbrain",
+    "midbrain bundle of Schutz",
+    "midbrain dorsal longitudinal fasciculus",
+    "midbrain fasciculus of Schutz",
+    "midbrain posterior longitudinal fasciculus",
+    "posterior longitudinal fasciculus of midbrain"
   ]
 }

@@ -11,12 +11,12 @@
   "name": "lateral preoptic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001931",
   "synonym": [
-    "LPO",
-    "lateral preoptic hypothalamic nucleus",
-    "lateral preoptic area",
+    "area praeoptica lateralis",
     "area preoptica lateralis",
-    "nucleus preopticus lateralis",
+    "lateral preoptic area",
+    "lateral preoptic hypothalamic nucleus",
+    "LPO",
     "nucleus praeopticus lateralis",
-    "area praeoptica lateralis"
+    "nucleus preopticus lateralis"
   ]
 }

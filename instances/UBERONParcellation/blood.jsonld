@@ -11,7 +11,7 @@
   "name": "blood",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000178",
   "synonym": [
-    "vertebrate blood",
-    "portion of blood"
+    "portion of blood",
+    "vertebrate blood"
   ]
 }

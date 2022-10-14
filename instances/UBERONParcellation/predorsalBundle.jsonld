@@ -11,11 +11,11 @@
   "name": "predorsal bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002754",
   "synonym": [
-    "pd",
-    "predorsal fasciculus",
-    "tectospinal fibers",
-    "Predorsal bundle of Edinger",
     "fasciculus praedorsalis (Tschermak)",
-    "fasciculus predorsalis"
+    "fasciculus predorsalis",
+    "pd",
+    "Predorsal bundle of Edinger",
+    "predorsal fasciculus",
+    "tectospinal fibers"
   ]
 }

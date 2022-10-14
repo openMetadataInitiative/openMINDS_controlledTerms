@@ -12,20 +12,20 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001718",
   "synonym": [
     "Me5",
-    "mesencephalic trigeminal nucleus",
-    "trigeminal nerve mesencepahlic nucleus",
-    "Nucleus of mesencephalic root of V",
-    "mesencephalic trigeminal V nucleus",
-    "trigeminal mesencephalic nucleus",
-    "trigeminal V mesencephalic nucleus",
     "mesencephalic nuclei of trigeminal nerves",
-    "nucleus mesencephalicus nervi trigeminalis",
-    "mesencephalic nucleus of the trigeminal nerve",
-    "nucleus mesencephalicus nervi trigemini",
-    "midbrain trigeminal nucleus",
-    "nucleus tractus mesencephalicus nervi trigemini",
-    "nucleus tractus mesencephalici nervi trigemini",
+    "mesencephalic nucleus",
     "mesencephalic nucleus of the trigeminal",
-    "mesencephalic nucleus"
+    "mesencephalic nucleus of the trigeminal nerve",
+    "mesencephalic trigeminal nucleus",
+    "mesencephalic trigeminal V nucleus",
+    "midbrain trigeminal nucleus",
+    "nucleus mesencephalicus nervi trigeminalis",
+    "nucleus mesencephalicus nervi trigemini",
+    "Nucleus of mesencephalic root of V",
+    "nucleus tractus mesencephalici nervi trigemini",
+    "nucleus tractus mesencephalicus nervi trigemini",
+    "trigeminal mesencephalic nucleus",
+    "trigeminal nerve mesencepahlic nucleus",
+    "trigeminal V mesencephalic nucleus"
   ]
 }

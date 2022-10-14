@@ -11,7 +11,7 @@
   "name": "light microscopy",
   "preferredOntologyIdentifier": "http://edamontology.org/topic_3385",
   "synonym": [
-    "optical microscopy",
-    "LM"
+    "LM",
+    "optical microscopy"
   ]
 }

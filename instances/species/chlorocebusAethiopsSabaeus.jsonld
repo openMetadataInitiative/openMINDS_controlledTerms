@@ -11,12 +11,12 @@
   "name": "Chlorocebus aethiops sabaeus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_60711",
   "synonym": [
-    "green monkey",
     "cercopithecus aethiops sabaeus",
-    "cercopithecus sabeus",
     "cercopithecus sabaeus",
-    "chlorocebus sabeus",
+    "cercopithecus sabeus",
+    "chlorocebus aethiops sabeus",
     "chlorocebus sabaeus",
-    "chlorocebus aethiops sabeus"
+    "chlorocebus sabeus",
+    "green monkey"
   ]
 }

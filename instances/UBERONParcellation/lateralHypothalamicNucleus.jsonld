@@ -11,10 +11,10 @@
   "name": "lateral hypothalamic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001937",
   "synonym": [
-    "LHy",
-    "nucleus hypothalamicus lateralis",
-    "lateral hypothalamic nuclei",
     "areas of Economo",
-    "economo's areas"
+    "economo's areas",
+    "lateral hypothalamic nuclei",
+    "LHy",
+    "nucleus hypothalamicus lateralis"
   ]
 }

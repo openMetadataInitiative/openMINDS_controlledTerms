@@ -12,12 +12,12 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001063",
   "synonym": [
     "Fl",
-    "neuraxis flocculus",
     "flocculus of cerebellum",
+    "H X",
+    "hemispheric lobule X",
     "lobule H X of Larsell",
     "lobule X",
-    "hemispheric lobule X",
     "lobule X of hemisphere of cerebellum",
-    "H X"
+    "neuraxis flocculus"
   ]
 }

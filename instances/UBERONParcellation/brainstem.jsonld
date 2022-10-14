@@ -11,13 +11,13 @@
   "name": "brainstem",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002298",
   "synonym": [
-    "brain stem",
-    "truncus encephali",
-    "lamina pallidi incompleta",
     "accessory medullary lamina of pallidum",
-    "truncus encephalicus",
-    "lamina medullaris incompleta pallidi",
+    "brain stem",
     "lamella pallidi incompleta",
-    "lamina medullaris accessoria"
+    "lamina medullaris accessoria",
+    "lamina medullaris incompleta pallidi",
+    "lamina pallidi incompleta",
+    "truncus encephali",
+    "truncus encephalicus"
   ]
 }

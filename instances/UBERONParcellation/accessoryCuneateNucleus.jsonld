@@ -12,18 +12,18 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002864",
   "synonym": [
     "ACu",
-    "lateral cuneate nucleus",
     "external cuneate nucleus",
-    "nucleus of corpus restiforme",
-    "nucleus cuneatus lateralis",
-    "nucleus of corpus restiforme",
-    "nucleus Monakow",
+    "external cuneate nucleus",
     "external cuneate nucleus (Monakow, Blumenau 1891)",
+    "lateral cuneate nucleus",
+    "lateral cuneate nucleus",
     "nucleus cuneatis externus",
     "nucleus cuneatus accessorius",
+    "nucleus cuneatus lateralis",
     "nucleus funiculi cuneatus externus",
-    "lateral cuneate nucleus",
+    "nucleus Monakow",
     "nucleus of corpus restiforme",
-    "external cuneate nucleus"
+    "nucleus of corpus restiforme",
+    "nucleus of corpus restiforme"
   ]
 }

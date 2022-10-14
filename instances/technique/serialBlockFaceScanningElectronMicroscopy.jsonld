@@ -11,8 +11,8 @@
   "name": "serial block face scanning electron microscopy",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "serial blockface SEM",
     "SB-SEM",
-    "SBEM"
+    "SBEM",
+    "serial blockface SEM"
   ]
 }

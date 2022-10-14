@@ -11,8 +11,8 @@
   "name": "matrix compartment",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027368",
   "synonym": [
-    "matrix compartment",
     "matrix",
+    "matrix compartment",
     "striatal matrix"
   ]
 }

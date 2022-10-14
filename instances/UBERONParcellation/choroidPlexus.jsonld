@@ -12,11 +12,11 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001886",
   "synonym": [
     "chorioid plexus",
-    "plexus choroideus",
-    "ventricular choroid plexus",
+    "choroid plexus",
     "choroid plexus of cerebral hemisphere",
-    "plexus choroideus",
     "CP",
-    "choroid plexus"
+    "plexus choroideus",
+    "plexus choroideus",
+    "ventricular choroid plexus"
   ]
 }

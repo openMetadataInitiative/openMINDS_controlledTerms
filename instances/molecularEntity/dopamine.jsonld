@@ -12,8 +12,8 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_18243",
   "synonym": [
     "DA",
-    "dopamin",
     "deoxyepinephrine",
+    "dopamin",
     "dopamine HCl",
     "hydroxyltyramine"
   ]

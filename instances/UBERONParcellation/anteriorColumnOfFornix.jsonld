@@ -11,13 +11,13 @@
   "name": "anterior column of fornix",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002940",
   "synonym": [
-    "anterior pillar of fornix",
-    "anterior crus of fornix",
-    "fornix",
-    "crus anterius",
-    "columna fornicis anterior",
     "anterior column of fornix",
+    "anterior crus of fornix",
+    "anterior crus of fornix",
     "anterior pillar of fornix",
-    "anterior crus of fornix"
+    "anterior pillar of fornix",
+    "columna fornicis anterior",
+    "crus anterius",
+    "fornix"
   ]
 }

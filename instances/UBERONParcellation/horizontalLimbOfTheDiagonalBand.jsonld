@@ -11,12 +11,12 @@
   "name": "horizontal limb of the diagonal band",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006123",
   "synonym": [
-    "hDBB",
-    "Horizontal limb of the diagonal band of Broca",
-    "nucleus of the horizontal limb of the diagonal band",
     "crus horizontale striae diagonalis",
-    "horizontal limb of diagonal band",
     "diagonal band horizontal limb",
-    "horizontal limb of the diagonal band"
+    "hDBB",
+    "horizontal limb of diagonal band",
+    "horizontal limb of the diagonal band",
+    "Horizontal limb of the diagonal band of Broca",
+    "nucleus of the horizontal limb of the diagonal band"
   ]
 }

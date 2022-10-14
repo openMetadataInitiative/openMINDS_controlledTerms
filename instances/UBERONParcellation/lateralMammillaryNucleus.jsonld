@@ -11,14 +11,14 @@
   "name": "lateral mammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001938",
   "synonym": [
-    "LM",
+    "lateral mamillary nucleus",
     "lateral mammillary hypothalamic nucleus",
-    "lateral nucleus of mammillary body",
-    "nucleus mammillaris lateralis",
-    "nucleus intercalatus (Olszewski)",
-    "nucleus corporis mamillaris lateralis",
     "lateral mammillary nucleus (Gudden)",
+    "lateral nucleus of mammillary body",
+    "LM",
+    "nucleus corporis mamillaris lateralis",
+    "nucleus intercalatus (Olszewski)",
     "nucleus lateralis corpus mamillaris",
-    "lateral mamillary nucleus"
+    "nucleus mammillaris lateralis"
   ]
 }

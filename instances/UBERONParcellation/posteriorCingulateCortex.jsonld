@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022353",
   "synonym": [
     "cingulate gyrus",
-    "posterior division",
     "posterior cingular cortex",
     "posterior cingulate",
-    "posterior cingulate cortex"
+    "posterior cingulate cortex",
+    "posterior division"
   ]
 }

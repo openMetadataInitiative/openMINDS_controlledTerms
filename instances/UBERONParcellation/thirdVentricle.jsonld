@@ -11,11 +11,11 @@
   "name": "third ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002286",
   "synonym": [
-    "3V",
     "3rd ventricle",
-    "ventriculus diencephali",
-    "ventriculus tertius cerebri",
+    "3V",
     "diencephalic ventricle",
-    "diencephalic vesicle"
+    "diencephalic vesicle",
+    "ventriculus diencephali",
+    "ventriculus tertius cerebri"
   ]
 }

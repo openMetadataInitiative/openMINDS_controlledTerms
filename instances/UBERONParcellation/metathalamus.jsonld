@@ -11,12 +11,12 @@
   "name": "metathalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002704",
   "synonym": [
-    "MTh",
-    "nuclei metathalami",
+    "corpora geniculata",
+    "geniculate group of dorsal thalamus",
     "geniculate group of the dorsal thalamus",
     "geniculate thalamic group",
     "geniculate thalamic nuclear group (metathalamus)",
-    "corpora geniculata",
-    "geniculate group of dorsal thalamus"
+    "MTh",
+    "nuclei metathalami"
   ]
 }
