@@ -12,7 +12,7 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002430",
   "synonym": [
     "LH",
-    "Lateral hypothalamus",
+    "lateral hypothalamus",
     "lateral hypothalamic group",
     "lateral hypothalamic zone (Crosby)",
     "area hypothalamica lateralis",
@@ -23,6 +23,6 @@
     "lateral hypothalamic area proper",
     "area lateralis hypothalami",
     "lateral hypothalamic nucleus",
-    "Lateral hypothalamic area"
+    "lateral hypothalamic area"
   ]
 }

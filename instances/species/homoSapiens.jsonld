@@ -11,7 +11,7 @@
   "name": "Homo sapiens",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
   "synonym": [
-    "Homo sapien",
+    "homo sapien",
     "human",
     "man"
   ]
