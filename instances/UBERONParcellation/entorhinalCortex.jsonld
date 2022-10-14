@@ -1,25 +1,25 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Entorhinal cortex' is part of the parahippocampal gyrus and piriform cortex.",
-    "description": "Component of the temporal lobe on the mesial surface.  The rostral and caudal boundaries of the entorhinal cortex are the rostral end of the collateral sulcus and the caudal end of the amygdala respectively.  The medial boundary is the medial aspect of the temporal lobe and the lateral boundary is the collateral sulcus. (DK)",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103859",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002728#entorhinal-cortex-1",
-    "name": "entorhinal cortex",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002728",
-    "synonym": [
-        "Ent",
-        "entorhinal area",
-        "Secondary olfactory cortex",
-        "Secondary olfactory cortical area (Carpenter)",
-        "Area 28 of Brodmann (Crosby)",
-        "Entorhinal cortex",
-        "area entorhinalis ventralis et dorsalis",
-        "cortex entorhinalis",
-        "Brodmann's area 28",
-        "area entorhinalis (28,34)"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Entorhinal cortex' is part of the parahippocampal gyrus and piriform cortex.",
+  "description": "Component of the temporal lobe on the mesial surface.  The rostral and caudal boundaries of the entorhinal cortex are the rostral end of the collateral sulcus and the caudal end of the amygdala respectively.  The medial boundary is the medial aspect of the temporal lobe and the lateral boundary is the collateral sulcus. (DK)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103859",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002728#entorhinal-cortex-1",
+  "name": "entorhinal cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002728",
+  "synonym": [
+    "Ent",
+    "entorhinal area",
+    "Secondary olfactory cortex",
+    "Secondary olfactory cortical area (Carpenter)",
+    "Area 28 of Brodmann (Crosby)",
+    "Entorhinal cortex",
+    "area entorhinalis ventralis et dorsalis",
+    "cortex entorhinalis",
+    "Brodmann's area 28",
+    "area entorhinalis (28,34)"
+  ]
 }

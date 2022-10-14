@@ -1,30 +1,30 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfVentralLateralNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Area X of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100891",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002687#area-x",
-    "name": "area X of ventral lateral nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002687",
-    "synonym": [
-        "superior part",
-        "nucleus ventrooralis internus",
-        "nucleus ventralis oralis",
-        "pars posterior (Dewulf)",
-        "nucleus ventrooralis internus (Hassler)",
-        "area X of Olszewski",
-        "nucleus lateralis intermedius mediodorsalis situs ventralis medialis",
-        "nucleus ventrooralis internus",
-        "superior part",
-        "anteromedial part of ventral lateral posterior nucleus (jones)",
-        "nucleus ventralis oralis",
-        "pars posterior (dewulf)",
-        "area X",
-        "nucleus ventro-oralis internus (Hassler)",
-        "X"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/areaXOfVentralLateralNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Area X of ventral lateral nucleus' is a gray matter of diencephalon. It is part of the ventral lateral nucleus of thalamus.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100891",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002687#area-x",
+  "name": "area X of ventral lateral nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002687",
+  "synonym": [
+    "superior part",
+    "nucleus ventrooralis internus",
+    "nucleus ventralis oralis",
+    "pars posterior (Dewulf)",
+    "nucleus ventrooralis internus (Hassler)",
+    "area X of Olszewski",
+    "nucleus lateralis intermedius mediodorsalis situs ventralis medialis",
+    "nucleus ventrooralis internus",
+    "superior part",
+    "anteromedial part of ventral lateral posterior nucleus (jones)",
+    "nucleus ventralis oralis",
+    "pars posterior (dewulf)",
+    "area X",
+    "nucleus ventro-oralis internus (Hassler)",
+    "X"
+  ]
 }

@@ -1,20 +1,20 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCentralNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Inferior central nucleus' is a nucleus of pontine reticular formation.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105434",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002993#inferior-central-nucleus-1",
-    "name": "inferior central nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002993",
-    "synonym": [
-        "Inferior central nucleus (of Roller)",
-        "Inferior central nucleus of raphe",
-        "Inferior central tegmental nucleus",
-        "nucleus tegmentalis centralis inferior",
-        "nucleus centralis inferior"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/inferiorCentralNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Inferior central nucleus' is a nucleus of pontine reticular formation.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105434",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002993#inferior-central-nucleus-1",
+  "name": "inferior central nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002993",
+  "synonym": [
+    "Inferior central nucleus (of Roller)",
+    "Inferior central nucleus of raphe",
+    "Inferior central tegmental nucleus",
+    "nucleus tegmentalis centralis inferior",
+    "nucleus centralis inferior"
+  ]
 }

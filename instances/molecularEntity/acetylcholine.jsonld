@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/acetylcholine",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
@@ -12,5 +12,5 @@
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao185580330",
   "synonym": [
     "ACh"
-    ]
+  ]
 }

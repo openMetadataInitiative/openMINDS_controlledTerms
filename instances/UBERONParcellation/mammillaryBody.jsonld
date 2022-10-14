@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Mammillary body' is part of the medial zone of hypothalamus and posterior hypothalamic region.",
-    "description": "One of two hemispherical bulges on the base of the posterior hypothalamus (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 455).",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106500",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002206#mammillary-body",
-    "name": "mammillary body",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002206",
-    "synonym": [
-        "mmb",
-        "Mamillary body",
-        "corpus mamillare",
-        "corpus mamillare",
-        "corpora mammillaria",
-        "corpus mamillaris",
-        "mammillary area",
-        "corpus mammillare",
-        "corpora mamillaria"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/mammillaryBody",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Mammillary body' is part of the medial zone of hypothalamus and posterior hypothalamic region.",
+  "description": "One of two hemispherical bulges on the base of the posterior hypothalamus (Butler and Hodos, Comparative Vertebrate Neuroanatomy, 2nd ed., 2005, pg 455).",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106500",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002206#mammillary-body",
+  "name": "mammillary body",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002206",
+  "synonym": [
+    "mmb",
+    "Mamillary body",
+    "corpus mamillare",
+    "corpus mamillare",
+    "corpora mammillaria",
+    "corpus mamillaris",
+    "mammillary area",
+    "corpus mammillare",
+    "corpora mamillaria"
+  ]
 }

@@ -1,25 +1,25 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paratenialNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Paratenial nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.",
-    "description": "One of the median nuclei of the thalamus, situated ventral and medial to the stria medullaris.",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108483",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002992#paratenial-nucleus-1",
-    "name": "paratenial nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002992",
-    "synonym": [
-        "PT",
-        "Paratenial thalamic nucleus",
-        "Parataenial nucleus",
-        "nucleus parataenialis",
-        "paratenial nucleus of thalamus",
-        "nuclei parataeniales thalami",
-        "nucleus parataenialis (Hassler)",
-        "nucleus parataenialis thalami",
-        "nucleus paratenialis thalami",
-        "paratenial nucleus of the thalamus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/paratenialNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Paratenial nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.",
+  "description": "One of the median nuclei of the thalamus, situated ventral and medial to the stria medullaris.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108483",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002992#paratenial-nucleus-1",
+  "name": "paratenial nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002992",
+  "synonym": [
+    "PT",
+    "Paratenial thalamic nucleus",
+    "Parataenial nucleus",
+    "nucleus parataenialis",
+    "paratenial nucleus of thalamus",
+    "nuclei parataeniales thalami",
+    "nucleus parataenialis (Hassler)",
+    "nucleus parataenialis thalami",
+    "nucleus paratenialis thalami",
+    "paratenial nucleus of the thalamus"
+  ]
 }

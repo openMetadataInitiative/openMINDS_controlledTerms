@@ -1,25 +1,25 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "description": null,
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104942",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXANAT:20081209#ansiform-lobule-crus-ii",
-    "name": "ansiform lobule crus II",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005977",
-    "synonym": [
-        "lobulus semilunaris inferior",
-        "lobulus ansiform crus II",
-        "inferior semilunar lobule",
-        "semilunar lobule-2 (inferior)",
-        "inferior semilunar lobule of cerebellum",
-        "posterior inferior lobule",
-        "second crus of ansiform lobule of cerebellum [hVIIa]",       
-        "crus secundum lobuli ansiformis cerebelli [hVII A]",
-        "hemispheric lobule VIIBi",
-        "crus II of the ansiform lobule (HVII)",        
-        "lobulus semilunaris inferior cerebelli"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104942",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXANAT:20081209#ansiform-lobule-crus-ii",
+  "name": "ansiform lobule crus II",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005977",
+  "synonym": [
+    "lobulus semilunaris inferior",
+    "lobulus ansiform crus II",
+    "inferior semilunar lobule",
+    "semilunar lobule-2 (inferior)",
+    "inferior semilunar lobule of cerebellum",
+    "posterior inferior lobule",
+    "second crus of ansiform lobule of cerebellum [hVIIa]",
+    "crus secundum lobuli ansiformis cerebelli [hVII A]",
+    "hemispheric lobule VIIBi",
+    "crus II of the ansiform lobule (HVII)",
+    "lobulus semilunaris inferior cerebelli"
+  ]
 }

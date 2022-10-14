@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearNerveRoot",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Vestibulocochlear nerve root' is a root of cranial nerve. It is part of the pontine tegmentum.",
-    "description": "Either of the two roots that come of the vestibulocochlear nerve",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112460",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002731#vestibulocochlear-nerve-fiber-bundle",
-    "name": "vestibulocochlear nerve root",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002731",
-    "synonym": [
-        "8cn",
-        "vestibular root of vestibulocochlear nerve",
-        "statoacoustic nerve fibers",
-        "vestibulocochlear nerve roots",
-        "central part of vestibulocochlear nerve",
-        "vestibulocochlear nerve fibers",
-        "fibrae nervi statoacustici",
-        "vestibulocochlear nerve tract",
-        "root of vestibulocochlear nerve"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/vestibulocochlearNerveRoot",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Vestibulocochlear nerve root' is a root of cranial nerve. It is part of the pontine tegmentum.",
+  "description": "Either of the two roots that come of the vestibulocochlear nerve",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112460",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002731#vestibulocochlear-nerve-fiber-bundle",
+  "name": "vestibulocochlear nerve root",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002731",
+  "synonym": [
+    "8cn",
+    "vestibular root of vestibulocochlear nerve",
+    "statoacoustic nerve fibers",
+    "vestibulocochlear nerve roots",
+    "central part of vestibulocochlear nerve",
+    "vestibulocochlear nerve fibers",
+    "fibrae nervi statoacustici",
+    "vestibulocochlear nerve tract",
+    "root of vestibulocochlear nerve"
+  ]
 }

@@ -1,23 +1,23 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Posterior parahippocampal gyrus' is a gyrus. It is part of the parahippocampal gyrus.",
-    "description": "The posterior parahippocampal gyrus is a portion of the parahippocampal gyrus. It can show deterioration in Alzheimer's disease.",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109113",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002657#posterior-parahippocampal-gyrus-1",
-    "name": "posterior parahippocampal gyrus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002657",
-    "synonym": [
-        "parahippocampal gyrus (Insausti)",
-        "parahippocampal gyrus (amaral)",
-        "gyrus parahippocampalis",
-        "pars posterior",
-        "parahippocampal gyrus",
-        "posterior division",
-        "pHp",
-        "Posterior parahippocampal gyrus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/posteriorParahippocampalGyrus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Posterior parahippocampal gyrus' is a gyrus. It is part of the parahippocampal gyrus.",
+  "description": "The posterior parahippocampal gyrus is a portion of the parahippocampal gyrus. It can show deterioration in Alzheimer's disease.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109113",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002657#posterior-parahippocampal-gyrus-1",
+  "name": "posterior parahippocampal gyrus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002657",
+  "synonym": [
+    "parahippocampal gyrus (Insausti)",
+    "parahippocampal gyrus (amaral)",
+    "gyrus parahippocampalis",
+    "pars posterior",
+    "parahippocampal gyrus",
+    "posterior division",
+    "pHp",
+    "Posterior parahippocampal gyrus"
+  ]
 }

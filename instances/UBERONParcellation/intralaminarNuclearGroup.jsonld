@@ -1,27 +1,27 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Intralaminar nuclear group' is a nucleus of dorsal thalamus.",
-    "description": "The intralaminar nucleus is a nucleus of the thalamus that contains the following nuclei: central lateral centromedian (or 'central medial') paracentral parafascicular. Some sources also include a 'central dorsal' nucleus. [WP,unvetted].",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105651",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002733#intralaminar-nuclear-group-1",
-    "name": "intralaminar nuclear group",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002733",
-    "synonym": [
-        "ILG",
-        "nonspecific thalamic system",
-        "nuclei intralaminares (thalami)",
-        "intralaminar nuclei of thalamus",
-        "intralaminar nuclear group of thalamus",
-        "Intralaminar nuclear group",
-        "Intralaminar thalamic nuclei",
-        "nuclei intralaminares thalami",
-        "intralaminar nuclear complex",
-        "intralaminar group of the dorsal thalamus",
-        "intralaminar nuclei of the dorsal thalamus",
-        "intralaminar thalamic nuclear group"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intralaminarNuclearGroup",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Intralaminar nuclear group' is a nucleus of dorsal thalamus.",
+  "description": "The intralaminar nucleus is a nucleus of the thalamus that contains the following nuclei: central lateral centromedian (or 'central medial') paracentral parafascicular. Some sources also include a 'central dorsal' nucleus. [WP,unvetted].",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105651",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002733#intralaminar-nuclear-group-1",
+  "name": "intralaminar nuclear group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002733",
+  "synonym": [
+    "ILG",
+    "nonspecific thalamic system",
+    "nuclei intralaminares (thalami)",
+    "intralaminar nuclei of thalamus",
+    "intralaminar nuclear group of thalamus",
+    "Intralaminar nuclear group",
+    "Intralaminar thalamic nuclei",
+    "nuclei intralaminares thalami",
+    "intralaminar nuclear complex",
+    "intralaminar group of the dorsal thalamus",
+    "intralaminar nuclei of the dorsal thalamus",
+    "intralaminar thalamic nuclear group"
+  ]
 }

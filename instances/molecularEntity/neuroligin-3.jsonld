@@ -1,19 +1,19 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-    "definition": "Neuroligin-3 is a protein that is a translation product of the NLGN3 gene or a 1:1 ortholog thereof.",
-    "description": null,
-    "interlexIdentifier": "http://uri.interlex.org/ilx_0107485",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000011256#neuroligin-3",
-    "name": "neuroligin-3",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000011256",
-    "synonym": [
-        "gliotactin homolog",
-        "NL3",
-        "NLGN3",
-        "KIAA1480"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Neuroligin-3 is a protein that is a translation product of the NLGN3 gene or a 1:1 ortholog thereof.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0107485",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000011256#neuroligin-3",
+  "name": "neuroligin-3",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000011256",
+  "synonym": [
+    "gliotactin homolog",
+    "NL3",
+    "NLGN3",
+    "KIAA1480"
+  ]
 }

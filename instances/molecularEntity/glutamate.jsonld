@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/glutamate",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
@@ -15,5 +15,5 @@
     "Glu",
     "Glut",
     "GLUT"
-    ]
+  ]
 }

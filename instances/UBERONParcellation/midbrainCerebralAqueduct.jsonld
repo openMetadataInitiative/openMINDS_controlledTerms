@@ -1,33 +1,33 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainCerebralAqueduct",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Midbrain cerebral aqueduct' is a brain ventricle. It is part of the midbrain.",
-    "description": "Part of ventricular system of brain consisting of a narrow channel in the midbrain connecting the third and fourth ventricles.  (Maryann Martone)",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101977",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002289#cerebral-aqueduct",
-    "name": "midbrain cerebral aqueduct",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002289",
-    "synonym": [
-        "aqueduct of Sylvius",
-        "Aqueduct (Sylvius)",
-        "Aqueduct of midbrain",
-        "Cerebral aqueduct of Sylvius",
-        "midbrain ventricle",
-        "medial tectal ventricle",
-        "cerebral aqueduct",
-        "tectal ventricle",
-        "cerebral aquaduct",
-        "midbrain cerebral aqueduct",
-        "mesencephalic duct",
-        "mesencephalic ventricle",
-        "Sylvian aqueduct",
-        "aqueductus mesencephali",
-        "aqueductus mesencephali",
-        "mesencephalic vesicle",
-        "cerebral aqueduct proper",
-        "aqueduct"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/midbrainCerebralAqueduct",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Midbrain cerebral aqueduct' is a brain ventricle. It is part of the midbrain.",
+  "description": "Part of ventricular system of brain consisting of a narrow channel in the midbrain connecting the third and fourth ventricles.  (Maryann Martone)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101977",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002289#cerebral-aqueduct",
+  "name": "midbrain cerebral aqueduct",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002289",
+  "synonym": [
+    "aqueduct of Sylvius",
+    "Aqueduct (Sylvius)",
+    "Aqueduct of midbrain",
+    "Cerebral aqueduct of Sylvius",
+    "midbrain ventricle",
+    "medial tectal ventricle",
+    "cerebral aqueduct",
+    "tectal ventricle",
+    "cerebral aquaduct",
+    "midbrain cerebral aqueduct",
+    "mesencephalic duct",
+    "mesencephalic ventricle",
+    "Sylvian aqueduct",
+    "aqueductus mesencephali",
+    "aqueductus mesencephali",
+    "mesencephalic vesicle",
+    "cerebral aqueduct proper",
+    "aqueduct"
+  ]
 }
