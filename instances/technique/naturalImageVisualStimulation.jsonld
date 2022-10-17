@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/naturalImageVisualStimulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "In a 'natural image visual stimulation' a subject is visually stimulated with a static image that shows a natural scene (e.g., landscape or a person).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
