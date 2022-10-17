@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003217",
   "synonym": [
     "PNHP",
-    "Pars nervosa pituitary gland",
-    "Pars nervosa of posterior lobe of pituitary gland",
-    "Pars nervosa of hypophysis",
+    "pars nervosa pituitary gland",
+    "pars nervosa of posterior lobe of pituitary gland",
+    "pars nervosa of hypophysis",
     "pars posterior",
     "pars nervosa of pituitary",
     "pars nervosa of neurohypophysis",
@@ -35,9 +35,9 @@
     "middle lobe",
     "lobe caudalis cerebelli",
     "posterior lobe",
-    "Pituitary gland",
+    "pituitary gland",
     "posterior lobe",
-    "Posterior lobe of pituitary",
-    "Posterior pituitary"
+    "posterior lobe of pituitary",
+    "posterior pituitary"
   ]
 }

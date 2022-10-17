@@ -11,7 +11,7 @@
   "name": "anterior nucleus of hypothalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002634",
   "synonym": [
-    "Anterior hypothalamic area",
+    "anterior hypothalamic area",
     "parvocellular nucleus of hypothalamus",
     "area hypothalamica rostralis",
     "anterior hypothalamic nucleus",
@@ -24,8 +24,8 @@
     "nucleus hypothalamicus anterior",
     "anterior nucleus of the hypothalamus",
     "AH",
-    "Parvocellular nucleus of hypothalamus",
-    "Fundamental gray substance",
-    "Anterior hypothalamic nucleus"
+    "parvocellular nucleus of hypothalamus",
+    "fundamental gray substance",
+    "anterior hypothalamic nucleus"
   ]
 }
