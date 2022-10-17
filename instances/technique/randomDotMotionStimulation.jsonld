@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/randomDotMotionStimulation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "In a 'random dot motion stimulation' random dot(s) are simulated in an image and re-positioned at a new random location with each video frame [[Newsome & Paré, 1988](https://doi.org/10.1523/jneurosci.08-06-02201.1988).",
+  "definition": "In a 'random dot motion stimulation' a subject is visually stimulated with a video where simulated randomly distributed dot(s) are re-positioned at a new random location with each video frame [[Newsome & Paré, 1988](https://doi.org/10.1523/jneurosci.08-06-02201.1988).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
