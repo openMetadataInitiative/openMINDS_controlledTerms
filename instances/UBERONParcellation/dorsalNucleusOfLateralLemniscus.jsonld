@@ -12,13 +12,13 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003006",
   "synonym": [
     "DLL",
-    "nucleus posterior lemnisci lateralis",
     "dorsal nucleus of the lateral lemniscus",
-    "nucleus of the lateral lemniscus",
     "dorsal part",
-    "posterior nucleus of lateral lemniscus",
+    "nucleus lemnisci lateralis dorsalis",
     "nucleus lemnisci lateralis pars dorsalis",
+    "nucleus of the lateral lemniscus",
     "nucleus of the lateral lemniscus dorsal part",
-    "nucleus lemnisci lateralis dorsalis"
+    "nucleus posterior lemnisci lateralis",
+    "posterior nucleus of lateral lemniscus"
   ]
 }

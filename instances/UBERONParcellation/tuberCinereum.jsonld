@@ -11,14 +11,14 @@
   "name": "tuber cinereum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002620",
   "synonym": [
-    "tbcn",
-    "tuberal area of hypothalamus",
-    "tubercle of Rolando",
-    "tuberal area",
     "hypothalamus",
-    "tuberal nucleus",
+    "tbcn",
     "tuber cinereum area",
     "tuberal area",
-    "tuberal region"
+    "tuberal area",
+    "tuberal area of hypothalamus",
+    "tuberal nucleus",
+    "tuberal region",
+    "tubercle of Rolando"
   ]
 }

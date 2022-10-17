@@ -11,9 +11,9 @@
   "name": "lateral reticular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002154",
   "synonym": [
-    "LRt",
+    "lateral reticular nuclei",
     "lateral reticular nucleus (medulla)",
-    "nucleus reticularis lateralis medullae oblongatae",
-    "lateral reticular nuclei"
+    "LRt",
+    "nucleus reticularis lateralis medullae oblongatae"
   ]
 }

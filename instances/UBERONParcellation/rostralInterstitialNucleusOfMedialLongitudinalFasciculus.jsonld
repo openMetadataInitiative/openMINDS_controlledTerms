@@ -11,11 +11,11 @@
   "name": "rostral interstitial nucleus of medial longitudinal fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002717",
   "synonym": [
-    "RI",
-    "Rostral interstitial nucleus of MLF",
-    "riMLF",
-    "nucleus interstitialis rostralis",
     "nucleus interstitialis",
+    "nucleus interstitialis rostralis",
+    "RI",
+    "riMLF",
+    "Rostral interstitial nucleus of MLF",
     "rostral interstitial nucleus of the medial longitudinal fasciculus"
   ]
 }

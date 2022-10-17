@@ -11,15 +11,15 @@
   "name": "anteroventral cochlear nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002830",
   "synonym": [
-    "AVCo",
+    "anterior part",
     "anterior part of anterior cochlear nucleus",
+    "anterior part of the ventral cochlear nucleus",
+    "anterior ventral cochlear nucleus",
     "anteroventral auditory nucleus",
+    "AVCo",
+    "nucleus cochlearis anteroventralis",
     "nucleus magnocellularis",
     "ventral cochlear nucleus",
-    "anterior part",
-    "anterior part of the ventral cochlear nucleus",
-    "nucleus cochlearis anteroventralis",
-    "anterior ventral cochlear nucleus",
     "ventral coclear nucleus anterior part"
   ]
 }

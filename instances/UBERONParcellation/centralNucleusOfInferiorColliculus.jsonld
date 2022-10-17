@@ -11,15 +11,15 @@
   "name": "central nucleus of inferior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002563",
   "synonym": [
+    "central cortex of the inferior colliculus",
+    "central nucleus",
+    "central nucleus of the inferior colliculus",
+    "chief nucleus of inferior colliculus",
     "CIC",
     "inferior colliculus",
-    "central nucleus",
-    "nucleus of inferior colliculus (Crosby)",
-    "nucleus centralis colliculi inferioris",
-    "chief nucleus of inferior colliculus",
-    "central nucleus of the inferior colliculus",
     "inferior colliculus central nucleus",
-    "central cortex of the inferior colliculus",
-    "nucleus centralis (colliculi inferioris)"
+    "nucleus centralis (colliculi inferioris)",
+    "nucleus centralis colliculi inferioris",
+    "nucleus of inferior colliculus (Crosby)"
   ]
 }

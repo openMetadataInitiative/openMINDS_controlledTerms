@@ -11,10 +11,10 @@
   "name": "pontobulbar nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002880",
   "synonym": [
-    "PnB",
-    "pontobulbar body",
-    "nucleus of circumolivary bundle",
     "corpus pontobulbare",
-    "nucleus pontobulbaris"
+    "nucleus of circumolivary bundle",
+    "nucleus pontobulbaris",
+    "PnB",
+    "pontobulbar body"
   ]
 }

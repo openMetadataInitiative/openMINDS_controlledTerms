@@ -11,12 +11,12 @@
   "name": "pituitary gland",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000007",
   "synonym": [
-    "Hp",
-    "pituitary gland",
     "glandula pituitaria",
+    "Hp",
+    "hypophysis",
+    "hypophysis cerebri",
     "pituitary",
     "pituitary body",
-    "hypophysis cerebri",
-    "hypophysis"
+    "pituitary gland"
   ]
 }

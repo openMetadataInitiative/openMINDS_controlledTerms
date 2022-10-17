@@ -12,12 +12,12 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003034",
   "synonym": [
     "CD",
-    "nucleus centralis superior lateralis thalami",
-    "nucleus circularis",
-    "nucleus centralis superior lateralis",
-    "central dorsal nucleus of thalamus",
     "central dorsal nucleus",
+    "central dorsal nucleus of thalamus",
+    "circular nucleus",
     "nucleus centralis dorsalis thalami",
-    "circular nucleus"
+    "nucleus centralis superior lateralis",
+    "nucleus centralis superior lateralis thalami",
+    "nucleus circularis"
   ]
 }

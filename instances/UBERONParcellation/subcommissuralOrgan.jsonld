@@ -11,10 +11,10 @@
   "name": "subcommissural organ",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002139",
   "synonym": [
-    "dorsal subcommissural organ",
+    "cerebral aqueduct subcommissural organ",
     "corpus subcommissurale",
+    "dorsal subcommissural organ",
     "organum subcommissurale",
-    "SCO",
-    "cerebral aqueduct subcommissural organ"
+    "SCO"
   ]
 }

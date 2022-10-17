@@ -11,10 +11,10 @@
   "name": "frontal lobe",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016525",
   "synonym": [
-    "lobus frontalis",
-    "lobi frontales",
-    "regio frontalis",
+    "frontal cortex",
     "frontal region",
-    "frontal cortex"
+    "lobi frontales",
+    "lobus frontalis",
+    "regio frontalis"
   ]
 }

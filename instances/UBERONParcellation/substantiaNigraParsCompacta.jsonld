@@ -11,21 +11,21 @@
   "name": "substantia nigra pars compacta",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001965",
   "synonym": [
-    "SNC",
-    "pars compacta",
-    "substantia nigra compact part",
-    "substantia nigra compacta",
-    "substantia nigra",
+    "compact division",
     "compact part",
     "compact part of substantia nigra",
-    "pars compacta substantiae nigrae",
-    "SNpc",
-    "substantia nigra",
-    "pars compacta",
     "nucleus substantiae nigrae",
     "pars compacta",
+    "pars compacta",
+    "pars compacta",
+    "pars compacta of substantia nigra",
+    "pars compacta substantiae nigrae",
+    "SNC",
+    "SNpc",
     "substantia nigra",
-    "compact division",
-    "pars compacta of substantia nigra"
+    "substantia nigra",
+    "substantia nigra",
+    "substantia nigra compact part",
+    "substantia nigra compacta"
   ]
 }

@@ -11,17 +11,17 @@
   "name": "lateral geniculate body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001926",
   "synonym": [
-    "LGN",
-    "corpus geniculatum laterales",
-    "nucleus geniculatus lateralis",
-    "lateral geniculate nucleus",
-    "lateral geniculate complex",
-    "lateral geniculate body",
-    "external geniculate body",
-    "LGB",
     "corpus geniculatum externum",
     "corpus geniculatum laterale",
+    "corpus geniculatum laterales",
     "corpus geniculatus lateralis",
-    "nucleus corporis geniculati lateralis"
+    "external geniculate body",
+    "lateral geniculate body",
+    "lateral geniculate complex",
+    "lateral geniculate nucleus",
+    "LGB",
+    "LGN",
+    "nucleus corporis geniculati lateralis",
+    "nucleus geniculatus lateralis"
   ]
 }

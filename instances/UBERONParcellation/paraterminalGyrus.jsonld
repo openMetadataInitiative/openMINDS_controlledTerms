@@ -11,13 +11,13 @@
   "name": "paraterminal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002603",
   "synonym": [
-    "subcallosal gyrus",
-    "precommissural hippocampus",
-    "paraterminal body (Noback)",
+    "gyrus paraterminalis",
     "gyrus subcallosus",
     "hippocampus praecommissuralis",
+    "hippocampus precommissuralis",
+    "paraterminal body (Noback)",
     "peduncle of the corpus callosum",
-    "gyrus paraterminalis",
-    "hippocampus precommissuralis"
+    "precommissural hippocampus",
+    "subcallosal gyrus"
   ]
 }

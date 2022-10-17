@@ -11,10 +11,10 @@
   "name": "lateral lemniscus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002953",
   "synonym": [
+    "central acoustic tract",
     "lateral fillet",
-    "lemniscus lateralis",
-    "lemniscus acusticus",
     "lateral lemniscus (Reil)",
-    "central acoustic tract"
+    "lemniscus acusticus",
+    "lemniscus lateralis"
   ]
 }

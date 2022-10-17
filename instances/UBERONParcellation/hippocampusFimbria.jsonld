@@ -11,17 +11,17 @@
   "name": "hippocampus fimbria",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002310",
   "synonym": [
-    "fimbria of the fornix",
     "fimbria",
-    "neuraxis fimbria",
-    "fimbria hippocampus",
-    "fimbria-fornix",
-    "fimbria of hippocampus",
-    "hippocampal fimbria",
     "fimbria (Vieussens)",
-    "fimbria of fornix",
     "fimbria fornicis",
+    "fimbria hippocampi",
+    "fimbria hippocampus",
+    "fimbria of fornix",
+    "fimbria of hippocampus",
+    "fimbria of the fornix",
     "fimbria of the hippocampus",
-    "fimbria hippocampi"
+    "fimbria-fornix",
+    "hippocampal fimbria",
+    "neuraxis fimbria"
   ]
 }

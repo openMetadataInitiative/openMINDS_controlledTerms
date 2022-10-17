@@ -11,9 +11,9 @@
   "name": "cerebellar cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002129",
   "synonym": [
-    "cortex of cerebellum",
-    "cortex of cerebellar hemisphere",
+    "cortex cerebellaris",
     "cortex cerebelli",
-    "cortex cerebellaris"
+    "cortex of cerebellar hemisphere",
+    "cortex of cerebellum"
   ]
 }

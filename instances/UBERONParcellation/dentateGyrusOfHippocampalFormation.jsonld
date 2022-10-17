@@ -11,13 +11,13 @@
   "name": "dentate gyrus of hippocampal formation",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001885",
   "synonym": [
+    "area dentata",
+    "dentate area",
+    "dentate area (dentate gyrus)",
+    "dentate gyrus",
     "DG",
     "fascia dentata",
-    "dentate area (dentate gyrus)",
-    "area dentata",
-    "dentate gyrus",
-    "hippocampal dentate gyrus",
-    "dentate area",
-    "gyrus dentatus"
+    "gyrus dentatus",
+    "hippocampal dentate gyrus"
   ]
 }

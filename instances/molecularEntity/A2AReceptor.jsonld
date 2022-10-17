@@ -11,8 +11,8 @@
   "name": "A2A receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_7727",
   "synonym": [
-    "adenosine A2A receptor",
     "A2A",
+    "adenosine A2A receptor",
     "adenosine A2a receptor"
   ]
 }

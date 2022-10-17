@@ -11,13 +11,13 @@
   "name": "cranial nerve II",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000941",
   "synonym": [
-    "optic II",
-    "second cranial nerve",
     "02 optic nerve",
-    "optic nerve [II]",
+    "cranial II",
     "nervus opticus",
     "nervus opticus [II]",
-    "cranial II",
-    "optic II nerve"
+    "optic II",
+    "optic II nerve",
+    "optic nerve [II]",
+    "second cranial nerve"
   ]
 }

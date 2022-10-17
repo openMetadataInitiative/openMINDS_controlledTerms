@@ -11,17 +11,17 @@
   "name": "cerebellar nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002130",
   "synonym": [
-    "intracerebellar nuclei",
-    "deep cerebellar nuclei",
-    "cerebellar nuclei",
-    "set of cerebellar nuclei",
-    "roof nuclei-2",
     "central nuclei",
-    "intrinsic nuclei of cerebellum",
-    "nuclei cerebelli",
+    "cerebellar nuclei",
     "deep cerebellar nuclear complex",
-    "nuclei cerebelli",
+    "deep cerebellar nuclei",
+    "intracerebellar nuclei",
+    "intrinsic nuclei of cerebellum",
+    "nuclei cerebellares",
     "nuclei cerebellaris",
-    "nuclei cerebellares"
+    "nuclei cerebelli",
+    "nuclei cerebelli",
+    "roof nuclei-2",
+    "set of cerebellar nuclei"
   ]
 }

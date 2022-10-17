@@ -12,11 +12,11 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002868",
   "synonym": [
     "Cm10",
-    "nucleus of inferior commisure",
-    "nucleus of inferior commissure",
+    "commissural nucleus of the vagus nerve",
     "commissural nucleus-1",
     "nucleus commissuralis",
-    "commissural nucleus of the vagus nerve",
-    "nucleus commissuralis nervi vagi"
+    "nucleus commissuralis nervi vagi",
+    "nucleus of inferior commissure",
+    "nucleus of inferior commisure"
   ]
 }

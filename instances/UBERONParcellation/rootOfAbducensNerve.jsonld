@@ -12,14 +12,14 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002786",
   "synonym": [
     "abducens nerve fibers",
-    "root of abducens nerve",
+    "abducens nerve fibers",
+    "abducens nerve root",
     "abducens nerve tract",
+    "abducens nerve/root",
+    "central part of abducens nerve",
     "central part of abducens nerve",
     "fibrae nervi abducentis",
-    "abducens nerve root",
-    "abducens nerve/root",
     "root of abducens nerve",
-    "central part of abducens nerve",
-    "abducens nerve fibers"
+    "root of abducens nerve"
   ]
 }

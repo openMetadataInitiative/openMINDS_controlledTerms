@@ -11,19 +11,19 @@
   "name": "nucleus incertus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035973",
   "synonym": [
-    "NI",
+    "Central Gray pars 0",
+    "Central Gray pars beta (The rat brain in stereotaxic coordinates [electronic resource] / George Paxinos",
+    "Central Gray part alpha",
+    "CG0",
     "CG0",
     "CGalpha",
-    "Central Gray pars 0",
-    "Central Gray part alpha",
-    "Central Gray pars beta (The rat brain in stereotaxic coordinates [electronic resource] / George Paxinos",
-    "nucleus incertus (Streeter)",
+    "CGalpha",
+    "CGbeta",
+    "charles Watson. - 5th ed.)",
     "Inc",
     "NI",
     "NI",
-    "CG0",
-    "CGalpha",
-    "CGbeta",
-    "charles Watson. - 5th ed.)"
+    "NI",
+    "nucleus incertus (Streeter)"
   ]
 }

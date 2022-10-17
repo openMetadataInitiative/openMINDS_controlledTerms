@@ -11,16 +11,16 @@
   "name": "olivary pretectal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002565",
   "synonym": [
-    "OPT",
-    "pretectal olivary nucleus",
-    "olivary nucleus of superior colliculus",
-    "nucleus praetectalis olivaris",
-    "nucleus praetectalis anterior",
+    "anterior pretectal nucleus",
+    "nucleus olivaris colliculi superioris (Fuse)",
     "nucleus olivaris corporis quadrigemini anterioris",
     "nucleus olivaris mesencephali",
-    "nucleus olivaris colliculi superioris (Fuse)",
-    "anterior pretectal nucleus",
+    "nucleus olivaris pretectalis of Fuse",
+    "nucleus praetectalis anterior",
+    "nucleus praetectalis olivaris",
     "nucleus pretectalis anterior",
-    "nucleus olivaris pretectalis of Fuse"
+    "olivary nucleus of superior colliculus",
+    "OPT",
+    "pretectal olivary nucleus"
   ]
 }

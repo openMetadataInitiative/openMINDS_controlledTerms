@@ -11,10 +11,10 @@
   "name": "perirhinal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006083",
   "synonym": [
-    "perirhinal area",
-    "perirhinal cortex",
-    "perihinal area",
+    "area perirhinalis",
     "Brodmann's area 35",
-    "area perirhinalis"
+    "perihinal area",
+    "perirhinal area",
+    "perirhinal cortex"
   ]
 }

@@ -11,7 +11,7 @@
   "name": "A1 receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5717",
   "synonym": [
-    "adenosine A1 receptor",
-    "A1"
+    "A1",
+    "adenosine A1 receptor"
   ]
 }

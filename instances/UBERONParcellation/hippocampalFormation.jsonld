@@ -11,12 +11,12 @@
   "name": "hippocampal formation",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002421",
   "synonym": [
-    "hippocampus (Crosby)",
-    "primal cortex",
     "archipallium",
-    "seahorse",
     "formatio hippocampi",
+    "hippocampus",
+    "hippocampus (Crosby)",
     "major hippocampus",
-    "hippocampus"
+    "primal cortex",
+    "seahorse"
   ]
 }

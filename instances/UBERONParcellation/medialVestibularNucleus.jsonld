@@ -11,14 +11,14 @@
   "name": "medial vestibular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001722",
   "synonym": [
-    "nucleus vestibularis medialis",
-    "medial nucleus",
     "chief vestibular nucleus",
     "dorsal vestibular nucleus",
+    "medial nucleus",
+    "nucleus of Schwalbe",
+    "nucleus triangularis",
+    "nucleus vestibularis medialis",
     "principal vestibular nucleus",
     "Schwalbe's nucleus",
-    "nucleus triangularis",
-    "nucleus of Schwalbe",
     "triangular nucleus"
   ]
 }

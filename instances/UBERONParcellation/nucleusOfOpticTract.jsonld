@@ -11,11 +11,11 @@
   "name": "nucleus of optic tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002996",
   "synonym": [
-    "nucleus of the optic tract",
-    "lentiform nucleus of pretectal area",
     "large-celled nucleus of optic tract",
-    "optic tract nucleus",
+    "lentiform nucleus of pretectal area",
+    "nucleus magnocellularis tractus optici",
+    "nucleus of the optic tract",
     "nucleus tractus optici",
-    "nucleus magnocellularis tractus optici"
+    "optic tract nucleus"
   ]
 }

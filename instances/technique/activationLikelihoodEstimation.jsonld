@@ -11,10 +11,10 @@
   "name": "activation likelihood estimation",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "ALE",
-    "activation likelihood estimation meta-analysis",
     "activation likelihood estimation analysis",
-    "ALE meta-analysis",
-    "ALE analysis"
+    "activation likelihood estimation meta-analysis",
+    "ALE",
+    "ALE analysis",
+    "ALE meta-analysis"
   ]
 }

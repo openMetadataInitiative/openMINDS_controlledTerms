@@ -11,11 +11,11 @@
   "name": "D2 receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5833",
   "synonym": [
+    "D(2) dopamine receptor",
+    "D2",
     "D2 dopamine receptor",
     "D2R",
-    "D2",
-    "D(2) dopamine receptor",
-    "DRD2",
-    "dopamine receptor D2"
+    "dopamine receptor D2",
+    "DRD2"
   ]
 }

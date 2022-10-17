@@ -11,21 +11,21 @@
   "name": "magnocellular part of medial dorsal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002647",
   "synonym": [
+    "dorsomedial thalamic nucleus",
+    "magnocellular mediodorsal nucleus",
+    "magnocellular nucleus of medial dorsal nucleus of thalamus",
+    "magnocellular part",
+    "magnocellular part",
+    "magnocellular part of dorsomedial nucleus",
+    "magnocellular part of mediodorsal nucleus",
+    "magnocellular part of the medial dorsal nucleus",
     "MDM",
     "nucleus medialis dorsalis",
-    "magnocellular part",
-    "magnocellular mediodorsal nucleus",
-    "magnocellular part of mediodorsal nucleus",
-    "pars magnocellularis",
-    "nucleus medialis fibrosus (Hassler)",
-    "nucleus medialis fibrosus",
-    "dorsomedial thalamic nucleus",
-    "magnocellular part",
-    "magnocellular nucleus of medial dorsal nucleus of thalamus",
-    "pars magnocellularis nuclei mediodorsalis thalami",
     "nucleus medialis dorsalis",
+    "nucleus medialis fibrosus",
+    "nucleus medialis fibrosus (Hassler)",
     "pars magnocellularis",
-    "magnocellular part of dorsomedial nucleus",
-    "magnocellular part of the medial dorsal nucleus"
+    "pars magnocellularis",
+    "pars magnocellularis nuclei mediodorsalis thalami"
   ]
 }

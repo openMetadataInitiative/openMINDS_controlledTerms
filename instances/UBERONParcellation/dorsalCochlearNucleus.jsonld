@@ -12,12 +12,12 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002829",
   "synonym": [
     "DCo",
-    "posterior cochlear nucleus",
     "dorsal cochlear nucleus",
+    "dorsal coclear nucleus",
     "dorsal division of cochlear nucleus",
-    "tuberculum acousticum",
     "nucleus cochlearis dorsalis",
     "nucleus cochlearis posterior",
-    "dorsal coclear nucleus"
+    "posterior cochlear nucleus",
+    "tuberculum acousticum"
   ]
 }

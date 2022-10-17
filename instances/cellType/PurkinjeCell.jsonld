@@ -11,13 +11,13 @@
   "name": "Purkinje cell",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao471801888",
   "synonym": [
-    "cerebellum Purkinje cell",
     "cerebellar Punkinje cell",
-    "Corpuscles of Purkinje",
-    "Purkinje's corpuscles",
-    "Purkyne cell",
-    "cerebellum Purkinje neuron",
     "cerebellar Punkinje neuron",
-    "Purkinje neuron"
+    "cerebellum Purkinje cell",
+    "cerebellum Purkinje neuron",
+    "Corpuscles of Purkinje",
+    "Purkinje neuron",
+    "Purkinje's corpuscles",
+    "Purkyne cell"
   ]
 }

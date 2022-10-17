@@ -12,15 +12,15 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007249",
   "synonym": [
     "DAO",
-    "inferior olive",
+    "dorsal accessory olivary nucleus",
+    "dorsal accessory olive",
+    "dorsal accessory olive",
     "dorsal nucleus",
     "inferior olivary complex",
-    "dorsal accessory olive",
-    "dorsal accessory olivary nucleus",
-    "posterior accessory olivary nucleus",
-    "nucleus olivaris accessorius posterior",
-    "dorsal accessory olive",
+    "inferior olivary complex dorsalaccessory nucleus",
+    "inferior olive",
     "inferior olive dorsal nucleus",
-    "inferior olivary complex dorsalaccessory nucleus"
+    "nucleus olivaris accessorius posterior",
+    "posterior accessory olivary nucleus"
   ]
 }

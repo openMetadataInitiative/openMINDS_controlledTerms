@@ -12,13 +12,13 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014590",
   "synonym": [
     "AHNc",
-    "anterior nucleus of hypothalamus central part",
     "anterior hypothalamic area",
-    "central part",
+    "anterior hypothalamic area central part",
     "anterior hypothalamic central part",
-    "anterior hypothalamic nucleus central part",
     "anterior hypothalamic nucleus",
+    "anterior hypothalamic nucleus central part",
+    "anterior nucleus of hypothalamus central part",
     "central part",
-    "anterior hypothalamic area central part"
+    "central part"
   ]
 }

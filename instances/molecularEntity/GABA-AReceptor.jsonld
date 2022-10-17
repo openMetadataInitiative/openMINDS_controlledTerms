@@ -11,8 +11,8 @@
   "name": "GABA-A receptor",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "GABAA",
     "GABA A receptor",
-    "GABA_A"
+    "GABA_A",
+    "GABAA"
   ]
 }

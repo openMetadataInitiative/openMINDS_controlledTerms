@@ -11,12 +11,12 @@
   "name": "olfactory bulb",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002264",
   "synonym": [
-    "Olb",
-    "main olfactory bulb",
     "bulbus olfactorius",
     "bulbus olfactorius",
-    "olfactory lobe",
     "bulbus olfactorius (Morgagni)",
+    "main olfactory bulb",
+    "Olb",
+    "olfactory lobe",
     "olfactory lobe (Barr & Kiernan)"
   ]
 }

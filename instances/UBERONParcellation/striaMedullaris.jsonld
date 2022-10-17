@@ -12,14 +12,14 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006086",
   "synonym": [
     "sm",
-    "stria medullaris of thalamus",
-    "stria medullaris (Wenzel - Wenzel)",
-    "stria medullaris thalami",
-    "stria medullaris thalamica",
-    "stria medullaris (Wenzel-Wenzel)",
     "stria habenularis",
     "stria medularis",
+    "stria medullaris (Wenzel - Wenzel)",
     "stria medullaris (Wenzel-Wenzel)",
-    "stria medullaris of the thalamus"
+    "stria medullaris (Wenzel-Wenzel)",
+    "stria medullaris of thalamus",
+    "stria medullaris of the thalamus",
+    "stria medullaris thalami",
+    "stria medullaris thalamica"
   ]
 }

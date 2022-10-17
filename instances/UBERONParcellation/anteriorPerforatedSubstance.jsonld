@@ -11,20 +11,20 @@
   "name": "anterior perforated substance",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018141",
   "synonym": [
-    "substantia perforata anterior",
-    "olfactory area (mai)",
+    "anterior perforated area",
     "anterior perforated area",
     "anterior perforated space",
-    "olfactory tubercle",
-    "tuber olfactorium",
-    "olfactory area (Carpenter)",
-    "eminentia parolfactoria",
+    "anterior perforated space",
     "area olfactoria (Mai)",
-    "rostral perforated substance",
-    "olfactory tubercle (Ganser)",
+    "eminentia parolfactoria",
+    "olfactory area (Carpenter)",
+    "olfactory area (mai)",
     "Olfactory area (Mai)",
-    "anterior perforated area",
     "olfactory tubercle",
-    "anterior perforated space"
+    "olfactory tubercle",
+    "olfactory tubercle (Ganser)",
+    "rostral perforated substance",
+    "substantia perforata anterior",
+    "tuber olfactorium"
   ]
 }

@@ -11,18 +11,18 @@
   "name": "midline nuclear group",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002705",
   "synonym": [
-    "nuclei mediani (thalami)",
-    "midline nuclei of thalamus",
-    "periventricular nuclei of thalamus",
-    "midline nuclear group",
-    "midline thalamic group",
-    "nuclei mediani thalami",
     "median nuclei of thalamus",
-    "midline nuclear group of thalamus",
     "midline group of the dorsal thalamus",
-    "nucleus mediani thalami",
-    "nuclei mediani thalami",
+    "midline nuclear group",
+    "midline nuclear group of thalamus",
+    "midline nuclei of thalamus",
+    "midline thalamic group",
+    "midline thalamic nuclear group",
     "midline thalamic nuclei",
-    "midline thalamic nuclear group"
+    "nuclei mediani (thalami)",
+    "nuclei mediani thalami",
+    "nuclei mediani thalami",
+    "nucleus mediani thalami",
+    "periventricular nuclei of thalamus"
   ]
 }

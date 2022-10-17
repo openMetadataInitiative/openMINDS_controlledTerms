@@ -11,8 +11,8 @@
   "name": "interthalamic adhesion",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006681",
   "synonym": [
-    "massa intermedia",
     "interthalamic connection",
+    "massa intermedia",
     "middle commissure"
   ]
 }

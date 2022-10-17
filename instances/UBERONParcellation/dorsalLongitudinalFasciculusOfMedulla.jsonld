@@ -11,14 +11,14 @@
   "name": "dorsal longitudinal fasciculus of medulla",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002646",
   "synonym": [
-    "medulla dorsal longitudinal fasciculus",
-    "posterior longitudinal fasciculus of medulla",
-    "medulla bundle of Schutz",
     "bundle of Schutz of medulla",
-    "medulla fasciculus of Schutz",
-    "fasciculus of Schutz of medulla",
-    "medulla posterior longitudinal fasciculus",
     "dorsal longitudinal fasciculus of the medulla",
-    "fasciculus longitudinalis dorsalis (myelencephali)"
+    "fasciculus longitudinalis dorsalis (myelencephali)",
+    "fasciculus of Schutz of medulla",
+    "medulla bundle of Schutz",
+    "medulla dorsal longitudinal fasciculus",
+    "medulla fasciculus of Schutz",
+    "medulla posterior longitudinal fasciculus",
+    "posterior longitudinal fasciculus of medulla"
   ]
 }

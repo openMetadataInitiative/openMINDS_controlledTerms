@@ -11,12 +11,12 @@
   "name": "ventral thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001900",
   "synonym": [
+    "perithalamus",
+    "prethalamus",
     "SbTh",
-    "thalamus ventralis",
-    "ventral thalamus",
     "subthalamic region",
     "Subthalamus",
-    "perithalamus",
-    "prethalamus"
+    "thalamus ventralis",
+    "ventral thalamus"
   ]
 }

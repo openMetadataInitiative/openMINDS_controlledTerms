@@ -11,13 +11,13 @@
   "name": "c-FOS",
   "preferredOntologyIdentifier": "https://ncimeta.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI%20Metathesaurus&code=C0314702",
   "synonym": [
-    "FBJ osteosarcoma oncogene",
-    "Fos",
-    "cF",
     "c-f",
-    "cFos",
     "c-fos",
+    "cF",
+    "cFos",
     "D12Rfj",
-    "D12Rfj1"
+    "D12Rfj1",
+    "FBJ osteosarcoma oncogene",
+    "Fos"
   ]
 }

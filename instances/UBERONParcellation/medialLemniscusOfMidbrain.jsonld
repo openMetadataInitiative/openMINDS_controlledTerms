@@ -11,9 +11,9 @@
   "name": "medial lemniscus of midbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002658",
   "synonym": [
-    "mlmb",
-    "midbrain medial lemniscus",
+    "lemniscus medialis (mesencephali)",
     "medial lemniscus of the midbrain",
-    "lemniscus medialis (mesencephali)"
+    "midbrain medial lemniscus",
+    "mlmb"
   ]
 }

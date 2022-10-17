@@ -11,9 +11,9 @@
   "name": "supracallosal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002665",
   "synonym": [
-    "supracommissural hippocampus",
-    "supracommissural hippocampal rudiment",
     "gyrus supracallosus",
-    "hippocampus supracommissuralis"
+    "hippocampus supracommissuralis",
+    "supracommissural hippocampal rudiment",
+    "supracommissural hippocampus"
   ]
 }

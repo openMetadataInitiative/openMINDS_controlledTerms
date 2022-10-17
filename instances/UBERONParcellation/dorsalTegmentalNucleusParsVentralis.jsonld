@@ -11,10 +11,10 @@
   "name": "dorsal tegmental nucleus pars ventralis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014569",
   "synonym": [
-    "TDV",
     "Dorsal tegmental nucleus of Gudden pars ventralis",
-    "pars ventralis of the dorsal tegmental nucleus of Gudden",
     "dorsal tegmental nucleus pars ventralis",
-    "pars ventralis of the dorsal tegmental nucleus"
+    "pars ventralis of the dorsal tegmental nucleus",
+    "pars ventralis of the dorsal tegmental nucleus of Gudden",
+    "TDV"
   ]
 }

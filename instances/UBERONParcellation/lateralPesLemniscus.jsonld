@@ -11,15 +11,15 @@
   "name": "lateral pes lemniscus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003010",
   "synonym": [
-    "lpl",
     "deep pes lemniscus",
-    "Laterale pontine Buendel",
+    "fasciculi laterales pontis",
+    "fussschleife",
     "lateral pontine bundle",
     "Laterale Haubenfussschleife",
-    "pes lemniscus profond",
-    "fussschleife",
+    "Laterale pontine Buendel",
+    "lpl",
+    "pes lemnisci profundus",
     "pes lemniscus lateralis",
-    "fasciculi laterales pontis",
-    "pes lemnisci profundus"
+    "pes lemniscus profond"
   ]
 }

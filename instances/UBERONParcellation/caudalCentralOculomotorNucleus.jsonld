@@ -11,11 +11,11 @@
   "name": "caudal central oculomotor nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002957",
   "synonym": [
-    "CC3",
-    "caudal central nucleus of oculomotor nerve",
     "caudal central nucleus",
-    "oculomotor nerve central caudal nucleus",
+    "caudal central nucleus of oculomotor nerve",
+    "CC3",
     "nucleus caudalis centralis oculomotorii",
-    "nucleus centralis nervi oculomotorii"
+    "nucleus centralis nervi oculomotorii",
+    "oculomotor nerve central caudal nucleus"
   ]
 }

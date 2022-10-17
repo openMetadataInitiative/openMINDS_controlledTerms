@@ -11,12 +11,12 @@
   "name": "choroid plexus of third ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002288",
   "synonym": [
-    "chorioid plexus of third ventricle",
-    "diencephalic choroid plexus",
-    "choroid plexus third ventricle",
+    "3rd ventricle choroid plexus",
     "chorioid plexus of cerebral hemisphere of third ventricle",
+    "chorioid plexus of third ventricle",
+    "choroid plexus third ventricle",
+    "diencephalic choroid plexus",
     "third ventricle chorioid plexus of cerebral hemisphere",
-    "third ventricle choroid plexus",
-    "3rd ventricle choroid plexus"
+    "third ventricle choroid plexus"
   ]
 }

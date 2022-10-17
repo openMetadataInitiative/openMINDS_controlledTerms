@@ -11,7 +11,7 @@
   "name": "occipital lobe",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002021",
   "synonym": [
-    "regio occipitalis",
-    "lobus occipitalis"
+    "lobus occipitalis",
+    "regio occipitalis"
   ]
 }

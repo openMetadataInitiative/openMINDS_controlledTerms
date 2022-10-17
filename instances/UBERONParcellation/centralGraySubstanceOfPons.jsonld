@@ -11,10 +11,10 @@
   "name": "central gray substance of pons",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002968",
   "synonym": [
-    "CGPn",
     "central gray of pons",
-    "pontine central gray",
+    "central gray of the pons",
+    "CGPn",
     "griseum centrale pontis",
-    "central gray of the pons"
+    "pontine central gray"
   ]
 }

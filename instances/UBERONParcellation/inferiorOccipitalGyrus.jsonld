@@ -11,8 +11,8 @@
   "name": "inferior occipital gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014608",
   "synonym": [
-    "inferior occipital gyrus",
     "gyrus occipitalis inferior",
-    "gyrus occipitalis tertius"
+    "gyrus occipitalis tertius",
+    "inferior occipital gyrus"
   ]
 }

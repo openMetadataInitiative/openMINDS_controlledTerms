@@ -11,11 +11,11 @@
   "name": "caudate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001873",
   "synonym": [
-    "Cd",
-    "Caudate",
-    "caudatus",
     "Ammon horn fields",
-    "nucleus caudatus",
-    "caudatum"
+    "Caudate",
+    "caudatum",
+    "caudatus",
+    "Cd",
+    "nucleus caudatus"
   ]
 }

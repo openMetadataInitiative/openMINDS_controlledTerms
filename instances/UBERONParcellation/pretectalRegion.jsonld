@@ -11,15 +11,15 @@
   "name": "pretectal region",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001944",
   "synonym": [
-    "pretectal region",
-    "Pretectum",
-    "pretectal nuclei",
-    "pretectal area",
+    "area praetectalis",
     "area pretectalis",
     "nuclei pretectales",
+    "nucleus praetectalis",
     "praetectum",
-    "area praetectalis",
-    "regio pretectalis",
-    "nucleus praetectalis"
+    "pretectal area",
+    "pretectal nuclei",
+    "pretectal region",
+    "Pretectum",
+    "regio pretectalis"
   ]
 }

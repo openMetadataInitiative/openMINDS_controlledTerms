@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014592",
   "synonym": [
     "AHNd",
-    "anterior nucleus of hypothalamus dorsal part",
     "anterior hypothalamic dorsal part",
-    "anterior hypothalamic nucleus dorsal part",
     "anterior hypothalamic nucleus",
+    "anterior hypothalamic nucleus dorsal part",
+    "anterior nucleus of hypothalamus dorsal part",
     "dorsal part"
   ]
 }

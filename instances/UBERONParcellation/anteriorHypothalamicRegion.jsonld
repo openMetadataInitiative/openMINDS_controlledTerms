@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002550",
   "synonym": [
     "AHR",
-    "anterior hypothalamus",
     "anterior hypothalamic area",
+    "anterior hypothalamus",
     "chiasmal zone",
-    "preoptic division",
-    "chiasmal zone"
+    "chiasmal zone",
+    "preoptic division"
   ]
 }

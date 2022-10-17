@@ -11,11 +11,11 @@
   "name": "posterior cingulate gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002740",
   "synonym": [
-    "PCgG",
-    "posterior cingulate gyrus",
+    "cGp",
     "gyrus cinguli posterior",
     "gyrus limbicus posterior",
+    "PCgG",
     "posterior cingulate",
-    "cGp"
+    "posterior cingulate gyrus"
   ]
 }

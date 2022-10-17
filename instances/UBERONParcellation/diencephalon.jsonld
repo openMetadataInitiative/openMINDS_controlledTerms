@@ -11,12 +11,12 @@
   "name": "diencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001894",
   "synonym": [
-    "DiE",
-    "Interbrain",
     "between brain",
-    "mature diencephalon",
-    "thalamencephalon",
+    "betweenbrain",
+    "DiE",
     "diencephalon",
-    "betweenbrain"
+    "Interbrain",
+    "mature diencephalon",
+    "thalamencephalon"
   ]
 }

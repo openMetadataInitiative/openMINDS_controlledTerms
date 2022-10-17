@@ -11,9 +11,9 @@
   "name": "head of caudate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002626",
   "synonym": [
-    "caudate nuclear head",
     "caput (caudatus)",
     "caput nuclei caudati",
+    "caudate nuclear head",
     "head of the caudate nucleus"
   ]
 }

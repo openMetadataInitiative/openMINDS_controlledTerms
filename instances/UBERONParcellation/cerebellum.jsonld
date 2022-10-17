@@ -11,9 +11,9 @@
   "name": "cerebellum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002037",
   "synonym": [
-    "Parencephalon",
-    "epencephalon-1",
     "corpus cerebelli",
-    "infratentorial region"
+    "epencephalon-1",
+    "infratentorial region",
+    "Parencephalon"
   ]
 }

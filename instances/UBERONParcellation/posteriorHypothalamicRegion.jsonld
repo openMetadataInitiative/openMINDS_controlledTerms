@@ -11,11 +11,11 @@
   "name": "posterior hypothalamic region",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002770",
   "synonym": [
+    "hypothalamus posterior",
+    "mammillary level of hypothalamus",
+    "mammillary region",
     "PHR",
     "posterior hypothalamus",
-    "mammillary region",
-    "mammillary level of hypothalamus",
-    "regio hypothalamica posterior",
-    "hypothalamus posterior"
+    "regio hypothalamica posterior"
   ]
 }

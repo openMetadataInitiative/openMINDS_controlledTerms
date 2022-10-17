@@ -11,13 +11,13 @@
   "name": "pontine tegmentum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003023",
   "synonym": [
-    "tegmental portion of pons",
-    "tegmentum of pons",
-    "dorsal portion of pons",
-    "tegmentum pontis",
     "dorsal pons",
+    "dorsal portion of pons",
     "pars dorsalis pontis",
     "pars posterior pontis",
+    "tegmental portion of pons",
+    "tegmentum of pons",
+    "tegmentum pontis",
     "tegmentum pontis"
   ]
 }

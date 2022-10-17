@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000014973",
   "synonym": [
     "EAAT2",
-    "solute carrier family 1 member 2",
-    "SLC1A2",
+    "GLT-1",
     "glutamate transporter 1",
-    "GLT-1"
+    "SLC1A2",
+    "solute carrier family 1 member 2"
   ]
 }

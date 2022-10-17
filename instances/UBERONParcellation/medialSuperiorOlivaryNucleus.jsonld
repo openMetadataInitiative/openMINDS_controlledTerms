@@ -11,20 +11,20 @@
   "name": "medial superior olivary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002782",
   "synonym": [
-    "MSO",
     "chief nucleus of superior olive",
-    "main superior olivary nucleus",
-    "superior olivary nucleus",
-    "medial part",
     "chief superior olivary nucleus",
-    "medial superior olive",
-    "principal superior olivary nucleus",
-    "superior olive medial part",
-    "superior parolivary nucleus",
-    "nucleus olivaris superior medialis",
-    "nucleus laminaris",
-    "superior olivary complex",
+    "main superior olivary nucleus",
     "medial part",
-    "superior paraolivary nucleus"
+    "medial part",
+    "medial superior olive",
+    "MSO",
+    "nucleus laminaris",
+    "nucleus olivaris superior medialis",
+    "principal superior olivary nucleus",
+    "superior olivary complex",
+    "superior olivary nucleus",
+    "superior olive medial part",
+    "superior paraolivary nucleus",
+    "superior parolivary nucleus"
   ]
 }

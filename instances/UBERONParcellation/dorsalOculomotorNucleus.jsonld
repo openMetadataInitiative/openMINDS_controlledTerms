@@ -12,8 +12,8 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002964",
   "synonym": [
     "D3",
-    "dorsal oculomotor cell column",
     "dorsal nucleus of oculomotor nuclear complex",
+    "dorsal oculomotor cell column",
     "nucleus nervi oculomotorii",
     "pars dorsalis"
   ]

@@ -11,10 +11,10 @@
   "name": "cyclic adenosine monophosphate",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_17489",
   "synonym": [
-    "cAMP",
-    "cyclic AMP",
+    "3',5'-cyclic AMP",
     "3',5'-cylic adenosine monophosphate",
     "adenosine 3',5'-cyclic monophosphate",
-    "3',5'-cyclic AMP"
+    "cAMP",
+    "cyclic AMP"
   ]
 }

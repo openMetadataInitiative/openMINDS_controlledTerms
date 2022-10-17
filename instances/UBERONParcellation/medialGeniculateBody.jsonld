@@ -11,17 +11,17 @@
   "name": "medial geniculate body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001927",
   "synonym": [
-    "MGN",
     "corpus geniculatum mediale",
+    "corpus geniculatus medialis",
+    "internal geniculate body",
     "medial geniculate complex",
+    "medial geniculate complex of dorsal thalamus",
     "medial geniculate nuclei",
     "medial geniculate nucleus",
-    "nuclei corporis geniculati medialis",
-    "nucleus geniculatus medialis",
-    "internal geniculate body",
-    "medial geniculate complex of dorsal thalamus",
-    "nucleus corporis geniculati medialis",
     "MGB",
-    "corpus geniculatus medialis"
+    "MGN",
+    "nuclei corporis geniculati medialis",
+    "nucleus corporis geniculati medialis",
+    "nucleus geniculatus medialis"
   ]
 }

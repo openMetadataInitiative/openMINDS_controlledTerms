@@ -11,13 +11,13 @@
   "name": "posterior column of fornix",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006115",
   "synonym": [
-    "posterior crus of fornix",
+    "crus fornicis",
     "crus of fornix",
-    "posterior pillar of fornix",
+    "crus posterius",
+    "fornix",
     "posterior column of fornix",
     "posterior column of fornix of forebrain",
-    "fornix",
-    "crus posterius",
-    "crus fornicis"
+    "posterior crus of fornix",
+    "posterior pillar of fornix"
   ]
 }

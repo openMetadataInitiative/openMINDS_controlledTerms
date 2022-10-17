@@ -11,12 +11,12 @@
   "name": "ventral external arcuate fiber bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006097",
   "synonym": [
-    "ventral external arcuate fibers",
-    "ventral external arcuate fiber bundle",
-    "ventral external arcuate tract",
-    "fibrae circumpyramidales",
     "fibrae arcuatae externae anteriores",
     "fibrae arcuatae externae ventrales",
-    "fibre arcuatae superficiales"
+    "fibrae circumpyramidales",
+    "fibre arcuatae superficiales",
+    "ventral external arcuate fiber bundle",
+    "ventral external arcuate fibers",
+    "ventral external arcuate tract"
   ]
 }

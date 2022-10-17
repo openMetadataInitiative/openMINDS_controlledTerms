@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003026",
   "synonym": [
     "Lim",
-    "nucleus limitans opticus (Hassler)",
     "limitans thalamic nucleus",
-    "nucleus limitans thalami",
-    "nucleus limitans"
+    "nucleus limitans",
+    "nucleus limitans opticus (Hassler)",
+    "nucleus limitans thalami"
   ]
 }

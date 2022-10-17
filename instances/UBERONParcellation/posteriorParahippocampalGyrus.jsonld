@@ -11,13 +11,13 @@
   "name": "posterior parahippocampal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002657",
   "synonym": [
-    "parahippocampal gyrus (Insausti)",
-    "parahippocampal gyrus (amaral)",
     "gyrus parahippocampalis",
-    "pars posterior",
     "parahippocampal gyrus",
-    "posterior division",
+    "parahippocampal gyrus (amaral)",
+    "parahippocampal gyrus (Insausti)",
+    "pars posterior",
     "pHp",
+    "posterior division",
     "posterior parahippocampal gyrus"
   ]
 }

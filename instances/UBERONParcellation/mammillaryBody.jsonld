@@ -11,14 +11,14 @@
   "name": "mammillary body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002206",
   "synonym": [
-    "mmb",
-    "mamillary body",
-    "corpus mamillare",
-    "corpus mamillare",
+    "corpora mamillaria",
     "corpora mammillaria",
+    "corpus mamillare",
+    "corpus mamillare",
     "corpus mamillaris",
-    "mammillary area",
     "corpus mammillare",
-    "corpora mamillaria"
+    "mamillary body",
+    "mammillary area",
+    "mmb"
   ]
 }

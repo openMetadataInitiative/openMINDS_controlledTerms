@@ -11,13 +11,13 @@
   "name": "orbital part of inferior frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002624",
   "synonym": [
-    "pars orbitalis gyri frontalis inferioris",
+    "brodmann's area 36",
+    "gyrus frontalis inferior",
+    "inferior frontal gyrus",
     "inferior frontal gyrus",
     "orbital part",
-    "gyrus frontalis inferior",
     "pars orbitalis",
-    "brodmann's area 36",
     "pars orbitalis",
-    "inferior frontal gyrus"
+    "pars orbitalis gyri frontalis inferioris"
   ]
 }

@@ -11,18 +11,18 @@
   "name": "magnocellular part of red nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002936",
   "synonym": [
-    "RMC",
-    "magnocellular red nucleus",
-    "paleoruber",
-    "red nucleus",
     "magnocellular part",
-    "pars magnocellularis nuclei rubri",
-    "nucleus ruber magnocellularis",
     "magnocellular part of the red nucleus",
+    "magnocellular red nucleus",
     "nucleus ruber",
-    "pars magnocellularis",
-    "red nucleus magnocellular part",
+    "nucleus ruber magnocellularis",
     "palaeorubrum",
-    "pars magnocellularis (ruber)"
+    "paleoruber",
+    "pars magnocellularis",
+    "pars magnocellularis (ruber)",
+    "pars magnocellularis nuclei rubri",
+    "red nucleus",
+    "red nucleus magnocellular part",
+    "RMC"
   ]
 }

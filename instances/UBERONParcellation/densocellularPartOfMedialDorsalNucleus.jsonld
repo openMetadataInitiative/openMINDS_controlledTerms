@@ -11,12 +11,12 @@
   "name": "densocellular part of medial dorsal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002645",
   "synonym": [
+    "densocellular part of the medial dorsal nucleus",
     "MDD",
-    "pars densocellularis",
     "nucleus medialis dorsalis",
     "nucleus medialis dorsalis",
-    "pars densocellularis",
     "nucleus medialis dorsalis paralamellaris (Hassler)",
-    "densocellular part of the medial dorsal nucleus"
+    "pars densocellularis",
+    "pars densocellularis"
   ]
 }

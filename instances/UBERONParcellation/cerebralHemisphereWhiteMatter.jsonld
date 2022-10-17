@@ -11,11 +11,11 @@
   "name": "cerebral hemisphere white matter",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002437",
   "synonym": [
-    "cerebral white matter",
-    "white matter structure of cerebral hemisphere",
     "cerebral hemisphere white matter",
-    "substantia medullaris cerebri",
+    "cerebral white matter",
     "hemisphere white matter",
-    "region of cerebral white matter"
+    "region of cerebral white matter",
+    "substantia medullaris cerebri",
+    "white matter structure of cerebral hemisphere"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "medullary raphe nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002692",
   "synonym": [
-    "raphe nuclei of medulla",
+    "nuclei raphe (myelencephali)",
     "raphe medullae oblongatae",
-    "raphe of medulla oblongata",
+    "raphe nuclei of medulla",
     "raphe nuclei of the medulla",
-    "nuclei raphe (myelencephali)"
+    "raphe of medulla oblongata"
   ]
 }

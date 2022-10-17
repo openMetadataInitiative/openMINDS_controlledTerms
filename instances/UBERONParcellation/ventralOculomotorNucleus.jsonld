@@ -11,11 +11,11 @@
   "name": "ventral oculomotor nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002934",
   "synonym": [
-    "V3",
-    "ventral oculomotor cell column",
-    "ventral nucleus of oculomotor nuclear complex",
-    "nucleus nervi oculomotorii ventrolateralis",
     "nucleus nervi oculomotorii",
-    "pars ventralis"
+    "nucleus nervi oculomotorii ventrolateralis",
+    "pars ventralis",
+    "V3",
+    "ventral nucleus of oculomotor nuclear complex",
+    "ventral oculomotor cell column"
   ]
 }

@@ -11,9 +11,9 @@
   "name": "parietal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016530",
   "synonym": [
-    "parietal lobe cortex",
     "cortex of parietal lobe",
-    "parietal neocortex",
-    "gray matter of parietal lobe"
+    "gray matter of parietal lobe",
+    "parietal lobe cortex",
+    "parietal neocortex"
   ]
 }

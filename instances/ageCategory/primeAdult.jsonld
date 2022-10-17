@@ -11,7 +11,7 @@
   "name": "prime adult",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0018241",
   "synonym": [
-    "prime adult stage",
-    "adulthood stage"
+    "adulthood stage",
+    "prime adult stage"
   ]
 }

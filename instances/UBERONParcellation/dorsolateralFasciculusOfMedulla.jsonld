@@ -12,16 +12,16 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002649",
   "synonym": [
     "dorsolateral fasciculus",
-    "zone of Lissauer",
+    "dorsolateral fasciculus of the medulla",
+    "dorsolateral tract",
+    "fasciculus dorsolateralis",
+    "Lissauer marginal zone",
+    "lissauer's tract",
     "posterolateral fasciculus",
+    "posterolateral tract",
     "tract of Lissauer",
     "tractus posterolateralis",
-    "posterolateral tract",
-    "lissauer's tract",
-    "dorsolateral tract",
-    "dorsolateral fasciculus of the medulla",
-    "fasciculus dorsolateralis",
     "zona Lissauer",
-    "Lissauer marginal zone"
+    "zone of Lissauer"
   ]
 }

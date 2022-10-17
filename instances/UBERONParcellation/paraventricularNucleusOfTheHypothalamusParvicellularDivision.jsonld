@@ -11,12 +11,12 @@
   "name": "paraventricular nucleus of the hypothalamus parvicellular division",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014604",
   "synonym": [
-    "PVHp",
-    "paraventricular nucleus of the hypothalamus parvicellular division",
-    "paraventricular nucleus of the hypothalamus",
-    "parvicellular division",
     "paraventricular hypothalamic nucleus",
+    "paraventricular hypothalamic nucleus parvicellular division",
+    "paraventricular nucleus of the hypothalamus",
+    "paraventricular nucleus of the hypothalamus parvicellular division",
     "parvicellular division",
-    "paraventricular hypothalamic nucleus parvicellular division"
+    "parvicellular division",
+    "PVHp"
   ]
 }

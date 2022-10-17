@@ -11,12 +11,12 @@
   "name": "septal nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002663",
   "synonym": [
-    "septal nuclei",
-    "parolfactory nuclei",
-    "septal nucleus",
     "nuclei septales",
+    "parolfactory nuclei",
+    "septal nuclei",
     "septal nuclei and related structures",
-    "set of septal nuclei",
-    "septal nuclei set"
+    "septal nuclei set",
+    "septal nucleus",
+    "set of septal nuclei"
   ]
 }

@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004186",
   "synonym": [
     "Mi",
-    "OB mitral cell layer",
     "mitral cell body layer",
     "mitral cell layer",
-    "olfactory bulb main mitral cell body layer",
-    "mitral cell layer of the olfactory bulb"
+    "mitral cell layer of the olfactory bulb",
+    "OB mitral cell layer",
+    "olfactory bulb main mitral cell body layer"
   ]
 }

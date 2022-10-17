@@ -12,13 +12,13 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "nitric oxide synthase expressing cell",
-    "nitric oxide synthase-positive neuron",
     "nitric oxide synthase-positive cell",
+    "nitric oxide synthase-positive neuron",
     "NOS+ cell",
     "NOS+ neuron",
-    "NOS-positive cell",
-    "NOS-positive neuron",
     "NOS-expressing cell",
-    "NOS-expressing neuron"
+    "NOS-expressing neuron",
+    "NOS-positive cell",
+    "NOS-positive neuron"
   ]
 }

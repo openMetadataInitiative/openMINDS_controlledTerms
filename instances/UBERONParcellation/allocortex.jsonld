@@ -11,12 +11,12 @@
   "name": "allocortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014734",
   "synonym": [
-    "intercalated nucleus of the medulla",
-    "nucleus intercalatus (staderini)",
+    "allocortex (Stephan)",
+    "heterogenetic cortex",
     "heterogenetic cortex",
     "heterogenetic formations",
-    "transitional cortex",
-    "allocortex (Stephan)",
-    "heterogenetic cortex"
+    "intercalated nucleus of the medulla",
+    "nucleus intercalatus (staderini)",
+    "transitional cortex"
   ]
 }

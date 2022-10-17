@@ -11,9 +11,9 @@
   "name": "fundus striati",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014605",
   "synonym": [
+    "fundus of striatum",
     "fundus of the striatum",
     "fundus striati",
-    "striatal fundus",
-    "fundus of striatum"
+    "striatal fundus"
   ]
 }

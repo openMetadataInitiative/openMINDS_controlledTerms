@@ -11,12 +11,12 @@
   "name": "cerebral hemisphere",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001869",
   "synonym": [
-    "medial amygdalar nucleus",
-    "nucleus medialis amygdalae",
+    "cerebrum",
+    "hemisphere",
     "hemispheric regions",
     "hemispherium cerebri",
-    "hemisphere",
+    "medial amygdalar nucleus",
     "nucleus amygdaloideus medialis",
-    "cerebrum"
+    "nucleus medialis amygdalae"
   ]
 }

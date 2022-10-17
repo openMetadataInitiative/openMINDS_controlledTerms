@@ -11,12 +11,12 @@
   "name": "pontine raphe nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002047",
   "synonym": [
+    "nucleus raphe pontis",
+    "nucleus raphes pontis",
     "PnR",
+    "raphe (mediana pontina)",
     "raphe of pons",
     "raphe pontis",
-    "raphe pontis nucleus",
-    "nucleus raphe pontis",
-    "raphe (mediana pontina)",
-    "nucleus raphes pontis"
+    "raphe pontis nucleus"
   ]
 }

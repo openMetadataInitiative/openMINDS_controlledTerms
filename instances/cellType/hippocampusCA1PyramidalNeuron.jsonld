@@ -11,9 +11,9 @@
   "name": "hippocampus CA1 pyramidal neuron",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao830368389",
   "synonym": [
-    "hippocampus CA1 pyramidal cell",
     "CA1 pyramidal neuron",
     "cornu ammonis 1 pyramidal neuron",
-    "hippocampal CA1 pyramidal cell"
+    "hippocampal CA1 pyramidal cell",
+    "hippocampus CA1 pyramidal cell"
   ]
 }

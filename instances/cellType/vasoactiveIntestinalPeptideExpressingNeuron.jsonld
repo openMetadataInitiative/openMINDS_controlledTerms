@@ -11,10 +11,10 @@
   "name": "vasoactive-intestinal peptide expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "VIP+ neuron",
     "vasoactive-intestinal peptide expressing cell",
-    "VIP-positive neuron",
     "VIP+ cell",
-    "VIP-positive cell"
+    "VIP+ neuron",
+    "VIP-positive cell",
+    "VIP-positive neuron"
   ]
 }

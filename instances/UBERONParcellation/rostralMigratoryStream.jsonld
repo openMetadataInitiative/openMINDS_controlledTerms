@@ -11,7 +11,7 @@
   "name": "rostral migratory stream",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008881",
   "synonym": [
-    "rostral migratory pathway",
-    "RMS"
+    "RMS",
+    "rostral migratory pathway"
   ]
 }

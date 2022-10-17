@@ -11,9 +11,9 @@
   "name": "medial longitudinal fasciculus of midbrain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002660",
   "synonym": [
-    "mlfmb",
-    "midbrain medial longitudinal fasciculus",
     "fasciculus longitudinalis medialis (mesencephali)",
-    "medial longitudinal fasciculus of the midbrain"
+    "medial longitudinal fasciculus of the midbrain",
+    "midbrain medial longitudinal fasciculus",
+    "mlfmb"
   ]
 }

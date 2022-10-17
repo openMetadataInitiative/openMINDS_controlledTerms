@@ -11,13 +11,13 @@
   "name": "time-of-flight magnetic resonance angiography",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "TOF MRA",
-    "time-of-flight MRA",
-    "TOF magnetic resonance angiography",
+    "time-of-flight",
     "time-of-flight angiography",
-    "TOF angiography",
     "time-of-flight MR angiography",
+    "time-of-flight MRA",
     "TOF",
-    "time-of-flight"
+    "TOF angiography",
+    "TOF magnetic resonance angiography",
+    "TOF MRA"
   ]
 }

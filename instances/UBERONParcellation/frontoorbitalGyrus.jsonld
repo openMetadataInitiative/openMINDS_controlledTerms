@@ -11,9 +11,9 @@
   "name": "fronto-orbital gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0009836",
   "synonym": [
-    "orbitofrontal gyrus",
     "fronto-orbital gyrus",
+    "gyrus fronto-orbitalis",
     "orbito-frontal gyrus",
-    "gyrus fronto-orbitalis"
+    "orbitofrontal gyrus"
   ]
 }

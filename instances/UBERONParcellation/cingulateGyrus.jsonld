@@ -12,11 +12,11 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002967",
   "synonym": [
     "CG",
+    "cingular gyrus",
+    "cingulate area",
     "cingulate region",
     "falciform lobe",
-    "upper limbic gyrus",
-    "cingulate area",
     "gyri cinguli",
-    "cingular gyrus"
+    "upper limbic gyrus"
   ]
 }

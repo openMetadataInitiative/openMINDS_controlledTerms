@@ -11,16 +11,16 @@
   "name": "opercular part of inferior frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002980",
   "synonym": [
-    "pars opercularis gyri frontalis inferioris",
-    "opercular portion of inferior frontal gyrus",
-    "posterior part of inferior frontal gyrus",
     "gyrus frontalis inferior",
-    "pars opercularis",
-    "pars opercularis",
-    "pars posterior of inferior frontal gyrus",
+    "inferior frontal gyrus",
     "inferior frontal gyrus",
     "opercular part",
-    "inferior frontal gyrus",
-    "pars opercularis"
+    "opercular portion of inferior frontal gyrus",
+    "pars opercularis",
+    "pars opercularis",
+    "pars opercularis",
+    "pars opercularis gyri frontalis inferioris",
+    "pars posterior of inferior frontal gyrus",
+    "posterior part of inferior frontal gyrus"
   ]
 }

@@ -11,14 +11,14 @@
   "name": "primary somatosensory cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0008933",
   "synonym": [
-    "S1",
-    "Sm1",
-    "primary somatosensory cortex (area S1",
     "areas 3,1,2)",
-    "somatosensory area 1",
     "postcentral gyrus",
     "primary somatosensory area",
+    "primary somatosensory cortex (area S1",
+    "S1",
+    "S1",
     "S1C",
-    "S1"
+    "Sm1",
+    "somatosensory area 1"
   ]
 }

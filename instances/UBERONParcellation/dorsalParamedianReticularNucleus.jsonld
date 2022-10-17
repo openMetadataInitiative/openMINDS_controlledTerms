@@ -11,15 +11,15 @@
   "name": "dorsal paramedian reticular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016827",
   "synonym": [
-    "PMD",
-    "nucleus paramedianus dorsalis",
-    "dorsal paramedian nucleus",
     "dorsal paramedian nuclei of raphe",
-    "posterior paramedian nucleus",
-    "nucleus paramedianus posterior",
-    "nucleo paramediano dorsale@it",
+    "dorsal paramedian nucleus",
     "dorsal paramedian reticular nucleus",
+    "nucleo paramediano dorsale@it",
+    "nucleus paramedianus dorsalis",
+    "nucleus paramedianus posterior",
     "nucleus reticularis paramedianus myelencephali",
-    "nzcleo reticular paramediano dorsal@es"
+    "nzcleo reticular paramediano dorsal@es",
+    "PMD",
+    "posterior paramedian nucleus"
   ]
 }

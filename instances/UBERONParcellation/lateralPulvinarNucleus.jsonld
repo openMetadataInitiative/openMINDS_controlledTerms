@@ -11,14 +11,14 @@
   "name": "lateral pulvinar nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002636",
   "synonym": [
-    "LPul",
     "lateral pulvinar nucleus of thalamus",
-    "nucleus pulvinaris lateralis thalami",
+    "LPul",
     "nucleus pulvinaris lateralis",
-    "pars lateralis",
-    "nucleus pulvinaris thalami",
     "nucleus pulvinaris lateralis (Hassler)",
+    "nucleus pulvinaris lateralis thalami",
     "nucleus pulvinaris thalami",
+    "nucleus pulvinaris thalami",
+    "pars lateralis",
     "pars lateralis"
   ]
 }

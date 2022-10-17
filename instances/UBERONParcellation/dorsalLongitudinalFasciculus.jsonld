@@ -11,19 +11,19 @@
   "name": "dorsal longitudinal fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003045",
   "synonym": [
-    "dlf",
-    "bundle of Schutz",
-    "posterior longitudinal fasciculus",
-    "fasciculus of Schutz",
-    "fasciculus longitudinalis posterior",
-    "nucleus acustici accessorici",
-    "fasciculus longitudinalis posterior",
-    "ventral cochlear nuclei",
-    "nucleus cochlearis ventralis",
-    "fasciculus longitudinalis dorsalis",
     "accessory cochlear nucleus",
-    "ventral division of cochlear nucleus",
+    "bundle of Schutz",
+    "dlf",
+    "dorsal longitudinal fascicle",
+    "fasciculus longitudinalis dorsalis",
+    "fasciculus longitudinalis posterior",
+    "fasciculus longitudinalis posterior",
+    "fasciculus of Schutz",
+    "nucleus acustici accessorici",
     "nucleus cochlearis anterior",
-    "dorsal longitudinal fascicle"
+    "nucleus cochlearis ventralis",
+    "posterior longitudinal fasciculus",
+    "ventral cochlear nuclei",
+    "ventral division of cochlear nucleus"
   ]
 }

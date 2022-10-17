@@ -11,8 +11,8 @@
   "name": "degree Celsius",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "Celsius",
     "degree",
-    "°C",
-    "Celsius"
+    "°C"
   ]
 }

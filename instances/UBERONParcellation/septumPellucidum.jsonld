@@ -11,14 +11,14 @@
   "name": "septum pellucidum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004714",
   "synonym": [
-    "medial septum",
-    "medial septum",
-    "supracommissural septum",
-    "septal pellucidum",
-    "septum pellucidum of telencephalic ventricle",
     "lateral septum",
+    "medial septum",
+    "medial septum",
     "pellucidum",
+    "septal pellucidum",
     "septum gliosum",
-    "septum lucidum"
+    "septum lucidum",
+    "septum pellucidum of telencephalic ventricle",
+    "supracommissural septum"
   ]
 }

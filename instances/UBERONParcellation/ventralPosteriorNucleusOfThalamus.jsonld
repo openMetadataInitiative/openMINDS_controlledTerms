@@ -11,19 +11,19 @@
   "name": "ventral posterior nucleus of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002596",
   "synonym": [
-    "VP",
-    "ventrobasal nucleus",
-    "ventrobasal complex",
-    "nucleus ventralis posterior",
-    "nucleus ventrales posteriores",
-    "ventral posterior thalamic nucleus",
-    "ventral posterior nucleus",
-    "ventral posterior",
     "nuclei ventrales posteriores",
-    "ventroposterior inferior nucleus",
-    "VPN",
-    "ventroposterior nucleus",
+    "nucleus ventrales posteriores",
+    "nucleus ventralis posterior",
+    "ventral posterior",
     "ventral posterior complex of the thalamus",
-    "ventroposterior nucleus of thalamus"
+    "ventral posterior nucleus",
+    "ventral posterior thalamic nucleus",
+    "ventrobasal complex",
+    "ventrobasal nucleus",
+    "ventroposterior inferior nucleus",
+    "ventroposterior nucleus",
+    "ventroposterior nucleus of thalamus",
+    "VP",
+    "VPN"
   ]
 }

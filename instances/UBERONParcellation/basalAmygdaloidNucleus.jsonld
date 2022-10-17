@@ -11,18 +11,18 @@
   "name": "basal amygdaloid nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002887",
   "synonym": [
-    "basolateral nucleus (De Olmos)",
-    "basolateral amygaloid nucleus",
-    "basolateral amygdaloid nucleus",
-    "intermediate principal nucleus",
-    "basolateral amygdalar nucleus",
-    "nucleus amygdalae basalis lateralis",
-    "nucleus basalis amygdalae",
-    "basolateral nucleus of amygdala",
-    "nucleus amygdalae basalis",
     "basal nucleus of the amygdala",
-    "nucleus amygdaloideus basalis",
+    "basolateral amygaloid nucleus",
+    "basolateral amygdalar nucleus",
+    "basolateral amygdaloid nucleus",
+    "basolateral nucleus (De Olmos)",
+    "basolateral nucleus of amygdala",
     "basolateral nucleus of the amygdala",
-    "nucleus amygdaloideus basolateralis"
+    "intermediate principal nucleus",
+    "nucleus amygdalae basalis",
+    "nucleus amygdalae basalis lateralis",
+    "nucleus amygdaloideus basalis",
+    "nucleus amygdaloideus basolateralis",
+    "nucleus basalis amygdalae"
   ]
 }

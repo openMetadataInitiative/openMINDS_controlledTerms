@@ -11,9 +11,9 @@
   "name": "cortical basket cell",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_56",
   "synonym": [
-    "neocortex basket cell",
     "basket cell",
     "cortical basket neuron",
+    "neocortex basket cell",
     "neocortical basket cell"
   ]
 }

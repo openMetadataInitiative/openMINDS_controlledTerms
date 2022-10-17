@@ -11,10 +11,10 @@
   "name": "postcommissural fornix of brain",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003016",
   "synonym": [
-    "pofx",
+    "columna posterior fornicis",
     "fornix (entering Corpus mamillare)",
-    "postcommissural fornix",
     "fornix postcommissuralis",
-    "columna posterior fornicis"
+    "pofx",
+    "postcommissural fornix"
   ]
 }

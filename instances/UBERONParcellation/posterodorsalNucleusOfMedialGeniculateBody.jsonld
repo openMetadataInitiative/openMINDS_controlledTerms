@@ -11,11 +11,11 @@
   "name": "posterodorsal nucleus of medial geniculate body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0023094",
   "synonym": [
+    "nucleus corporis geniculati medialis",
+    "nucleus corporis geniculati medialis",
+    "pars posterodorsalis",
     "PDMG",
-    "nucleus corporis geniculati medialis",
-    "posterodorsal nucleus of medial geniculate complex",
     "posterodorsal nucleus of medial geniculate body",
-    "nucleus corporis geniculati medialis",
-    "pars posterodorsalis"
+    "posterodorsal nucleus of medial geniculate complex"
   ]
 }

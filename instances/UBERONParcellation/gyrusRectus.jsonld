@@ -11,12 +11,12 @@
   "name": "gyrus rectus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004671",
   "synonym": [
+    "gyrus rectus",
+    "medial part of gyri orbitales",
+    "rectal gyrus",
+    "rectus gyrus",
     "RG",
     "straight gyrus",
-    "rectal gyrus",
-    "medial part of gyri orbitales",
-    "rectus gyrus",
-    "gyrus rectus",
     "ventromedial gyrus"
   ]
 }

@@ -11,17 +11,17 @@
   "name": "cerebral cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000956",
   "synonym": [
-    "Cx",
-    "Cortex",
-    "Cx",
-    "Cortex",
-    "cortex of cerebral hemisphere",
-    "cortical plate (CTXpl)",
     "brain cortex",
+    "Cortex",
+    "Cortex",
+    "cortex cerebralis",
+    "cortex cerebri",
+    "cortex of cerebral hemisphere",
     "cortex of cerebrum",
     "cortical plate (areas)",
-    "cortex cerebralis",
-    "pallium of the brain",
-    "cortex cerebri"
+    "cortical plate (CTXpl)",
+    "Cx",
+    "Cx",
+    "pallium of the brain"
   ]
 }

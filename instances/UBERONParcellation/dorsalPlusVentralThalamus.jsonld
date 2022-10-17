@@ -11,12 +11,12 @@
   "name": "dorsal plus ventral thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001897",
   "synonym": [
-    "Th",
     "Parencephalon",
-    "wider thalamus",
-    "thalamus opticus",
+    "Th",
     "thalamencephalon",
     "thalami",
-    "thalamus"
+    "thalamus",
+    "thalamus opticus",
+    "wider thalamus"
   ]
 }

@@ -11,11 +11,11 @@
   "name": "midbrain tegmentum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001943",
   "synonym": [
-    "MTg",
     "mesencephalic tegmentum",
-    "tegmentum of midbrain",
+    "MTg",
+    "tegmentum",
     "tegmentum mesencephali",
     "tegmentum mesencephalicum",
-    "tegmentum"
+    "tegmentum of midbrain"
   ]
 }

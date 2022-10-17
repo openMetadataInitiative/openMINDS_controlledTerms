@@ -11,20 +11,20 @@
   "name": "dorsal tegmental nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002143",
   "synonym": [
-    "DTg",
-    "Dorsal tegmental nucleus of Gudden",
-    "gudden nucleus",
-    "nucleus tegmentalis dorsalis",
-    "posterior tegmental nucleus",
-    "von Gudden's nucleus",
     "dorsal tegmental nucleus (Gudden)",
-    "nucleus tegmentalis posterior",
+    "Dorsal tegmental nucleus of Gudden",
+    "DTg",
     "DTN",
-    "nucleus dorsalis tegmenti",
     "ganglion dorsale tegmenti",
-    "nucleus opticus dorsalis",
+    "gudden nucleus",
     "nucleus compactus suprafascicularis",
+    "nucleus dorsalis tegmenti",
     "nucleus dorsalis tegmenti (Gudden)",
-    "nucleus tegmenti dorsale"
+    "nucleus opticus dorsalis",
+    "nucleus tegmentalis dorsalis",
+    "nucleus tegmentalis posterior",
+    "nucleus tegmenti dorsale",
+    "posterior tegmental nucleus",
+    "von Gudden's nucleus"
   ]
 }

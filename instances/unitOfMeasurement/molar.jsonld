@@ -11,8 +11,8 @@
   "name": "molar",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "10^3 mol/m^3",
     "M",
-    "mol/L",
-    "10^3 mol/m^3"
+    "mol/L"
   ]
 }

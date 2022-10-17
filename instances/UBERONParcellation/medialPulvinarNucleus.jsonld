@@ -12,11 +12,11 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002638",
   "synonym": [
     "MPul",
-    "pars medialis",
-    "nucleus pulvinaris thalami",
     "nucleus pulvinaris medialis",
     "nucleus pulvinaris medialis thalami",
     "nucleus pulvinaris thalami",
+    "nucleus pulvinaris thalami",
+    "pars medialis",
     "pars medialis"
   ]
 }

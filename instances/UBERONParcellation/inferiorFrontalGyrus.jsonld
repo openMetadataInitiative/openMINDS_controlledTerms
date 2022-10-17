@@ -11,11 +11,11 @@
   "name": "inferior frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002998",
   "synonym": [
+    "gyrus F3",
+    "gyrus frontalis inferior",
+    "gyrus frontalis tertius",
     "IFG",
     "inferior frontal convolution",
-    "gyrus F3",
-    "regio subfrontalis",
-    "gyrus frontalis inferior",
-    "gyrus frontalis tertius"
+    "regio subfrontalis"
   ]
 }

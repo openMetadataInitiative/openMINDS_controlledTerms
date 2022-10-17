@@ -11,9 +11,9 @@
   "name": "temporal pole",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002576",
   "synonym": [
-    "temporopolar cortex",
+    "cerebral cortex",
     "polus temporalis",
     "temporal pole",
-    "cerebral cortex"
+    "temporopolar cortex"
   ]
 }

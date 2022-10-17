@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002668",
   "synonym": [
     "3nf",
-    "root of oculomotor nerve",
     "central part of oculomotor nerve",
+    "fibrae nervi oculomotorii",
     "oculomotor nerve fibers",
     "oculomotor nerve tract",
-    "fibrae nervi oculomotorii"
+    "root of oculomotor nerve"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "M2 receptor",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000001614",
   "synonym": [
-    "muscarinic acetylcholine receptor 2",
     "M2",
-    "M2 AChR",
     "M2 acetylcholine receptor",
+    "M2 AChR",
+    "muscarinic acetylcholine receptor 2",
     "muscarinic acetylcholine receptor M2",
     "muscarinic acetylcholine receptor type 2"
   ]

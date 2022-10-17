@@ -12,16 +12,16 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002888",
   "synonym": [
     "BAL",
-    "lateral division of basal nucleus",
-    "lateral basal nucleus of the amygdala",
-    "lateral division of the basal nucleus",
     "lateral basal nucleus of amygdala",
-    "lateral part of the basolateral nucleus",
-    "nucleus basalis lateralis amygdalae",
+    "lateral basal nucleus of the amygdala",
+    "lateral division of basal nucleus",
+    "lateral division of the basal nucleus",
     "lateral part of the basal amygdalar nucleus",
+    "lateral part of the basolateral nucleus",
     "nucleus amygdalae basalis",
-    "pars lateralis",
     "nucleus amygdaloideus basalis",
+    "nucleus basalis lateralis amygdalae",
+    "pars lateralis",
     "pars lateralis magnocellularis"
   ]
 }

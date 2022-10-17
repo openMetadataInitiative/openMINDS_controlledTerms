@@ -11,15 +11,15 @@
   "name": "stria terminalis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003029",
   "synonym": [
-    "st",
+    "fibrae striae terminalis",
+    "fovilles fasciculus",
     "semicircular stria",
-    "terminal stria",
+    "st",
+    "stria semicircularis",
     "stria terminalis",
     "stria terminalis (Wenzel-Wenzel)",
-    "tenia semicircularis",
-    "fovilles fasciculus",
-    "stria semicircularis",
     "Tarins tenia",
-    "fibrae striae terminalis"
+    "tenia semicircularis",
+    "terminal stria"
   ]
 }

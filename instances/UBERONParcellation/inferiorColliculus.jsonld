@@ -11,15 +11,15 @@
   "name": "inferior colliculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001946",
   "synonym": [
-    "IC",
-    "inferior colliculi",
     "caudal colliculus",
-    "posterior corpus quadrigeminum",
-    "posterior colliculus",
+    "colliculus caudalis",
     "colliculus inferior",
     "corpus bigeminalis caudalis",
-    "colliculus caudalis",
+    "corpus bigeminum posterioris",
     "corpus quadrigeminum inferius",
-    "corpus bigeminum posterioris"
+    "IC",
+    "inferior colliculi",
+    "posterior colliculus",
+    "posterior corpus quadrigeminum"
   ]
 }

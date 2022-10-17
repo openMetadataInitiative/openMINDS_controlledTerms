@@ -12,12 +12,12 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0012170",
   "synonym": [
     "AcbC",
-    "nucleus accumbens core",
+    "accumbens nucleus",
+    "accumbens nucleus core",
+    "core",
     "core of nucleus accumbens",
     "core region of nucleus accumbens",
-    "accumbens nucleus",
-    "core",
-    "nucleusa ccumbens core",
-    "accumbens nucleus core"
+    "nucleus accumbens core",
+    "nucleusa ccumbens core"
   ]
 }

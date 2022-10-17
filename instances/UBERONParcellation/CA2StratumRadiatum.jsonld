@@ -11,10 +11,10 @@
   "name": "CA2 stratum radiatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014555",
   "synonym": [
-    "stratum radiatum of CA2",
+    "CA2 part of stratum radiatum",
     "CA2 stratum radiatum",
-    "stratum radiatum of the CA2 field",
     "radiate layer of CA2 field",
-    "CA2 part of stratum radiatum"
+    "stratum radiatum of CA2",
+    "stratum radiatum of the CA2 field"
   ]
 }

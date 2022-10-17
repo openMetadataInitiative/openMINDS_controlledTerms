@@ -11,13 +11,13 @@
   "name": "neostriatum cholinergic interneuron",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1866881837",
   "synonym": [
-    "giant cholinergic interneuron",
-    "striatal cholinergic interneuron",
-    "large striatal aspiny neuron",
     "cholinergic striatal neuron",
+    "CIN",
+    "giant cholinergic interneuron",
+    "large striatal aspiny neuron",
+    "neostriatial cholinergic interneuron",
     "neostriatum cholinergic cell",
     "neostriatum giant cell of Kolliker",
-    "neostriatial cholinergic interneuron",
-    "CIN"
+    "striatal cholinergic interneuron"
   ]
 }

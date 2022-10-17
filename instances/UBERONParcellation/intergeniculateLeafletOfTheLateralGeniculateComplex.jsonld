@@ -11,11 +11,11 @@
   "name": "intergeniculate leaflet of the lateral geniculate complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035975",
   "synonym": [
-    "lateral geniculate complex",
-    "intergeniculate leaflet",
-    "intergeniculate leaflet of the lateral geniculate complex",
     "IGL",
     "intergeniculate leaflet",
+    "intergeniculate leaflet",
+    "intergeniculate leaflet of the lateral geniculate complex",
+    "lateral geniculate complex",
     "lateral geniculate complex"
   ]
 }

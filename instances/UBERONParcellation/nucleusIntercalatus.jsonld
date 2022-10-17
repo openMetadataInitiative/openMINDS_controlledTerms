@@ -12,13 +12,13 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002876",
   "synonym": [
     "In",
+    "intercalated nucleus",
     "intercalated nucleus of medulla",
-    "nucleus Staderini",
-    "nucleus intercalatus of medulla",
-    "nucleus of Staderini",
+    "intercalated nucleus of the medulla",
     "nucleus intercalates",
     "nucleus intercalatus (Staderini)",
-    "intercalated nucleus of the medulla",
-    "intercalated nucleus"
+    "nucleus intercalatus of medulla",
+    "nucleus of Staderini",
+    "nucleus Staderini"
   ]
 }

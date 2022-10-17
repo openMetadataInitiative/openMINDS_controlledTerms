@@ -11,18 +11,18 @@
   "name": "medial part of medial mammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002632",
   "synonym": [
-    "MML",
-    "medial subdivision of medial mammillary nucleus",
-    "medial mammillary nucleus",
-    "median part",
-    "medial mammillary nucleus (carpenter)",
-    "medial mammillary nucleus",
-    "medial part",
-    "medial mammillary nucleus median part",
-    "nucleus corporis mamillaris medialis",
-    "pars medialis",
     "medial mamillary nucleus",
+    "medial mammillary nucleus",
+    "medial mammillary nucleus",
+    "medial mammillary nucleus (carpenter)",
+    "medial mammillary nucleus median part",
+    "medial part",
     "medial part of the medial mammillary nucleus",
-    "nucleus medialis corpus mamillaris (Shantha)"
+    "medial subdivision of medial mammillary nucleus",
+    "median part",
+    "MML",
+    "nucleus corporis mamillaris medialis",
+    "nucleus medialis corpus mamillaris (Shantha)",
+    "pars medialis"
   ]
 }

@@ -11,11 +11,11 @@
   "name": "basal nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006098",
   "synonym": [
-    "basal nuclei of the forebrain",
     "basal ganglia",
-    "basal nuclei",
-    "ganglia basales",
     "basal ganglia (anatomic)",
-    "corpus striatum (Savel'ev)"
+    "basal nuclei",
+    "basal nuclei of the forebrain",
+    "corpus striatum (Savel'ev)",
+    "ganglia basales"
   ]
 }

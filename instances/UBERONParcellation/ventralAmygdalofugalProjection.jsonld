@@ -11,9 +11,9 @@
   "name": "ventral amygdalofugal projection",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002745",
   "synonym": [
-    "vaf",
-    "ventral amygdalofugal pathway",
     "projectiones ventrales amygdalae",
-    "tractus amygdalofugalis ventralis"
+    "tractus amygdalofugalis ventralis",
+    "vaf",
+    "ventral amygdalofugal pathway"
   ]
 }

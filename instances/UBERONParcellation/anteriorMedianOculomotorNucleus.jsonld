@@ -12,19 +12,19 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002701",
   "synonym": [
     "AM3",
-    "anterior median nucleus of oculomotor nuclear complex",
     "anterior medial visceral nucleus",
-    "ventral medial visceral nucleus",
+    "anterior medial visceral nucleus",
     "anterior median nucleus of oculomotor nerve",
-    "ventral medial nucleus of oculomotor nerve",
-    "nucleus visceralis anteromedialis",
+    "anterior median nucleus of oculomotor nerve",
+    "anterior median nucleus of oculomotor nuclear complex",
+    "nucleus anteromedialis",
+    "nucleus anteromedialis",
     "nucleus anteromedialis",
     "nucleus nervi oculomotorii medianus anterior",
-    "nucleus anteromedialis",
-    "ventral medial visceral nucleus",
+    "nucleus visceralis anteromedialis",
     "ventral medial nucleus of oculomotor nerve",
-    "nucleus anteromedialis",
-    "anterior medial visceral nucleus",
-    "anterior median nucleus of oculomotor nerve"
+    "ventral medial nucleus of oculomotor nerve",
+    "ventral medial visceral nucleus",
+    "ventral medial visceral nucleus"
   ]
 }

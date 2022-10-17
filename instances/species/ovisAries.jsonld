@@ -11,7 +11,7 @@
   "name": "Ovis aries",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9940",
   "synonym": [
-    "sheep",
-    "domestic sheep"
+    "domestic sheep",
+    "sheep"
   ]
 }

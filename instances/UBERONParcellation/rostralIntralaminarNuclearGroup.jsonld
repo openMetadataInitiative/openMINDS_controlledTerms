@@ -11,11 +11,11 @@
   "name": "rostral intralaminar nuclear group",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002965",
   "synonym": [
-    "RIL",
-    "nuclei intralaminares rostrales",
     "anterior group of intralaminar nuclei",
-    "rostral intralaminar nuclear group",
+    "nuclei intralaminares rostrales",
+    "RIL",
     "rostral group of intralaminar nuclei",
+    "rostral intralaminar nuclear group",
     "rostral intralaminar nuclei"
   ]
 }

@@ -11,14 +11,14 @@
   "name": "posterior nucleus of hypothalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002706",
   "synonym": [
+    "area hypothalamica posterior",
+    "area posterior hypothalami",
+    "nucleus hypothalamicus posterior",
+    "nucleus posterior hypothalami",
     "PH",
     "posterior hypothalamic area",
     "posterior hypothalamic nucleus",
-    "area hypothalamica posterior",
-    "area posterior hypothalami",
-    "posterior nucleus of the hypothalamus",
-    "nucleus posterior hypothalami",
     "posterior nucleus",
-    "nucleus hypothalamicus posterior"
+    "posterior nucleus of the hypothalamus"
   ]
 }

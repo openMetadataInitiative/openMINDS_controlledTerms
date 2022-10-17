@@ -11,10 +11,10 @@
   "name": "neostriatum direct pathway spiny neuron",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_149135",
   "synonym": [
-    "dMSN",
     "direct pathway medium spiny neuron",
-    "neostriatial direct pathway spiny neuron",
     "direct pathway medium-sized spiny neuron",
+    "dMSN",
+    "neostriatial direct pathway spiny neuron",
     "striatal direct pathway spiny neuron"
   ]
 }

@@ -11,11 +11,11 @@
   "name": "ventral pallidum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002778",
   "synonym": [
-    "VP",
-    "globus pallidus ventral part",
-    "ventral pallidum",
     "fibrae nervi vagi",
+    "globus pallidus ventral part",
     "pallidum ventral region",
-    "ventral globus pallidus"
+    "ventral globus pallidus",
+    "ventral pallidum",
+    "VP"
   ]
 }

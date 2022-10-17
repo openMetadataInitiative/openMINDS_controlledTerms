@@ -11,13 +11,13 @@
   "name": "dorsal striatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005382",
   "synonym": [
-    "StD",
-    "striated body",
-    "corpus striatum",
-    "striatum dorsale",
     "caudoputamen",
+    "corpus striatum",
     "dorsal basal ganglia",
     "dorsal basal ganglion",
-    "striatum dorsal region"
+    "StD",
+    "striated body",
+    "striatum dorsal region",
+    "striatum dorsale"
   ]
 }

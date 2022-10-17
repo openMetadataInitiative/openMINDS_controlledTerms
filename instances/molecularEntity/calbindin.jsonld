@@ -11,10 +11,10 @@
   "name": "calbindin",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_mol_1006006",
   "synonym": [
-    "calbindin 1",
     "28kDa",
+    "CALB1",
+    "calbindin 1",
     "calbindin D28K",
-    "calbindin-D(28k)",
-    "CALB1"
+    "calbindin-D(28k)"
   ]
 }

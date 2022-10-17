@@ -12,15 +12,15 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005821",
   "synonym": [
     "f. gracilis medullae spinalis",
-    "tract of Goll",
-    "gracile tract",
-    "gracile column",
     "fasciculus gracilis",
-    "gracilis tract",
+    "GF",
+    "Gl9 gracile fasciculus",
+    "gr",
+    "gracile column",
     "gracile fascicle",
     "gracile fasciculus (paxspn)",
-    "GF",
-    "gr",
-    "Gl9 gracile fasciculus"
+    "gracile tract",
+    "gracilis tract",
+    "tract of Goll"
   ]
 }

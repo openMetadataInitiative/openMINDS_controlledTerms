@@ -11,15 +11,15 @@
   "name": "lobe of cerebral hemisphere",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0016526",
   "synonym": [
-    "cerebral lobes",
-    "lobi cerebri",
-    "lobe of cerebral cortex",
-    "cerebral hemisphere lobe",
-    "lobe parts of cerebral cortex",
-    "cerebral lobe",
-    "lobes of the brain",
     "cerebral cortical segment",
-    "segment of cerebral cortex",
-    "regional organ part of cerebral cortex"
+    "cerebral hemisphere lobe",
+    "cerebral lobe",
+    "cerebral lobes",
+    "lobe of cerebral cortex",
+    "lobe parts of cerebral cortex",
+    "lobes of the brain",
+    "lobi cerebri",
+    "regional organ part of cerebral cortex",
+    "segment of cerebral cortex"
   ]
 }

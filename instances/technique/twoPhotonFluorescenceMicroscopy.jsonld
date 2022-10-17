@@ -11,14 +11,14 @@
   "name": "two-photon fluorescence microscopy",
   "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/twoPhoton",
   "synonym": [
-    "TPEF",
+    "2-photon excitation microscopy",
+    "2-photon fluorescence microscopy",
+    "2-photon miscroscopy",
     "2PEF",
+    "TPEF",
     "TPM",
     "two-photon excitation fluorescence microscopy",
     "two-photon excitation microscopy",
-    "two-photon miscroscopy",
-    "2-photon excitation microscopy",
-    "2-photon fluorescence microscopy",
-    "2-photon miscroscopy"
+    "two-photon miscroscopy"
   ]
 }

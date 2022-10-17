@@ -12,15 +12,15 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002551",
   "synonym": [
     "ICjl",
-    "Interstitial nucleus of Cajal",
     "interstitial nucleus",
-    "Interstitial nucleus of medial longitudinal fasciculus (Crosby)",
+    "Interstitial nucleus of Cajal",
     "interstitial nucleus of medial longitudinal fasciculus",
+    "Interstitial nucleus of medial longitudinal fasciculus (Crosby)",
+    "interstitial nucleus of the medial longitudinal fascicle (Boyce 1895)",
+    "interstitial nucleus of the medial longitudinal fasciculus",
     "NIC",
     "nucleus interstitialis",
-    "interstitial nucleus of the medial longitudinal fascicle (Boyce 1895)",
-    "nucleus of the posterior commissure (Kvlliker)",
     "nucleus interstitialis Cajal",
-    "interstitial nucleus of the medial longitudinal fasciculus"
+    "nucleus of the posterior commissure (Kvlliker)"
   ]
 }

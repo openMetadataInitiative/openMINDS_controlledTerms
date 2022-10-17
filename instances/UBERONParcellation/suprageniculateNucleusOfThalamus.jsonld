@@ -11,9 +11,9 @@
   "name": "suprageniculate nucleus of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003033",
   "synonym": [
-    "SG",
     "nucleus suprageniculatus",
-    "suprageniculate thalamic nucleus",
-    "suprageniculate nucleus"
+    "SG",
+    "suprageniculate nucleus",
+    "suprageniculate thalamic nucleus"
   ]
 }

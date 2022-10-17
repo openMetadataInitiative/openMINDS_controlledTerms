@@ -11,18 +11,18 @@
   "name": "central amygdaloid nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002883",
   "synonym": [
-    "CeA",
-    "central nucleus of amygdala",
-    "central amygdala",
-    "central nucleus of amygda",
-    "nucleus amygdaloideus centralis",
-    "central nuclear group",
-    "central amygdalar nucleus",
-    "nucleus amygdalae centralis",
-    "central amygdala",
     "amygdala central nucleus",
+    "CeA",
+    "central amygdala",
+    "central amygdala",
+    "central amygdalar nucleus",
+    "central nuclear group",
     "central nucleus amygdala",
+    "central nucleus of amygda",
+    "central nucleus of amygdala",
     "central nucleus of the amygdala",
+    "nucleus amygdalae centralis",
+    "nucleus amygdaloideus centralis",
     "nucleus centralis amygdalae"
   ]
 }

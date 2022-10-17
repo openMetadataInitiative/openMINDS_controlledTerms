@@ -12,19 +12,19 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002679",
   "synonym": [
     "AD",
-    "nucleus thalamicus anterodorsalis",
-    "nucleus anterior thalami dorsalis",
-    "nucleus anterior dorsalis",
-    "nucleus anterodorsalis",
-    "nucleus anterodorsalis (Hassler)",
-    "anterodorsal nucleus of the thalamus",
-    "nucleus anterosuperior",
-    "anterodorsal thalamic nucleus",
-    "nucleus anterodorsalis thalami",
-    "anterodorsal nucleus of thalamus",
     "anterior dorsal thalamic nucleus",
     "anterodorsal nucleus",
+    "anterodorsal nucleus of thalamus",
+    "anterodorsal nucleus of the thalamus",
+    "anterodorsal thalamic nucleus",
+    "nucleus anterior dorsalis",
     "nucleus anterior dorsalis thalami",
-    "nucleus anterodorsalis of thalamus"
+    "nucleus anterior thalami dorsalis",
+    "nucleus anterodorsalis",
+    "nucleus anterodorsalis (Hassler)",
+    "nucleus anterodorsalis of thalamus",
+    "nucleus anterodorsalis thalami",
+    "nucleus anterosuperior",
+    "nucleus thalamicus anterodorsalis"
   ]
 }

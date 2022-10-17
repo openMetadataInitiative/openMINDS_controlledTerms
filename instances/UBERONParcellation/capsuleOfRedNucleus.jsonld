@@ -11,11 +11,11 @@
   "name": "capsule of red nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002941",
   "synonym": [
-    "cr",
-    "red nuclear capsule",
-    "capsula nuclei rubris tegmenti",
-    "nucleus ruber",
     "capsula",
-    "capsule of the red nucleus"
+    "capsula nuclei rubris tegmenti",
+    "capsule of the red nucleus",
+    "cr",
+    "nucleus ruber",
+    "red nuclear capsule"
   ]
 }

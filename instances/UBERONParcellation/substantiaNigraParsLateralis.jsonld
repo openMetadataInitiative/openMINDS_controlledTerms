@@ -11,17 +11,17 @@
   "name": "substantia nigra pars lateralis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002995",
   "synonym": [
-    "SNL",
-    "pars lateralis",
-    "lateral part of substantia nigra",
-    "substantia nigra",
-    "lateral part",
-    "pars lateralis substantiae nigrae",
     "internal capsule (Burdach)",
-    "substantia nigra",
+    "lateral division",
+    "lateral part",
+    "lateral part of substantia nigra",
     "pars lateralis",
-    "substantia nigra lateral part",
+    "pars lateralis",
+    "pars lateralis substantiae nigrae",
+    "SNL",
     "substantia nigra",
-    "lateral division"
+    "substantia nigra",
+    "substantia nigra",
+    "substantia nigra lateral part"
   ]
 }

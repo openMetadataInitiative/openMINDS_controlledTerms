@@ -11,14 +11,14 @@
   "name": "intermediate periventricular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002746",
   "synonym": [
-    "IPe",
-    "periventricular nucleus at the tuberal level",
-    "intermediate periventricular nucleus of hypothalamus",
     "hPe",
-    "periventricular hypothalamic nucleus",
     "intermediate part",
-    "nucleus periventricularis hypothalami",
+    "intermediate periventricular hypothalamic nucleus",
+    "intermediate periventricular nucleus of hypothalamus",
     "intermediate periventricular nucleus of the hypothalamus",
-    "intermediate periventricular hypothalamic nucleus"
+    "IPe",
+    "nucleus periventricularis hypothalami",
+    "periventricular hypothalamic nucleus",
+    "periventricular nucleus at the tuberal level"
   ]
 }

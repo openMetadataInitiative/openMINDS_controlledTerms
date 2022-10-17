@@ -12,8 +12,8 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "nM",
-    "nmol/m³",
     "nmol*m⁻³",
-    "nmol/l"
+    "nmol/l",
+    "nmol/m³"
   ]
 }

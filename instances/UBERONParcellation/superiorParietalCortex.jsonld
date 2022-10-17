@@ -11,11 +11,11 @@
   "name": "superior parietal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006094",
   "synonym": [
-    "superior portion of parietal gyrus",
-    "superior parietal gyrus",
-    "superior parietal cortex",
-    "superior parietal lobule",
+    "gyrus parietalis superior",
     "lobulus parietalis superior",
-    "gyrus parietalis superior"
+    "superior parietal cortex",
+    "superior parietal gyrus",
+    "superior parietal lobule",
+    "superior portion of parietal gyrus"
   ]
 }

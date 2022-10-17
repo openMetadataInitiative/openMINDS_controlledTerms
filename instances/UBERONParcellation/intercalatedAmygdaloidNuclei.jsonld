@@ -11,20 +11,20 @@
   "name": "intercalated amygdaloid nuclei",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002884",
   "synonym": [
-    "massa intercalata",
-    "massa intercalata of amygdala",
-    "intercalated nucleus of the amygdala",
-    "intercalated nuclei of amygdala",
+    "intercalated amygdalar nuclei",
+    "intercalated amygdalar nucleus",
     "intercalated amygdaloid nuclei",
     "intercalated amygdaloid nucleus",
-    "intercalated masses of nucleus amygdaloideus",
     "intercalated cell islands",
-    "intercalated amygdalar nucleus",
+    "intercalated masses",
+    "intercalated masses of nucleus amygdaloideus",
     "intercalated nuclei amygdala",
-    "intercalated amygdalar nuclei",
-    "nucleus amygdalae intercalatus",
+    "intercalated nuclei of amygdala",
     "intercalated nuclei of the amygdala",
-    "nucleus intercalatus amygdalae",
-    "intercalated masses"
+    "intercalated nucleus of the amygdala",
+    "massa intercalata",
+    "massa intercalata of amygdala",
+    "nucleus amygdalae intercalatus",
+    "nucleus intercalatus amygdalae"
   ]
 }

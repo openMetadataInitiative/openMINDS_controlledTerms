@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5251",
   "synonym": [
     "AMPA-type glutamate-gated cationic channel",
-    "ionotropic alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor",
-    "ionotropic glutamate AMPA receptor",
-    "ionotropic AMPA receptor",
     "AMPAR",
+    "ionotropic alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor",
+    "ionotropic AMPA receptor",
+    "ionotropic glutamate AMPA receptor",
     "quisqualate receptor"
   ]
 }

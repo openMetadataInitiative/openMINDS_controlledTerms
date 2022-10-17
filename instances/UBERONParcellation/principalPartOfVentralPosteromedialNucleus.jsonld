@@ -11,14 +11,14 @@
   "name": "principal part of ventral posteromedial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003024",
   "synonym": [
-    "VPMPr",
-    "pars prinicipalis",
     "nucleus ventralis posteromedialis",
-    "pars prinicipalis",
-    "ventral posteromedial nucleus",
-    "principal part",
     "nucleus ventralis posteromedialis",
     "pars principalis",
-    "principal part of the ventral posteromedial nucleus"
+    "pars prinicipalis",
+    "pars prinicipalis",
+    "principal part",
+    "principal part of the ventral posteromedial nucleus",
+    "ventral posteromedial nucleus",
+    "VPMPr"
   ]
 }

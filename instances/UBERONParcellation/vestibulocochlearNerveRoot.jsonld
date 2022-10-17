@@ -12,13 +12,13 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002731",
   "synonym": [
     "8cn",
-    "vestibular root of vestibulocochlear nerve",
-    "statoacoustic nerve fibers",
-    "vestibulocochlear nerve roots",
     "central part of vestibulocochlear nerve",
-    "vestibulocochlear nerve fibers",
     "fibrae nervi statoacustici",
-    "vestibulocochlear nerve tract",
-    "root of vestibulocochlear nerve"
+    "root of vestibulocochlear nerve",
+    "statoacoustic nerve fibers",
+    "vestibular root of vestibulocochlear nerve",
+    "vestibulocochlear nerve fibers",
+    "vestibulocochlear nerve roots",
+    "vestibulocochlear nerve tract"
   ]
 }

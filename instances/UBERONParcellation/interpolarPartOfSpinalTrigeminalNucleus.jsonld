@@ -11,17 +11,17 @@
   "name": "interpolar part of spinal trigeminal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002873",
   "synonym": [
-    "ISp5",
-    "spinal trigeminal nucleus",
+    "interpolar part",
     "interpolar part",
     "interpolar part of the spinal trigeminal nucleus",
-    "spinal nucleus of the trigeminal interpolar part",
-    "spinal nucleus of the trigeminal",
-    "interpolar part",
+    "ISp5",
+    "nucleus interpolaris tractus spinalis nervi trigemini",
+    "nucleus of spinal tract of N. V (subnucleus interpolaris)",
     "nucleus spinalis nervi trigemini",
     "pars interpolaris",
-    "nucleus of spinal tract of N. V (subnucleus interpolaris)",
-    "nucleus interpolaris tractus spinalis nervi trigemini",
-    "spinal nucleus of the trigeminal nerve interpolar part"
+    "spinal nucleus of the trigeminal",
+    "spinal nucleus of the trigeminal interpolar part",
+    "spinal nucleus of the trigeminal nerve interpolar part",
+    "spinal trigeminal nucleus"
   ]
 }

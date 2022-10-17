@@ -11,14 +11,14 @@
   "name": "medial forebrain bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001910",
   "synonym": [
-    "mfb",
-    "telencephalic medial fasciculus",
-    "medial forebrain fasciculus",
-    "fasciculus medialis telencephalicus",
-    "medial forebrain bundles",
     "fasciculus longitudinalis telencephali medialis",
     "fasciculus medialis telencephali",
+    "fasciculus medialis telencephalicus",
     "fasciculus prosencephalicus medialis",
-    "median forebrain bundle"
+    "medial forebrain bundles",
+    "medial forebrain fasciculus",
+    "median forebrain bundle",
+    "mfb",
+    "telencephalic medial fasciculus"
   ]
 }

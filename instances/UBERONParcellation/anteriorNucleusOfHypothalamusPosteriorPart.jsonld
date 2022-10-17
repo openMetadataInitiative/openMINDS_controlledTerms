@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014591",
   "synonym": [
     "AHNp",
-    "anterior nucleus of hypothalamus posterior part",
-    "anterior hypothalamic posterior part",
-    "anterior hypothalamic nucleus posterior part",
     "anterior hypothalamic nucleus",
+    "anterior hypothalamic nucleus posterior part",
+    "anterior hypothalamic posterior part",
+    "anterior nucleus of hypothalamus posterior part",
     "posterior part"
   ]
 }

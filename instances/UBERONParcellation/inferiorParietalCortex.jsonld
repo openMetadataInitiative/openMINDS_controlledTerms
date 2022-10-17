@@ -11,12 +11,12 @@
   "name": "inferior parietal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006088",
   "synonym": [
-    "inferior parietal lobule",
     "inferior parietal cortex",
-    "subparietal district",
-    "lobulus parietalis inferior",
     "inferior parietal gyrus",
+    "inferior parietal lobule",
     "inferior portion of parietal gyrus",
+    "lobulus parietalis inferior",
+    "subparietal district",
     "subparietal lobule"
   ]
 }

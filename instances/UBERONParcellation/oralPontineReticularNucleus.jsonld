@@ -11,12 +11,12 @@
   "name": "oral pontine reticular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002999",
   "synonym": [
+    "nucleus reticularis pontis oralis",
+    "oral part",
     "PnO",
     "pontine reticular nucleus",
-    "rostral part",
-    "nucleus reticularis pontis oralis",
     "pontine reticular nucleus",
-    "oral part",
-    "pontine reticular nucleus rostral part"
+    "pontine reticular nucleus rostral part",
+    "rostral part"
   ]
 }

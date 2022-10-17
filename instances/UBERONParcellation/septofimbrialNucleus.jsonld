@@ -11,10 +11,10 @@
   "name": "septofimbrial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001878",
   "synonym": [
-    "SFi",
-    "nucleus septofibrialis",
-    "scattered nucleus of the septum",
     "nucleus septalis fimbrialis",
-    "nucleus septofimbrialis"
+    "nucleus septofibrialis",
+    "nucleus septofimbrialis",
+    "scattered nucleus of the septum",
+    "SFi"
   ]
 }

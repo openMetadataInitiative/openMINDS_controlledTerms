@@ -11,14 +11,14 @@
   "name": "hypoglossal nerve root",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004675",
   "synonym": [
-    "root of hypoglossal nerve",
     "central part of hypoglossal nerve",
-    "hypoglossal nerve fibers",
-    "hypoglossal nerve tract",
-    "hypoglossal nerve root",
-    "hypoglossal nerve fiber bundle",
     "fibrae nervi hypoglossi",
+    "hypoglossal nerve fiber bundle",
     "hypoglossal nerve fibers",
-    "hypoglossal nerve/ root"
+    "hypoglossal nerve fibers",
+    "hypoglossal nerve root",
+    "hypoglossal nerve tract",
+    "hypoglossal nerve/ root",
+    "root of hypoglossal nerve"
   ]
 }

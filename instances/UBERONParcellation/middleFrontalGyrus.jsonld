@@ -11,15 +11,15 @@
   "name": "middle frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002702",
   "synonym": [
-    "medial frontal gyrus",
-    "intermediate frontal gyrus",
-    "gyrus frontalis medialis",
-    "gyrus frontalis medius",
     "gyrus F2",
-    "middle (medial) frontal gyrus",
-    "medial frontal gyrus (Mai)",
-    "gyrus frontalis secundus",
+    "gyrus frontalis medialis",
     "gyrus frontalis medialis (Winters)",
-    "medial frontal gyrus x"
+    "gyrus frontalis medius",
+    "gyrus frontalis secundus",
+    "intermediate frontal gyrus",
+    "medial frontal gyrus",
+    "medial frontal gyrus (Mai)",
+    "medial frontal gyrus x",
+    "middle (medial) frontal gyrus"
   ]
 }

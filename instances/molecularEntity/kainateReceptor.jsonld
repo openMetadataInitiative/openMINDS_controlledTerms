@@ -11,9 +11,9 @@
   "name": "kainate receptor",
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5252",
   "synonym": [
-    "kainate glutamate-gated cationic channel",
     "ionotropic glutamate kainate receptor",
     "ionotropic kainate receptor",
+    "kainate glutamate-gated cationic channel",
     "kainic acid receptor",
     "KAR"
   ]

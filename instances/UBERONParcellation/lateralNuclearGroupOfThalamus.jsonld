@@ -11,19 +11,19 @@
   "name": "lateral nuclear group of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002736",
   "synonym": [
-    "LNG",
-    "lateral group of the dorsal thalamus",
-    "nuclei laterales thalami",
-    "lateral thalamic nucleus",
-    "nucleus lateralis thalami",
-    "lateral nucleus of thalamus",
-    "lateral thalamic nuclei",
-    "lateral nuclear group",
     "lateral group of nuclei",
+    "lateral group of the dorsal thalamus",
+    "lateral nuclear group",
     "lateral nuclear group of dorsal thalamus",
-    "lateral thalamic group",
     "lateral nuclear group of thalamus",
+    "lateral nucleus of thalamus",
+    "lateral thalamic group",
+    "lateral thalamic nuclear group",
     "lateral thalamic nuclear region",
-    "lateral thalamic nuclear group"
+    "lateral thalamic nuclei",
+    "lateral thalamic nucleus",
+    "LNG",
+    "nuclei laterales thalami",
+    "nucleus lateralis thalami"
   ]
 }

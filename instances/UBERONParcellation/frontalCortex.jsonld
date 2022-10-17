@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001870",
   "synonym": [
     "cortex of frontal lobe",
-    "gray matter of frontal lobe",
-    "grey matter of frontal lobe",
     "frontal lobe cortex",
-    "frontal neocortex"
+    "frontal neocortex",
+    "gray matter of frontal lobe",
+    "grey matter of frontal lobe"
   ]
 }

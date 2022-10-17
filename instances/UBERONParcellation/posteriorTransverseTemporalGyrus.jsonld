@@ -11,8 +11,8 @@
   "name": "posterior transverse temporal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002774",
   "synonym": [
+    "gyrus temporalis transversus posterior",
     "posterior transverse convolution of Heschl",
-    "Posterior transverse temporal convolution of Heschl",
-    "gyrus temporalis transversus posterior"
+    "Posterior transverse temporal convolution of Heschl"
   ]
 }

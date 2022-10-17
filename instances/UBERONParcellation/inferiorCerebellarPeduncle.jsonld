@@ -11,15 +11,15 @@
   "name": "inferior cerebellar peduncle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002163",
   "synonym": [
-    "icp",
-    "restiform body",
     "corpus restiforme",
-    "inferior peduncle",
     "crus cerebelli ad medullam oblongatam",
-    "pedunculus cerebellaris inferior",
-    "inferior cerebellar peduncle (restiform body)",
     "crus medullo-cerebellare",
+    "icp",
+    "inferior cerebellar peduncle (restiform body)",
     "inferior cerebellar peduncle (Ridley)",
-    "pedunculus cerebellaris caudalis"
+    "inferior peduncle",
+    "pedunculus cerebellaris caudalis",
+    "pedunculus cerebellaris inferior",
+    "restiform body"
   ]
 }

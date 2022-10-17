@@ -12,7 +12,7 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0013756",
   "synonym": [
     "blood in vein",
-    "venous blood",
-    "portion of venous blood"
+    "portion of venous blood",
+    "venous blood"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "superior frontal gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002661",
   "synonym": [
-    "superior frontal convolution",
-    "marginal gyrus",
     "gyrus F1",
     "gyrus frontalis primus",
-    "gyrus frontalis superior"
+    "gyrus frontalis superior",
+    "marginal gyrus",
+    "superior frontal convolution"
   ]
 }

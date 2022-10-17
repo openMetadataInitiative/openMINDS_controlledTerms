@@ -11,10 +11,10 @@
   "name": "medial parabrachial nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002918",
   "synonym": [
-    "parabrachial nucleus",
     "medial division",
+    "medial part",
     "nucleus parabrachialis medialis",
     "parabrachial nucleus",
-    "medial part"
+    "parabrachial nucleus"
   ]
 }

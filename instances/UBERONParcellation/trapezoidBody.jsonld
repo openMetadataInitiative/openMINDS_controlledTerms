@@ -11,9 +11,9 @@
   "name": "trapezoid body",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002932",
   "synonym": [
-    "tz",
     "corpus trapezoides",
+    "corpus trapezoideum",
     "trapezoid body (Treviranus)",
-    "corpus trapezoideum"
+    "tz"
   ]
 }

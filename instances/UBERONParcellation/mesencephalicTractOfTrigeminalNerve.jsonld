@@ -12,12 +12,12 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002666",
   "synonym": [
     "me5",
-    "mesencephalic trigeminal tract",
     "Mesencephalic root of V",
-    "tractus mesencephalicus nervi trigemini",
-    "tractus mesencephalicus trigeminalis",
-    "midbrain tract of the trigeminal nerve",
     "mesencephalic tract of the trigeminal nerve",
-    "tractus mesencephalicus nervi trigeminalis"
+    "mesencephalic trigeminal tract",
+    "midbrain tract of the trigeminal nerve",
+    "tractus mesencephalicus nervi trigeminalis",
+    "tractus mesencephalicus nervi trigemini",
+    "tractus mesencephalicus trigeminalis"
   ]
 }

@@ -11,10 +11,10 @@
   "name": "premammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002712",
   "synonym": [
-    "PMm",
-    "premammillary nuclei",
     "nuclei premamillaris",
     "nucleus premamillaris hypothalami",
-    "premamillary nucleus"
+    "PMm",
+    "premamillary nucleus",
+    "premammillary nuclei"
   ]
 }

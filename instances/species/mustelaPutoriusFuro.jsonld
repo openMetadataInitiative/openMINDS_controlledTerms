@@ -11,8 +11,8 @@
   "name": "Mustela putorius furo",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9669",
   "synonym": [
-    "domestic ferret",
     "black ferret",
+    "domestic ferret",
     "ferret",
     "mustela furo"
   ]

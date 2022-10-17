@@ -11,18 +11,18 @@
   "name": "posterior horn lateral ventricle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004672",
   "synonym": [
-    "occipital horn",
+    "cornu occipitale",
+    "cornu occipitale (ventriculi lateralis)",
     "cornu occipitale ventriculi lateralis",
+    "cornu posterius",
     "cornu posterius (ventriculi lateralis)",
     "cornu posterius ventriculi lateralis",
+    "occipital horn",
     "occipital horn of lateral ventricle",
+    "posterior horn lateral ventricle",
     "posterior horn of lateral ventricle",
-    "ventriculus lateralis",
-    "cornu occipitale",
     "posterior horn of the lateral ventricle",
     "ventriculus lateralis",
-    "cornu posterius",
-    "cornu occipitale (ventriculi lateralis)",
-    "posterior horn lateral ventricle"
+    "ventriculus lateralis"
   ]
 }

@@ -11,12 +11,12 @@
   "name": "median preoptic nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002625",
   "synonym": [
-    "MnPO",
     "medial preoptic area",
     "median preoptic nucleus (Loo)",
+    "MnPO",
+    "nucleus praeopticus medianus",
     "nucleus preopticus medianus",
     "periventricular nucleus",
-    "preventricular portion",
-    "nucleus praeopticus medianus"
+    "preventricular portion"
   ]
 }

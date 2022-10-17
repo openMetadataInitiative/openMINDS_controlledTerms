@@ -11,8 +11,8 @@
   "name": "dorsal tegmental nucleus pars dorsalis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014568",
   "synonym": [
-    "TDD",
     "Dorsal tegmental nucleus of Gudden pars dorsalis",
-    "dorsal tegmental nucleus pars dorsalis"
+    "dorsal tegmental nucleus pars dorsalis",
+    "TDD"
   ]
 }

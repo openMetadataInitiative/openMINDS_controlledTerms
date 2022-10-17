@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014527",
   "synonym": [
     "capsula interna",
-    "pars posterior",
     "crus posterius capsulae internae",
-    "posterior limb of the internal capsule",
+    "pars posterior",
     "posterior internal capsule",
-    "posterior limb"
+    "posterior limb",
+    "posterior limb of the internal capsule"
   ]
 }

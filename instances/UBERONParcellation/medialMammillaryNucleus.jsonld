@@ -11,13 +11,13 @@
   "name": "medial mammillary nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001939",
   "synonym": [
-    "MM",
-    "internal mammillary nucleus",
-    "medial nucleus of mammillary body",
-    "nucleus mammillaris medialis",
-    "preoptic division",
-    "medial mammillary nucleus",
     "body",
-    "medial mamillary nucleus"
+    "internal mammillary nucleus",
+    "medial mamillary nucleus",
+    "medial mammillary nucleus",
+    "medial nucleus of mammillary body",
+    "MM",
+    "nucleus mammillaris medialis",
+    "preoptic division"
   ]
 }

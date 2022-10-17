@@ -11,10 +11,10 @@
   "name": "superior temporal sulcus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002734",
   "synonym": [
+    "parallel sulcus",
     "STS",
-    "sulcus temporalis superior",
-    "superior temporal fissure",
     "sulcus t1",
-    "parallel sulcus"
+    "sulcus temporalis superior",
+    "superior temporal fissure"
   ]
 }

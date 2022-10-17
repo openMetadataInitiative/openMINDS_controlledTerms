@@ -12,17 +12,17 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002153",
   "synonym": [
     "Fas",
+    "fasciculosus thalamic nucleus",
     "fastigial cerebellar nucleus",
     "medial (fastigial) nucleus",
     "medial cerebellar nucleus",
-    "roof nucleus-1",
-    "nucleus fastigii",
-    "nucleus fastigius cerebelli",
+    "medial nucleus of cerebellum",
     "nucleus (motorius) tecti cerebelli",
-    "fasciculosus thalamic nucleus",
+    "nucleus fastigiatus",
+    "nucleus fastigii",
     "nucleus fastigii",
     "nucleus fastigii cerebelli",
-    "nucleus fastigiatus",
-    "medial nucleus of cerebellum"
+    "nucleus fastigius cerebelli",
+    "roof nucleus-1"
   ]
 }

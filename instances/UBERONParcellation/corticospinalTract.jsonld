@@ -11,12 +11,12 @@
   "name": "corticospinal tract",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002707",
   "synonym": [
+    "corticospinal fibers",
+    "fasciculus cerebro-spinalis",
+    "fasciculus pyramidalis",
+    "fibrae corticospinales",
     "tractus cortico-spinalis",
     "tractus corticospinalis",
-    "fasciculus cerebro-spinalis",
-    "corticospinal fibers",
-    "fasciculus pyramidalis",
-    "tractus pyramidalis",
-    "fibrae corticospinales"
+    "tractus pyramidalis"
   ]
 }

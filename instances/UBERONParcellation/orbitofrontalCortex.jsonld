@@ -11,11 +11,11 @@
   "name": "orbitofrontal cortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004167",
   "synonym": [
+    "fronto-orbital cortex",
     "OFC",
-    "orbitofrontal cortex",
     "orbital frontal cortex",
     "orbito-frontal cortex",
-    "fronto-orbital cortex",
+    "orbitofrontal cortex",
     "segment of cortex of frontal lobe"
   ]
 }

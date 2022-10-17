@@ -11,14 +11,14 @@
   "name": "nucleus of posterior commissure",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002711",
   "synonym": [
-    "PCom",
-    "posterior commissure nucleus",
-    "nucleus of the posterior commissure",
-    "nucleus commissura posterior",
-    "nucleus interstitialis of posterior commissure",
-    "nucleus commissuralis posterioris",
     "Darkshevich nucleus",
+    "Darkshevich's nucleus",
+    "nucleus commissura posterior",
+    "nucleus commissuralis posterioris",
+    "nucleus interstitialis of posterior commissure",
     "nucleus of Darkschewitsch",
-    "Darkshevich's nucleus"
+    "nucleus of the posterior commissure",
+    "PCom",
+    "posterior commissure nucleus"
   ]
 }

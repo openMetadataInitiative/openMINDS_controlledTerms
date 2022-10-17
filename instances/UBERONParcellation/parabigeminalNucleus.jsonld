@@ -11,12 +11,12 @@
   "name": "parabigeminal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002140",
   "synonym": [
-    "PBG",
-    "nucleus parabigeminous",
-    "nucleus parabigeminalis",
+    "corpus parabigeminum",
     "nucleus isthmi",
-    "parageminal nucleus",
+    "nucleus parabigeminalis",
+    "nucleus parabigeminous",
     "parabigeminal nucleus (Bechterew)",
-    "corpus parabigeminum"
+    "parageminal nucleus",
+    "PBG"
   ]
 }

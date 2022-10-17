@@ -11,9 +11,9 @@
   "name": "subiculum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002191",
   "synonym": [
-    "subicular cortex",
-    "subiculum hippocampi",
     "gyrus parahippocampalis",
-    "subiculum cornu ammonis"
+    "subicular cortex",
+    "subiculum cornu ammonis",
+    "subiculum hippocampi"
   ]
 }

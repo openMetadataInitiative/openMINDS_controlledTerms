@@ -11,13 +11,13 @@
   "name": "body of fornix",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004680",
   "synonym": [
-    "fornix body",
-    "column of fornix",
-    "body of fornix of forebrain",
-    "columna fornicis",
     "body of fornix",
-    "columns of fornix",
+    "body of fornix of forebrain",
+    "column of fornix",
     "columna fornicis",
-    "columns of the fornix"
+    "columna fornicis",
+    "columns of fornix",
+    "columns of the fornix",
+    "fornix body"
   ]
 }

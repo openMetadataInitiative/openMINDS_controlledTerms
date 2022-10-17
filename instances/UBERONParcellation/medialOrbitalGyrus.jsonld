@@ -11,8 +11,8 @@
   "name": "medial orbital gyrus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002570",
   "synonym": [
+    "gyrus orbitalis longitudinalis internus",
     "gyrus orbitalis medialis",
-    "gyrus orbitalis medius",
-    "gyrus orbitalis longitudinalis internus"
+    "gyrus orbitalis medius"
   ]
 }

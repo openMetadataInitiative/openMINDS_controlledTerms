@@ -11,9 +11,9 @@
   "name": "CA1 stratum radiatum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014554",
   "synonym": [
-    "CA1 s. radiatum",
-    "stratum radiatum of the CA1 field",
     "CA1 part of stratum radiatum",
-    "radiatum layer of CA1 field"
+    "CA1 s. radiatum",
+    "radiatum layer of CA1 field",
+    "stratum radiatum of the CA1 field"
   ]
 }

@@ -11,11 +11,11 @@
   "name": "lateral habenular nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001941",
   "synonym": [
-    "LHb",
     "lateral habenula",
-    "nucleus habenularis lateralis epithalami",
-    "nucleus habenularis lateralis",
+    "lateral habenula (Nissl)",
+    "LHb",
     "nucleus habenulae lateralis",
-    "lateral habenula (Nissl)"
+    "nucleus habenularis lateralis",
+    "nucleus habenularis lateralis epithalami"
   ]
 }

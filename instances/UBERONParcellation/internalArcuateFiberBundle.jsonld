@@ -11,14 +11,14 @@
   "name": "internal arcuate fiber bundle",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006087",
   "synonym": [
-    "ia",
+    "arcuate fibers (medial lemniscus)",
     "arcuate fibers medial lemniscus",
-    "internal arcuate fibres",
-    "internal arcuate fibers",
-    "internal arcuate tract",
     "fibrae arcuatae internae",
     "fibre arciformes olivares",
-    "arcuate fibers (medial lemniscus)",
-    "fibre arciformes sensibiles"
+    "fibre arciformes sensibiles",
+    "ia",
+    "internal arcuate fibers",
+    "internal arcuate fibres",
+    "internal arcuate tract"
   ]
 }

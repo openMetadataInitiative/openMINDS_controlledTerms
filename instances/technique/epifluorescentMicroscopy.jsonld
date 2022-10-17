@@ -11,9 +11,9 @@
   "name": "epifluorescent microscopy",
   "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/243",
   "synonym": [
-    "widefield fluorescence microscopy",
-    "widefield epifluorescence microscopy",
     "epifluorescence microscopy",
-    "WFM"
+    "WFM",
+    "widefield epifluorescence microscopy",
+    "widefield fluorescence microscopy"
   ]
 }

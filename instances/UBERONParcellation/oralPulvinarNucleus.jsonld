@@ -11,14 +11,14 @@
   "name": "oral pulvinar nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002641",
   "synonym": [
-    "OPul,APul",
     "anterior pulvinar nucleus",
-    "oral part of pulvinar",
-    "oral portion of pulvinar",
-    "oral nuclear group of pulvinar",
+    "nucleus pulvinaris anterior",
     "nucleus pulvinaris oralis",
     "nucleus pulvinaris oralis thalami",
-    "nucleus pulvinaris anterior",
-    "OPul"
+    "OPul",
+    "OPul,APul",
+    "oral nuclear group of pulvinar",
+    "oral part of pulvinar",
+    "oral portion of pulvinar"
   ]
 }

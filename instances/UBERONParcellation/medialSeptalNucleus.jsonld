@@ -11,13 +11,13 @@
   "name": "medial septal nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001877",
   "synonym": [
-    "MS",
-    "medial septum",
     "medial parolfactory nucleus",
-    "nucleus septalis medialis",
     "medial septal nucleus (Cajal)",
-    "nucleus medialis septi",
+    "medial septum",
+    "medial septum nucleus",
+    "MS",
     "n. septi medialis",
-    "medial septum nucleus"
+    "nucleus medialis septi",
+    "nucleus septalis medialis"
   ]
 }

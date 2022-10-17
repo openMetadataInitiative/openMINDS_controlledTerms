@@ -11,9 +11,9 @@
   "name": "paleocortex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014735",
   "synonym": [
-    "paleocortex (semicortex)",
     "palaeocortex",
     "paleocortex",
+    "paleocortex (semicortex)",
     "paleocortex (Zilles)",
     "paleokortikale Regionen@de"
   ]

@@ -11,14 +11,14 @@
   "name": "dentate nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002132",
   "synonym": [
-    "lateral cerebellar nucleus",
     "dentate cerebellar nucleus",
-    "lateral nucleus of cerebellum",
     "dentate nucleus",
+    "dentate nucleus (Vicq d'Azyr)",
     "dentatothalamocortical fibers",
+    "lateral cerebellar nucleus",
+    "lateral nucleus of cerebellum",
     "nucleus dentatus",
     "nucleus dentatus cerebelli",
-    "dentate nucleus (Vicq d'Azyr)",
     "nucleus lateralis cerebelli"
   ]
 }

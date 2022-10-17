@@ -11,10 +11,10 @@
   "name": "parvalbumin expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "PV+ neuron",
     "parvalbumin expressing cell",
-    "PV-positive neuron",
     "PV+ cell",
-    "PV-positive cell"
+    "PV+ neuron",
+    "PV-positive cell",
+    "PV-positive neuron"
   ]
 }

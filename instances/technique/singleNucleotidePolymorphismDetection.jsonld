@@ -11,8 +11,8 @@
   "name": "single nucleotide polymorphism detection",
   "preferredOntologyIdentifier": "http://edamontology.org/operation_0484",
   "synonym": [
+    "SNP calling",
     "SNP detection",
-    "SNP discovery",
-    "SNP calling"
+    "SNP discovery"
   ]
 }

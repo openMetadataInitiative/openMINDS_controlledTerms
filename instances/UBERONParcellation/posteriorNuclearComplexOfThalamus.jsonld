@@ -11,17 +11,17 @@
   "name": "posterior nuclear complex of thalamus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002709",
   "synonym": [
-    "PNC",
-    "posterior thalamic nuclear group",
-    "nuclei posteriores thalami",
-    "posterior nuclear complex of thalamus",
-    "posterior nucleus of dorsal thalamus",
-    "posterior nuclear complex",
-    "posterior thalamic nucleus",
-    "posterior complex of thalamus",
     "caudal thalamic nucleus",
+    "nuclei posteriores thalami",
+    "parieto-occipital",
+    "PNC",
+    "posterior complex of thalamus",
     "posterior complex of the thalamus",
+    "posterior nuclear complex",
+    "posterior nuclear complex of thalamus",
     "posterior nuclear group of thalamus",
-    "parieto-occipital"
+    "posterior nucleus of dorsal thalamus",
+    "posterior thalamic nuclear group",
+    "posterior thalamic nucleus"
   ]
 }

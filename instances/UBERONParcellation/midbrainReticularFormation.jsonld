@@ -11,12 +11,12 @@
   "name": "midbrain reticular formation",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002639",
   "synonym": [
-    "MBRF",
-    "tegmental reticular formation",
-    "reticular formation of midbrain",
+    "formatio reticularis mesencephali",
     "formatio reticularis tegmentalis",
     "formatio reticularis tegmenti mesencephali",
-    "formatio reticularis mesencephali",
-    "substantia reticularis mesencephali"
+    "MBRF",
+    "reticular formation of midbrain",
+    "substantia reticularis mesencephali",
+    "tegmental reticular formation"
   ]
 }

@@ -12,12 +12,12 @@
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002618",
   "synonym": [
     "4nf",
-    "trochlear nerve root",
     "central part of trochlear nerve",
-    "trochlear nerve tract",
-    "trochlear nerve fibers",
-    "trochlear nerve/root",
     "fibrae nervi trochlearis",
-    "trochlear nerve or its root"
+    "trochlear nerve fibers",
+    "trochlear nerve or its root",
+    "trochlear nerve root",
+    "trochlear nerve tract",
+    "trochlear nerve/root"
   ]
 }

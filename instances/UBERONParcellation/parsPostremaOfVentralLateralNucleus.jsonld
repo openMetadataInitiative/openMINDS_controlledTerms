@@ -11,20 +11,20 @@
   "name": "pars postrema of ventral lateral nucleus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002617",
   "synonym": [
-    "VLP",
-    "ventral lateral nucleus (pars postrema)",
-    "pars postrema",
-    "nucleus ventralis lateralis thalami",
-    "nucleus lateralis intermedius mediodorsalis situs postremus",
-    "posterodorsal part of ventral lateral posterior nucleus (Jones)",
-    "vLps",
     "nucleus dorsointermedius externus magnocellularis (hassler)",
+    "nucleus lateralis intermedius mediodorsalis situs postremus",
+    "nucleus ventralis lateralis",
+    "nucleus ventralis lateralis thalami",
     "nucleus ventralis lateralis thalami",
     "pars postrema",
-    "ventrolateral posterior thalamic nucleus",
-    "pars postrema of the ventral lateral nucleus",
-    "nucleus ventralis lateralis",
     "pars postrema",
-    "ventrolateral preoptic nucleus"
+    "pars postrema",
+    "pars postrema of the ventral lateral nucleus",
+    "posterodorsal part of ventral lateral posterior nucleus (Jones)",
+    "ventral lateral nucleus (pars postrema)",
+    "ventrolateral posterior thalamic nucleus",
+    "ventrolateral preoptic nucleus",
+    "VLP",
+    "vLps"
   ]
 }

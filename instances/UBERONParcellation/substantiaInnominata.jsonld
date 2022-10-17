@@ -11,14 +11,14 @@
   "name": "substantia innominata",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0003017",
   "synonym": [
-    "SI",
-    "nucleus of substantia innominata",
     "innominate substance",
-    "substantia innominata of Reil",
-    "substantia innominata of Reichert",
-    "substriatal gray",
-    "substantia innominata of Meynert",
+    "nucleus of substantia innominata",
+    "Reichert)",
+    "SI",
     "substantia innominata (Reil",
-    "Reichert)"
+    "substantia innominata of Meynert",
+    "substantia innominata of Reichert",
+    "substantia innominata of Reil",
+    "substriatal gray"
   ]
 }

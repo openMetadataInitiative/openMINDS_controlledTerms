@@ -11,15 +11,15 @@
   "name": "limen of insula",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002724",
   "synonym": [
-    "lmi",
-    "limen insulae",
-    "angulus gyri olfactorii lateralis",
-    "insula limen",
-    "gyrus ambiens (Noback)",
-    "limen insula",
+    "ambiens gyrus",
     "ambient gyrus",
-    "limen of the insula",
+    "angulus gyri olfactorii lateralis",
     "gyrus ambiens",
-    "ambiens gyrus"
+    "gyrus ambiens (Noback)",
+    "insula limen",
+    "limen insula",
+    "limen insulae",
+    "limen of the insula",
+    "lmi"
   ]
 }

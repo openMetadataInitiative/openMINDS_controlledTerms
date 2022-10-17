@@ -11,14 +11,14 @@
   "name": "transverse pontine fibers",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002735",
   "synonym": [
-    "transverse pontine tract",
+    "fibrae pontis superficiales",
     "fibrae pontis transversae",
+    "fibrae transversae superficiales pontis",
     "superficial transverse fibers of pons",
-    "transverse pontine fibres",
-    "transverse pontine fibers",
     "transverse fibers of pons",
     "transverse fibers of the pons",
-    "fibrae pontis superficiales",
-    "fibrae transversae superficiales pontis"
+    "transverse pontine fibers",
+    "transverse pontine fibres",
+    "transverse pontine tract"
   ]
 }

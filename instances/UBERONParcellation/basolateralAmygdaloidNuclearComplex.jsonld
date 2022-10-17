@@ -11,19 +11,19 @@
   "name": "basolateral amygdaloid nuclear complex",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006107",
   "synonym": [
-    "BL",
-    "basolateral nuclear group",
-    "vicarious cortex",
-    "pars basolateralis (Corpus amygdaloideum)",
     "amygdalar basolateral nucleus",
     "amygdaloid basolateral complex",
-    "deep nuclei",
-    "basolateral nuclei of amygdala",
-    "basolateral subdivision of amygdala",
-    "basolateral nuclear complex",
     "basolateral amygdala",
     "basolateral amygdaloid nuclear complex",
+    "basolateral complex",
+    "basolateral nuclear complex",
+    "basolateral nuclear group",
+    "basolateral nuclei of amygdala",
+    "basolateral subdivision of amygdala",
+    "BL",
+    "deep nuclei",
+    "pars basolateralis (Corpus amygdaloideum)",
     "set of basolateral nuclei of amygdala",
-    "basolateral complex"
+    "vicarious cortex"
   ]
 }

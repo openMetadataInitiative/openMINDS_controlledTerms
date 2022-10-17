@@ -11,14 +11,14 @@
   "name": "paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014597",
   "synonym": [
-    "PVHlp",
-    "paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part",
-    "paraventricular nucleus of the hypothalamus",
     "descending division",
+    "descending division",
+    "lateral parvicellular part",
     "lateral parvicellular part",
     "paraventricular hypothalamic nucleus",
-    "descending division",
-    "lateral parvicellular part",
-    "paraventricular hypothalamic nucleus lateral parvicellular part"
+    "paraventricular hypothalamic nucleus lateral parvicellular part",
+    "paraventricular nucleus of the hypothalamus",
+    "paraventricular nucleus of the hypothalamus descending division - lateral parvicellular part",
+    "PVHlp"
   ]
 }
