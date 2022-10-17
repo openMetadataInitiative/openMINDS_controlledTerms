@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/luciferYellow",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
@@ -12,5 +12,5 @@
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0068243",
   "synonym": [
     "LY"
-    ]
+  ]
 }

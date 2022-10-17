@@ -1,34 +1,34 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Accessory basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100209",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002885#accessory-basal-amygdaloid-nucleus-1",
-    "name": "accessory basal amygdaloid nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002885",
-    "synonym": [
-        "ABA",
-        "basal amygdaloid nucleus",
-        "accessory basal nucleus of amygdala",
-        "medial part",
-        "medial principal nucleus",
-        "basomedial nucleus (De Olmos)",
-        "basal amygdaloid nucleus",
-        "medial part",
-        "basomedial nucleus (de olmos)",
-        "basomedial nucleus (accessory basal nucleus)",
-        "basomedial nucleus of the amygdala",
-        "nucleus amygdalae basalis accessorius",
-        "nucleus basalis accessorius amygdalae",
-        "accessory basal nucleus",
-        "basomedial nucleus of amygdala",
-        "nucleus amygdaloideus basomedialis",
-        "accessory basal nucleus of the amygdala",
-        "nucleus amygdaloideus basalis",
-        "pars medialis"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/accessoryBasalAmygdaloidNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Accessory basal amygdaloid nucleus' is a telencephalic nucleus. It is part of the basolateral amygdaloid nuclear complex.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100209",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002885#accessory-basal-amygdaloid-nucleus-1",
+  "name": "accessory basal amygdaloid nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002885",
+  "synonym": [
+    "ABA",
+    "basal amygdaloid nucleus",
+    "accessory basal nucleus of amygdala",
+    "medial part",
+    "medial principal nucleus",
+    "basomedial nucleus (De Olmos)",
+    "basal amygdaloid nucleus",
+    "medial part",
+    "basomedial nucleus (de olmos)",
+    "basomedial nucleus (accessory basal nucleus)",
+    "basomedial nucleus of the amygdala",
+    "nucleus amygdalae basalis accessorius",
+    "nucleus basalis accessorius amygdalae",
+    "accessory basal nucleus",
+    "basomedial nucleus of amygdala",
+    "nucleus amygdaloideus basomedialis",
+    "accessory basal nucleus of the amygdala",
+    "nucleus amygdaloideus basalis",
+    "pars medialis"
+  ]
 }

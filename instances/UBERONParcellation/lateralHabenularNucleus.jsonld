@@ -1,21 +1,21 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Lateral habenular nucleus' is a habenular nucleus.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106068",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001941#lateral-habenular-nucleus-1",
-    "name": "lateral habenular nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001941",
-    "synonym": [
-        "LHb",
-        "lateral habenula",
-        "nucleus habenularis lateralis epithalami",
-        "nucleus habenularis lateralis",
-        "nucleus habenulae lateralis",
-        "lateral habenula (Nissl)"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lateralHabenularNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Lateral habenular nucleus' is a habenular nucleus.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106068",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001941#lateral-habenular-nucleus-1",
+  "name": "lateral habenular nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001941",
+  "synonym": [
+    "LHb",
+    "lateral habenula",
+    "nucleus habenularis lateralis epithalami",
+    "nucleus habenularis lateralis",
+    "nucleus habenulae lateralis",
+    "lateral habenula (Nissl)"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/cholineAcetyltransferase",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
@@ -13,5 +13,5 @@
   "synonym": [
     "ChAT",
     "choline acetylase"
-    ]
+  ]
 }

@@ -1,14 +1,14 @@
 {
-    "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/cranialWindowType/crystalline",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/CranialWindowType",
-    "definition": "Removal of a region of cranium followed by implantation of a crystalline material.",
-    "description": null,
-    "interlexIdentifier": null,
-    "knowledgeSpaceLink": null,
-    "name": "molded crystalline based cranial window",
-    "preferredOntologyIdentifier": null,
-    "synonym": []
-  }
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cranialWindowType/crystalline",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CranialWindowType",
+  "definition": "Removal of a region of cranium followed by implantation of a crystalline material.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "molded crystalline based cranial window",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

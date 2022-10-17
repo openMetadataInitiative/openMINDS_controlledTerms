@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/dopamine",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
@@ -16,5 +16,5 @@
     "deoxyepinephrine",
     "dopamine HCl",
     "hydroxyltyramine"
-    ]
+  ]
 }

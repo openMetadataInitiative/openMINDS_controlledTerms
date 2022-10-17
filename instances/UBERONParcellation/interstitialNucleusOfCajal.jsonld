@@ -1,26 +1,26 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Interstitial nucleus of Cajal' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
-    "description": "The largest and most prominent of the cell groups of the medial longitudinal fasciculus",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105625",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002551#interstitial-nucleus-of-cajal-1",
-    "name": "interstitial nucleus of Cajal",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002551",
-    "synonym": [
-        "ICjl",
-        "Interstitial nucleus of Cajal",
-        "Interstitial nucleus",
-        "Interstitial nucleus of medial longitudinal fasciculus (Crosby)",
-        "interstitial nucleus of medial longitudinal fasciculus",
-        "NIC",
-        "nucleus interstitialis",
-        "interstitial nucleus of the medial longitudinal fascicle (Boyce 1895)",
-        "nucleus of the posterior commissure (Kvlliker)",
-        "nucleus interstitialis Cajal",
-        "interstitial nucleus of the medial longitudinal fasciculus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/interstitialNucleusOfCajal",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Interstitial nucleus of Cajal' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "description": "The largest and most prominent of the cell groups of the medial longitudinal fasciculus",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105625",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002551#interstitial-nucleus-of-cajal-1",
+  "name": "interstitial nucleus of Cajal",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002551",
+  "synonym": [
+    "ICjl",
+    "Interstitial nucleus of Cajal",
+    "Interstitial nucleus",
+    "Interstitial nucleus of medial longitudinal fasciculus (Crosby)",
+    "interstitial nucleus of medial longitudinal fasciculus",
+    "NIC",
+    "nucleus interstitialis",
+    "interstitial nucleus of the medial longitudinal fascicle (Boyce 1895)",
+    "nucleus of the posterior commissure (Kvlliker)",
+    "nucleus interstitialis Cajal",
+    "interstitial nucleus of the medial longitudinal fasciculus"
+  ]
 }

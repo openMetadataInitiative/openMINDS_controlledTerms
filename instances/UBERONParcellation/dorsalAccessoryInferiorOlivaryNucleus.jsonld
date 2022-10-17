@@ -1,26 +1,26 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Dorsal accessory inferior olivary nucleus' is an inferior olivary nucleus.",
-    "description": "Regional part of inferior olivary complex",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103410",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007249#dorsal-accessory-olive",
-    "name": "dorsal accessory inferior olivary nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007249",
-    "synonym": [
-        "DAO",
-        "Inferior olive",
-        "dorsal nucleus",
-        "Inferior olivary complex",
-        "dorsal accessory olive",
-        "Dorsal accessory olivary nucleus",
-        "Posterior accessory olivary nucleus",
-        "nucleus olivaris accessorius posterior",
-        "dorsal accessory olive",
-        "inferior olive dorsal nucleus",
-        "inferior olivary complex dorsalaccessory nucleus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/dorsalAccessoryInferiorOlivaryNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Dorsal accessory inferior olivary nucleus' is an inferior olivary nucleus.",
+  "description": "Regional part of inferior olivary complex",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103410",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007249#dorsal-accessory-olive",
+  "name": "dorsal accessory inferior olivary nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007249",
+  "synonym": [
+    "DAO",
+    "Inferior olive",
+    "dorsal nucleus",
+    "Inferior olivary complex",
+    "dorsal accessory olive",
+    "Dorsal accessory olivary nucleus",
+    "Posterior accessory olivary nucleus",
+    "nucleus olivaris accessorius posterior",
+    "dorsal accessory olive",
+    "inferior olive dorsal nucleus",
+    "inferior olivary complex dorsalaccessory nucleus"
+  ]
 }

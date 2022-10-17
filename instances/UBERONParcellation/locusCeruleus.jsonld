@@ -1,33 +1,33 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.",
-    "description": "A noradrenergic nucleus in the brain stem involved with physiological responses to stress and panic; also implicated in physical dependence and withdrawal. (Adapted from Wikipedia)",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106335",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002148#locus-ceruleus-1",
-    "name": "locus ceruleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002148",
-    "synonym": [
-        "LC",
-        "Locus caeruleus",
-        "Substantia ferruginea",
-        "Nucleus Pigmentosus Pontis",
-        "Locus coeruleus",
-        "LC",
-        "Locus caeruleus",
-        "Substantia ferruginea",
-        "Nucleus Pigmentosus Pontis",
-        "nucleus of locus caeruleus",
-        "nucleus caeruleus",
-        "caerulean nucleus",
-        "locus coeruleu",
-        "blue nucleus",
-        "locus coeruleus (Vicq d'Azyr)",
-        "nucleus loci caerulei",
-        "locus cinereus",
-        "loci coeruleus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/locusCeruleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Locus ceruleus' is a brainstem nucleus and hindbrain nucleus. It is part of the pontine tegmentum.",
+  "description": "A noradrenergic nucleus in the brain stem involved with physiological responses to stress and panic; also implicated in physical dependence and withdrawal. (Adapted from Wikipedia)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106335",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002148#locus-ceruleus-1",
+  "name": "locus ceruleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002148",
+  "synonym": [
+    "LC",
+    "Locus caeruleus",
+    "Substantia ferruginea",
+    "Nucleus Pigmentosus Pontis",
+    "Locus coeruleus",
+    "LC",
+    "Locus caeruleus",
+    "Substantia ferruginea",
+    "Nucleus Pigmentosus Pontis",
+    "nucleus of locus caeruleus",
+    "nucleus caeruleus",
+    "caerulean nucleus",
+    "locus coeruleu",
+    "blue nucleus",
+    "locus coeruleus (Vicq d'Azyr)",
+    "nucleus loci caerulei",
+    "locus cinereus",
+    "loci coeruleus"
+  ]
 }

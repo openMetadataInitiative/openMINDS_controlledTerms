@@ -1,30 +1,30 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Parvicellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108560",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002937#parvicellular-part-of-ventral-anterior-nucleus-1",
-    "name": "parvicellular part of ventral anterior nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002937",
-    "synonym": [
-        "VAPC",
-        "parvicellular part",
-        "nucleus ventralis anterior (DeWulf)",
-        "nucleus ventralis anterior",
-        "ventral anterior thalamic nucleus",
-        "ventralis anterior (Jones)",
-        "nucleus ventralis anterior",
-        "pars parvicellularis",
-        "ventral anterior nucleus",
-        "pars parvicellularis",
-        "ventral anterior thalamic nucleus",
-        "parvicellular part",
-        "nucleus ventralis anterior",
-        "pars parvocellularis",
-        "parvicellular part of the ventral anterior nucleus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/parvicellularPartOfVentralAnteriorNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Parvicellular part of ventral anterior nucleus' is a gray matter of diencephalon. It is part of the ventral anterior nucleus of thalamus.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108560",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002937#parvicellular-part-of-ventral-anterior-nucleus-1",
+  "name": "parvicellular part of ventral anterior nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002937",
+  "synonym": [
+    "VAPC",
+    "parvicellular part",
+    "nucleus ventralis anterior (DeWulf)",
+    "nucleus ventralis anterior",
+    "ventral anterior thalamic nucleus",
+    "ventralis anterior (Jones)",
+    "nucleus ventralis anterior",
+    "pars parvicellularis",
+    "ventral anterior nucleus",
+    "pars parvicellularis",
+    "ventral anterior thalamic nucleus",
+    "parvicellular part",
+    "nucleus ventralis anterior",
+    "pars parvocellularis",
+    "parvicellular part of the ventral anterior nucleus"
+  ]
 }

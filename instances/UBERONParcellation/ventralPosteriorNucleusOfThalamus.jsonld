@@ -1,29 +1,29 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Ventral posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.",
-    "description": "Part of thalamus receiving primary somatic sensory information via the medial lemniscal pathway that projects to the primary somatosensory cortex (adapted from Paxinos, The Rat Nervous System, 2nd Ed, Academic Press, 1995).",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112334",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002596#ventral-posterior-nucleus",
-    "name": "ventral posterior nucleus of thalamus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002596",
-    "synonym": [
-        "VP",
-        "ventrobasal nucleus",
-        "ventrobasal complex",
-        "nucleus ventralis posterior",
-        "nucleus ventrales posteriores",
-        "Ventral posterior thalamic nucleus",
-        "ventral posterior nucleus",
-        "ventral posterior",
-        "nuclei ventrales posteriores",
-        "ventroposterior inferior nucleus",
-        "VPN",
-        "ventroposterior nucleus",
-        "ventral posterior complex of the thalamus",
-        "ventroposterior nucleus of thalamus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralPosteriorNucleusOfThalamus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Ventral posterior nucleus of thalamus' is a nucleus of dorsal thalamus. It is part of the ventral nuclear group.",
+  "description": "Part of thalamus receiving primary somatic sensory information via the medial lemniscal pathway that projects to the primary somatosensory cortex (adapted from Paxinos, The Rat Nervous System, 2nd Ed, Academic Press, 1995).",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112334",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002596#ventral-posterior-nucleus",
+  "name": "ventral posterior nucleus of thalamus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002596",
+  "synonym": [
+    "VP",
+    "ventrobasal nucleus",
+    "ventrobasal complex",
+    "nucleus ventralis posterior",
+    "nucleus ventrales posteriores",
+    "Ventral posterior thalamic nucleus",
+    "ventral posterior nucleus",
+    "ventral posterior",
+    "nuclei ventrales posteriores",
+    "ventroposterior inferior nucleus",
+    "VPN",
+    "ventroposterior nucleus",
+    "ventral posterior complex of the thalamus",
+    "ventroposterior nucleus of thalamus"
+  ]
 }

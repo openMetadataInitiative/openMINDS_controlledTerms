@@ -1,27 +1,27 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Lenticular fasciculus' is a ventral thalamic fasciculus.",
-    "description": "The lenticular fasciculus is a tract connecting the globus pallidus to the Thalamic fasciculus. The thalamic fasciculus (composed of the lenticular fasciculus and ansa lenticularis) runs into the Thalamus. It connects the globus pallidus to the thalamus.",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106170",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014529#lenticular-fasciculus-1",
-    "name": "lenticular fasciculus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014529",
-    "synonym": [
-        "Field H2 of Forel",
-        "field H2",
-        "fasciculus lenticularis",
-        "Forel's field H2",
-        "lenticular fasciculus [h2]",
-        "dorsal division of ansa lenticularis",
-        "lenticular fasciculus",
-        "lenticular fasciculus of diencephalon",
-        "forel's field h2",
-        "lenticular fasciculus of telencephalon",
-        "tegmental area h2",
-        "fasciculus lenticularis [h2]"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/lenticularFasciculus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Lenticular fasciculus' is a ventral thalamic fasciculus.",
+  "description": "The lenticular fasciculus is a tract connecting the globus pallidus to the Thalamic fasciculus. The thalamic fasciculus (composed of the lenticular fasciculus and ansa lenticularis) runs into the Thalamus. It connects the globus pallidus to the thalamus.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106170",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014529#lenticular-fasciculus-1",
+  "name": "lenticular fasciculus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014529",
+  "synonym": [
+    "Field H2 of Forel",
+    "field H2",
+    "fasciculus lenticularis",
+    "Forel's field H2",
+    "lenticular fasciculus [h2]",
+    "dorsal division of ansa lenticularis",
+    "lenticular fasciculus",
+    "lenticular fasciculus of diencephalon",
+    "forel's field h2",
+    "lenticular fasciculus of telencephalon",
+    "tegmental area h2",
+    "fasciculus lenticularis [h2]"
+  ]
 }

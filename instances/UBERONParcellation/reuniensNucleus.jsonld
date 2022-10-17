@@ -1,24 +1,24 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/reuniensNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Reuniens nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110085",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001921#reuniens-nucleus-1",
-    "name": "reuniens nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001921",
-    "synonym": [
-        "Re",
-        "Reuniens thalamic nucleus",
-        "Medioventral nucleus",
-        "nucleus reuniens",
-        "nucleus of reunions",
-        "nucleus reuniens thalami",
-        "nucleus endymalis (Hassler)",
-        "reuniens nucleus of the thalamus",
-        "nucleus reuniens (Malone)"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/reuniensNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Reuniens nucleus' is a nucleus of dorsal thalamus. It is part of the midline nuclear group.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110085",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001921#reuniens-nucleus-1",
+  "name": "reuniens nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001921",
+  "synonym": [
+    "Re",
+    "Reuniens thalamic nucleus",
+    "Medioventral nucleus",
+    "nucleus reuniens",
+    "nucleus of reunions",
+    "nucleus reuniens thalami",
+    "nucleus endymalis (Hassler)",
+    "reuniens nucleus of the thalamus",
+    "nucleus reuniens (Malone)"
+  ]
 }

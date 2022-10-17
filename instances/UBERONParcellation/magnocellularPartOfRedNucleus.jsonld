@@ -1,28 +1,28 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Magnocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.",
-    "description": "Caudal region of the red nucleus located in the midbrain, containing mostly large cell bodies.",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106474",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002936#magnocellular-part-of-red-nucleus-1",
-    "name": "magnocellular part of red nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002936",
-    "synonym": [
-        "RMC",
-        "magnocellular red nucleus",
-        "paleoruber",
-        "red nucleus",
-        "magnocellular part",
-        "pars magnocellularis nuclei rubri",
-        "nucleus ruber magnocellularis",
-        "magnocellular part of the red nucleus",
-        "nucleus ruber",
-        "pars magnocellularis",
-        "red nucleus magnocellular part",
-        "palaeorubrum",
-        "pars magnocellularis (ruber)"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/magnocellularPartOfRedNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Magnocellular part of red nucleus' is a gray matter of midbrain. It is part of the red nucleus.",
+  "description": "Caudal region of the red nucleus located in the midbrain, containing mostly large cell bodies.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106474",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002936#magnocellular-part-of-red-nucleus-1",
+  "name": "magnocellular part of red nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002936",
+  "synonym": [
+    "RMC",
+    "magnocellular red nucleus",
+    "paleoruber",
+    "red nucleus",
+    "magnocellular part",
+    "pars magnocellularis nuclei rubri",
+    "nucleus ruber magnocellularis",
+    "magnocellular part of the red nucleus",
+    "nucleus ruber",
+    "pars magnocellularis",
+    "red nucleus magnocellular part",
+    "palaeorubrum",
+    "pars magnocellularis (ruber)"
+  ]
 }

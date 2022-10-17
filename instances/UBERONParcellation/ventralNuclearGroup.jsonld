@@ -1,28 +1,28 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Ventral nuclear group' is a nucleus of dorsal thalamus.",
-    "description": "Mostly gray regional part of the lateral thalamic region, consisting of a large group of nuclei lying between the internal medullary lamina and the internal capsule. It includes the ventral anterior, ventral lateral, and ventral posterior nuclei (MM: 2006-10-26)",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112319",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002776#ventral-nuclear-group-1",
-    "name": "ventral nuclear group",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002776",
-    "synonym": [
-        "VNG",
-        "ventral group of dorsal thalamus",
-        "ventral tier thalamic nuclei",
-        "nuclei ventrales thalami",
-        "ventral nuclear mass",
-        "dorsal thalamus",
-        "ventral group",
-        "ventral nuclear group of thalamus",
-        "ventral nuclear group",
-        "ventral nuclei of thalamus",
-        "ventral dorsal thalamic nuclear group",
-        "ventral group of the dorsal thalamus",
-        "ventral thalamus nucleus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNuclearGroup",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Ventral nuclear group' is a nucleus of dorsal thalamus.",
+  "description": "Mostly gray regional part of the lateral thalamic region, consisting of a large group of nuclei lying between the internal medullary lamina and the internal capsule. It includes the ventral anterior, ventral lateral, and ventral posterior nuclei (MM: 2006-10-26)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0112319",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002776#ventral-nuclear-group-1",
+  "name": "ventral nuclear group",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002776",
+  "synonym": [
+    "VNG",
+    "ventral group of dorsal thalamus",
+    "ventral tier thalamic nuclei",
+    "nuclei ventrales thalami",
+    "ventral nuclear mass",
+    "dorsal thalamus",
+    "ventral group",
+    "ventral nuclear group of thalamus",
+    "ventral nuclear group",
+    "ventral nuclei of thalamus",
+    "ventral dorsal thalamic nuclear group",
+    "ventral group of the dorsal thalamus",
+    "ventral thalamus nucleus"
+  ]
 }

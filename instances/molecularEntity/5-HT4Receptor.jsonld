@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",

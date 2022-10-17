@@ -1,27 +1,27 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Basal part of pons' is a regional part of brain. It is part of the pons.",
-    "description": "Ventral subdivision of the pons which consists of the massive pontine pertuberance on pontine ventral surface.",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101110",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002567#basal-part-of-pons-1",
-    "name": "basal part of pons",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002567",
-    "synonym": [
-        "Basis pontis",
-        "ventral portion of pons",
-        "basal portion of pons",
-        "base of pons",
-        "pars basilaris pontis",
-        "basilar part of pons",
-        "ventral pons",
-        "pons proper",
-        "basal part of the pons",
-        "basilar pons",
-        "pars anterior pontis",
-        "pars ventralis pontis"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/basalPartOfPons",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Basal part of pons' is a regional part of brain. It is part of the pons.",
+  "description": "Ventral subdivision of the pons which consists of the massive pontine pertuberance on pontine ventral surface.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101110",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002567#basal-part-of-pons-1",
+  "name": "basal part of pons",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002567",
+  "synonym": [
+    "Basis pontis",
+    "ventral portion of pons",
+    "basal portion of pons",
+    "base of pons",
+    "pars basilaris pontis",
+    "basilar part of pons",
+    "ventral pons",
+    "pons proper",
+    "basal part of the pons",
+    "basilar pons",
+    "pars anterior pontis",
+    "pars ventralis pontis"
+  ]
 }

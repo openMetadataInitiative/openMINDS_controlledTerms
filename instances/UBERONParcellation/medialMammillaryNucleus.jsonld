@@ -1,23 +1,23 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Medial mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106660",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001939#medial-mammillary-nucleus-1",
-    "name": "medial mammillary nucleus",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001939",
-    "synonym": [
-        "MM",
-        "Internal mammillary nucleus",
-        "Medial nucleus of mammillary body",
-        "nucleus mammillaris medialis",
-        "preoptic division",
-        "medial mammillary nucleus",
-        "body",
-        "medial mamillary nucleus"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialMammillaryNucleus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Medial mammillary nucleus' is a hypothalamic nucleus. It is part of the mammillary body.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106660",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0001939#medial-mammillary-nucleus-1",
+  "name": "medial mammillary nucleus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0001939",
+  "synonym": [
+    "MM",
+    "Internal mammillary nucleus",
+    "Medial nucleus of mammillary body",
+    "nucleus mammillaris medialis",
+    "preoptic division",
+    "medial mammillary nucleus",
+    "body",
+    "medial mamillary nucleus"
+  ]
 }

@@ -1,27 +1,27 @@
 {
-    "@context": {
-        "@vocab": "https://openminds.ebrains.eu/vocab/"
-    },
-    "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure",
-    "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-    "definition": "'Ventral nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
-    "description": "",
-    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107753",
-    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002044#nucleus-of-darkschewitsch",
-    "name": "ventral nucleus of posterior commissure",
-    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002044",
-    "synonym": [
-        "Dk",
-        "Nucleus of Darkschewitsch",
-        "Darkshevich's nucleus",
-        "Darkshevich nucleus",
-        "nucleus of the posterior commissure (Darkschewitsch)",
-        "nucleus accessorius",
-        "nucleus of Darkschewitsch (Cajal)",
-        "nucleus of Darkshevich",
-        "nucleus commissurae posterioris (Riley)",
-        "nucleus fasciculi longitudinalis medialis",
-        "nucleus Darkschewitsch",
-        "nucleus Darkschewitschi"
-    ]
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ventralNucleusOfPosteriorCommissure",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Ventral nucleus of posterior commissure' is a brainstem nucleus and midbrain nucleus. It is part of the midbrain tegmentum.",
+  "description": "",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107753",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002044#nucleus-of-darkschewitsch",
+  "name": "ventral nucleus of posterior commissure",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002044",
+  "synonym": [
+    "Dk",
+    "Nucleus of Darkschewitsch",
+    "Darkshevich's nucleus",
+    "Darkshevich nucleus",
+    "nucleus of the posterior commissure (Darkschewitsch)",
+    "nucleus accessorius",
+    "nucleus of Darkschewitsch (Cajal)",
+    "nucleus of Darkshevich",
+    "nucleus commissurae posterioris (Riley)",
+    "nucleus fasciculi longitudinalis medialis",
+    "nucleus Darkschewitsch",
+    "nucleus Darkschewitschi"
+  ]
 }
