@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/dynamicCausalModeling",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "The aim of 'dynamic causal modeling' is to infer the causal architecture of coupled or distributed dynamical systems. It is a Bayesian model comparison procedure that rests on comparing models of how time series data were generated. [[Scholarpedia](http://www.scholarpedia.org/article/Dynamic_causal_modeling)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103618",
+  "knowledgeSpaceLink": null,
+  "name": "dynamic causal modeling",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/ilx_0103618",
+  "synonym": [
+    "dynamic causal model",
+    "DCM"
+  ]
+}
