@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/actionStatusType/failed",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
-  "definition": "An action that failed to complete",
+  "definition": "An action that failed to complete.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
