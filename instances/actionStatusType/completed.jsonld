@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "completed",
   "preferredOntologyIdentifier": "https://schema.org/CompletedActionStatus",
-  "synonym": null
+  "synonym": [
+    "completed action status",
+    "completed action"
+  ]
 }
