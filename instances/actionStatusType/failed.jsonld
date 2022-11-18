@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "failed",
   "preferredOntologyIdentifier": "https://schema.org/FailedActionStatus",
-  "synonym": null
+  "synonym": [
+    "failed action status",
+    "failed action"
+  ]
 }
