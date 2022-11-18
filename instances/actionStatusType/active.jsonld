@@ -10,5 +10,8 @@
   "knowledgeSpaceLink": null,
   "name": "active",
   "preferredOntologyIdentifier": "https://schema.org/ActiveActionStatus",
-  "synonym": null
+  "synonym": [
+    "active action status",
+    "active action"
+  ]
 }
