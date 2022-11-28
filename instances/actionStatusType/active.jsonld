@@ -6,7 +6,7 @@
   "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
   "definition": "An in-progress action.",
   "description": null,
-  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100286",
+  "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "active",
   "preferredOntologyIdentifier": "https://schema.org/ActiveActionStatus",
