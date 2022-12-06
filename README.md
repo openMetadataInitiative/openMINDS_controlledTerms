@@ -1,6 +1,8 @@
-<a href="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/openMINDS_terms_logo.png">
-    <img src="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/light_openMINDS-terms-logo.png" alt="openMINDS controlledTerms logo" title="openMINDS controlledTerms" align="right" height="70" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/dark_openMINDS-terms-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/light_openMINDS-terms-logo.png">
+  <img alt="openMINDS controlledTerms logo" src="https://github.com/HumanBrainProject/openMINDS_controlledTerms/blob/v1/img/light_openMINDS-terms-logo.png"  title="openMINDS controlledTerms" align="right" height="70">
+</picture>
 
 # openMINDS_controlledTerms
 
