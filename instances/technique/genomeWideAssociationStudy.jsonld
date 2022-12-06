@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/genomeWideAssociationStudy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'genome-wide association study' is an analysis technique comparing the allele frequencies of all available (or a whole genome representative set of) polymorphic markers in unrelated individuals with a specific symptom or disease condition, and those of healthy controls to identify markers associated with a specific disease or condition.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104603",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXINV:1005075#genome-association-studies",
+  "name": "genome-wide association study",
+  "preferredOntologyIdentifier": "http://edamontology.org/topic_3517",
+  "synonym": [
+    "genetic association study",
+    "genome association studies",
+    "GWAS",
+    "GWAS analysis",
+    "GWA study",
+    "whole genome association study",
+    "WGA study",
+    "WGAS"
+  ]
+}
