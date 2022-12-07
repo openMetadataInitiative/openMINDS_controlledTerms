@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/LearningResourceType",
+  "definition": "Documentation for the developers of a resource.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "developer documentation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
