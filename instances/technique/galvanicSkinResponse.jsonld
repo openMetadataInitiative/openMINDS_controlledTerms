@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/galvanicSkinResponse",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Dynamic changes in psychophysiological arousal are directly expressed in the sympathetic innervation of the skin. This activity can be measured as tonic and phasic fluctuations in electrodermal activity, also referred to as Galvanic Skin Response (GSR) or skin conductance.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "galvanic skin response",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

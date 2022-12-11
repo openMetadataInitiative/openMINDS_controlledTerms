@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/photoplethysmography",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Plethysmographic determination in which the intensity of light reflected from the skin surface and the red cells below is measured to determine the blood volume of the respective area. There are two types, transmission and reflectance.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0487650",
+  "knowledgeSpaceLink": null,
+  "name": "photoplethysmography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
