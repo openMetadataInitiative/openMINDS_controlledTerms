@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/photoplethysmography",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "Plethysmographic determination in which the intensity of light reflected from the skin surface and the red cells below is measured to determine the blood volume of the respective area. There are two types, transmission and reflectance.",
+  "definition": "Photoplethysmography is a non-invasive technique to optically detect blood volume changes in the micro-vascular bed of tissue by measuring the transmissive absorption and/or the reflection of light by the skin.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0487650",
   "knowledgeSpaceLink": null,
   "name": "photoplethysmography",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0026056",
+  "synonym": [
+    "PPG"
+  ]
 }
