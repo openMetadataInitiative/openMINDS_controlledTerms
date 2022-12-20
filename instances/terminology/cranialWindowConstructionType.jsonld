@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/cranialWindowType",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "The type of a cranial window",
+  "definition": "The construction type of a cranial window",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "cranial window type",
+  "name": "cranial window construction type",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
