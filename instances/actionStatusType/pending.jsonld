@@ -12,6 +12,7 @@
   "name": "pending",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "queued",
     "pending action type",
     "pending action"
   ]
