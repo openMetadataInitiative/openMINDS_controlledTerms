@@ -11,7 +11,7 @@
   "name": "potential",
   "preferredOntologyIdentifier": "https://schema.org/PotentialActionStatus",
   "synonym": [
-    "completed action type",
-    "completed action"
+    "potential action type",
+    "potential action"
   ]
 }
