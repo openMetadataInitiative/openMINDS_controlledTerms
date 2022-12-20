@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/GestaltVisualStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Gestalt visual stimulation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

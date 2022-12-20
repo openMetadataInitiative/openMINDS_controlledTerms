@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/VisualStimulusType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "moving symbol",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "An 'auditory stimulus type' groups similar auditory stimuli used across auditory stimulation techniques.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "auditory stimulus type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
