@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/educationalLevel/Beginner",
+  "@id": "https://openminds.ebrains.eu/instances/educationalLevel/beginner",
   "@type": "https://openminds.ebrains.eu/controlledTerms/EducationalLevel",
   "definition": "The learner has no or minimal knowledge or experience of the given topic.",
   "description": null,
