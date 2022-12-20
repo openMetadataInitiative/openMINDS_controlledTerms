@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/staticGratingVisualStimulation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/naturalSoundAuditoryStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "static grating visual stimulation",
+  "name": "natural sound auditory stimulation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

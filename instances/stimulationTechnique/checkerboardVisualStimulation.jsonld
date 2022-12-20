@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/checkerboardVisualStimulation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/checkerboardVisualStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": "Stimulation technique that uses a checkerboard as visual stimulus.",
   "description": null,
   "interlexIdentifier": null,

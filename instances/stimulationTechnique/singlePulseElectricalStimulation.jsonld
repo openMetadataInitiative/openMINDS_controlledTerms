@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/singlePulseElectricalStimulation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/singlePulseElectricalStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": "A 'single pulse electrical stimulation' is a cortical stimulation technique typically used in the field of epilepsy surgery.",
   "description": null,
   "interlexIdentifier": null,
