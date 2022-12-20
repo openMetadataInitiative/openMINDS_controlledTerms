@@ -5,7 +5,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/actionStatusType/pending",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
-  "definition": "An action between the time of the commencement and its execution.",
+  "definition": "An action which is awaiting execution.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
