@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/stimulusType/movingSymbol",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/VisualStimulusType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "moving symbol",
+  "name": "static symbol",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/stimulusType/texturedSurface",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/tactileStimulusType/vibratingObject",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TactileStimulusType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "textured surface",
+  "name": "vibrating object",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

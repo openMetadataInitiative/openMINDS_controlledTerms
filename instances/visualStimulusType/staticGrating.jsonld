@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/stimulusType/naturalMovie",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/VisualStimulusType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "natural movie",
+  "name": "static grating",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

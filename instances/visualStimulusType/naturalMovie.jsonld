@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/stimulusType/vibratingObject",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/VisualStimulusType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "vibrating object",
+  "name": "natural movie",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

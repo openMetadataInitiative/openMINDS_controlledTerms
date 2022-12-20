@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/stimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/visualStimulusType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": null,
+  "definition": "A 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "stimulus type",
+  "name": "visual stimulus type",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
