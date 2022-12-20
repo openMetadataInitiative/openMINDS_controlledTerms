@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/stimulusType/movingSymbol",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/tactileStimulusType/texturedSurface",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/TactileStimulusType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "moving symbol",
+  "name": "textured surface",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

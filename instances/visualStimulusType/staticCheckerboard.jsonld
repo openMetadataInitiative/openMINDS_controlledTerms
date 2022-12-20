@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/stimulusType/naturalScene",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/visualvisualStimulusType/staticCheckerboard",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/VisualvisualStimulusType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "natural scene",
+  "name": "static checkerboard",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
