@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cranialWindowConstructionType/thinnedSkullCranialWindow",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CranialWindowConstructionType",
+  "definition": "A cranial window that is constructed by thinning a small region of the skull.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "thinned skull cranial window",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
