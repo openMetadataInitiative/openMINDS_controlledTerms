@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/figure-groundVisualStimulation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/staticGratingVisualStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "figure-ground visual stimulation",
+  "name": "static grating visual stimulation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

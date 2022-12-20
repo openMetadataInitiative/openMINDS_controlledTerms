@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/naturalSoundAuditoryStimulation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/GestaltVisualStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "natural sound auditory stimulation",
+  "name": "Gestalt visual stimulation",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

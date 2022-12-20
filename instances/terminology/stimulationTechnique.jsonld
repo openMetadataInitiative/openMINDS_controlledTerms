@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/driftingGratingVisualStimulation",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/stimulationTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "drifting grating visual stimulation",
+  "name": "stimulation technique",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
