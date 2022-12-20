@@ -1,0 +1,18 @@
+
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/pending",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "definition": "An action between the time of the commencement and its execution.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pending",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "pending action type",
+    "pending action"
+  ]
+}
