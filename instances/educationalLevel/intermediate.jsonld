@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/educationalLevel/intermediate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/EducationalLevel",
+  "definition": "The learner has knowledge of the given topic, but is not an expert.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "intermediate",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

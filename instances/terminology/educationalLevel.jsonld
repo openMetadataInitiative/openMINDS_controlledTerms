@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/educationalLevel",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "An 'educational level' defines the developmental stage of a student and how learning environments are structured. ",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "educational level",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
