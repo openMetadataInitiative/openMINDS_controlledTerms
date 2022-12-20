@@ -5,7 +5,7 @@
   "@id": "https://openminds.ebrains.eu/instances/educationalLevel/intermediate",
   "@type": "https://openminds.ebrains.eu/controlledTerms/EducationalLevel",
   "definition": "The learner has knowledge of the given topic, but is not an expert.",
-  "description": "",
+  "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "intermediate",
