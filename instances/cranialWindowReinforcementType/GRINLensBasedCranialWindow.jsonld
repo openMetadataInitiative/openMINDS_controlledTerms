@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType",
+  "definition": "A cranial window reinforced by an implanted GRIN lens.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "GRIN lens-based cranial window",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

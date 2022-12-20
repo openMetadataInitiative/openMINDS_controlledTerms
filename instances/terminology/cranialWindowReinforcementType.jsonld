@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/cranialWindowType",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "The type of a cranial window",
+  "definition": "The reinforcement type of a cranial window.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "cranial window type",
+  "name": "cranial window reinforcement type",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
