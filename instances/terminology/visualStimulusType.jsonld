@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/terminology/visualStimulusType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "An 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.",
+  "definition": "A 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
