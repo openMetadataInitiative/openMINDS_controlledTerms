@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/interoceptiveStimulusType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "An 'interoceptive stimulus type' groups similar interoceptive stimuli used across interoceptive stimulation techniques.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "interoceptive stimulus type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
