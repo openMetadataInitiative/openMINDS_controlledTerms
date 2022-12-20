@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/visualvisualStimulusType/staticSymbol",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/visualvisualStimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/VisualStimulusType",
   "definition": null,
   "description": null,
   "interlexIdentifier": null,
