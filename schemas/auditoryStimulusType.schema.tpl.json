@@ -1,5 +1,5 @@
 {
-  "_type": "https://openminds.ebrains.eu/controlledTerms/AuditoryStimulationType",
+  "_type": "https://openminds.ebrains.eu/controlledTerms/AuditoryStimulusType",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "stimulusType"
