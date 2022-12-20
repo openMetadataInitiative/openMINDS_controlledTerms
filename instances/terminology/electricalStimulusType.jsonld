@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/stimulusType",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/electricalStimulusType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": null,
+  "definition": "An 'electrical stimulus type' groups similar electrical pulses/waveforms used in electrical stimulation techniques.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "stimulus type",
+  "name": "electrical stimulus type",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
