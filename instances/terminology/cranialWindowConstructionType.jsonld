@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "The construction type of a cranial window",
+  "definition": "The construction type of a cranial window.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
