@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/gradientEchoPulseSequence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "In magnetic resonance imaging, a 'gradient-echo pulse sequence' is a rapid contrasting technique measuring if the magnetization in a motionless sample is coherent regardless of its position within the sample along at least one direction (cf. [Hargreaves (2012)](https://doi.org/10.1002/jmri.23742)].",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "gradient-echo pulse sequence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "GRE pulse sequence"
+  ]
+}
