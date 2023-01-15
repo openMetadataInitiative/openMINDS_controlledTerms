@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/univariateAnalysis",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "A 'univariate analysis' is a simple statistical analysis exploring exactly one data variable.",
+  "definition": "A 'univariate analysis' is a general term for any statistical analysis technique exploring exactly one data variable.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
