@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/spectralPowerAutoSegmentationTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'spectral power auto-segmentation technique' makes use of the power spectrum of the time series for individual pixels or voxels in an image to automatically generate a segmentation.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "spectral power auto-segmentation technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
