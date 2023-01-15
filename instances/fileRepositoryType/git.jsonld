@@ -4,6 +4,9 @@
     },
     "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/git",
     "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
-    "definition": "A Git repository offers version control and source code management functionalities."
+    "definition": "A Git repository offers version control and source code management functionalities.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null
   }
   
