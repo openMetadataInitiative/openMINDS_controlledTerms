@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/univariateAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'univariate analysis' is a simple statistical analysis exploring exactly one data variable.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "mass univariate analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
