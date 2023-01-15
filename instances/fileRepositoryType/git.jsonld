@@ -7,6 +7,7 @@
     "definition": "A Git repository offers version control and source code management functionalities.",
     "description": null,
     "interlexIdentifier": null,
-    "knowledgeSpaceLink": null
+    "knowledgeSpaceLink": null,
+    "name": "Git repository",
   }
   
