@@ -10,6 +10,12 @@
     "knowledgeSpaceLink": null,
     "name": "Git repository",
     "preferredOntologyIdentifier": null,
-    "synonym": []
+    "synonym": [
+        "Git repository",
+        "Git remote repository",
+        "remote Git repository",
+        "GitHub repository",
+        "GitLab repository"
+    ]
   }
   
