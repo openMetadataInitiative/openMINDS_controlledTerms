@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/combinedVolumetricAndSurfaceRegistration",
+  "@id": "https://openminds.ebrains.eu/instances/technique/combinedVolumeSurfaceRegistration",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "Combined Volumetric and Surface Registration is a image registration method which utilizes information from the brain surface and the brain volume to perform the registration.",
+  "definition": "The term 'combined volume-surface registration' refers to an image registration framework which utilizes information from the brain surface and the brain volume to perform the registration.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "combined volumetric and surface registration",
+  "name": "combined volume–surface registration",
   "preferredOntologyIdentifier": null,
   "synonym": [
     "CVS registration"
