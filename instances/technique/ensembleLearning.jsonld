@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/technique/EnsembleLearning",
+  "@id": "https://openminds.ebrains.eu/instances/technique/ensembleLearning",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Ensemble learning' is a group of methods that allow the application of a combination of machine-learning methods and agggregate the results of those methods into one output.",
+  "definition": "The term 'ensemble learning' refers to a group of techniques that allow the application of a combination of machine-learning methods and agggregate the results of those methods into one output.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "Ensemble Learning",
+  "name": "ensemble learning",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }
