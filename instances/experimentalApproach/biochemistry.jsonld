@@ -10,5 +10,7 @@
   "knowledgeSpaceLink": null,
   "name": "biochemistry",
   "preferredOntologyIdentifier": null,
-  "synonym": null
+  "synonym": [
+    "biochemical approach"
+  ]
 }
