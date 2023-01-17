@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/experimentalApproach/culturing",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ExperimentalApproach",
+  "definition": "'Culturing' covers any experimental approach that focuses on breeding, care, and keeping of living things in order to harvest the substances they produce.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "culturing",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
