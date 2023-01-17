@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/temporalFiltering",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "'Temporal filtering' is a functional image signal processing technique that aims to remove or attenuate frequencies within the raw signal, that are not of interest. [adapted from [Wikibooks](https://en.wikibooks.org/wiki/Neuroimaging_Data_Processing/Processing/Steps/Temporal_Filtering)]",
+  "definition": "'Temporal filtering' is a functional image signal processing technique that aims to remove or attenuate frequencies that vary along the time axis of the raw signal, that are not of interest. [adapted from [Wikibooks](https://en.wikibooks.org/wiki/Neuroimaging_Data_Processing/Processing/Steps/Temporal_Filtering)]",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
