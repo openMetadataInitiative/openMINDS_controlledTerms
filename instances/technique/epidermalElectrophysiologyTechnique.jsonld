@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/epidermalElectrophysiologyTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "The term 'epidermal electrophysiology technique' refers to any electrophysiology technique where electrodes are placed onto the skin of an organism to non-invasively (or minimally invasively) measure electrical functions of it's body.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "epidermal electrophysiology technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "cutaneous electrophysiology",
+    "cutaneous electrophysiology technique",
+    "epidermal electrophysiology"
+  ] 
+}
