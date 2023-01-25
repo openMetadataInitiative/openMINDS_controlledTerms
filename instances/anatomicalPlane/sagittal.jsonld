@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/sagittal",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
-  "definition": "An anatomical plane which divides the body into right and left parts.",
+  "definition": "An anatomical plane which divides the body or parts of the body into left and right (and/or medial and lateral) parts.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
