@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/coronal",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
-  "definition": "An anatomical plane which divides the body or parts of the body into rostral and caudal (front and back, or anterior and posterior) parts.",
+  "definition": "An anatomical plane which divides the body or parts of the body into rostral and caudal (anterior and posterior, or front and back) parts.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
