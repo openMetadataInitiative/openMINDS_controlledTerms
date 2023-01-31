@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/terminology/annotationType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "General classification of annotations into topological types.",
+  "definition": "General classification of annotations into geometry types.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
