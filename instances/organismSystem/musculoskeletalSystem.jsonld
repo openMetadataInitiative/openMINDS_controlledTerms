@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/bodySystem/musculoskeletalSystem",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/BodySystem",
+  "@id": "https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSystem",
   "definition": "The 'musculoskeletal system' is an anatomical organ system composed of organs providing the body with movement, stability, shape and support.",
   "description": "The musculoskeletal system (sometimes also called locomotor system) is subdivided into two broader systems, the skeletal system and the muscular system. The skeletal system includes bones and joints. The muscular system includes all muscles in the body.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0728294",
