@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/bodySystem/centralNervousSystem",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/BodySystem",
+  "@id": "https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSystem",
   "definition": "The 'central nervous system' is the main processing center in most organisms. Its function is to take in sensory information, process information, and send out motor signals.",
   "description": "In vertebrates, the central nervous system (CNS) consists of the brain and the spinal cord. In invertebrates, it includes the central ganglia and the nerve cord.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101901",
