@@ -2,8 +2,8 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/venousBlood",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "@id": "https://openminds.ebrains.eu/instances/organismSubstance/venousBlood",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSubstance",
   "definition": "'Venous blood' is deoxygenated blood which travels from the peripheral vessels, through the venous system into the right atrium of the heart.",
   "description": "Blood that flows through a vein.",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0734397",
