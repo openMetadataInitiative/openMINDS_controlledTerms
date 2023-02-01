@@ -2,13 +2,13 @@
   "@context": {
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
-  "@id": "https://openminds.ebrains.eu/instances/terminology/annotationType",
+  "@id": "https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "Geometrical classification of annotations into types.",
+  "definition": "General classification of how data were annotated.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
-  "name": "annotation type",
+  "name": "annotation criteria type",
   "preferredOntologyIdentifier": null,
   "synonym": null
 }

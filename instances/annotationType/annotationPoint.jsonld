@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/annotationType/annotationPoint",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnnotationType",
+  "definition": "'Annotation point(s)' are individual point(s) that are annotated with the same label.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "annotation point",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
