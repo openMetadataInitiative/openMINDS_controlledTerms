@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/species/trachemysScriptaElegans",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
-  "definition": "The red-eared slider or red-eared terrapin (Trachemys scripta elegans) is a subspecies of the pond slider (Trachemys scripta), a semiaquatic turtle belonging to the family Emydidae.",
+  "definition": "The red-eared slider or red-eared terrapin (Trachemys scripta elegans) is a subspecies of the pond slider (Trachemys scripta), a semiaquatic turtle belonging to the family Emydidae ([Wikipedia](https://en.wikipedia.org/wiki/Red-eared_slider)).",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
