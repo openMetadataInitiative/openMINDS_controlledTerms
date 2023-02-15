@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/WardClustering",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "'Ward clustering' is a general agglomerative hierarchical clustering procedure, where the criterion for choosing the pair of clusters to merge at each step is based on the optimal value of an objective function (typically aiming to minimize the total within-cluster variance). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Ward%27s_method)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Ward clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
