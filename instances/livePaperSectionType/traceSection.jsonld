@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/traceSection",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/LivePaperSectionType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "trace section",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
