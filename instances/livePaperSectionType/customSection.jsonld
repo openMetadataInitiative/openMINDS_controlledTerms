@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/customSection",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/LivePaperSectionType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "custom section",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
