@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/multipleSclerosis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "Multiple sclerosis is an autoimmune disorder, which affects the central nervous system and results in demyelination.”,
+  "description": null,
+  "interlexIdentifier": “http://uri.interlex.org/base/ilx_0756481”,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/BIRNLEX:12514#multiple-sclerosis-1",
+  "name": "multiple sclerosis",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_2377",
+  "synonym": [
+  "generalized multiple sclerosis", 
+  "insular sclerosis"
+  ]
+}
