@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/testIR",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "'multiple sclerosis' is some-nice-escriptions-eg-from-papers-or-other-sources (adapted from [Mayo Clinic](reference-url)",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0499758 -- the actual instance from itnerlex",
+  "knowledgeSpaceLink": null,
+  "name": "multiple schlerosis",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0336554 -- any other than interlex, often linked by interlex",
+  "synonym": [
+    "MS",    
+    "generalized multiple sclerosis"
+  ]
+}
