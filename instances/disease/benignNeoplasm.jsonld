@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/benignNeoplasm",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "'Benign neoplasm' is a neoplasm (an abnormal mass of cells) which is characterized by the absence of morphologic features associated with malignancy (severe cytologic atypia, tumor cell necrosis, and high mitotic rate). Benign neoplasms remain confined to the original site of growth and do not metastasize to other anatomic sites (adaped from the [OLS ontology search, benign neoplasm](https://www.ebi.ac.uk/ols/ontologies/mondo/terms?iri=http://purl.obolibrary.org/obo/MONDO_0005165)).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0750396",
+  "knowledgeSpaceLink": null,
+  "name": "benign neoplasm",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/MONDO_0005165",
+  "synonym": [
+    "neoplasm, benign",
+    "benign tumor",
+    "benign tumour"
+  ]
+}
