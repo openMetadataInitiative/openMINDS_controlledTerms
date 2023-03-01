@@ -2,6 +2,7 @@
   "_type": "https://openminds.ebrains.eu/controlledTerms/SubcellularEntity",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
+    "anatomicalLocation",
     "studyTarget"
   ]
 }
