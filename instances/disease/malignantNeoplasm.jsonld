@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/malignantNeoplasm",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": " A 'Malignant neoplasm' is composed of atypical, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision [(adapted from [OLS ontology search, malignant neoplasm](https://www.ebi.ac.uk/ols/ontologies/ncit/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FNCIT_C9305)].",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0752652",
+  "knowledgeSpaceLink": null,
+  "name": "malignant neoplasm",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCIT_C9305",
+  "synonym": [
+    "malignant tumor",
+    "malignant tumour"
+  ]
+}
