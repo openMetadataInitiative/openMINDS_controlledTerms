@@ -4,7 +4,7 @@
     },
     "@id": "https://openminds.ebrains.eu/instances/fileRepositoryType/s3",
     "@type": "https://openminds.ebrains.eu/controlledTerms/FileRepositoryType",
-    "definition": "An S3 repository uses the cloud storage of the Amazon S3 service",
+    "definition": "An S3 repository uses the cloud storage of the Amazon S3 service.",
     "description": null,
     "interlexIdentifier": null,
     "knowledgeSpaceLink": null,
