@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.PuRd",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
-  "definition": "The colormap 'OrRd' is a sequential colormap of the Python plotting library Matplotlib.",
+  "definition": "The colormap 'PuRd' is a sequential colormap of the Python plotting library Matplotlib.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
