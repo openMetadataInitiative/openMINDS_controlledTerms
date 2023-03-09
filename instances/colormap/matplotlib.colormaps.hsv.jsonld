@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.hsv",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
+  "definition": "The colormap 'hsv' is a cyclic colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matplotlib.colormaps.hsv",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "hsv"
+  ]
+}
