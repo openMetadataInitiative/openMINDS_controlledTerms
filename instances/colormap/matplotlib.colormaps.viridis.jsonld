@@ -3,7 +3,7 @@
     "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.viridis",
-  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
   "definition": "The colormap 'viridis' is a perceptually uniform sequential colormap of the Python plotting library Matplotlib.",
   "description": null,
   "interlexIdentifier": null,
