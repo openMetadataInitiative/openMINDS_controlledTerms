@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/granuleNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "The term 'granule neuron' refers to a set of neuron types typically found in granular layers across brain regions whose only common feature is that they all have very small cell bodies [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Granule_cell)].",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "granule neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym":[ 
+    "granule cell"
+  ]
+}
