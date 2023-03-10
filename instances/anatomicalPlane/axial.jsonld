@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/axial",
   "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
-  "definition": "An anatomical plane which divides the body or parts of the body into superior and inferior (dorsal and ventral, or top and bottom) parts.",
+  "definition": "The 'axial plane' is always perpendicular to the longitudinal and the frontal axes of an organism, extremity or organ, dividing it into a dorsal, superior, above or top part, and a ventral, inferior, below or bottom part.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
