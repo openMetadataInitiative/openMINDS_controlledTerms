@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/longitudinalPlane",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
+  "definition": "The 'longitudinal plane' is always perpendicular to the axial and frontal plane of an organism, extremity or organ, running parallel to the 'median plane' and dividing it into a left and right part.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "longitudinal plane",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "sagittal plane"
+  ]
+}
