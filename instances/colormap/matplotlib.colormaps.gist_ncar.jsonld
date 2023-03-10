@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.gist_ncar",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
+  "definition": "The colormap 'gist_ncar' is a miscellaneous colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matplotlib.colormaps.gist_ncar",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "gist_ncar"
+  ]
+}
