@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/anatomicalDelineationTechnique",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "An 'anatomical delineation technique' is a manual or automated process in which a structure or structures of interest in an anatomical image is/are annotated for further analysis or interpretation.",
+  "definition": "An anatomical delineation technique is any process that identifies the boundaries of an anatomical entity and applies those boundaries to specific data.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
