@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem",
   "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSystem",
-  "definition": "any molecule, protein, cell, tissue or organ that is related to acetylcholine.",
+  "definition": "The cholinergic system is composed of any molecule, protein, cell, tissue or organ that is related to acetylcholine.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0102133",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0025595#cholinergic-system-1",
