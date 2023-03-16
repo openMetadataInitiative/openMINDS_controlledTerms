@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSystem",
+  "definition": "The noradrenergic system is composed of any molecule, protein, cell, tissue or organ that is related to norepinephrine (also known as noradrenaline).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107679",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXANAT:1005027#noradrenergic-system",
+  "name": "noradrenergic system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0027225",
+  "synonym": null
+}
