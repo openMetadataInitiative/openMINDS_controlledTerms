@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/measuredSignalType/alphaActivity",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/measuredSignalType",
+  "definition": "Alpha activity is an electromagnetic oscillation in the frequency range of 8–12 Hz arising from synchronous and coherent (in phase / constructive) electrical activity. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Alpha_wave)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100494",
+  "knowledgeSpaceLink": null,
+  "name": "alpha activity",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0100494",
+  "synonym": [
+    "Alpha-wave",
+    "Alpha",
+    "Alpha oscillation",
+    "Alpha wave",
+    "Alpha rhythm",
+    "Alpha rhythms",
+    "Alpha Rhythm Electroencephalography",
+    "Alpha Rhythm Encephalography",
+    "ALPHA RHYTHM EEG"
+    ]
+}
