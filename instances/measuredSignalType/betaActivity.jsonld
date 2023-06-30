@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/measuredSignalType/betaActivity",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/measuredSignalType",
+  "definition": "Beta activity is an electromagnetic oscillation in the frequency range of 8–12 Hz arising from synchronous and coherent (in phase / constructive) electrical activity. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Beta_wave)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101243",
+  "knowledgeSpaceLink": null,
+  "name": "beta activity",
+  "preferredOntologyIdentifier": "https://bioportal.bioontology.org/ontologies/MESH?p=classes&conceptid=D001611",
+  "synonym": [
+    "Beta rhythm",
+    "Beta Rhythms",
+    "Rhythm, Beta",
+    "Rhythms, Beta",
+    "Beta frequency",
+    "Beta wave"
+    "Beta"
+    ]
+}
