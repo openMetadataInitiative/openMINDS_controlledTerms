@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/measuredSignalType/gammaActivity",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/measuredSignalType",
+  "definition": "Gamma activiation is an electromagnetic oscillation in the frequency range of 25 to 100 Hz (40 Hz is prototypical). [adapted from [wikipedia](https://en.wikipedia.org/wiki/Gamma_wave)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104539",
+  "knowledgeSpaceLink": null,
+  "name": "gamma activity",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Gamma-wave",	
+    "Gamma",
+    "Gamma oscillation",
+    "Gamma wave",
+    "Gamma rhythm",
+    "Gamma rhythms",
+    "Rhythm, Gamma",
+    "Rhythms, Gamma",
+    "Beta frequency",
+    "Fast oscillation"
+    ]
+}
