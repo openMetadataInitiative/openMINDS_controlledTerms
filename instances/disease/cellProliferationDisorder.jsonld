@@ -10,8 +10,5 @@
   "knowledgeSpaceLink": null,
   "name": "cell proliferation disorder",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/MONDO_0045024",
-  "synonym": [
-    "cancer",
-    "benign tumor"
-  ]
+  "synonym": null
 }
