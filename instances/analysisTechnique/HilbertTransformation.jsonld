@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/HilbertTransformation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnalysisTechnique",
+  "definition": "The 'Hilbert transformation' is a convolution technique for a function u(t) of a real variable with the function h(t) = 1/πt, known as the Cauchy kernel, producing a function of a real variable H(u)(t), known as the Hilbert transform. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Hilbert_transform)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Hilbert transformation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
