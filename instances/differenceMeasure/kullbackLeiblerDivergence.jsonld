@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure",
+  "definition": "A measure of how one probability distribution is different from a second, reference probability distribution.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Kullback-Leibler divergence",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "KL divergence"
+  ]
+}

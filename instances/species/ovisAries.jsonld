@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/species/ovisAries",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Species",
+  "definition": "The species *Ovis aries* (domestic sheep) belongs to the family of bovidae (bovids).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Ovis aries",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9940",
+  "synonym": [
+    "domestic sheep",
+    "sheep"
+  ]
+}

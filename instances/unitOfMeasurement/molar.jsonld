@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/molar",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "Molar is a measure of concentration that describes a solution as moles of solute per one liter of a solution.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "molar",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "10^3 mol/m^3",
+    "M",
+    "mol/L"
+  ]
+}

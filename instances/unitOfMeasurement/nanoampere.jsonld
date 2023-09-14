@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/nanoampere",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "An electric current unit current which is equal to one thousand millionth of an ampere or 10^[-9] A.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "nanoampere",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "nA"
+  ]
+}

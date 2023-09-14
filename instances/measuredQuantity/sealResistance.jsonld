@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity",
+  "definition": "Resistance of the seal between the pipette tip and cell membrane in patch-clamp recording.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "seal resistance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

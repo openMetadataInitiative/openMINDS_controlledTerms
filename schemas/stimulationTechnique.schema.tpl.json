@@ -1,0 +1,8 @@
+{
+  "_type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "fileOrigin",
+    "technique"
+  ]
+}

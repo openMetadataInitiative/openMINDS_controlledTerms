@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/intraparietalSulcus",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The intraparietal sulcus is located on the lateral surface of the parietal lobe, and consists of an oblique and a horizontal portion.",
+  "description": "The intraparietal sulcus (IPS) contains a series of functionally distinct subregions that have been intensively investigated using both single cell neurophysiology in primates and human functional neuroimaging. Its principal functions are related to perceptual-motor coordination (for directing eye movements and reaching) and visual attention. The IPS is also thought to play a role in other functions, including processing symbolic numerical information, visuospatial working memory and interpreting the intent of others. [WP,unvetted].",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0105656",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0002913#intraparietal-sulcus-1",
+  "name": "intraparietal sulcus",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002913",
+  "synonym": [
+    "interparietal fissure",
+    "intraparietal sulcus of Turner",
+    "ips",
+    "itps",
+    "sulcus interparietalis",
+    "sulcus intraparietalis",
+    "Turner sulcus"
+  ]
+}

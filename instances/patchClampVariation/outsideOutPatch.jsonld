@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/patchClampVariation/outsideOutPatch",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/PatchClampVariation",
+  "definition": "A variation of the patch-clamp technique in which a patch of membrane is excised and the external surface exposed.",
+  "description": "The name 'outside-out' emphasizes both this technique's complementar­ity to the inside-out technique, and the fact that it places the external rather than intracellular surface of the cell membrane on the outside of the patch of membrane, in relation to the patch electrode. Outside-out patching gives the experimenter the opportunity to examine the properties of an ion channel when it is isolated from the cell and exposed successively to different solutions on the extracellular surface of the membrane. [Wikipedia]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "outside-out patch",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer2",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Entorhinal cortex layer 2' is the outermost cell layer of the entorhinal cortex.",
+  "description": "Layer of the entorhinal cortex lying superficial to layer 3 and deep to layer 1. It is characterized by medium-to large sized stellate cells that are grouped into prominent clusters, particularly in the rostral entorhinal cortex (Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 474).",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731986",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022337#entorhinal-cortex-layer-2",
+  "name": "entorhinal cortex layer 2",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022337",
+  "synonym": [
+    "EC layer 2",
+    "EC layer II",
+    "entorhinal cortex layer II",
+    "layer 2 of entorhinal cortex",
+    "layer II of entorhinal cortex",
+    "outermost cell layer of entorhinal cortex"
+  ]
+}

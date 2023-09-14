@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/mentalDisorder",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "A 'mental disorder' is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour and is usually associated with distress or impairment in important areas of functioning. [adapted from [WHO fact-sheets](https://www.who.int/news-room/fact-sheets/detail/mental-disorders)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106792",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/BIRNLEX:12669#mental-disorder",
+  "name": "mental disorder",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/base/ilx_0106792",
+  "synonym": [
+    "mental disease",
+    "mental illness",
+    "psychiatric disease",
+    "psychiatric disorder"
+  ]
+}

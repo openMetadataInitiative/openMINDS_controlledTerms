@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/singleGeneAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A 'single gene analysis' is a genetic test (sequencing technique) to check for any genetic changes in a specific gene.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "single gene analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "single gene sequencing",
+    "single gene test"
+  ]
+}

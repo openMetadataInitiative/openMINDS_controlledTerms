@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/phaseContrastXRayComputedTomography",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Phase-contrast x-ray computed tomography' is a non-invasive x-ray imaging technique for three-dimensional observation of organic matter without application of a contrast medium ([Momose, Takeda, and Itai (1995)](https://doi.org/10.1063/1.1145931)).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "phase‐contrast x‐ray computed tomography",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "PCT",
+    "PCX‐CT",
+    "phase‐contrast computed tomography",
+    "phase‐contrast CT",
+    "x-ray phase-contrast computed tomography"
+  ]
+}

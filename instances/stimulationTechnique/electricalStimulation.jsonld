@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/electricalStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
+  "definition": "A technique used to elicit a reaction by an electrical stimulus.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0739699",
+  "knowledgeSpaceLink": null,
+  "name": "electrical stimulation",
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/188",
+  "synonym": null
+}

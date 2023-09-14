@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/criteriaQualityType/processive",
   "@type": "https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType",
-  "definition": null,
+  "definition": "If a criteria is 'processive' it is based on a repeatable and often automated process.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSystem",
+  "definition": "The serotonergic system is composed of any molecule, protein, cell, tissue or organ that is related to serotonin.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0110555",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0025593#serotonergic-system-1",
+  "name": "serotonergic system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0025593",
+  "synonym":["serotonin system","5HT system","5-HT system","5-ht system", "5ht system"]
+}

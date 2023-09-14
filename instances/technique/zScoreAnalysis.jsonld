@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/zScoreAnalysis",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "The 'z-score analysis' is a statistical normalization technique where the z-score is calculated by subtracting the population mean from an individual raw score (observed data point) and dividing the difference by the population standard deviation. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Standard_score)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "z-score analysis",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "standard score analysis"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/electricalStimulusType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "An 'electrical stimulus type' groups similar electrical stimuli used across electrical stimulation techniques.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "electrical stimulus type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

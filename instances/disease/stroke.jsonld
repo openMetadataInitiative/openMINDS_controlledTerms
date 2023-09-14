@@ -11,10 +11,10 @@
   "name": "stroke",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/DOID_6713",
   "synonym": [
+    "cerebral infaction",
     "cerebrovascular accident",
     "cerebrovascular disease",
-    "stroke disorder",
-    "cerebral infaction",
-    "CVA"
+    "CVA",
+    "stroke disorder"
   ]
 }

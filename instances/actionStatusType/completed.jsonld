@@ -4,11 +4,15 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/actionStatusType/completed",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
-  "definition": "An action that has already taken place",
+  "definition": "An action that has already taken place with a successful outcome.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "completed",
   "preferredOntologyIdentifier": "https://schema.org/CompletedActionStatus",
-  "synonym": null
+  "synonym": [
+    "completed action status",
+    "completed action",
+    "finished successfully"
+  ]
 }

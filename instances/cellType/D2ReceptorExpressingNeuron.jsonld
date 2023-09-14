@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/D2ReceptorExpressingNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "Any neuron that expresses D2 receptors.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "D2 receptor expressing neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "D2 dopamine receptor expressing cell",
+    "D2 dopamine receptor expressing neuron",
+    "D2 receptor expressing cell",
+    "D2R expressing cell",
+    "D2R expressing neuron",
+    "dopamine receptor D2 expressing cell",
+    "dopamine receptor D2 expressing neuron",
+    "DRD2 expressing cell",
+    "DRD2 expressing neuron"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/patchClampVariation/perforatedPatch",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/PatchClampVariation",
+  "definition": "A variation of the patch-clamp technique in which the cell membrane is perforated.",
+  "description": "This variation of the patch clamp method is very similar to the whole-cell configuration. The main difference lies in the fact that when the experimenter forms the gigaohm seal, suction is not used to rupture the patch membrane. Instead, the electrode solution contains small amounts of an antifungal or antibiotic agent which diffuses into the membrane patch and forms small pores in the membrane, providing electrical access to the cell interior. [Wikipedia]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "perforated patch",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

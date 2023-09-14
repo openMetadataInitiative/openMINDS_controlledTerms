@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/anatomicalPlane/axialPlane",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnatomicalPlane",
+  "definition": "The 'axial plane' is always perpendicular to the longitudinal and the frontal plane of an organism, extremity or organ, dividing it into a dorsal, superior, above or top part, and a ventral, inferior, below or bottom part.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "axial plane",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "transverse plane",
+    "horizontal plane"
+  ]
+}

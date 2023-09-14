@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity",
+  "definition": "Current injected into a cell to maintain the membrane potential at a target value.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "compensation current",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

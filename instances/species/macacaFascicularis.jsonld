@@ -11,12 +11,12 @@
   "name": "Macaca fascicularis",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCBITaxon_9541",
   "synonym": [
-    "crab-eating macaque",
     "crab eating macaque",
-    "long-tailed macaque",
-    "cynomolgus monkey",
+    "crab-eating macaque",
     "cynomolgus macaque",
-    "Macaca cynomolgus",
-    "Macaca irus"
+    "cynomolgus monkey",
+    "long-tailed macaque",
+    "macaca cynomolgus",
+    "macaca irus"
   ]
 }

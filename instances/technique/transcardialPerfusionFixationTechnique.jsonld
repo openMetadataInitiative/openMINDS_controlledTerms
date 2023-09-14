@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/transcardialPerfusionFixationTechnique",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Transcardial perfusion fixation is a technique to distribute fixatives throughout tissue via the heart.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "transcardial perfusion fixation technique",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "intracardiac perfusion fixation technique",
+    "intracardial perfusion fixation technique"
+  ]
+}

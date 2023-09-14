@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/controlledTerms/programmingLanguage/AMPL",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ProgrammingLanguage",
+  "name": "AMPL",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "definition": null,
+  "description": null,
+  "ontologyIdentifier": "https://www.wikidata.org/wiki/Q295250",
+  "synonym": [
+    "A Mathematical Programming Language "
+  ]
+}

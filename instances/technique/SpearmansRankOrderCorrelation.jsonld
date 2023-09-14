@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/SpearmansRankOrderCorrelation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "The 'Spearman's rank-order correlation' is the nonparametric version of the Pearson product-moment correlation measuring the strength and direction of association between a set of two ranked variables. [adapted from [Laerd.com](https://statistics.laerd.com/statistical-guides/spearmans-rank-order-correlation-statistical-guide.php)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Spearman's rank-order correlation",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Spearman’s correlation",
+    "Spearman’s correlation test",
+    "Spearman’s rank correlation"
+  ]
+}

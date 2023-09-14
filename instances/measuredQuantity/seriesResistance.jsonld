@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity",
+  "definition": "Resistance of the electrode during an electrophysiological recording.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "series resistance",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "access resistance",
+    "electrode resistance"
+  ]
+}

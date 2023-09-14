@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "The 5-HT transporter is a type of monoamine transporter protein that transports the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT) from the synaptic cleft back to the presynaptic neuron.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000015189#sodium-dependent-serotonin-transporter",
+  "name": "5-HT transporter",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/PR_000015189",
+  "synonym": [
+    "5-HTT",
+    "SERT",
+    "sodium-dependent serotonin transporter"
+  ]
+}

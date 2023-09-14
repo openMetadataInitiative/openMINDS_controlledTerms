@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/organismSystem/vascularSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSystem",
+  "definition": "The 'vascular system' is an anatomical system that consists of all vessels in the body, and carries blood and lymph through all parts of the body.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0726589",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007798#vascular-system",
+  "name": "vascular system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007798",
+  "synonym": null
+}

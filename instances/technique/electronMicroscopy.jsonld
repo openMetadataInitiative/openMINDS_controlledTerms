@@ -4,11 +4,13 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/electronMicroscopy",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": null,
+  "definition": "Electron microscopy describes any microscopy technique that uses electrons to generate contrast.",
   "description": null,
-  "interlexIdentifier": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739513",
   "knowledgeSpaceLink": null,
   "name": "electron microscopy",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://uri.interlex.org/tgbugs/uris/readable/technique/electronMicroscopy",
+  "synonym": [
+    "EM"
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/congenitalBlindness",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "Congenital blindness is caused by a group of diseases, disorders or injuries that led to permanent severely impaired vision or irreversible lack of vision before/during birth or in early childhood.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "congenital blindness",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

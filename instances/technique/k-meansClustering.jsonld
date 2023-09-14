@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/k-meansClustering",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'k-means clustering' is a centroid-based cluster analysis technique that aims to partition n observations into a pre-defined number of k clusters by assigning each observation to the cluster with the nearest mean (centroid).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "k-means clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "k-means",
+    "k-means cluster analysis"
+  ]
+}

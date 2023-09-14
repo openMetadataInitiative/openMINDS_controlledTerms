@@ -4,16 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/RNASequencing",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "A technique to determine the sequence of an RNA molecule.",
+  "definition": "'RNA sequencing' refers to a group of techniques that are used to (directly or indirectly) determine the order of nucleotides (nucleic acid sequence) in RNA.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/ilx_0782092",
   "knowledgeSpaceLink": null,
   "name": "RNA sequencing",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/OBI_0001177",
   "synonym": [
-    "RNA sequencing assay",
-    "RNA-Seq",
+    "ribonucleic acid sequencing",
     "ribonucleic acid sequencing assay",
-    "ribonucleic acid sequencing"
+    "RNA sequencing assay",
+    "RNA-Seq"
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/highThroughputScanning",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'High-throughput scanning' is a technique for automatic creation of analog or digital images of a large number of samples.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "high-throughput scanning",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "high throughput scanning"
+  ]
+}

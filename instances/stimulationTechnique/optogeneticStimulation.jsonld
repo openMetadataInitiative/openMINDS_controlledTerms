@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/optogeneticStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
+  "definition": "Using light of a particular wavelength, 'optogenetic stimulation' increases or inhibits the activity of neuron populations that express (typically due to genetic manipulation) light-sensitive ion channels, pumps or enzymes.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "optogenetic stimulation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

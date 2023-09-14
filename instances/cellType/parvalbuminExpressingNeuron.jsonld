@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/parvalbuminExpressingNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "Any neuron that expresses parvalbumin.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "parvalbumin expressing neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "parvalbumin expressing cell",
+    "PV+ cell",
+    "PV+ neuron",
+    "PV-positive cell",
+    "PV-positive neuron"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/annotationType/annotationSurface",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnnotationType",
+  "definition": "An 'annotation surface' is a three-dimensional boundary of a volume of interest.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "annotation surface",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

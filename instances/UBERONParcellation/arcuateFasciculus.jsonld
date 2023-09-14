@@ -11,11 +11,11 @@
   "name": "arcuate fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0035937",
   "synonym": [
-    "fibrae arcuatae cerebri",
-    "ARF",
     "AF",
     "arcuate fascicle",
+    "ARF",
+    "cerebral arcuate fasciculus",
     "fasciculus arcuatus",
-    "cerebral arcuate fasciculus"
+    "fibrae arcuatae cerebri"
   ]
 }

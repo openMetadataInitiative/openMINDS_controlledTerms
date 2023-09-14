@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/cellType/cholineAcetyltransferaseExpressingNeuron",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+  "definition": "Any neuron that expresses choline acetyltransferase.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "choline acetyltransferase expressing neuron",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ChAT+ cell",
+    "ChAT+ neuron",
+    "ChAT-expressing cell",
+    "ChAT-expressing neuron",
+    "ChAT-positive cell",
+    "ChAT-positive neuron",
+    "choline acetyltransferase expressing cell",
+    "choline acetyltransferase-positive cell",
+    "choline acetyltransferase-positive neuron"
+  ]
+}

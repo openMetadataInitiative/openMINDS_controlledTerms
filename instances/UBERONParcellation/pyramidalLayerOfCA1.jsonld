@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/pyramidalLayerOfCA1",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Pyramidal layer of CA1' is a layer of CA1 field. It is part of the hippocampus pyramidal layer.",
+  "description": "Part of pyramidal cell layer lying in area CA1, superficial to the CA1 stratum oriens, and deep to the stratum radiatum of CA1, continuous with the pyramidal cell layers of CA2 and the subiculum. It is characterized by pyramidal cell bodies that are generally smaller in size than those in the other hippocampal sectors.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101525",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0014549#ca2-stratum-pyramidale-hippocampi",
+  "name": "pyramidal layer of CA1",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0014548",
+  "synonym": [
+    "CA1 part of stratum pyramidale",
+    "CA1 part of stratum pyramidale hippocampi",
+    "CA1 pyramidal cell layer",
+    "CA1 stratum pyramidale",
+    "CA1 stratum pyramidale hippocampi",
+    "stratum pyramidale of CA1",
+    "stratum pyramidale of the CA1 field"
+  ]
+}

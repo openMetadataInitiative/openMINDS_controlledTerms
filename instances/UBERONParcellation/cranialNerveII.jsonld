@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/cranialNerveII",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "The 'cranial nerve II' is comprised of retinal ganglion cell axons running posterior medially towards the optic chiasm, at which some of the axons cross the midline and after which the structure is termed the optic tract.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0724691",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0000941#optic-nerve",
+  "name": "cranial nerve II",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0000941",
+  "synonym": [
+    "02 optic nerve",
+    "cranial II",
+    "nervus opticus",
+    "nervus opticus [II]",
+    "optic II",
+    "optic II nerve",
+    "optic nerve [II]",
+    "second cranial nerve"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "The 5-HT4 receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0100041",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NIFEXT:6151#5-ht4-receptor-1",
+  "name": "5-HT4 receptor",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_6151",
+  "synonym": [
+    "5-HT4",
+    "5-HT4 serotonin receptor",
+    "5-hydroxytryptamine 4 receptor",
+    "serotonin receptor 4"
+  ]
+}

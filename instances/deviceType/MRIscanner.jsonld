@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/deviceType/MRIscanner",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+  "definition": "An 'MRI scanner' is a machine that uses strong magnetic fields, magnetic field gradients, and radio waves to generate static or time-resolved three-dimensional images of the anatomy and physiological processes of the body.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106463",
+  "knowledgeSpaceLink": null,
+  "name": "MRI scanner",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_2100",
+  "synonym": [
+    "magnetic resonance imaging scanner"
+  ]
+}

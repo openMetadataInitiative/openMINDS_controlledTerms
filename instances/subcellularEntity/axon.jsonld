@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subcellularEntity/axon",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubcellularEntity",
+  "definition": "An 'axon' is the long process of a neuron that conducts nerve impulses, usually away from the cell body to the terminals which are the site of storage and release of neurotransmitter (Gene Ontology).",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101043",
+  "knowledgeSpaceLink": null,
+  "name": "axon",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1770195789",
+  "synonym": [
+    "fiber"
+  ]
+}

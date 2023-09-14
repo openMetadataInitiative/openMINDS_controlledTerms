@@ -11,7 +11,7 @@
   "name": "raster graphic",
   "preferredOntologyIdentifier": "https://www.wikidata.org/wiki/Q182270",
   "synonym": [
-    "raster image",
-    "pixel data"
+    "pixel data",
+    "raster image"
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/ansiformLobuleCrusII",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104942",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/NLXANAT:20081209#ansiform-lobule-crus-ii",
+  "name": "ansiform lobule crus II",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0005977",
+  "synonym": [
+    "crus II of the ansiform lobule (HVII)",
+    "crus secundum lobuli ansiformis cerebelli [hVII A]",
+    "hemispheric lobule VIIBi",
+    "inferior semilunar lobule",
+    "inferior semilunar lobule of cerebellum",
+    "lobulus ansiform crus II",
+    "lobulus semilunaris inferior",
+    "lobulus semilunaris inferior cerebelli",
+    "posterior inferior lobule",
+    "second crus of ansiform lobule of cerebellum [hVIIa]",
+    "semilunar lobule-2 (inferior)"
+  ]
+}

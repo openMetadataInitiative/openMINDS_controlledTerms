@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/annotationType/annotationContourLine",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/AnnotationType",
+  "definition": "An 'annotation contour line' is a two-dimensional boundary of an area of interest.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "annotation contour line",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

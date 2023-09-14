@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subcellularEntity/neurite",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubcellularEntity",
+  "definition": "A 'neurite' is a small neuronal process on developing neurons that ultimately grow out into axons or dendrites under the control of growth stimulating or inhibiting factors from their direct extracellular environment.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "neurite",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "neurite outgrowth",
+    "neuronal process"
+  ]
+}

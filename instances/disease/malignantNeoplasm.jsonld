@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/malignantNeoplasm",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "A 'malignant neoplasm' is composed of atypical, often pleomorphic cells that uncontrollably grow and multiply, spreading into surrounding tissue and even invading distant anatomic sites (metastasis). Many malignant neoplasm form solid tumors, but cancers of the blood generally do not. [(adapted from [NCI](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)].",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0752652",
+  "knowledgeSpaceLink": null,
+  "name": "malignant neoplasm",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/NCIT_C9305",
+  "synonym": [
+    "cancer"
+  ]
+}

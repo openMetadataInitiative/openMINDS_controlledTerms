@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/entorhinalCortexLayer5",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Entorhinal cortex layer 5' is one of the deep layers of the entorhinal cortex.",
+  "description": "Layer of entorhinal cortex lying superficial to layer 6 and deep to layer 4 characterized by large pyramidal neurons that are darkly stained in Nissl preparations (Adapted from Paxinos, G. The rat central nervous system, 2nd ed, Academic Press, San Diego, 1995, pg. 474).",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103866",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0022325#entorhinal-cortex-layer-5",
+  "name": "entorhinal cortex layer 5",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0022325",
+  "synonym": [
+    "entorhinal cortex layer V"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure",
+  "definition": "Test statistic resulting from a chi-squared test.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "chi-squared statistic",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "χ2-statistic"
+  ]
+}

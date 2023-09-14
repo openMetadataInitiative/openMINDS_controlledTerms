@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/medialEntorhinalCortex",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
+  "definition": "'Medial entorhinal cortex' is the medial subdivision of the entorhinal cortex.",
+  "description": "One of two subdivisions of the entorhinal cortex, located medially.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731986",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0007224#medial-entorhinal-cortex",
+  "name": "medial entorhinal cortex",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0007224",
+  "synonym": [
+    "entorhinal area, medial part",
+    "MEC"
+  ]
+}

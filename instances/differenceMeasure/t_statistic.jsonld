@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure",
+  "definition": "The ratio of the departure of the estimated value of a parameter from its hypothesized value to its standard error.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "t-statistic",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

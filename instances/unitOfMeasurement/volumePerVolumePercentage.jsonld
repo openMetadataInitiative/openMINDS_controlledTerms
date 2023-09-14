@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/volumePerVolumePercentage",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "Percentage of volume of one liquid dissolved in another liquid, where the volume of both liquids have the same unit",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "volume per volume percentage",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "% v/v",
+    "percent v/v",
+    "v/v %",
+    "v/v percent",
+    "volume percent"
+  ]
+}

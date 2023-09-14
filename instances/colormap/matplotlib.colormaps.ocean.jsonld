@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.ocean",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
+  "definition": "The colormap 'ocean' is a miscellaneous colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matplotlib.colormaps.ocean",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ocean"
+  ]
+}

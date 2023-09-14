@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/EBRAINSModelCatalog",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": "The EBRAINS Model Catalog contains information about models developed and/or used within the EBRAINS research infrastructure.",
+  "description": "The Model Catalog app provides a more in-depth view of computational models than is available in the KG Search UI, including tools for visualizing model structure, exploring how models have been validated against experimental data, and comparing different models.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "EBRAINS Model Catalog",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

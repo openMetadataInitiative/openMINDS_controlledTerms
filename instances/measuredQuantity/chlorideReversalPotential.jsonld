@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotential",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity",
+  "definition": "The reversal potential for chloride ions.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "chloride reversal potential",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

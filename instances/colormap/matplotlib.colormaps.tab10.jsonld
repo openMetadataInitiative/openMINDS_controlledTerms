@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/matplotlib.colormaps.tab10",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Colormap",
+  "definition": "The colormap 'tab10' is a qualitative colormap of the Python plotting library Matplotlib.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "matplotlib.colormaps.tab10",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "tab10"
+  ]
+}

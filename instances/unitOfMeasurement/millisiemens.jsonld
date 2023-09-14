@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/millisiemens",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "An electrical conduction unit which is equal to one thousandth of a siemen or 10^[-3] siemens.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "millisiemens",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0010002",
+  "synonym": [
+    "mS"
+  ]
+}

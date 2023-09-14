@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/multi-scaleIndividualComponentClustering",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'multi-scale individual component clustering' is a multi-scale, unsupervised cluster analysis technique to group individual, independent components of a single-object/single-subject independent component analysis (ICA) from an object-pool/subject-pool (cf. [Naveau et al, 2012](https://doi.org/10.1007/s12021-012-9145-2)).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "multi-scale individual component clustering",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "MICCA",
+    "multi-scale individual component cluster algorithm"
+  ]
+}

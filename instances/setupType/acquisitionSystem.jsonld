@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/setupType/acquisitionSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SetupType",
+  "definition": "An 'acquisition system' is a setup type with the purpose of collecting data.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "acquisition system",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

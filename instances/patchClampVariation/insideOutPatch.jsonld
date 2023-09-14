@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/patchClampVariation/insideOutPatch",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/PatchClampVariation",
+  "definition": "A variation of the patch-clamp technique in which a patch of membrane is excised and the cytosolic surface exposed.",
+  "description": "In the inside-out method, a patch of the membrane is attached to the patch pipette, detached from the rest of the cell, and the cytosolic surface of the membrane is exposed to the external media, or bath. One advantage of this method is that the experimenter has access to the intracellular surface of the membrane via the bath and can change the chemical composition of what the inside surface of the membrane is exposed to. This is useful when an experimenter wishes to manipulate the environment at the intracellular surface of single ion channels. [Wikipedia]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "inside-out patch",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

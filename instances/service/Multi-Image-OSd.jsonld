@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/Multi-Image-OSd",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": "Web application for viewing of series of high-resolution 2D images.",
+  "description": "Multi-Image-OSd allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/Multi-Image-OSd",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Multi-Image-OSd",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Multi-Image OpenSeadragon viewer"
+  ]
+}

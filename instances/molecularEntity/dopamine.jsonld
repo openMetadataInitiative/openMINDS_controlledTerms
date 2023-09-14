@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/dopamine",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Dopamine is one of the catecholamine neurotransmitters in the brain. It is derived from tyrosine and is the precursor to norepinephrine and epinephrine.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103384",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:18243#dopamine",
+  "name": "dopamine",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_18243",
+  "synonym": [
+    "DA",
+    "deoxyepinephrine",
+    "dopamin",
+    "dopamine HCl",
+    "hydroxyltyramine"
+  ]
+}
