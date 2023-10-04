@@ -43,7 +43,7 @@
       "type": "array",
       "minItems": 1, 
       "uniqueItems": true,
-      "_instruction": "Enter one or several synonyms (inlcuding abbreviations) for this controlled term.",
+      "_instruction": "Enter one or several synonyms (including abbreviations) for this controlled term.",
       "items": {
         "type": "string"
       }
