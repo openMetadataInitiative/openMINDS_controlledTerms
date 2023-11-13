@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/potassiumChloride",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A metal chloride salt with a K(+) counterion.",
+  "description": "Potassium chloride (KCl, or potassium salt) is a metal halide salt composed of potassium and chlorine. It is odorless and has a white or colorless vitreous crystal appearance.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0109170",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:32588#potassium-chloride",
+  "name": "Potassium Chloride",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_32588",
+  "synonym": [
+    "KCl",
+    "Sylvite",
+    "Muriate of potash",
+    "E508"
+  ]
+}
