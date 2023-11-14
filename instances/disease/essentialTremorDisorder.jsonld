@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/disease/essentialTremorDisorder",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Disease",
+  "definition": "Essential tremor disorder is relatively common and characterized by a fairly specific pattern of tremors which are most prominent in the upper extremities and neck, inducing titubations of the head. (Mov Disord 1988;13(1):5-10)",
+  "description": "Essential tremor disorder is usually mild, but when severe may be disabling. An autosomal dominant pattern of inheritance may occur in some families (i.e., familial tremor). (Mov Disord 1988;13(1):5-10)",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0765059",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/DOID:4990#essential-tremor",
+  "name": "essential tremor disorder",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/MONDO_0003233",
+  "synonym": [
+    "benign essential tremor",
+    "essential hereditary tremor",
+    "essential tremor",
+    "ET",
+    "shaky hand syndrome"
+  ]
+}
