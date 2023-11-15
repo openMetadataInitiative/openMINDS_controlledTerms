@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/carbonDioxide",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Carbon dioxide is a chemical compound with the chemical formula CO2. It is made up of molecules that each have one carbon atom covalently double bonded to two oxygen atoms. ",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0780969",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:16526#carbon-dioxide",
+  "name": "Carbon dioxide",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_16526",
+  "synonym": [
+    "CO2",
+    "Carbonic acid gas",
+    "Carbonic anhydride",
+    "Carbonic dioxide",
+    "Dry ice",
+    "Carbonic oxide",
+    "E290"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/potassiumGluconate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Potassium gluconate is the potassium salt of the conjugate base of gluconic acid.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:32032#potassium-gluconate",
+  "name": "Potassium gluconate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_32032",
+  "synonym": []
+}
