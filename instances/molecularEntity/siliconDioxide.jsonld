@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/siliconDioxide",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Silicon dioxide, also known as silica, is an oxide of silicon with the chemical formula SiO2, commonly found in nature as quartz.",
+  "description": "In many parts of the world, silica is the major constituent of sand. Silica is abundant as it comprises several minerals and as a synthetic products. All forms are white or colorless, although impure samples can be colored.  Silicon dioxide is a common fundamental constituent of glass.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Silicon dioxide",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_30563",
+  "synonym": [
+    "Quartz",
+    "Silica",
+    "Silicic oxide",
+    "Silicon(IV) oxide",
+    "Crystalline silica",
+    "Pure Silica",
+    "Silicea",
+    "Silica sand"
+  ]
+}
