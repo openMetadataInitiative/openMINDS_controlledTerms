@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/silverNitrate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Silver nitrate is an inorganic compound with chemical formula AgNO3.",
+  "description": "Silver nitrate is a versatile precursor to many other silver compounds, such as those used in photography. It is far less sensitive to light than the halides. It was once called lunar caustic because silver was called luna by ancient alchemists who associated silver with the moon. In solid silver nitrate, the silver ions are three-coordinated in a trigonal planar arrangement.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Silver nitrate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_32130",
+  "synonym": [
+    "Silver(I) nitrate",
+    "Nitric acid silver(1+) salt",
+    "Lapis infernalis",
+    "Argentous nitrate"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/pentobarbital",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A member of the class of barbiturates, the structure of which is that of barbituric acid substituted at C-5 by ethyl and sec-pentyl groups.",
+  "description": "A short-acting barbiturate that is effective as a sedative and hypnotic (but not as an anti-anxiety) agent and is usually given orally. It is prescribed more frequently for sleep induction than for sedation but, like similar agents, may lose its effectiveness by the second week of continued administration. (From AMA Drug Evaluations Annual,1994, p236) Pharmacology: Pentobarbital, a barbiturate, is used for the treatment of short term insomnia. It belongs to a group of medicines called central nervous system (CNS) depressants that induce drowsiness and relieve tension or nervousness. Little analgesia is conferred by barbiturates; their use in the presence of pain may result in excitation. Mechanism of action: Pentobarbital binds at a distinct binding site associated with a Cl- ionopore at the GABAA receptor, increasing the duration of time for which the Cl- ionopore is open. The post-synaptic inhibitory effect of GABA in the thalamus is, therefore, prolonged. All of these effects are associated with marked decreases in GABA-sensitive neuronal calcium conductance (gCa). The net result of barbiturate action is acute potentiation of inhibitory GABAergic tone. Barbiturates also act through potent (if less well characterized) and direct inhibition of excitatory AMPA-type glutamate receptors, resulting in a profound suppression of glutamatergic neurotransmission. Drug type: Approved. Small Molecule. Drug category: Adjuvants, Anesthesia. Barbiturates. GABA Modulators. Hypnotics and Sedatives",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0108667",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:7983#pentobarbital",
+  "name": "Pentobarbital",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_7983",
+  "synonym": [
+    "Pentabarbital",
+    "Pentabarbitone",
+    "Pentobarbital Sodium",
+    "Pentobarbitone",
+    "Pentobarbiturate",
+    "Pentobarbituric acid",
+    "Sodium Pentobarbital",
+    "Dorsital",
+    "Ethaminal",
+    "Mebubarbital",
+    "Mebumal",
+    "Nebralin",
+    "Nembutal",
+    "Nembutal Sodium",
+    "Neodorm"
+  ]
+}
