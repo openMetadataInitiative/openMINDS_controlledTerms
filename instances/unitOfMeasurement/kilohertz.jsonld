@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/kilohertz",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "A unit of frequency equal to one thousand cycles per second; one thousand hertz.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "kilohertz",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "kHz",
+    "kilocycle"
+  ]
+}

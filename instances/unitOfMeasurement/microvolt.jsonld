@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/microvolt",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "One millionth (10^-6) of a volt.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "microvolt",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000249",
+  "synonym": [
+    "uV",
+    "µV"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/kilovolt",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "One thousand volts.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "kilovolt",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000248",
+  "synonym": [
+    "kV",
+    "KV"
+  ]
+}
