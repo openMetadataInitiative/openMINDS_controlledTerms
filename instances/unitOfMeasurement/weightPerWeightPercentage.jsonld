@@ -12,10 +12,10 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "% w/w",
-    "percent w/w",
-    "w/w percent",
-    "weight percent",
     "mass percent",
-    "w/w %"
-    ]
+    "percent w/w",
+    "w/w %",
+    "w/w percent",
+    "weight percent"
+  ]
 }

@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/GolgiStaining",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Golgi staining' includes several silver staining techniques in which fixed tissue is impregnated with silver nitrate and potassium dichromate resulting in the complete staining of some nerve cells while other cells are not stained at all. [adapted from InterLex](http://uri.interlex.org/ilx_0104713)",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0104713",
+  "knowledgeSpaceLink": null,
+  "name": "Golgi staining",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/birnlex_2243",
+  "synonym": [
+    "Golgi method",
+    "black reaction"
+  ]
+}

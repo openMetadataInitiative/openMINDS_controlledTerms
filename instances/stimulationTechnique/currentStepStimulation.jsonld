@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/currentStepStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
+  "definition": "Current step stimulation is a technique in which an amount of current is applied in predefined steps, whilst measuring changes in neural/muscular activity.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "current step stimulation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

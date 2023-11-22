@@ -11,13 +11,12 @@
   "name": "intraparietal sulcus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0002913",
   "synonym": [
-    "itps",
-    "ips",
     "interparietal fissure",
-    "sulcus interparietalis",
-    "sulcus interparietalis",
-    "Turner sulcus",
     "intraparietal sulcus of Turner",
-    "sulcus intraparietalis"
+    "ips",
+    "itps",
+    "sulcus interparietalis",
+    "sulcus intraparietalis",
+    "Turner sulcus"
   ]
 }

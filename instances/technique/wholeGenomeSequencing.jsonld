@@ -11,9 +11,9 @@
   "name": "whole genome sequencing",
   "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M000621306",
   "synonym": [
-    "WGS",
-    "full genome sequencing",
     "complete genome sequencing",
-    "entire genome sequencing"
+    "entire genome sequencing",
+    "full genome sequencing",
+    "WGS"
   ]
 }

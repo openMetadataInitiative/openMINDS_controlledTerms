@@ -11,8 +11,8 @@
   "name": "connected-component analysis",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "connected-component labeling",
+    "CCA",
     "CCL",
-    "CCA"
+    "connected-component labeling"
   ]
 }

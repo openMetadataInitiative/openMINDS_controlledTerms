@@ -11,10 +11,10 @@
   "name": "micromolar",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "µM",
     "uM",
-    "µmol/m³",
+    "µM",
     "µmol*m⁻³",
-    "µmol/l"
-    ]
+    "µmol/l",
+    "µmol/m³"
+  ]
 }

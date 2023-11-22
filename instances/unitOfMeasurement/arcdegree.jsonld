@@ -11,9 +11,9 @@
   "name": "arcdegree",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "°",
     "arc degree",
+    "degree",
     "degree of arc",
-    "degree"
-    ]
+    "°"
+  ]
 }

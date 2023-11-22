@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1415726815",
   "synonym": [
     "cerebellar Golgi cell",
-    "cerebellum Golgi neuron",
     "cerebellar Golgi neuron",
-    "Golgi neuron",        
-    "Golgi cell"
+    "cerebellum Golgi neuron",
+    "Golgi cell",
+    "Golgi neuron"
   ]
 }

@@ -11,8 +11,8 @@
   "name": "millimolar",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "10^-3 mol/L",
     "mM",
-    "10^-3 mol/L", 
     "mol/m^3"
-    ]
+  ]
 }

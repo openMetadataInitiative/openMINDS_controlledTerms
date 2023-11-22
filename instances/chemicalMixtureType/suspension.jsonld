@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType",
+  "definition": "A 'suspension' is a heterogeneous mixture of a fluid that contains solid particles sufficiently large for sedimentation and may even be visible to the naked eye. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]",
+  "description": "A suspension is a heterogeneous mixture in which the solute particles do not dissolve, but get suspended throughout the bulk of the solvent, left floating around freely in the medium. Solute particles are usually larger than one micrometer, and will eventually settle, although the mixture is only classified as a suspension when and while the particles have not settled out. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "suspension",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

@@ -11,10 +11,10 @@
   "name": "cholecystokinin expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "CCK+ neuron",
-    "cholecystokinin expressing cell",
-    "CCK-positive neuron",
     "CCK+ cell",
-    "CCK-positive cell"
+    "CCK+ neuron",
+    "CCK-positive cell",
+    "CCK-positive neuron",
+    "cholecystokinin expressing cell"
   ]
 }

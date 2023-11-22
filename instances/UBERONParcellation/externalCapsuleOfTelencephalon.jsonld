@@ -11,9 +11,9 @@
   "name": "external capsule of telencephalon",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004545",
   "synonym": [
-    "corpus callosum external capsule",
-    "capsula externa",
     "brain external capsule",
+    "capsula externa",
+    "corpus callosum external capsule",
     "external capsule"
   ]
 }

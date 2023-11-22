@@ -11,8 +11,8 @@
   "name": "oral administration",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "per os",
     "p.o.",
+    "per os",
     "PO"
   ]
 }

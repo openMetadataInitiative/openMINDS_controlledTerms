@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/subcellularEntity/nerveFiber",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/SubcellularEntity",
+  "definition": "A threadlike extension of a nerve cell within the nervous system which consists of an axon and, if myelinated, a myelin sheath.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0485634",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0006134#nerve-fiber",
+  "name": "nerve fiber",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0006134",
+  "synonym": [
+    "neurofibra",
+    "neurofibrum"
+  ]
+}

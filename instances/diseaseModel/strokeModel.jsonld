@@ -11,10 +11,10 @@
   "name": "stroke model",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "cerebral infaction model",
     "cerebrovascular accident model",
     "cerebrovascular disease model",
-    "stroke disorder model",
-    "cerebral infaction model",
-    "CVA model"
+    "CVA model",
+    "stroke disorder model"
   ]
 }

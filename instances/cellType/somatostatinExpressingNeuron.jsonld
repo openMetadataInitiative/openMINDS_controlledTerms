@@ -11,12 +11,12 @@
   "name": "somatostatin expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "SST+ neuron",
     "somatostatin expressing cell",
-    "SST-positive neuron",
-    "SST+ cell",
-    "SST-positive cell",
     "somatostatin positive cell",
-    "somatostatin positive neuron"
+    "somatostatin positive neuron",
+    "SST+ cell",
+    "SST+ neuron",
+    "SST-positive cell",
+    "SST-positive neuron"
   ]
 }

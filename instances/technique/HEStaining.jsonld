@@ -11,8 +11,8 @@
   "name": "H&E staining",
   "preferredOntologyIdentifier": null,
   "synonym": [
+    "HE staining",
     "hematoxylin and eosin staining",
-    "hematoxylin-eosin staining",
-    "HE staining"
+    "hematoxylin-eosin staining"
   ]
 }

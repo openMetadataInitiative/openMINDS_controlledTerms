@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/organismSubstance",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "Any material anatomical entity in a gaseous, liquid, semisolid or solid state produced by or derived from an organism or parts of an organism.",
+  "description": "The preferred ontology for 'organism substance' is UBERON.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "organism substance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

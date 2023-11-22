@@ -4,11 +4,14 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/actionStatusType/potential",
   "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
-  "definition": "A description of an action that is supported",
+  "definition": "A description of an action that is supported.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "potential",
   "preferredOntologyIdentifier": "https://schema.org/PotentialActionStatus",
-  "synonym": null
+  "synonym": [
+    "potential action type",
+    "potential action"
+  ]
 }

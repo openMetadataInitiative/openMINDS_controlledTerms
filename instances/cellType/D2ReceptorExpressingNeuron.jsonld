@@ -11,14 +11,14 @@
   "name": "D2 receptor expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "D2 dopamine receptor expressing neuron",
     "D2 dopamine receptor expressing cell",
-    "D2R expressing neuron",
+    "D2 dopamine receptor expressing neuron",
+    "D2 receptor expressing cell",
     "D2R expressing cell",
-    "DRD2 expressing neuron",
-    "DRD2 expressing cell",
-    "dopamine receptor D2 expressing neuron",
+    "D2R expressing neuron",
     "dopamine receptor D2 expressing cell",
-    "D2 receptor expressing cell"
+    "dopamine receptor D2 expressing neuron",
+    "DRD2 expressing cell",
+    "DRD2 expressing neuron"
   ]
 }

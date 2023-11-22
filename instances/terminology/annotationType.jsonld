@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/terminology/annotationType",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
-  "definition": "General classification of how data were annotated.",
+  "definition": "Geometrical classification of annotations into types.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/enzymeLinkedImmunosorbentAssay",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "The 'enzyme-linked immunosorbent assay' is a commonly used analytical biochemistry assay for the quantitative determination of antibodies, first described by [Engvall and Perlmann (1972)](https://www.jimmunol.org/content/109/1/129.abstract). [adapted from [wikipedia](https://en.wikipedia.org/wiki/ELISA)]",
+  "description": "This immunoassay utilizes an antibody labeled with an enzyme marker such as horseradish peroxidase. While either the enzyme or the antibody is bound to an immunosorbent substrate, they both retain their biologic activity; the change in enzyme activity as a result of the enzyme-antibody-antigen reaction is proportional to the concentration of the antigen and can be measured spectrophotometrically or with the naked eye. Many variations of the method have been developed.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0484188",
+  "knowledgeSpaceLink": null,
+  "name": "enzyme-linked immunosorbent assay",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0007526",
+  "synonym": [
+    "ELISA"
+  ]
+}

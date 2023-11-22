@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/technique/nonlinearTransformation",
   "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
-  "definition": "A 'linear transformation' is a mathematical function to map coordinates between two different coordinate systems, not perserving straight lines.",
+  "definition": "A 'nonlinear transformation' is a mathematical function to map coordinates between two different coordinate systems, not perserving straight lines.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,

@@ -1,6 +1,6 @@
 {
   "@context": {
-      "@vocab": "https://openminds.ebrains.eu/vocab/"
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/dynorphin",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
@@ -12,5 +12,5 @@
   "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5097",
   "synonym": [
     "Dyn"
-    ]
+  ]
 }

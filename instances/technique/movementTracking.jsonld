@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/movementTracking",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Movement tracking' refers to a group of techniques used to measure the movement and/or position of an object, specimen, or anatomical parts of a specimen over a given period of time.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "movement tracking",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "motion tracking"
+  ]
+}

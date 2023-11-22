@@ -12,9 +12,9 @@
   "preferredOntologyIdentifier": null,
   "synonym": [
     "% w/v",
-    "percent w/v",
-    "w/v percent",
     "mass/volume percent",
-    "w/v %"
-    ]
+    "percent w/v",
+    "w/v %",
+    "w/v percent"
+  ]
 }

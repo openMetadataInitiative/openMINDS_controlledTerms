@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/terminology/learningResourceType",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Terminology",
+  "definition": "A 'learning resource type' groups persistent resources that explicitly entail learning activities or learning experiences in a certain format (e.g., in a physical or digital presentation).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "learning resource type",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

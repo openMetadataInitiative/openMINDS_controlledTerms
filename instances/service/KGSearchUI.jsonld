@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/service/EBRAINSKnowledgeGraphSearchUI",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "definition": "The EBRAINS Knowledge Graph Search User Interface is a web application for searching the EBRAINS Knowledge Graph.",
+  "description": "The Knowledge Graph Search User Interface makes data, models and software discoverable and easy to use. The user interface allows for free text searches and provides filters to narrow searches based on metadata that classifies data according to experimental method, data modality and species among other options. The query results are displayed as Dataset cards containing key information about the dataset, e.g. its metadata, terms of use, and how to cite and reuse the data. Datasets that have undergone spatial registration to an atlas contain links to 3D or 2D viewers for navigating the data in atlas space.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "EBRAINS Knowledge Graph Search UI",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "EBRAINS KG Search UI",
+    "EBRAINS KGS UI",
+    "EBRAINS Knowledge Graph Search User Interface",
+    "KG Search UI",
+    "KGS UI",
+    "Knowledge Graph Search User Interface"
+  ]
+}

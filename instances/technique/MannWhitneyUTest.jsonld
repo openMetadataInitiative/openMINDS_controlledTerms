@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/MannWhitneyUTest",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "The 'Mann–Whitney U test' is a nonparametric test of the null hypothesis that, for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Mann–Whitney U test",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Mann–Whitney–Wilcoxon test",
+    "MWU test",
+    "MWW test",
+    "Wilcoxon rank-sum test",
+    "Wilcoxon–Mann–Whitney test",
+    "WMW test"
+  ]
+}

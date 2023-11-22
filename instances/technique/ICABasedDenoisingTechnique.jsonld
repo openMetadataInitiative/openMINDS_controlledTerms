@@ -11,11 +11,11 @@
   "name": "ICA based denoising technique",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "independent component analysis based denoising technique",
-    "ICA-based denoising technique",
-    "ICA based denoising method",
-    "ICA-based denoising method",
     "ICA based denoising",
-    "ICA-based denoising"
+    "ICA based denoising method",
+    "ICA-based denoising",
+    "ICA-based denoising method",
+    "ICA-based denoising technique",
+    "independent component analysis based denoising technique"
   ]
 }

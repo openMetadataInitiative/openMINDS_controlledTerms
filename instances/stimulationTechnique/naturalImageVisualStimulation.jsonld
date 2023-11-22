@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/stimulationTechnique/naturalImageVisualStimulation",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/StimulationTechnique",
+  "definition": "In a 'natural image visual stimulation' a subject is visually stimulated with a static image that shows a natural scene (e.g., landscape or a person).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "natural image visual stimulation",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

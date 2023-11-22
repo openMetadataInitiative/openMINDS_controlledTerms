@@ -4,16 +4,16 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/UBERONParcellation/rostrumOfCorpusCallosum",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UBERONParcellation",
-  "definition": "",
-  "description": "The 'rostrum of corpus callosum' is a white matter fibre bundle. It is part of the corpus callosum.",
+  "definition": "The 'rostrum of corpus callosum' is a white matter fibre bundle. It is part of the corpus callosum.",
+  "description": "",
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0731510",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0015703#rostrum-of-corpus-callosum",
   "name": "rostrum of corpus callosum",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0015703",
   "synonym": [
-    "rostrum corporis callosi",
-    "rostrum corpus callosi",
+    "corpus callosum rostrum",
     "rostrum",
-    "corpus callosum rostrum"
+    "rostrum corporis callosi",
+    "rostrum corpus callosi"
   ]
 }

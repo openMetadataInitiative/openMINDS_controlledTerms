@@ -11,8 +11,8 @@
   "name": "CT scanner",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "computed tomography scanner",
+    "CAT scanner",
     "computed axial tomography scanner",
-    "CAT scanner"
+    "computed tomography scanner"
   ]
 }

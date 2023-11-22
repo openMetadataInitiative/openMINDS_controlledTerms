@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure",
+  "definition": "The mean squared difference between two series of values.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "mean squared error",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

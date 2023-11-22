@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/ShapiroWilkTest",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "The 'Shapiro–Wilk test' is a statistical test of normality of a complete sample, first described by [Shapiro and Wilk (1965)](https://doi.org/10.1093/biomet/52.3-4.591). [adapted from [wikipedia](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Shapiro-Wilk test",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "Shapiro-Wilk normality test"
+  ]
+}

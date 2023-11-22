@@ -1,0 +1,19 @@
+
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/actionStatusType/pending",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ActionStatusType",
+  "definition": "An action which is awaiting execution.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "pending",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "queued",
+    "pending action type",
+    "pending action"
+  ]
+}

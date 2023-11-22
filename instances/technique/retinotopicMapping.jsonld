@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/retinotopicMapping",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "In 'retinotopic mapping' the retina is repeatedly stimulated in such a way that the response of neurons, particularly within the visual stream, can be mapped to the location of the stimulus on the retina.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "retinotopic mapping",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "retinal mapping"
+  ]
+}

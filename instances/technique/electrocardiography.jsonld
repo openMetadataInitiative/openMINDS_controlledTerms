@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/electrocardiography",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Electrocardiography is a non-invasive technique used to record the electrical activity of a heart using electrodes placed on the skin. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Electrocardiography)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "electrocardiography",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "ECG"
+  ]
+}

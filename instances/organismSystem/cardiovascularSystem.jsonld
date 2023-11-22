@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/OrganismSystem",
+  "definition": "'The 'cardiovascular system' is an anatomical organ system where the heart pumps blood through blood vessels to and from all parts of the body.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101670",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/UBERON:0004535#cardiovascular-system",
+  "name": "cardiovascular system",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0004535",
+  "synonym": null
+}

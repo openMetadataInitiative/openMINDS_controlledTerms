@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/gustatoryStimulusType/saltySubstance",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/GustatoryStimulusType",
+  "definition": "Any chemical compound that tastes salty.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "salty substance",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}

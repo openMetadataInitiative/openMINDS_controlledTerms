@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType",
+  "definition": null,
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "direct current",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "DC"
+  ]
+}

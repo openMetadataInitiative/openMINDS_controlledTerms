@@ -11,14 +11,14 @@
   "name": "calbindin expressing neuron",
   "preferredOntologyIdentifier": null,
   "synonym": [
-    "calbindin expressing cell",
-    "calbindin-positive neuron",
-    "calbindin-positive cell",
     "CALB+ cell",
     "CALB+ neuron",
+    "CALB-expressing cell",
+    "CALB-expressing neuron",
     "CALB-positive cell",
     "CALB-positive neuron",
-    "CALB-expressing cell",
-    "CALB-expressing neuron"
+    "calbindin expressing cell",
+    "calbindin-positive cell",
+    "calbindin-positive neuron"
   ]
 }

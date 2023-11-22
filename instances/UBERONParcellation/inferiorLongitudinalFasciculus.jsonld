@@ -11,8 +11,8 @@
   "name": "inferior longitudinal fasciculus",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UBERON_0034743",
   "synonym": [
-    "ilf",
     "external sagittal stratum",
-    "fasciculus longitudinalis inferior"
+    "fasciculus longitudinalis inferior",
+    "ilf"
   ]
 }
