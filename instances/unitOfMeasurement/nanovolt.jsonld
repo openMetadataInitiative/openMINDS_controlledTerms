@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/nanovolt",
   "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
-  "definition": " one billionth (10^-9) of a volt.",
+  "definition": "A unit of electric potential equal to one billionth (10^-9) of a volt.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
