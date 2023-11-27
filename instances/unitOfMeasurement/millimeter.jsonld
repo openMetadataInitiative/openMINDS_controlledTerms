@@ -9,6 +9,6 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "millimeter",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000016",
   "synonym": null
 }

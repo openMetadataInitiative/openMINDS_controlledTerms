@@ -9,7 +9,7 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "degree Fahrenheit",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000195",
   "synonym": [
     "degree",
     "Fahrenheit",

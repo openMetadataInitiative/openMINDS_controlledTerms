@@ -9,6 +9,8 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "liter",
-  "preferredOntologyIdentifier": null,
-  "synonym": null
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000099",
+  "synonym": [
+    "litre"
+  ]
 }
