@@ -9,6 +9,6 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "hour",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000032",
   "synonym": null
 }

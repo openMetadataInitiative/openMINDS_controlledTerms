@@ -9,6 +9,6 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "gram",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000021",
   "synonym": null
 }

@@ -9,6 +9,6 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "liter",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000099",
   "synonym": null
 }

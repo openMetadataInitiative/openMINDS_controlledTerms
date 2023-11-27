@@ -9,7 +9,7 @@
   "interlexIdentifier": null,
   "knowledgeSpaceLink": null,
   "name": "degree Celsius",
-  "preferredOntologyIdentifier": null,
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000027",
   "synonym": [
     "Celsius",
     "degree",
