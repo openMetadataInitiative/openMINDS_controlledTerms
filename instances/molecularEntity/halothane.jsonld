@@ -1,0 +1,26 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/Halothane",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Halothane is a haloalkane comprising ethane having three flouro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Halothane",
+  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/3562",
+  "synonym": [
+    "1,1,1-trifluoro-2-bromo-2-chloroethane",
+    "1,1,1-trifluoro-2-chloro-2-bromoethane",
+    "1-bromo-1-chloro-2,2,2-trifluoroethane",
+    "2,2,2-trifluoro-1-chloro-1-bromoethane",
+    "2-bromo-2-chloro-1,1,1-trifluoroethane",
+    "bromochlorotrifluoroethane",
+    "Fluothane",
+    "Halothane",
+    "Narcotane",
+    "Phthorothanum",
+    "Rhodialothan"
+  ]
+}

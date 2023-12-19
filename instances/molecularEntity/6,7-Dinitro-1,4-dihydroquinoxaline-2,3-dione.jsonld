@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/6,7-Dinitro-1,4-dihydroquinoxaline-2,3-dione",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "DNQX (6,7-dinitroquinoxaline-2,3-dione) is a competitive antagonist at AMPA and kainate receptors, two ionotropic glutamate receptor (iGluR) subfamilies. [adapted from wikipedia (https://en.wikipedia.org/wiki/DNQX)]",
+  "description": "DNQX (6,7-dinitroquinoxaline-2,3-dione) is used in a variety of molecular biology subfields, notably neurophysiology, to assist researchers in determining the properties of various types of ion channels and their potential applications in medicine. [adapted from wikipedia (https://en.wikipedia.org/wiki/DNQX)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103368",
+  "knowledgeSpaceLink": null,
+  "name": "6,7-Dinitro-1,4-dihydroquinoxaline-2,3-dione",
+  "preferredOntologyIdentifier": "https://pubchem.ncbi.nlm.nih.gov/compound/3899541",
+  "synonym": [
+    "DNQX",
+    "6,7-dinitroquinoxaline-2,3-dione",
+    "6,7-Dinitro-1,4-dihydroquinoxaline-2,3-dione"
+  ]
+}

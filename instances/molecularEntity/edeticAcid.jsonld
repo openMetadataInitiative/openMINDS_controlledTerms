@@ -2,15 +2,16 @@
     "@context": {
         "@vocab": "https://openminds.ebrains.eu/vocab/"
     },
-    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/EDTA",
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/edeticAcid",
     "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-    "definition": "Ethylenediaminetetraacetic acid (EDTA), also called edetic acid after its own abbreviation, is an aminopolycarboxylic acid with the formula [CH2N(CH2CO2H)2]2.",
-    "description": "This white, water-soluble solid is widely used to bind to iron (Fe2+/Fe3+) and calcium ions (Ca2+), forming water-soluble complexes even at neutral pH. It is thus used to dissolve Fe- and Ca-containing scale as well as to deliver iron ions under conditions where its oxides are insoluble. EDTA is available as several salts, notably disodium EDTA, sodium calcium edetate, and tetrasodium EDTA, but these all function similarly.",
+    "definition": "Edetic Acid (Ethylenediaminetetraacetic acid, EDTA), also called edetic acid after its own abbreviation, is an aminopolycarboxylic acid with the formula [CH2N(CH2CO2H)2]2. [adapted from wikipedia (https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid)]",
+    "description": "This white, water-soluble solid is widely used to bind to iron (Fe2+/Fe3+) and calcium ions (Ca2+), forming water-soluble complexes even at neutral pH. It is thus used to dissolve Fe- and Ca-containing scale as well as to deliver iron ions under conditions where its oxides are insoluble. EDTA is available as several salts, notably disodium EDTA, sodium calcium edetate, and tetrasodium EDTA, but these all function similarly. [adapted from wikipedia (https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid)]",
     "interlexIdentifier": null,
     "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:4735#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid",
-    "name": "EGTA",
+    "name": "Edetic acid",
     "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_4735",
     "synonym": [
+        "EGTA",
         "Edetic acid",
         "(ethylenedinitrilo)tetraacetic acid",
         "2,2',2'',2'''-(ethane-1,2-diylbis(azanetriyl))tetraacetic acid",
