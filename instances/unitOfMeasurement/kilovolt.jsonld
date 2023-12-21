@@ -11,7 +11,6 @@
   "name": "kilovolt",
   "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/UO_0000248",
   "synonym": [
-    "kV",
-    "KV"
+    "kV"
   ]
 }
