@@ -9,5 +9,8 @@
     "knowledgeSpaceLink": null,
     "name": "Nickel",
     "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_28112",
-    "synonym": []
+    "synonym": [
+        "Ni",
+        "Niccolum"
+    ]
 }
