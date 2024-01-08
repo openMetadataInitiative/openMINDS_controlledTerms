@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/nickel",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "Nickel is a chemical element; it has symbol Ni and atomic number 28.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107575",
+    "knowledgeSpaceLink": null,
+    "name": "Nickel",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_28112",
+    "synonym": [
+        "Ni",
+        "Niccolum"
+    ]
+}

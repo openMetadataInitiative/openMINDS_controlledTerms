@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/glycerol",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Glycerol is a triol with a structure of propane substituted at positions 1, 2 and 3 by hydroxy groups. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17754)]",
+  "description": "Glycerol, also called glycerine or glycerin, is a simple triol compound. It is a colorless, odorless, viscous liquid that is sweet-tasting and non-toxic. The glycerol backbone is found in lipids known as glycerides. Because it has antimicrobial and antiviral properties, it is widely used in wound and burn treatments approved by the U.S. Food and Drug Administration. Conversely, it is also used as a bacterial culture medium. Its presence in blood can be used as an effective marker to measure liver disease. It is also widely used as a sweetener in the food industry and as a humectant in pharmaceutical formulations. Because of its three hydroxyl groups, glycerol is miscible with water and is hygroscopic in nature. [adapted from wikipedia (https://en.wikipedia.org/wiki/Glycerol)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:17754#glycerol",
+  "name": "Glycerol",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_17754",
+  "synonym": [
+    "Glycerin",
+    "Glycerin",
+    "Glycerine",
+    "1,2,3-Trioxypropane",
+    "1,2,3-Trihydroxypropane",
+    "1,2,3-Propanetriol"
+  ]
+}

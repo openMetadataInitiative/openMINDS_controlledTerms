@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/propofol",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "An intravenous anesthetic agent which has the advantage of a very rapid onset after infusion or bolus injection plus a very short recovery period of a couple of minutes. (From Smith and Reynard, Textbook of Pharmacology, 1992, 1st ed, p206)",
+  "description": "Pharmacology: Propofol a sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol produces hypnosis rapidly with minimal excitation, usually within 40 seconds from the start of an injection (the time for one arm-brain circulation). Mechanism of action: The action of propofol involves a positive modulation of the inhibitory function of the neurotransmitter gama-aminobutyric acid(GABA) through GABA-A receptors. Drug type: Approved. Investigational. Small Molecule. Drug category: Anesthetics, Intravenous. Anticonvulsants. Antiemetics. Free Radical Scavengers. Hypnotics and Sedatives",
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0109431",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:44915#propofol",
+  "name": "propofol",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_44915",
+  "synonym": [
+    "2,6-Diisopropylphenol",
+    "Diisopropylphenol",
+    "propofol",
+    "Diprivan",
+    "Disoprivan",
+    "Disoprofol"
+  ]
+}

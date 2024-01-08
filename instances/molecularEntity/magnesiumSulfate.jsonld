@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/magnesiumSulfate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A magnesium salt with the formula MgSO4, consisting of magnesium cations Mg2+ (20.19% by mass) and sulfate anions (SO4)2-. [adapted from wikipedia (https://en.wikipedia.org/wiki/Magnesium_sulfate)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0106452",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:32599#magnesium-sulfate",
+  "name": "Magnesium sulfate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_32599",
+  "synonym": [
+    "MgSO4",
+    "Bitter salt",
+    "Bath salt",
+    "Magnesium Sulphate Heptahydrte",
+    "Magnesium Sulphate Hydrate",
+    "Magnesium sulfate anhydrous",
+    "Magnesium sulfate dried",
+    "Magnesium sulfate heptahydrate",
+    "Magnesium sulphate",
+    "Elliotts B Solution",
+    "Epsom salts",
+    "English salt",
+    "Hair salt",
+    "Kieserite (as monohydrate)",
+    "Sal amarum",
+    "Sal anglicum",
+    "Sal catharticum",
+    "Sal seidlitense",
+    "Salts of England"
+  ]
+}

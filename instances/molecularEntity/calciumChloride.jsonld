@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/calciumChloride",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Calcium chloride is an inorganic compound, a salt with the chemical formula CaCl2. [adapted from wikipedia (https://en.wikipedia.org/wiki/Calcium_chloride)]",
+  "description": "CaCl2 is a white crystalline solid at room temperature, and it is highly soluble in water. It can be created by neutralising hydrochloric acid with calcium hydroxide. Calcium chloride is commonly encountered as a hydrated solid with generic formula CaCl2·nH2O, where n = 0, 1, 2, 4, and 6. These compounds are mainly used for de-icing and dust control. Because the anhydrous salt is hygroscopic and deliquescent, it is used as a desiccant. [adapted from wikipedia (https://en.wikipedia.org/wiki/Calcium_chloride)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0101566",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:3312#calcium-dichloride",
+  "name": "Calcium chloride",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_3312",
+  "synonym": [
+    "CaCl2",
+    "calcium(II) chloride",
+    "calcium dichloride (1:2)",
+    "E509"
+  ]
+}

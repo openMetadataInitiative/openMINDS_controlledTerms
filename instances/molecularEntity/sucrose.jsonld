@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/sucrose",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A nonreducing disaccharide composed of GLUCOSE and FRUCTOSE linked via their anomeric carbons. It is obtained commercially from SUGARCANE, sugar beet (BETA VULGARIS), and other plants and used extensively as a food and a sweetener.",
+  "description": "It is produced naturally in plants and is the main constituent of white sugar. It has the molecular formula C12H22O11. For human consumption, sucrose is extracted and refined from either sugarcane or sugar beet. Sugar mills – typically located in tropical regions near where sugarcane is grown – crush the cane and produce raw sugar which is shipped to other factories for refining into pure sucrose. Sugar beet factories are located in temperate climates where the beet is grown, and process the beets directly into refined sugar. The sugar-refining process involves washing the raw sugar crystals before dissolving them into a sugar syrup which is filtered and then passed over carbon to remove any residual colour. The sugar syrup is then concentrated by boiling under a vacuum and crystallized as the final purification process to produce crystals of pure sucrose that are clear, odorless, and sweet.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:17992#sucrose",
+  "name": "sucrose",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_17992",
+  "synonym": [
+    "Sugar",
+    "1-alpha-D-Glucopyranosyl-2-beta-D-fructofuranoside",
+    "β-D-Fruf-(2↔1)-α-D-Glcp",
+    "Saccharose",
+    "White sugar",
+    "Cane sugar"
+  ]
+}

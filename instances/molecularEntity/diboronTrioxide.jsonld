@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/diboronTrioxide",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Diboron trioxide or boron trioxide is the oxide of boron with the formula B2O3. [adapted from wikipedia (https://en.wikipedia.org/wiki/Boron_trioxide)]",
+  "description": " Diboron trioxide is a colorless transparent solid, almost always glassy (amorphous), which can be crystallized only with great difficulty. It is also called boric oxide or boria. It has many important industrial applications, chiefly in ceramics as a flux for glazes and enamels and in the production of glasses. [adapted from wikipedia (https://en.wikipedia.org/wiki/Boron_trioxide)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Diboron trioxide",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_30163",
+  "synonym": [
+    "Boron trioxide",
+    "Boron oxide",
+    "Boron sesquioxide",
+    "Boric oxide",
+    "Boria",
+    "Boric anhydride"
+  ]
+}

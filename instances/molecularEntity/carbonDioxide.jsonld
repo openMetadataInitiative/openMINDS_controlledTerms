@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/carbonDioxide",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A one-carbon compound with formula CO2 in which the carbon is attached to each oxygen atom by a double bond. A colourless, odourless gas under normal conditions, it is produced during respiration by all animals, fungi and microorganisms that depend directly or indirectly on living or decaying plants for food. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526)]",
+  "description": "Carbon dioxide is a chemical compound with the chemical formula CO2. It is made up of molecules that each have one carbon atom covalently double bonded to two oxygen atoms. It is found in the gas state at room temperature, and as the source of available carbon in the carbon cycle, atmospheric CO2 is the primary carbon source for life on Earth. In the air, carbon dioxide is transparent to visible light but absorbs infrared radiation, acting as a greenhouse gas. Carbon dioxide is soluble in water and is found in groundwater, lakes, ice caps, and seawater. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0780969",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:16526#carbon-dioxide",
+  "name": "Carbon dioxide",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_16526",
+  "synonym": [
+    "CO2",
+    "Carbonic acid gas",
+    "Carbonic anhydride",
+    "Carbonic dioxide",
+    "Dry ice",
+    "Carbonic oxide",
+    "E290"
+  ]
+}

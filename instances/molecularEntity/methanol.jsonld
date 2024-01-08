@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/methanol",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Methanol is an organic chemical and the simplest aliphatic alcohol, with the formula CH3OH (a methyl group linked to a hydroxyl group, often abbreviated as MeOH). [adapted from wikipedia (https://en.wikipedia.org/wiki/Methanol)]",
+  "description": "Methanol is a light, volatile, colorless and flammable liquid with a distinctive alcoholic odour similar to that of ethanol (potable alcohol). Methanol acquired the name wood alcohol because it was once produced chiefly by the destructive distillation of wood. Today, methanol is mainly produced industrially by hydrogenation of carbon monoxide. [adapted from wikipedia (https://en.wikipedia.org/wiki/Methanol)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:17790#methanol",
+  "name": "Methanol",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_17790",
+  "synonym": [
+    "Carbinol",
+    "Columbian spirits",
+    "Hydroxymethane",
+    "MeOH",
+    "Methyl alcohol",
+    "Methyl hydroxide",
+    "Methylic alcohol",
+    "Methylol",
+    "Methylene hydrate, primary alcohol",
+    "Pyroligneous spirit",
+    "Wood alcohol",
+    "Wood naphtha",
+    "Wood spirit"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/water",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms.",
+  "description": "Water is an inorganic compound with the chemical formula H2O. It is a transparent, tasteless, odorless, and nearly colorless chemical substance, and it is the main constituent of Earth's hydrosphere and the fluids of all known living organisms (in which it acts as a solvent). It is vital for all known forms of life, despite not providing food energy or organic micronutrients. Its chemical formula, H2O, indicates that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds. The hydrogen atoms are attached to the oxygen atom at an angle of 104.45°. 'Water' is also the name of the liquid state of H2O at standard temperature and pressure. Because Earth's environment is relatively close to water's triple point, water exists on Earth as a solid, liquid, and gas.",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0782172",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:15377#water",
+  "name": "Water",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_15377",
+  "synonym": [
+    "H2O",
+    "Hydrogen oxide",
+    "Hydrogen hydroxide (HH or HOH)",
+    "Hydroxylic acid",
+    "Dihydrogen monoxide (DHMO) (parody name[1])",
+    "Dihydrogen oxide",
+    "Hydric acid",
+    "Hydrohydroxic acid",
+    "Hydroxic acid",
+    "Hydroxoic acid",
+    "Hydrol[2]",
+    "μ-Oxidodihydrogen",
+    "κ1-Hydroxylhydrogen(0)",
+    "Neutral liquid"
+  ]
+}

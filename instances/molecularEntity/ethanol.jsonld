@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/ethanol",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Ethanol (also called ethyl alcohol, grain alcohol, drinking alcohol, or simply alcohol) is an organic compound with the chemical formula CH3CH2OH. [adapted from wikipedia (https://en.wikipedia.org/wiki/Ethanol)]",
+  "description": "Ethanol is an alcohol, with its formula also written as C2H5OH, C2H6O or EtOH, where Et stands for ethyl. Ethanol is a volatile, flammable, colorless liquid with a characteristic wine-like odor and pungent taste. It is a psychoactive recreational drug, and the active ingredient in alcoholic drinks. [adapted from wikipedia (https://en.wikipedia.org/wiki/Ethanol)]",
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103948",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:16236#ethanol",
+  "name": "Ethanol",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_16236",
+  "synonym": [
+    "Absolute alcohol",
+    "Alcohol",
+    "Cologne spirit",
+    "Drinking alcohol",
+    "Ethylic alcohol",
+    "EtOH",
+    "Ethyl alcohol",
+    "Ethyl hydroxide",
+    "Ethylene hydrate",
+    "Ethylol",
+    "Grain alcohol",
+    "Hydroxyethane",
+    "Methylcarbinol"
+  ]
+}

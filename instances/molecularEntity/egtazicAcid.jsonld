@@ -1,0 +1,22 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/EgtazicAcid",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "EGTA (ethylene glycol-bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid), also known as egtazic acid (INN, USAN), is an aminopolycarboxylic acid, a chelating agent. [adapted from wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]",
+    "description": "EGTA is a white solid that is related to the better known EDTA. Compared to EDTA, it has a lower affinity for magnesium, making it more selective for calcium ions. It is useful in buffer solutions that resemble the environment in living cells where calcium ions are usually at least a thousandfold less concentrated than magnesium. [adapted from wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]",
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:30740#ethylene-glycol-bis-2-aminoethyl-tetraacetic-acid",
+    "name": "Egtazic acid",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_30740",
+    "synonym": [
+        "3,12-bis(carboxymethyl)-6,9-dioxa-3,12-diazatetradecanedioic acid",
+        "[ethylenebis(oxyethylenenitrilo)]tetraacetic acid",
+        "EGTA",
+        "Egtazic acid",
+        "ethylene glycol bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid",
+        "ethylene glycol-O,O'-bis(2-aminoethyl)-N,N,N',N'-tetraacetic acid",
+        "H4egta"
+    ]
+}

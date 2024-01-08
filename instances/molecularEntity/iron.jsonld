@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/iron",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "Iron is a chemical element; it has symbol Fe (from Latin ferrum 'iron') and atomic number 26. [adapted from wikipedia (https://en.wikipedia.org/wiki/Iron)]",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0105721",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:24873#iron-molecular-entity",
+    "name": "iron",
+    "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_24873",
+    "synonym": [
+        "Fe",
+        "Ferrum"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/dinitrogen",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "An elemental molecule consisting of two trivalently-bonded nitrogen atoms. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17997)]",
+  "description": "At standard temperature and pressure, two atoms of the element nitrogen bond to form N2, a colorless and odorless diatomic gas. N2 forms about 78% of Earth's atmosphere, making it the most abundant uncombined element in air. Because of the volatility of nitrogen compounds, nitrogen is relatively rare in the solid parts of the Earth. [adapted from wikipedia (https://en.wikipedia.org/wiki/Nitrogen)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Dinitrogen",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_17997",
+  "synonym": [
+    "N2",
+    "Nitrogen",
+    "N≡N"
+  ]
+}

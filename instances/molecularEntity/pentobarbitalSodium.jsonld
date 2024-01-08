@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/pentobarbitalSodium",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Sodium salt of pentobarbital, which is most common form of pentobarbital.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Pentobarbital sodium",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_7984",
+  "synonym": [
+    "Nembutal"
+  ]
+}

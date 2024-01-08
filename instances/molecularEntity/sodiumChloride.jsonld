@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/sodiumChloride",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Sodium chloride commonly known as table salt, is an ionic compound with the chemical formula NaCl, representing a 1:1 ratio of sodium and chloride ions.",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:26710#sodium-chloride",
+  "name": "Sodium chloride",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_26710",
+  "synonym": [
+    "NaCl",
+    "common salt",
+    "regular salt",
+    "halite",
+    "rock salt",
+    "table salt",
+    "sea salt",
+    "saline"
+  ]
+}

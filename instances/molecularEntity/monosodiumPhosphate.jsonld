@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/monosodiumPhosphate",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Monosodium phosphate (MSP), is an inorganic compound of sodium with a dihydrogen phosphate (H2PO4) anion. [adapted from wikipedia (https://en.wikipedia.org/wiki/Monosodium_phosphate)]",
+  "description": "Monosodium phosphate, one of many sodium phosphates, it is a common industrial chemical. The salt exists in an anhydrous form, as well as mono- and dihydrates. [adapted from wikipedia (https://en.wikipedia.org/wiki/Monosodium_phosphate)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:37585#sodium-dihydrogenphosphate",
+  "name": "Monosodium phosphate",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_37585",
+  "synonym": [
+    "Sodium dihydrogen phosphate",
+    "MSP",
+    "monobasic sodium phosphate",
+    "sodium dihydrogen phosphate",
+    "sodium biphosphate",
+    "NaH2PO4",
+    "phosphoric acid, monosodium salt",
+    "E339"
+  ]
+}

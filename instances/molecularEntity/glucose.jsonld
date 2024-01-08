@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/glucose",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Glucose is a sugar with the molecular formula C6H12O6. Glucose is overall the most abundant monosaccharide, a subcategory of carbohydrates. [adapted from wikipedia (https://en.wikipedia.org/wiki/Glucose)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104670",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:17234#glucose",
+  "name": "Glucose",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_17234",
+  "synonym": [
+    "D-glucopyranose",
+    "D-glucose",
+    "Glukose",
+    "D-gluco-Hexose"
+  ]
+}

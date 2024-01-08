@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/4-(2-Hydroxyethyl)-1-piperazineEthanesulfonicAcid",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid) is a zwitterionic sulfonic acid buffering agent; one of the twenty Good's buffers. [adapted from wikipedia (https://en.wikipedia.org/wiki/HEPES)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0484759",
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:42334#2-4-2-hydroxyethyl-piperazin-1-yl-ethanesulfonic-acid",
+  "name": "4-(2-Hydroxyethyl)-1-piperazine ethanesulfonic acid",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_42334",
+  "synonym": [
+    "HEPES",
+    "2-[4-(2-Hydroxyethyl)piperazin-1-yl]ethane-1-sulfonic acid"
+  ]
+}

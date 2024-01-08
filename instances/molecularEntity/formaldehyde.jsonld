@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/formaldehyde",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Formaldehyde is an organic compound with the formula CH2O and structure H-CHO. [adapted from wikipedia (https://en.wikipedia.org/wiki/Formaldehyde)]",
+  "description": "Formaldehyde is a pungent, colourless gas that polymerises spontaneously into paraformaldehyde . It is stored as aqueous solutions (formalin), which consists mainly of the hydrate CH2(OH)2. It is the simplest of the aldehydes (R-CHO). It is produced commercially as a precursor to many other materials and chemical compounds. In 2006, the global production rate of formaldehyde was estimated at 12 million tons per year. It is mainly used in the production of industrial resins, e.g., for particle board and coatings. Small amounts also occur naturally. [adapted from wikipedia (https://en.wikipedia.org/wiki/Formaldehyde)]",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": "https://knowledge-space.org/wiki/CHEBI:16842#formaldehyde",
+  "name": "Formaldehyde",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_16842",
+  "synonym": [
+    "Methyl aldehyde",
+    "Methylene glycol",
+    "Methylene oxide",
+    "Formalin (aqueous solution)",
+    "Formol",
+    "Carbonyl hydride",
+    "Methanone",
+    "Oxomethane",
+    "Methanal"
+  ]
+}
