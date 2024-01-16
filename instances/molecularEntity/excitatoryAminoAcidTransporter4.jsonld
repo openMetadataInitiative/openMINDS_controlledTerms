@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter4",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-  "definition": "The excitatory amino acid transporter 4 belongs to the EAAT familiy. It is expressed predominantly in the cerebellum, has high affinity for the excitatory amino acids L-aspartate and L-glutamate.",
+  "definition": "The excitatory amino acid transporter 4 belongs to the EAAT family. It is expressed predominantly in the cerebellum, has high affinity for the excitatory amino acids L-aspartate and L-glutamate.",
   "description": null,
   "interlexIdentifier": "http://uri.interlex.org/base/ilx_0103642",
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000014977#excitatory-amino-acid-transporter-4",

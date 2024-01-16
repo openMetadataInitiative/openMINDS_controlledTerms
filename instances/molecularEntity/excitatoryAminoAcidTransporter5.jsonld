@@ -4,7 +4,7 @@
   },
   "@id": "https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter5",
   "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
-  "definition": "The excitatory amino acid transporter 5 belongs to the EAAT familiy. It is expressed predominantly in the retina, has high affinity for the excitatory amino acid L-glutamate.",
+  "definition": "The excitatory amino acid transporter 5 belongs to the EAAT family. It is expressed predominantly in the retina, has high affinity for the excitatory amino acid L-glutamate.",
   "description": null,
   "interlexIdentifier": null,
   "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000014978#excitatory-amino-acid-transporter-5",
