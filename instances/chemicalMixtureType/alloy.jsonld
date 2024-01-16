@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/chemicalMixtureType/alloy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType",
+  "definition": "A mixture consisting of a combination of metals or of a metal and another element that retains the characteristics of a metal.",
+  "description": "",
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "Alloy",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_142648",
+  "synonym": null
+}
