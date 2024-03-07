@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/nonlinearOpticalMicroscopy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Microscopic imaging techniques that utilize nonlinear responses of light-matter interactions which occur with high-intensity illumination, such as from lasers, and specialized light signal detection instrumentation to produce images without the need for dyes or fluorescent labels. [taken from [Interlex](http://uri.interlex.org/base/ilx_0436517)].",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0436517",
+  "knowledgeSpaceLink": null,
+  "name": "nonlinear optical microscopy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
