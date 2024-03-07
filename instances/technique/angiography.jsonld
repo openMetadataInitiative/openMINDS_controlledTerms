@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/angiography",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "Imaging technique for anatomical and structural details of the vascular system [adapted from [National Library of Medicine](https://www.ncbi.nlm.nih.gov/books/NBK557477/)]",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0739420",
+  "knowledgeSpaceLink": null,
+  "name": "angiography",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
