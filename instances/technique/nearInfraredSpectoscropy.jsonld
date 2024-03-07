@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/nearInfraredSpectoscropy",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "A noninvasive technique that uses the differential absorption properties of hemoglobin and myoglobin to evaluate tissue oxygenation and indirectly can measure regional hemodynamics and blood flow [taken from [Interlex](http://uri.interlex.org/base/ilx_0488397)].",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/base/ilx_0488397",
+  "knowledgeSpaceLink": null,
+  "name": "near infrared spectoscropy",
+  "preferredOntologyIdentifier": null,
+  "synonym": null,
+}
