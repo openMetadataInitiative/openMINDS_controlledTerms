@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/technique/dynamicCausalModeling",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/Technique",
+  "definition": "'Dynamic causal modeling' is an analytical framework of specifying models, fitting them to data and comparing their evidence using Bayesian model comparison. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)]",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dynamic causal modeling",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "DCM"
+  ]
+}
