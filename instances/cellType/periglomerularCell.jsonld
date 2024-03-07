@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/cellType/periglomerularCell",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/CellType",
+    "definition": "Small intrinsic neuron in the glomerular layer of the olfactory bulb, with cell bodies surrounding the olfactory glomerulus.",
+    "description": " The cell body is 6-8 um in diameter, from which arises a short bushy dendrite that arborizes within a glomerulus, where it receives synaptic input from olfactory receptor cell axon terminals, and engages in dendrodendritic interactions with mitral/tufted cell dendrites. Occasionally, bitufted PG cells connected to two glomeruli are seen. The axon distributes laterally within the extraglomerular region, extending as far as 5-10 glomeruli away. Some PG cells appear to lack axons. Subtypes may be identified based on their biochemical constituents.",
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0107934",
+    "knowledgeSpaceLink": null,
+    "name": "periglomerular cell",
+    "preferredOntologyIdentifier": null,
+    "synonym": null
+}
