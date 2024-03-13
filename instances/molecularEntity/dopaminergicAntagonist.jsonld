@@ -1,0 +1,14 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/dopaminergicAntagonist",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A superclass of drugs that bind to but do not activate dopamine receptors, thereby blocking the actions of dopamine or exogenous agonists.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "dopaminergic antagonist",
+  "preferredOntologyIdentifier": "http://purl.obolibrary.org/obo/CHEBI_48561",
+  "synonym": null
+}

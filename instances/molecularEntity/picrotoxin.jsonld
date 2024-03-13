@@ -1,0 +1,21 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/picrotoxin",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A poisonous crystalline plant compound that acts as a noncompetitive GABA-A receptor antagonist.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0108877",
+  "knowledgeSpaceLink": null,
+  "name": "picrotoxin",
+  "preferredOntologyIdentifier": "https://www.drugbank.ca/drugs/DB00466",
+  "synonym": [
+    "cocculin",
+    "coculline",
+    "cocculus",
+    "coques de levant",
+    "fish berry",
+    "Indian berry"
+  ]
+}

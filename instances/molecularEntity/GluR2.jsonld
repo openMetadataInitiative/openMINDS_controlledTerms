@@ -1,0 +1,33 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GluR2",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "'GluR2' is a protein and one of four subunits that build tetrameric AMPA receptors.",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/ilx_0104673",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000008234#glutamate-receptor-2",
+    "name": "GluR2",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/sao1390810994",
+    "synonym": [
+      "AMPA2",
+      "AMPA-2",
+      "AMPA receptor 2",
+      "AMPA-selective glutamate receptor 2",
+      "GluA2",
+      "GluRB",
+      "GluRK2",
+      "GluA-2",
+      "GluR-2",
+      "GluR-B",
+      "GluR-K2",
+      "glutamate iontropic receptor AMPA type subunit 2",
+      "glutamate receptor iontropic, AMPA 2",
+      "glutamate receptor 2",
+      "GRIA2",
+      "GRIA-2",
+      "iontropic glutamate receptor AMPA type subunit 2",
+      "iontropic glutamate receptor, AMPA 2"
+    ]
+}

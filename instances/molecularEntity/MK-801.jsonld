@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/MK-801",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A pharmacological substance that acts as an uncompetitive NMDA receptor antagonist and a nictotinic acetylcholine receptor antagonist.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0496139",
+  "knowledgeSpaceLink": null,
+  "name": "MK-801",
+  "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0350546",
+  "synonym": [
+    "dizocilpine"
+  ]
+}

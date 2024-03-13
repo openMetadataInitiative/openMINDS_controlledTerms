@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/glutamateTransporter1",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "One of the glutamate transporter proteins that can move the neurotransmitter glutamate across membranes.",
+    "description": null,
+    "interlexIdentifier": null,
+    "knowledgeSpaceLink": null,
+    "name": "glutamate transporter 1",
+    "preferredOntologyIdentifier": null,
+    "synonym": [
+        "GLT1"
+    ]
+}

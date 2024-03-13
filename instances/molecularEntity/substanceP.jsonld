@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/substanceP",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A 11 amino acid neuropeptide that acts as a neurotransmitter and neuromodulator.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0111205",
+  "knowledgeSpaceLink": null,
+  "name": "substance P",
+  "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nifext_5117",
+  "synonym": [
+    "SP"
+  ]
+}

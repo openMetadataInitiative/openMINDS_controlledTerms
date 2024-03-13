@@ -1,0 +1,33 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/GluR3",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "'GluR3' is a protein and one of four subunits that build tetrameric AMPA receptors.",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/base/ilx_0104674",
+    "knowledgeSpaceLink": "https://knowledge-space.org/wiki/PR:000008235#glutamate-receptor-3",
+    "name": "GluR3",
+    "preferredOntologyIdentifier": "http://uri.neuinfo.org/nif/nifstd/nlx_69833",
+    "synonym": [
+      "AMPA3",
+      "AMPA-3",
+      "AMPA receptor 3",
+      "AMPA-selective glutamate receptor 3",
+      "GluA3",
+      "GluRC",
+      "GluRK3",
+      "GluA-3",
+      "GluR-3",
+      "GluR-C",
+      "GluR-K3",
+      "glutamate iontropic receptor AMPA type subunit 3",
+      "glutamate receptor iontropic, AMPA 3",
+      "glutamate receptor 3",
+      "GRIA3",
+      "GRIA-3",
+      "iontropic glutamate receptor AMPA type subunit 3",
+      "iontropic glutamate receptor, AMPA 3"
+    ]
+}

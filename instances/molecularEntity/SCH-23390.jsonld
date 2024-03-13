@@ -1,0 +1,16 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/SCH-23390",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "A pharmacological substance that acts as a dopamine D1 receptor antagonist.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "SCH-23390",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+    "halobenzazepine"
+  ]
+}

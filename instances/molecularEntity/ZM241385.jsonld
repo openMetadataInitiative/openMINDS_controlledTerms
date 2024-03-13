@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "@vocab": "https://openminds.ebrains.eu/vocab/"
+    },
+    "@id": "https://openminds.ebrains.eu/instances/molecularEntity/ZM241385",
+    "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+    "definition": "A pharmacological substance that acts as a selective adenosine A2A receptor antagonist.",
+    "description": null,
+    "interlexIdentifier": "http://uri.interlex.org/ilx_0539235",
+    "knowledgeSpaceLink": null,
+    "name": "ZM 241385",
+    "preferredOntologyIdentifier": "http://id.nlm.nih.gov/mesh/2018/M0255708",
+    "synonym": null
+}

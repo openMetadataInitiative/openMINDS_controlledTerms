@@ -1,0 +1,20 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor1A",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "The metabotropic glutamate receptor 1A belongs to group I of the MGluR family.",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "metabotropic glutamate receptor 1A",
+  "preferredOntologyIdentifier": null,
+  "synonym": [
+      "MGluR1A",
+      "MGlu1A",
+      "glutamate metabotropic receptor 1A",
+      "GRM1A",
+      "glutamate metabotropic 1A"
+    ]
+}

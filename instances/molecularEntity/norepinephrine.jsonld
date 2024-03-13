@@ -1,0 +1,20 @@
+{
+  "@context": {
+      "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/molecularEntity/norepinephrine",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/MolecularEntity",
+  "definition": "Precursor of epinephrine that is secreted by the adrenal medulla and is a widespread central and autonomic neurotransmitter.",
+  "description": null,
+  "interlexIdentifier": "http://uri.interlex.org/ilx_0107680",
+  "knowledgeSpaceLink": null,
+  "name": "norepinephrine",
+  "preferredOntologyIdentifier": "https://www.drugbank.ca/drugs/DB00368",
+  "synonym": [
+    "NE",
+    "arterenol",
+    "L-norepinephrine",
+    "L-noradrenaline",
+    "noradrenaline"
+  ]
+}
