@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@vocab": "https://openminds.ebrains.eu/vocab/"
+  },
+  "@id": "https://openminds.ebrains.eu/instances/unitOfMeasurement/postnatalDay",
+  "@type": "https://openminds.ebrains.eu/controlledTerms/UnitOfMeasurement",
+  "definition": "'Postnatal day' is a specific unit to measure the age of an organism that is born live (viviparous animals), starting with the day of birth (postnatal day 0). Often abbreviated in written documents with a capital P (as in P0, P10, etc).",
+  "description": null,
+  "interlexIdentifier": null,
+  "knowledgeSpaceLink": null,
+  "name": "postnatal day",
+  "preferredOntologyIdentifier": null,
+  "synonym": null
+}
