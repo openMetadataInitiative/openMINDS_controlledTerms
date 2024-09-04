@@ -1,4 +1,4 @@
 {
-    "_type": "https://openminds.ebrains.eu/controlledTerms/DeviceType",
+    "_type": "/controlledTerms/DeviceType",
     "_extends": "controlledTerm.schema.tpl.json"
 }

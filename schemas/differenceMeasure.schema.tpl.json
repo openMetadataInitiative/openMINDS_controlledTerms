@@ -1,4 +1,4 @@
 {
-    "_type": "https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure",
+    "_type": "/controlledTerms/DifferenceMeasure",
     "_extends": "controlledTerm.schema.tpl.json"
 }

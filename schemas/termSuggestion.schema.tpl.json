@@ -1,5 +1,5 @@
 {
-  "_type": "https://openminds.ebrains.eu/controlledTerms/TermSuggestion",
+  "_type": "/controlledTerms/TermSuggestion",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "studyTarget"
@@ -8,7 +8,7 @@
     "addExistingTerminology": {
       "_instruction": "Add an existing terminology in which the suggested term should be integrated in.",
       "_linkedTypes": [
-        "https://openminds.ebrains.eu/controlledTerms/Terminology"
+        "/controlledTerms/Terminology"
       ]
     },
     "suggestNewTerminology": {

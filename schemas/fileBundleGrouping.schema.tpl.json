@@ -1,4 +1,4 @@
 {
-  "_type": "https://openminds.ebrains.eu/controlledTerms/FileBundleGrouping",
+  "_type": "/controlledTerms/FileBundleGrouping",
   "_extends": "controlledTerm.schema.tpl.json"
 }
