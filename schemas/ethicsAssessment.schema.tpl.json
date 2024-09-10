@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/EthicsAssessment",
+  "_type": "EthicsAssessment",
   "_extends": "controlledTerm.schema.tpl.json"
 }

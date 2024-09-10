@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/ContributionType",
+  "_type": "ContributionType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

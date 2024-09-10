@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/SetupType",
+  "_type": "SetupType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

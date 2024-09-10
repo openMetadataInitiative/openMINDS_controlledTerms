@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/MeasuredSignalType",
+  "_type": "MeasuredSignalType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

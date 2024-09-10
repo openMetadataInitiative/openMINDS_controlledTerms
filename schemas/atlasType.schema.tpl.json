@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/AtlasType",
+  "_type": "AtlasType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

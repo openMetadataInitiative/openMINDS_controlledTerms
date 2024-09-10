@@ -1,5 +1,5 @@
 {
-  "_type": "/controlledTerms/MolecularEntity",
+  "_type": "MolecularEntity",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "studyTarget"

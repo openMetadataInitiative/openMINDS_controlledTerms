@@ -1,4 +1,4 @@
 {
-    "_type": "/controlledTerms/DeviceType",
+    "_type": "DeviceType",
     "_extends": "controlledTerm.schema.tpl.json"
 }

@@ -1,5 +1,5 @@
 {
-  "_type": "/controlledTerms/MRIPulseSequence",
+  "_type": "MRIPulseSequence",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "fileOrigin",

@@ -1,5 +1,5 @@
 {
-  "_type": "/controlledTerms/VisualStimulusType",
+  "_type": "VisualStimulusType",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "stimulusType",

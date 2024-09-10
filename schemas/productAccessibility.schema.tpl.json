@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/ProductAccessibility",
+  "_type": "ProductAccessibility",
   "_extends": "controlledTerm.schema.tpl.json"
 }

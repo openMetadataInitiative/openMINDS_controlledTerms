@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/SoftwareApplicationCategory",
+  "_type": "SoftwareApplicationCategory",
   "_extends": "controlledTerm.schema.tpl.json"
 }

@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/FileUsageRole",
+  "_type": "FileUsageRole",
   "_extends": "controlledTerm.schema.tpl.json"
 }

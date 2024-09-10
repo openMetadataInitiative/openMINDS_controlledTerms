@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/PreparationType",
+  "_type": "PreparationType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

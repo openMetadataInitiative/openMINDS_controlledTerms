@@ -1,5 +1,5 @@
 {
-  "_type": "/controlledTerms/OlfactoryStimulusType",
+  "_type": "OlfactoryStimulusType",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "stimulusType",

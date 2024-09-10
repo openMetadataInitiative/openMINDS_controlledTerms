@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/EducationalLevel",
+  "_type": "EducationalLevel",
   "_extends": "controlledTerm.schema.tpl.json"
 }

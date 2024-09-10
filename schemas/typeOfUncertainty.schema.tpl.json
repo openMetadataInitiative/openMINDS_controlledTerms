@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/TypeOfUncertainty",
+  "_type": "TypeOfUncertainty",
   "_extends": "controlledTerm.schema.tpl.json"
 }

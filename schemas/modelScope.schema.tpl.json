@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/ModelScope",
+  "_type": "ModelScope",
   "_extends": "controlledTerm.schema.tpl.json"
 }

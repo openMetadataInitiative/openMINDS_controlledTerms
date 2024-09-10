@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/UnitOfMeasurement",
+  "_type": "UnitOfMeasurement",
   "_extends": "controlledTerm.schema.tpl.json"
 }

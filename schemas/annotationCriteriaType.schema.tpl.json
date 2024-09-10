@@ -1,4 +1,4 @@
 {
-  "_type": "/controlledTerms/AnnotationCriteriaType",
+  "_type": "AnnotationCriteriaType",
   "_extends": "controlledTerm.schema.tpl.json"
 }
