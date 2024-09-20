@@ -1,5 +1,5 @@
 {
-  "_type": "ElectricalStimulusType",
+  "_type": "controlledTerms:ElectricalStimulusType",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "stimulusType",

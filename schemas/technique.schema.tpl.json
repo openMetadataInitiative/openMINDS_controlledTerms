@@ -1,5 +1,5 @@
 {
-  "_type": "Technique",
+  "_type": "controlledTerms:Technique",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "fileOrigin",

@@ -1,4 +1,4 @@
 {
-  "_type": "Terminology",
+  "_type": "controlledTerms:Terminology",
   "_extends": "controlledTerm.schema.tpl.json"
 }

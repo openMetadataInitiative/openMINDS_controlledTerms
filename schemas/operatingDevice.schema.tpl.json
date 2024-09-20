@@ -1,4 +1,4 @@
 {
-  "_type": "OperatingDevice",
+  "_type": "controlledTerms:OperatingDevice",
   "_extends": "controlledTerm.schema.tpl.json"
 }

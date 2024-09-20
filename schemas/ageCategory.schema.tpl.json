@@ -1,4 +1,4 @@
 {
-  "_type": "AgeCategory",
+  "_type": "controlledTerms:AgeCategory",
   "_extends": "controlledTerm.schema.tpl.json"
 }

@@ -1,4 +1,4 @@
 {
-  "_type": "AnatomicalIdentificationType",
+  "_type": "controlledTerms:AnatomicalIdentificationType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

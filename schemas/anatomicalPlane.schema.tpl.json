@@ -1,4 +1,4 @@
 {
-  "_type": "AnatomicalPlane",
+  "_type": "controlledTerms:AnatomicalPlane",
   "_extends": "controlledTerm.schema.tpl.json"
 }

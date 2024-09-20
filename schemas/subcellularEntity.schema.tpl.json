@@ -1,5 +1,5 @@
 {
-  "_type": "SubcellularEntity",
+  "_type": "controlledTerms:SubcellularEntity",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "anatomicalLocation",

@@ -1,4 +1,4 @@
 {
-    "_type": "SubjectAttribute",
+    "_type": "controlledTerms:SubjectAttribute",
     "_extends": "controlledTerm.schema.tpl.json"
 }

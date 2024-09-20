@@ -1,4 +1,4 @@
 {
-  "_type": "CriteriaQualityType",
+  "_type": "controlledTerms:CriteriaQualityType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

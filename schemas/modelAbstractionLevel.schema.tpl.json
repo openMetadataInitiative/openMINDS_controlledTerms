@@ -1,4 +1,4 @@
 {
-  "_type": "ModelAbstractionLevel",
+  "_type": "controlledTerms:ModelAbstractionLevel",
   "_extends": "controlledTerm.schema.tpl.json"
 }

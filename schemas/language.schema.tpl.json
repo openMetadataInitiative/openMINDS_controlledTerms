@@ -1,4 +1,4 @@
 {
-  "_type": "Language",
+  "_type": "controlledTerms:Language",
   "_extends": "controlledTerm.schema.tpl.json"
 }

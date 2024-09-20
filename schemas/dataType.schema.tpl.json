@@ -1,4 +1,4 @@
 {
-    "_type": "DataType",
+    "_type": "controlledTerms:DataType",
     "_extends": "controlledTerm.schema.tpl.json"
 }

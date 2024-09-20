@@ -1,5 +1,5 @@
 {
-  "_type": "DiseaseModel",
+  "_type": "controlledTerms:DiseaseModel",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "studyTarget"

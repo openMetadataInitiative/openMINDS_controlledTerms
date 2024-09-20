@@ -1,4 +1,4 @@
 {
-  "_type": "ActionStatusType",
+  "_type": "controlledTerms:ActionStatusType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

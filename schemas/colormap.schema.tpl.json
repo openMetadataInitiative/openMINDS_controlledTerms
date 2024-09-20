@@ -1,5 +1,5 @@
 {
-  "_type": "Colormap",
+  "_type": "controlledTerms:Colormap",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "color"

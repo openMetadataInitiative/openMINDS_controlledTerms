@@ -1,4 +1,4 @@
 {
-  "_type": "FileRepositoryType",
+  "_type": "controlledTerms:FileRepositoryType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

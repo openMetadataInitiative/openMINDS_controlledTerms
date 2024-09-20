@@ -1,5 +1,5 @@
 {
-  "_type": "StimulationTechnique",
+  "_type": "controlledTerms:StimulationTechnique",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "fileOrigin",

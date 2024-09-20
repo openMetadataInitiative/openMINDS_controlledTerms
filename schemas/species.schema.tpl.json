@@ -1,5 +1,5 @@
 {
-  "_type": "Species",
+  "_type": "controlledTerms:Species",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "studyTarget"

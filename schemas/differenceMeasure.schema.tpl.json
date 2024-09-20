@@ -1,4 +1,4 @@
 {
-    "_type": "DifferenceMeasure",
+    "_type": "controlledTerms:DifferenceMeasure",
     "_extends": "controlledTerm.schema.tpl.json"
 }

@@ -1,5 +1,5 @@
 {
-  "_type": "OrganismSystem",
+  "_type": "controlledTerms:OrganismSystem",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "studyTarget"

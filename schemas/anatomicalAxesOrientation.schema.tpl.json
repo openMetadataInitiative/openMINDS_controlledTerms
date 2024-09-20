@@ -1,4 +1,4 @@
 {
-  "_type": "AnatomicalAxesOrientation",
+  "_type": "controlledTerms:AnatomicalAxesOrientation",
   "_extends": "controlledTerm.schema.tpl.json"
 }

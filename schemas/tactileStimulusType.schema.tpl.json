@@ -1,5 +1,5 @@
 {
-  "_type": "TactileStimulusType",
+  "_type": "controlledTerms:TactileStimulusType",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "stimulusType",

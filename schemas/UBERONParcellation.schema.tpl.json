@@ -1,5 +1,5 @@
 {
-  "_type": "UBERONParcellation",
+  "_type": "controlledTerms:UBERONParcellation",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "anatomicalLocation",

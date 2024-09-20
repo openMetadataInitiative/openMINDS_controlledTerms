@@ -1,4 +1,4 @@
 {
-  "_type": "MetaDataModelType",
+  "_type": "controlledTerms:MetaDataModelType",
   "_extends": "controlledTerm.schema.tpl.json"
 }
