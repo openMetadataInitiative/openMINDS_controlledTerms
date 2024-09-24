@@ -1,4 +1,4 @@
 {
-  "_type": "https://openminds.ebrains.eu/controlledTerms/CriteriaQualityType",
+  "_type": "controlledTerms:CriteriaQualityType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

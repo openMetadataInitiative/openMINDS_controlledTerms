@@ -1,4 +1,4 @@
 {
-  "_type": "https://openminds.ebrains.eu/controlledTerms/FileUsageRole",
+  "_type": "controlledTerms:FileUsageRole",
   "_extends": "controlledTerm.schema.tpl.json"
 }

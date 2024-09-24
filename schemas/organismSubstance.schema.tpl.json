@@ -1,5 +1,5 @@
 {
-  "_type": "https://openminds.ebrains.eu/controlledTerms/OrganismSubstance",
+  "_type": "controlledTerms:OrganismSubstance",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "anatomicalLocation",

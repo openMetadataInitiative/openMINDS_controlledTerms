@@ -1,5 +1,5 @@
 {
-    "_type": "https://openminds.ebrains.eu/controlledTerms/CellCultureType",
+    "_type": "controlledTerms:CellCultureType",
     "_extends": "controlledTerm.schema.tpl.json",
     "_categories": [
         "studyTarget"

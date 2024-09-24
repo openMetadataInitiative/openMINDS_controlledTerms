@@ -1,4 +1,4 @@
 {
-  "_type": "https://openminds.ebrains.eu/controlledTerms/Service",
+  "_type": "controlledTerms:Service",
   "_extends": "controlledTerm.schema.tpl.json"
 }
