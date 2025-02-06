@@ -1,4 +1,4 @@
 {
-    "_type": "controlledTerms:MRIAcquisitionMode",
+    "_type": "controlledTerms:MRAcquisitionType",
     "_extends": "controlledTerm.schema.tpl.json"
 }
