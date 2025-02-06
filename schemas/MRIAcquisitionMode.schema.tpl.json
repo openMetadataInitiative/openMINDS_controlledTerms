@@ -1,4 +1,4 @@
 {
-    "_type": "controlledTerms:MolecularEntity",
+    "_type": "controlledTerms:MRIAcquisitionMode",
     "_extends": "controlledTerm.schema.tpl.json"
 }
