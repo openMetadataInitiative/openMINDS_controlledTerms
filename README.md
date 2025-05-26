@@ -54,7 +54,7 @@ The openMINDS metadata framework is closely collaborating with the [InterLex Pro
 [contributors-url]: https://github.com/openMetadataInitiative/openMINDS_controlledTerms/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/openMetadataInitiative/openMINDS_controlledTerms
 [docu-url]: https://openminds-documentation.readthedocs.io
-[docu-controlledTerms-url]: https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms.html
+[docu-controlledTerms-url]: https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms.html
 [ebrains2-doi]: https://doi.org/10.3030/101147319
 [hiball-url]: https://bigbrainproject.org/hiball.html
 [hbp-sga1-doi]: https://doi.org/10.3030/720270
