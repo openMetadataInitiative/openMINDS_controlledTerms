@@ -2,6 +2,7 @@
   "_type": "controlledTerms:MolecularEntity",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
+    "chemicalProduct",
     "studyTarget"
   ]
 }
