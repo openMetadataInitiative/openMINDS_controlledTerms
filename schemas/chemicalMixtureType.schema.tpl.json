@@ -1,7 +1,4 @@
 {
   "_type": "controlledTerms:ChemicalMixtureType",
-  "_extends": "controlledTerm.schema.tpl.json",
-  "_categories": [
-    "chemicalProduct"
-  ]
+  "_extends": "controlledTerm.schema.tpl.json"
 }
