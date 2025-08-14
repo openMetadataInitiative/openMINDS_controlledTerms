@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:Country",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
