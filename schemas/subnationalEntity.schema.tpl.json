@@ -1,0 +1,7 @@
+{
+  "_type": "controlledTerms:SubnationalEntity",
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "jurisdiction"
+  ]
+}
