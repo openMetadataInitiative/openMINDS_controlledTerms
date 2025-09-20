@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:InterfaceType",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
