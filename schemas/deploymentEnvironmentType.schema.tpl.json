@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:DeploymentEnvironmentType",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
