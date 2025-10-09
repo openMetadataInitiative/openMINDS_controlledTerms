@@ -1,7 +1,0 @@
-{
-  "_type": "controlledTerms:SubnationalAutonomousEntity",
-  "_extends": "controlledTerm.schema.tpl.json",
-  "_categories": [
-    "jurisdiction"
-  ]
-}
