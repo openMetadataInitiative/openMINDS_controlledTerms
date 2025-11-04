@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:LegalEntityType",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
