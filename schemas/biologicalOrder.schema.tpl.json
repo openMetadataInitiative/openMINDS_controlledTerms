@@ -2,6 +2,7 @@
   "_type": "controlledTerms:BiologicalOrder",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
+    "biologicalTaxon",
     "studyTarget"
   ]
 }
