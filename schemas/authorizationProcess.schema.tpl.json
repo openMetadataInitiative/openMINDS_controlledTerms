@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:AuthorizationProcess",
+  "_extends": "controlledTerm.schema.tpl.json"
+}

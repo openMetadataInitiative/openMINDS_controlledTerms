@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:AccessType",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
