@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:DependencyImpact",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
