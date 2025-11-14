@@ -1,4 +1,4 @@
 {
-  "_type": "controlledTerms:LegalEntityType",
+  "_type": "controlledTerms:OrganizationType",
   "_extends": "controlledTerm.schema.tpl.json"
 }
