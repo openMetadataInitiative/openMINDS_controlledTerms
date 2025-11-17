@@ -1,4 +1,4 @@
 {
-  "_type": "controlledTerms:ModificationRights",
+  "_type": "controlledTerms:ModificationClause",
   "_extends": "controlledTerm.schema.tpl.json"
 }
