@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:PublicationStatus",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
