@@ -1,13 +1,12 @@
 {
-  "required": [
-    "legalCountry"
-  ],
   "_type": "controlledTerms:OrganizationType",
   "_extends": "controlledTerm.schema.tpl.json",
-  "legalCountry": {
-    "_instruction": "Add the country where this organization type is legally established and registered.",
-    "_embeddedTypes": [
-      "controlledTerms:SovereignState"
-    ]
+  "properties": {
+    "legalCountry": {
+      "_instruction": "Add the country where this organization type is legally established and registered.",
+      "_embeddedTypes": [
+        "controlledTerms:SovereignState"
+      ]
+    }
   }
 }
