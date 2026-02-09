@@ -1,4 +1,4 @@
 {
-    "_type": "controlledTerms:MRIParallelAcquisitionTechnique",
+    "_type": "controlledTerms:MRIRadioFrequencyCoilRole",
     "_extends": "controlledTerm.schema.tpl.json"
 }
