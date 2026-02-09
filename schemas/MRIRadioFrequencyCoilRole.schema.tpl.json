@@ -1,0 +1,4 @@
+{
+    "_type": "controlledTerms:MRIParallelAcquisitionTechnique",
+    "_extends": "controlledTerm.schema.tpl.json"
+}
