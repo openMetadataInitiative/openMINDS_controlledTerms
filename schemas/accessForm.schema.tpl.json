@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:AccessForm",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
