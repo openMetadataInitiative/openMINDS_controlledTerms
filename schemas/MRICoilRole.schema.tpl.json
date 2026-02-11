@@ -1,0 +1,4 @@
+{
+    "_type": "controlledTerms:MRICoilRole",
+    "_extends": "controlledTerm.schema.tpl.json"
+}
