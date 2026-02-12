@@ -2,3 +2,4 @@
     "_type": "controlledTerms:DeviceMountingType",
     "_extends": "controlledTerm.schema.tpl.json"
 }
+
