@@ -1,4 +1,4 @@
 {
-  "_type": "controlledTerms:ModificationClause",
+  "_type": "controlledTerms:AccessProcessType",
   "_extends": "controlledTerm.schema.tpl.json"
 }

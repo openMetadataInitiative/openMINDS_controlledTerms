@@ -1,0 +1,7 @@
+{
+  "_type": "controlledTerms:ModificationForm",
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "modificationProfileAspect"
+  ]
+}
