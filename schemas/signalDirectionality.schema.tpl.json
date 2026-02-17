@@ -1,5 +1,4 @@
 {
-    "_type": "controlledTerms:MRICoilRole",
+    "_type": "controlledTerms:SignalDirectionality",
     "_extends": "controlledTerm.schema.tpl.json"
 }
-
