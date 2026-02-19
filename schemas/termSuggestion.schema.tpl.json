@@ -2,7 +2,8 @@
   "_type": "controlledTerms:TermSuggestion",
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
-    "studyTarget"
+    "studyTarget",
+    "toolScope"
   ],
   "properties": {
     "addExistingTerminology": {
