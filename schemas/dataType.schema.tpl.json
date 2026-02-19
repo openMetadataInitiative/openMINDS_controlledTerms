@@ -1,4 +1,7 @@
 {
   "_type": "controlledTerms:DataType",
-  "_extends": "controlledTerm.schema.tpl.json"
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "toolScope"
+  ]
 }
