@@ -1,0 +1,8 @@
+{
+  "_type": "controlledTerms:OperationalApproach",
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "keyword",
+    "toolScope"
+  ]
+}
