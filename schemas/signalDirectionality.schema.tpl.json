@@ -1,4 +1,4 @@
 {
-  "_type": "controlledTerms:PulseShape",
+  "_type": "controlledTerms:SignalDirectionality",
   "_extends": "controlledTerm.schema.tpl.json"
 }
