@@ -1,5 +1,4 @@
 {
-    "_type": "controlledTerms:PulseShape",
-    "_extends": "controlledTerm.schema.tpl.json"
+  "_type": "controlledTerms:PulseShape",
+  "_extends": "controlledTerm.schema.tpl.json"
 }
-

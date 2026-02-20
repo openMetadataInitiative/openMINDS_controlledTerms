@@ -1,8 +1,7 @@
 {
-    "_type": "controlledTerms:SpatialEncoding",
-    "_extends": "controlledTerm.schema.tpl.json",
-    "_categories": [
-        "technique"
-    ]
+  "_type": "controlledTerms:SpatialEncoding",
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "technique"
+  ]
 }
-
