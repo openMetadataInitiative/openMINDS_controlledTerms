@@ -6,6 +6,15 @@
     "name"
   ],
   "properties": {
+    "databaseCrossReferences": {
+      "minItems": 1,
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      },
+      "_instruction": "Enter each cross-reference as a CURIE-style string in the format 'SOURCE:IDENTIFIER' (e.g., 'WIKIDATA:Q31703', 'MESH:D000544', 'KS:some-id')."
+    },
     "definition": {
       "type": "string",
       "_instruction": "Enter one sentence for defining this term."
@@ -39,13 +48,25 @@
       ],
       "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term."
     },
+    "ontologyIdentifiers": {
+      "minItems": 1,
+      "type": "array",
+      "uniqueItems": true,
+      "_instruction": "Enter all internationalized resource identifiers (IRIs) pointing to ontology entries that are equivalent to this term (e.g., from UBERON, MeSH, DOID, NCI Thesaurus). Do not repeat the preferred ontology identifier entered above.",
+      "items": {
+        "type": "string",
+        "_formats": [
+          "iri"
+        ]
+      }
+    },
     "synonym": {
       "type": "array",
       "minItems": 1, 
       "uniqueItems": true,
       "_instruction": "Enter one or several synonyms (including abbreviations) for this controlled term.",
       "items": {
-        "type": "string"
+        "type": "iri"
       }
     }
   }
