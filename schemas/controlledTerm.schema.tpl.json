@@ -6,14 +6,14 @@
     "name"
   ],
   "properties": {
-    "databaseCrossReferences": {
+    "crossReferences": {
       "minItems": 1,
       "type": "array",
       "uniqueItems": true,
-      "items": {
-        "type": "string"
-      },
-      "_instruction": "Enter each cross-reference as a CURIE-style string in the format 'SOURCE:IDENTIFIER' (e.g., 'WIKIDATA:Q31703', 'MESH:D000544', 'KS:some-id')."
+      "_embeddedTypes": [
+        "core:GenericIdentifier"
+      ],
+      "_instruction": "Enter all known cross-references to external databases or registries for this term."
     },
     "definition": {
       "type": "string",
