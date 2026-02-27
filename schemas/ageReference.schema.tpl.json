@@ -1,0 +1,4 @@
+{
+  "_type": "controlledTerms:AgeReference",
+  "_extends": "controlledTerm.schema.tpl.json"
+}
