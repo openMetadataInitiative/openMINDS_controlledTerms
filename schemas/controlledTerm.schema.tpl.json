@@ -10,7 +10,7 @@
       "minItems": 1,
       "type": "array",
       "uniqueItems": true,
-      "_linkedTypes": [
+      "_embeddedTypes": [
         "core:GenericIdentifier"
       ],
       "_instruction": "Enter all known cross-references to external databases or registries for this term."
