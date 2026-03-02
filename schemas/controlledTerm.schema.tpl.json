@@ -23,20 +23,6 @@
       "type": "string",
       "_instruction": "Enter a short text describing this term."
     },
-    "interlexIdentifier": {
-      "type": "string",
-      "_formats": [
-        "iri"
-      ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project."
-    },
-    "knowledgeSpaceLink": {
-      "type": "string",
-      "_formats": [
-        "iri"
-      ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace."
-    },
     "name": {
       "type": "string",
       "_instruction": "Controlled term originating from a defined terminology."
