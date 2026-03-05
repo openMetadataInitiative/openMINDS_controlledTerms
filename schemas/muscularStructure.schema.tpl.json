@@ -1,0 +1,8 @@
+{
+  "_type": "controlledTerms:MuscularStructure",
+  "_extends": "controlledTerm.schema.tpl.json",
+  "_categories": [
+    "anatomicalLocation",
+    "studyTarget"
+  ]
+}
