@@ -3,6 +3,7 @@
   "_extends": "controlledTerm.schema.tpl.json",
   "_categories": [
     "anatomicalLocation",
-    "studyTarget"
+    "studyTarget",
+    "UBERONAnatomicalEntity"
   ]
 }
