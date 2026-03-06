@@ -6,15 +6,6 @@
     "name"
   ],
   "properties": {
-    "crossReferences": {
-      "minItems": 1,
-      "type": "array",
-      "uniqueItems": true,
-      "_embeddedTypes": [
-        "core:GenericIdentifier"
-      ],
-      "_instruction": "Enter all known cross-references to external databases or registries for this term."
-    },
     "definition": {
       "type": "string",
       "_instruction": "Enter one sentence for defining this term."
@@ -32,13 +23,32 @@
       "_formats": [
         "iri"
       ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term."
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term (e.g., InterLex)."
     },
-    "ontologyIdentifiers": {
+    "preferredCrossReference": {
+      "type": "string",
+      "_formats": [
+        "iri"
+      ],
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred cross-reference to an external database or registry (e.g., KnowledgeSpace)."
+    },
+    "otherOntologyIdentifier": {
       "minItems": 1,
       "type": "array",
       "uniqueItems": true,
-      "_instruction": "Enter all internationalized resource identifiers (IRIs) pointing to ontology entries that are equivalent to this term (e.g., from UBERON, MeSH, DOID, NCI Thesaurus). Do not repeat the preferred ontology identifier entered above.",
+      "_instruction": "Enter all internationalized resource identifiers (IRIs) pointing to ontology entries that are equivalent to this term (e.g., UBERON). Do not repeat the preferred ontology identifier.",
+      "items": {
+        "type": "string",
+        "_formats": [
+          "iri"
+        ]
+      }
+    },
+    "otherCrossReference": {
+      "minItems": 1,
+      "type": "array",
+      "uniqueItems": true,
+      "_instruction": "Enter all internationalized resource identifiers (IRIs) pointing to cross-references to external databases or registries that are equivalent to this term (e.g., Wikidata). Do not repeat the preferred cross-reference.",
       "items": {
         "type": "string",
         "_formats": [
