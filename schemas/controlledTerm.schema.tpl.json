@@ -14,30 +14,47 @@
       "type": "string",
       "_instruction": "Enter a short text describing this term."
     },
-    "interlexIdentifier": {
-      "type": "string",
-      "_formats": [
-        "iri"
-      ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project."
-    },
-    "knowledgeSpaceLink": {
-      "type": "string",
-      "_formats": [
-        "iri"
-      ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace."
-    },
     "name": {
       "type": "string",
       "_instruction": "Controlled term originating from a defined terminology."
+    },
+    "otherOntologyIdentifier": {
+      "minItems": 1,
+      "type": "array",
+      "uniqueItems": true,
+      "_instruction": "Enter all internationalized resource identifiers (IRIs) pointing to ontology entries that are equivalent to this term (e.g., UBERON). Do not repeat the preferred ontology identifier.",
+      "items": {
+        "type": "string",
+        "_formats": [
+          "iri"
+        ]
+      }
+    },
+    "otherCrossReference": {
+      "minItems": 1,
+      "type": "array",
+      "uniqueItems": true,
+      "_instruction": "Enter all internationalized resource identifiers (IRIs) pointing to cross-references to external databases or registries that are equivalent to this term (e.g., Wikidata). Do not repeat the preferred cross-reference.",
+      "items": {
+        "type": "string",
+        "_formats": [
+          "iri"
+        ]
+      }
     },
     "preferredOntologyIdentifier": {
       "type": "string",
       "_formats": [
         "iri"
       ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term."
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term (e.g., InterLex)."
+    },
+    "preferredCrossReference": {
+      "type": "string",
+      "_formats": [
+        "iri"
+      ],
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred cross-reference to an external database or registry (e.g., KnowledgeSpace)."
     },
     "synonym": {
       "type": "array",
