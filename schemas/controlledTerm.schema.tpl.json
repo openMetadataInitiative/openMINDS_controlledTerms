@@ -18,20 +18,6 @@
       "type": "string",
       "_instruction": "Controlled term originating from a defined terminology."
     },
-    "preferredOntologyIdentifier": {
-      "type": "string",
-      "_formats": [
-        "iri"
-      ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term (e.g., InterLex)."
-    },
-    "preferredCrossReference": {
-      "type": "string",
-      "_formats": [
-        "iri"
-      ],
-      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred cross-reference to an external database or registry (e.g., KnowledgeSpace)."
-    },
     "otherOntologyIdentifier": {
       "minItems": 1,
       "type": "array",
@@ -55,6 +41,20 @@
           "iri"
         ]
       }
+    },
+    "preferredOntologyIdentifier": {
+      "type": "string",
+      "_formats": [
+        "iri"
+      ],
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term (e.g., InterLex)."
+    },
+    "preferredCrossReference": {
+      "type": "string",
+      "_formats": [
+        "iri"
+      ],
+      "_instruction": "Enter the internationalized resource identifier (IRI) pointing to the preferred cross-reference to an external database or registry (e.g., KnowledgeSpace)."
     },
     "synonym": {
       "type": "array",
