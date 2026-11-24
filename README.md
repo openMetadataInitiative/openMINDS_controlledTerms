@@ -11,7 +11,7 @@
 [![GitHub][license-shield]][license-url]
 [![GitHub contributors][contributors-shield]][contributors-url]
 
-The **openMINDS_controlledTerms** repository hosts one of the schema modules of the openMINDS metadata framework that builds the overall openMINDS metadata model. It is composed of modular metadata schemas specifying the term description for specific terminologies.
+The **openMINDS_controlledTerms** repository hosts one of the schema modules of the openMINDS metadata framework that build the overall openMINDS metadata model. It is composed of modular metadata schemas specifying the term description for specific terminologies.
 
 To generally learn more about the openMINDS metadata framework please go to :arrow_right: [**ReadTheDocs**][docu-url].  
 There you can also explore directly the :arrow_right: [**openMINDS_controlledTerms schema specifications**][docu-controlledTerms-url].
