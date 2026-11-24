@@ -11,7 +11,7 @@
 [![GitHub][license-shield]][license-url]
 [![GitHub contributors][contributors-shield]][contributors-url]
 
-The openMINDS_controlledTerms repository is part of the **open** **M**etadata **I**nitiative for **N**euroscience **D**ata **S**tructures (openMINDS). It contains the schema-templates as well as corresponding terminologies (as JSON-LDs) for all terms that are defined and maintained centrally in this repository. Where applicable, the defined terms are connected to a matching ontological term. Schemas of openMINDS_core as well as openMINDS_SANDS reference to these controlled terms.
+The **openMINDS_controlledTerms** repository hosts one of the schema modules of the openMINDS metadata framework that builds the overall openMINDS metadata model. It is composed of modular metadata schemas specifying the term description for specific terminologies.
 
 To generally learn more about the openMINDS metadata framework please go to :arrow_right: [**ReadTheDocs**][docu-url].  
 There you can also explore directly the :arrow_right: [**openMINDS_controlledTerms schema specifications**][docu-controlledTerms-url].
